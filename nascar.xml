@@ -50,8 +50,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2oodiNc
 #EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]******[/COLOR][COLORsnow] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
 http://docs-2.gogleusercontent.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-1/
-#EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]******[/COLOR][COLORsnow] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
-http://sv2.dailymotion.com.1cdn.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-2/
 EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]******[/COLOR][COLORsnow] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]******[/COLOR][COLORsnow] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
@@ -63,7 +61,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN1»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN3»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/WHMCSMAG:WHMCS:26599/Nnu8o17OPJ/2733.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN3»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «FS1»[/COLOR][/B]
@@ -73,13 +71,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN5»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/WHMCSMAG:WHMCS:26599/Nnu8o17OPJ/2735.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 ################################################################################################################################################################
 ################################################################################################################################################################
 
-#EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/images/socialmedia/generic_collage_mavtv_1200x630.jpg",[B][COLORgold]******[/COLOR][COLOR ff00afaf]  « MAVTV »[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.116:8000/Moyo/moyo123/25269
+EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/images/socialmedia/generic_collage_mavtv_1200x630.jpg",[B][COLORgold]******[/COLOR][COLOR ff00afaf]  « MAVTV »[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/images/socialmedia/generic_collage_mavtv_1200x630.jpg",[B][COLORgold]******[/COLOR][COLOR ff00afaf]  « MAVTV »[/COLOR][/B]
 http://79hafkca.otttv.pw/iptv/4ENSP3KRWCE6CT/1074/index.m3u8
 
