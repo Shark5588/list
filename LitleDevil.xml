@@ -1,0 +1,149 @@
+</streaminginfos>
+
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SportDevil[/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>https://i.pinimg.com/236x/96/b1/65/96b165a9d5273f3cd25ccc06432ba2ad--media-center-tv-box.jpg</thumbnail>
+</item>
+
+item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] SPORTSDEVIL LIVE TV[/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=customs.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://i.pinimg.com/236x/96/b1/65/96b165a9d5273f3cd25ccc06432ba2ad--media-center-tv-box.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I] Rojadirecta[/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/rojadirecta.me.cfg&amp;mode=1</jsonrpc>
+ <thumbnail>https://torrentfreak.com/images/roja.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I] Firstrowsports[/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/firstrowsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://2.bp.blogspot.com/-5YEtE7kGFcU/Ua_qv4z6eJI/AAAAAAAADbo/MCGKzx1QrsA/s1600/image.jpg</thumbnail>
+</item>
+plugin://plugin.video.ukturk/?url=http://metalkettle.co/UKTurk18022016/SportsList.txt
+<!--
+<item>
+<title> [COLOR black]•[/COLOR][B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]Wizhdsports[/COLOR][/B][/I][COLOR lightblue] Channels[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item><title>[COLOR black][makelist.param2][/COLOR]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<thumbnail>[makelist.param2]</thumbnail>
+<referer>http://wizhdsports.fi/</referer>
+]]></listrepeat>
+<expres>li.*?href="(.*?)".*?title="(.*?)"</expres>
+<page>http://wizhdsports.fi/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex><thumbnail>http://blackaddon.rf.gd/gray/img/deportes.png</thumbnail>
+</item>
+<!--
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I] MamaHD[/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/mamahd.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+<!--
+<item>
+<title>[COLOR blue][B] [/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B]BeiN Sports قنوات بين سبورت[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/bein.cfg&amp;mode=1</jsonrpc>
+<thumbnail></thumbnail>
+</item>
+-->
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]Bundesliga[/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/bundesliga-streams.net.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://c1.live-sports-stream.net/media-resources/other/logo_bundesligastream.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]Dimsports[/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
+<thumbnail>http://cdn88.cdnco.us/cdnnew/dim/logo.png</thumbnail>
+</item>
+<!----------------------------------------------------------------------------------
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]MamaHD [/COLOR][/B][/I]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.SportsDevil/?item=url=tv/mamahd.com.cfg&amp;mode=1</jsonrpc>
+<thumbnail>https://mamahd.tv/images/logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]Torrent-TV[/B] [/COLOR][COLOR lime][Plexus][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][makelist.param2] [/COLOR]  </title>
+<link>plugin://program.plexus/?url=http://super-pomoyka.us.to/trash/ttv-list/acelive/[makelist.param1].acelive&amp;mode=1&amp;name=Adryanlist+Futbol</link>
+]]></listrepeat>
+<expres>translation=(.*)".*>(.*?)<</expres>
+<page>http://torrent-tv.ru/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR pink][B]Elitegol me[/B] [/COLOR] </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR skyblue][B][makelist.param2][/B][/COLOR]</title>
+<sportsdevil>[makelist.param1]</sportsdevil>
+<referer>http://www.elitegol.me/</referer>
+<thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>a href="(.*)".*title="(.*?)online.*?src="(.*?)"</expres>
+<page>http://www.elitegol.me/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR blue][B]Pirlo.TV[/B] [/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR coral][makelist.param1][/COLOR] • [COLOR skyblue][B][makelist.param3][/B][/COLOR][COLOR skyblue][makelist.param4][/COLOR]</title>
+<sportsdevil>http://www.pirlotvlive.com/[makelist.param2]</sportsdevil>
+<referer>http://www.pirlotvlive.com</referer>
+]]></listrepeat>
+<expres>t\"\>(.*?)\<[\w\W\s]{0,120}../(.*?)"[\w\W\s]{0,10}blank">(.*?)<[\w\W\s]{0,2}>(.*?)<</expres>
+<page>http://www.pirlotvlive.com/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+</items>
