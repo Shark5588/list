@@ -16,555 +16,1388 @@ http://0.0.0.0:1234
 
 ################################################################ LIST  ###########################################################################################
 
-
 #EXTM3U
-#EXTINF:-1,USA: UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1719
-#EXTINF:-1,USA: WWE NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1720
-#EXTINF:-1,USA: Willow Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1721
-#EXTINF:-1,USA: WGN 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1722
-#EXTINF:-1,USA: VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1723
-#EXTINF:-1,USA: NFL RED ZONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1724
-#EXTINF:-1,USA: NFL NOW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1725
-#EXTINF:-1,USA: NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1726
-#EXTINF:-1,USA: USA NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1727
-#EXTINF:-1,USA: UNIVERSO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1728
-#EXTINF:-1,USA: TV LAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1729
-#EXTINF:-1,USA: TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1730
-#EXTINF:-1,USA: TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1731
-#EXTINF:-1,USA: TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1732
-#EXTINF:-1,USA: The WEATHER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1733
-#EXTINF:-1,USA: TENNIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1734
-#EXTINF:-1,USA: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1735
-#EXTINF:-1,USA: SUNDANCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1736
-#EXTINF:-1,USA: STARZ EDGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1737
-#EXTINF:-1,USA: SPIKE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1738
-#EXTINF:-1,USA: SHOWTIME PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1739
-#EXTINF:-1,USA: SHOWTIME 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1740
-#EXTINF:-1,USA: REELZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1741
-#EXTINF:-1,USA: PBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1742
-#EXTINF:-1,USA: OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1743
-#EXTINF:-1,USA: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1744
-#EXTINF:-1,USA: NICK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1745
-#EXTINF:-1,USA: NBC SPORTS CHICAGO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1746
-#EXTINF:-1,USA: NBA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1747
-#EXTINF:-1,USA: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1748
-#EXTINF:-1,USA: NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1749
-#EXTINF:-1,USA: MSNBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1750
-#EXTINF:-1,USA: MORE MAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1751
-#EXTINF:-1,USA: LAW AND CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1752
-#EXTINF:-1,USA: LOGHORN NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1753
-#EXTINF:-1,USA: IFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1754
-#EXTINF:-1,USA: HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1755
-#EXTINF:-1,USA: HBO PACIFIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1756
-#EXTINF:-1,USA: HBO COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1757
-#EXTINF:-1,USA: HALLMARK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1758
-#EXTINF:-1,USA: H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1759
-#EXTINF:-1,USA: HOME & HEALTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1760
-#EXTINF:-1,USA: GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1761
-#EXTINF:-1,USA: FXX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1762
-#EXTINF:-1,USA: FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1763
-#EXTINF:-1,USA: FREEFORM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1764
-#EXTINF:-1,USA: FOX SPORTS WISCONSIN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1765
-#EXTINF:-1,USA: FOX SPORTS RACING HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1766
-#EXTINF:-1,USA: FOX SPORTS PRIME TICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1767
-#EXTINF:-1,USA: FOX SPORTS Sun HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1768
-#EXTINF:-1,USA: FOX SPORTS NORTH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1769
-#EXTINF:-1,USA: FOX SPORTS FLORIDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1770
-#EXTINF:-1,USA: FOX SPORTS COLLEGUE ATLANTIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1771
-#EXTINF:-1,USA: FOX SPORTS CAROLINAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1772
-#EXTINF:-1,USA: FOX SPORTS ARIZONA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1773
-#EXTINF:-1,USA: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1774
-#EXTINF:-1,USA: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1775
-#EXTINF:-1,USA: FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1776
-#EXTINF:-1,USA: FOX SOCCER PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1777
-#EXTINF:-1,USA: ESPN BASES LOADED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1778
-#EXTINF:-1,USA: ESPN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1779
-#EXTINF:-1,USA: ESPN U HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1780
-#EXTINF:-1,USA: ESPN DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1781
-#EXTINF:-1,USA: ESPN COLLAGE EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1782
-#EXTINF:-1,USA: ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1783
-#EXTINF:-1,USA: ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1784
-#EXTINF:-1,USA: DIY NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1785
-#EXTINF:-1,USA: DISNEY Jr. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1786
-#EXTINF:-1,USA: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1787
-#EXTINF:-1,USA: DISCOVERY VELOCITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1788
-#EXTINF:-1,USA: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1789
-#EXTINF:-1,USA: DISCOVERY FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1790
-#EXTINF:-1,USA: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1791
-#EXTINF:-1,USA: DESTINATION AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1792
-#EXTINF:-1,USA: CW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1793
-#EXTINF:-1,USA: CRIME & INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1794
-#EXTINF:-1,USA: COOKING CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1795
-#EXTINF:-1,USA: CNBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1796
-#EXTINF:-1,USA: CMT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1797
-#EXTINF:-1,USA: CINE Sony HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1798
-#EXTINF:-1,USA: CINEMAX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1799
-#EXTINF:-1,USA: CINEMAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1800
-#EXTINF:-1,USA: CBS NEW YORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1801
-#EXTINF:-1,USA: CBS ORLANDO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1802
-#EXTINF:-1,USA: CBS CHICAGO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1803
-#EXTINF:-1,USA: CBS NASHVILLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1804
-#EXTINF:-1,USA: C SPAN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1805
-#EXTINF:-1,USA: C SPAN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1806
-#EXTINF:-1,USA: C SPAN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1807
-#EXTINF:-1,USA: BTN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1808
-#EXTINF:-1,USA: BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1809
-#EXTINF:-1,USA: BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1810
-#EXTINF:-1,USA: BLOOMBERG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1811
-#EXTINF:-1,USA: BET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1812
-#EXTINF:-1,USA: BBC AMERICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1813
-#EXTINF:-1,USA: AFN Prime Pacific
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1814
-#EXTINF:-1,USA: ACTION MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1815
-#EXTINF:-1,USA: TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1816
-#EXTINF:-1,USA: HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1817
-#EXTINF:-1,USA: HBO Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1818
-#EXTINF:-1,USA: CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1819
-#EXTINF:-1,USA: BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1820
-#EXTINF:-1,USA: ABC NEW YORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1821
-#EXTINF:-1,USA: ABC SAN DIEGO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1822
-#EXTINF:-1,USA: ABC NASHVILLE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1823
-#EXTINF:-1,USA: ABC 2 ORLANDO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1824
-#EXTINF:-1,USA: ABC MIAMI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1825
-#EXTINF:-1,USA: ABC CHARLOTTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1826
-#EXTINF:-1,USA: ABC SACRAMENTO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1827
-#EXTINF:-1,USA: NBC DETROT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1828
-#EXTINF:-1,USA: TSN HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1829
-#EXTINF:-1,USA: TSN HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1830
-#EXTINF:-1,USA: TSN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1831
-#EXTINF:-1,USA: YES ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1832
-#EXTINF:-1,USA: YES ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1833
-#EXTINF:-1,USA: YES COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1834
-#EXTINF:-1,USA: YES DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1835
-#EXTINF:-1,USA: YES EGO TOTAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1836
-#EXTINF:-1,USA: YES HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1837
-#EXTINF:-1,USA: YES HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1838
-#EXTINF:-1,USA: YES HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1839
-#EXTINF:-1,USA: YES HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1840
-#EXTINF:-1,USA: YES HISTORYL CHANNELL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1841
-#EXTINF:-1,USA: YES HOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1842
-#EXTINF:-1,USA: YES NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1844
-#EXTINF:-1,USA: YES ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1845
-#EXTINF:-1,USA: YES ONE2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1846
-#EXTINF:-1,USA: YES SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1847
-#EXTINF:-1,USA: YES SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1848
-#EXTINF:-1,USA: YES SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1849
-#EXTINF:-1,USA: YES SPORT 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1850
-#EXTINF:-1,USA: YES SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1851
-#EXTINF:-1,USA: YES SPORT 5 LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1852
-#EXTINF:-1,USA: YES SPORT 5 PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1853
-#EXTINF:-1,USA: YES VIVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1854
-#EXTINF:-1,USA: YES VIVA PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1855
-#EXTINF:-1,USA: FOX BUSINESS NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548118
-#EXTINF:-1,USA: Fox Sports 2 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548119
-#EXTINF:-1,USA: Fox Sports 1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548120
-#EXTINF:-1,USA: TV Land
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548122
-#EXTINF:-1,USA: TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548123
-#EXTINF:-1,USA: The Movie Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548124
-#EXTINF:-1,USA: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548125
-#EXTINF:-1,USA: Starz HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548126
-#EXTINF:-1,USA: Starz Encore HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548127
-#EXTINF:-1,USA: Starz Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548128
-#EXTINF:-1,USA: Smithsonian Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548129
-#EXTINF:-1,USA: Showtime Too
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548130
-#EXTINF:-1,USA: Showtime Extream HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548131
-#EXTINF:-1,USA: Showtime East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548132
-#EXTINF:-1,USA: SEC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548133
-#EXTINF:-1,USA: Paramount Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548134
-#EXTINF:-1,USA: Outside TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548135
-#EXTINF:-1,USA: NBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548136
-#EXTINF:-1,USA: National Geographic Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548137
-#EXTINF:-1,USA: National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548138
-#EXTINF:-1,USA: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548139
-#EXTINF:-1,USA: HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548140
-#EXTINF:-1,USA: HBO Zone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548141
-#EXTINF:-1,USA: HBO Signature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548142
-#EXTINF:-1,USA: HBO East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548143
-#EXTINF:-1,USA: HBO 2 East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548144
-#EXTINF:-1,USA: Fussion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548145
-#EXTINF:-1,USA: FOX News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548146
-#EXTINF:-1,USA: E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548147
-#EXTINF:-1,USA: Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548148
-#EXTINF:-1,USA: Cooking
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548149
-#EXTINF:-1,USA: Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548150
-#EXTINF:-1,USA: Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548151
-#EXTINF:-1,USA: American Heroes Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548152
-#EXTINF:-1,USA: AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548153
-#EXTINF:-1,USA: ABC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548154
-#EXTINF:-1,USA: A E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548155
-#EXTINF:-1,USA: FOX 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548156
-#EXTINF:-1,USA: Hallmark  Movies/Mysteries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548157
-#EXTINF:-1,USA: Hallmark ChanneL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548158
-#EXTINF:-1,USA: Hall Mark HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548159
-#EXTINF:-1,USA: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548160
-#EXTINF:-1,USA: TSN Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548161
-#EXTINF:-1,USA: TSN Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548162
-#EXTINF:-1,USA: Longhorn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548163
-#EXTINF:-1,USA: Epix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548164
-#EXTINF:-1,USA: E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548165
-#EXTINF:-1,USA: EL Rey Network FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548166
-#EXTINF:-1,USA: escape
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548167
-#EXTINF:-1,USA: BET HER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548168
-#EXTINF:-1,USA: History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548169
-#EXTINF:-1,USA: Crime Investigation Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548170
-#EXTINF:-1,USA: MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548171
-#EXTINF:-1,USA: Paramount Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548172
-#EXTINF:-1,USA: LifeTime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548173
-#EXTINF:-1,USA: OXYGEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548174
-#EXTINF:-1,USA: VICELAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548175
-#EXTINF:-1,USA: Red Bull TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548176
-#EXTINF:-1,USA: WE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548177
-#EXTINF:-1,USA: Hallmark Movies Mysteries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548178
-#EXTINF:-1,USA: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548179
-#EXTINF:-1,USA: NickToons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548180
-#EXTINF:-1,USA: UNIVERSAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548181
-#EXTINF:-1,USA: Cinemax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548182
-#EXTINF:-1,USA: 5 Star Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548183
-#EXTINF:-1,USA: NBC HD NBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548475
-#EXTINF:-1,USA: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548476
-#EXTINF:-1,USA: Hall Mark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548477
-#EXTINF:-1,USA: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548478
-#EXTINF:-1,USA: CBS Sports Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548479
-#EXTINF:-1,USA: ELEVEN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548480
-#EXTINF:-1,USA: Fox Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548481
-#EXTINF:-1,USA: Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548482
-#EXTINF:-1,USA: NBC Sports Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548483
-#EXTINF:-1,USA: NHL Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548484
-#EXTINF:-1,USA: Fight Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548485
-#EXTINF:-1,USA: BIG TEN NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548486
-#EXTINF:-1,USA: NEW ENGLAND SPORTS NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548487
-#EXTINF:-1,USA: SEC Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548488
-#EXTINF:-1,USA: Fox Sports Ohio ʜᴅ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548489
-#EXTINF:-1,USA: CNBC WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548490
-#EXTINF:-1,USA: HLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548491
-#EXTINF:-1,USA: ABC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548492
-#EXTINF:-1,USA: NEWS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548493
-#EXTINF:-1,USA: Fox Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548494
-#EXTINF:-1,USA: EL Rey Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548495
-#EXTINF:-1,USA: ION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548496
-#EXTINF:-1,USA: CBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548497
-#EXTINF:-1,USA: ANTENNA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548498
-#EXTINF:-1,USA: CINEMAX OUTER MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548499
-#EXTINF:-1,USA: COZI TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548500
-#EXTINF:-1,USA: HEROS  ICONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548501
-#EXTINF:-1,USA: HSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548502
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548503
-#EXTINF:-1,USA: MAV TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548504
-#EXTINF:-1,USA: NBC 4 NY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548505
-#EXTINF:-1,USA: NHL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548506
-#EXTINF:-1,USA: NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548507
-#EXTINF:-1,USA: SPORTSNET NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548508
-#EXTINF:-1,USA: TELEMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548509
-#EXTINF:-1,USA: TRU TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548510
-#EXTINF:-1,USA: TV ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548511
-#EXTINF:-1,USA: UNIMAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548512
-#EXTINF:-1,USA: UNIVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548513
-#EXTINF:-1,USA: WE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548514
-#EXTINF:-1,USA: WPIX 11 NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548515
-#EXTINF:-1,USA: HBO Latino 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548517
-#EXTINF:-1,USA: HBO Latino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548518
-#EXTINF:-1,USA: MAX East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548519
-#EXTINF:-1,USA: Moremax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548520
-#EXTINF:-1,USA: Actionmax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548521
-#EXTINF:-1,USA: Cinemax 5 Starmax HD Cinemax 5 Starmax HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548522
-#EXTINF:-1,USA: Flow Sports 1 HD PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548523
-#EXTINF:-1,USA: Flow Sports 2 HD PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548524
-#EXTINF:-1,USA: Flow Sports 3 HD PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548525
-#EXTINF:-1,USA: Flow Sports 4 HD PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548526
-#EXTINF:-1,USA: Flow Sports 5 HD PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548527
-#EXTINF:-1,USA: Flow Sports 6 HD PPV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548528
-#EXTINF:-1,USA: beIN Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548529
-#EXTINF:-1,USA: beIN Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548530
-#EXTINF:-1,USA: beIN Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548531
-#EXTINF:-1,USA: beIN Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548532
-#EXTINF:-1,USA: beIN Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548533
-#EXTINF:-1,USA: beIN Sports 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548534
-#EXTINF:-1,USA: beIN Sports 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548535
-#EXTINF:-1,USA: FOX News UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548536
-#EXTINF:-1,USA: FOX 43 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548537
-#EXTINF:-1,USA: Fox Sports West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548538
-#EXTINF:-1,USA: Fox Sports Tennessee HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548539
-#EXTINF:-1,USA: Fox Sports South West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548540
-#EXTINF:-1,USA: Fox Sports South HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548541
-#EXTINF:-1,USA: Fox Sports South East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548542
-#EXTINF:-1,USA: Fox Sports San Diego HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548543
-#EXTINF:-1,USA: Fox Sports Mid West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548544
-#EXTINF:-1,USA: Fox Sports Detroit HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548545
-#EXTINF:-1,USA: Fox Sports College Pacific HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548546
-#EXTINF:-1,USA: Fox Sports College Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548547
-#EXTINF:-1,USA: Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548548
-#EXTINF:-1,USA: Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.sigma-iptv.com:7000/45905/13543107/575548549
+#EXTINF:-1 tvg-name="UK: Eurosport 1 | HD" tvg-id="eurosport1.uk" group-title="UK SPORTS",UK: Eurosport 1 | HD
+http://sync1.iptv.bingo/live/2551?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: PREMIER  SPORTS 1 | UHD" tvg-id="premiersports.uk" group-title="UK SPORTS",UK: PREMIER  SPORTS 1 | UHD
+http://sync1.iptv.bingo/live/5682?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eurosport 1 | SD" tvg-id="eurosport1.uk" group-title="UK SPORTS",UK: Eurosport 1 | SD
+http://sync1.iptv.bingo/live/2552?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eurosport 2 | HD" tvg-id="eurosport2.uk" group-title="UK SPORTS",UK: Eurosport 2 | HD
+http://sync1.iptv.bingo/live/2553?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: PREMIER SPORTS 2 | UHD" tvg-id="premiersports2.uk" group-title="UK SPORTS",UK: PREMIER SPORTS 2 | UHD
+http://sync1.iptv.bingo/live/5683?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eurosport 2 | SD" tvg-id="eurosport2.uk" group-title="UK SPORTS",UK: Eurosport 2 | SD
+http://sync1.iptv.bingo/live/2554?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eurosport 1 | UHD" tvg-id="eurosport1.uk" group-title="UK SPORTS",UK: Eurosport 1 | UHD
+http://sync1.iptv.bingo/live/2555?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eurosport 2 | UHD" tvg-id="eurosport2.uk" group-title="UK SPORTS",UK: Eurosport 2 | UHD
+http://sync1.iptv.bingo/live/2556?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sports 1 | UHD" tvg-id="btsport1.uk" group-title="UK SPORTS",UK: BT Sports 1 | UHD
+http://sync1.iptv.bingo/live/4572?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="US: FOX SPORTS OHIO | HD" tvg-id="fox.sports.ohio.us" group-title="UK SPORTS",US: FOX SPORTS OHIO | HD
+http://sync1.iptv.bingo/live/2513?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Box Nation | UHD" tvg-id="boxnation.uk" group-title="UK SPORTS",UK: Box Nation | UHD
+http://sync1.iptv.bingo/live/2535?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sports  2 | UHD" tvg-id="btsport2.uk" group-title="UK SPORTS",UK: BT Sports  2 | UHD
+http://sync1.iptv.bingo/live/2536?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sports 3 | UHD" tvg-id="btsport3.uk" group-title="UK SPORTS",UK: BT Sports 3 | UHD
+http://sync1.iptv.bingo/live/2538?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sports ESPN | UHD" tvg-id="btsportespn.uk" group-title="UK SPORTS",UK: BT Sports ESPN | UHD
+http://sync1.iptv.bingo/live/2539?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK | Box Nation | HD" tvg-id="boxnation.uk" group-title="UK SPORTS",UK | Box Nation | HD
+http://sync1.iptv.bingo/live/2540?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 1 | SD" tvg-id="btsport1.uk" group-title="UK SPORTS",UK: BT Sport 1 | SD
+http://sync1.iptv.bingo/live/2543?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 2 | HD" tvg-id="btsport2.uk" group-title="UK SPORTS",UK: BT Sport 2 | HD
+http://sync1.iptv.bingo/live/2544?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT SPORT 1 | UHD" tvg-id="btsport1.uk" group-title="UK SPORTS",UK: BT SPORT 1 | UHD
+http://sync1.iptv.bingo/live/2542?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 2 SD" tvg-id="btsport2.uk" group-title="UK SPORTS",UK: BT Sport 2 SD
+http://sync1.iptv.bingo/live/2545?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 3 | HD" tvg-id="btsport3.uk" group-title="UK SPORTS",UK: BT Sport 3 | HD
+http://sync1.iptv.bingo/live/2546?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 3 SD" tvg-id="btsport3.uk" group-title="UK SPORTS",UK: BT Sport 3 SD
+http://sync1.iptv.bingo/live/2547?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport ESPN | HD" tvg-id="btsportespn.uk" group-title="UK SPORTS",UK: BT Sport ESPN | HD
+http://sync1.iptv.bingo/live/2548?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport ESPN | SD" tvg-id="btsportespn.uk" group-title="UK SPORTS",UK: BT Sport ESPN | SD
+http://sync1.iptv.bingo/live/2549?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Arena | UHD" tvg-id="skysportsarena.uk" group-title="UK SKY SPORTS",UK: Sky Sports Arena | UHD
+http://sync1.iptv.bingo/live/1610?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Main Event | HD" tvg-id="skysportsmainevent.uk" group-title="UK SKY SPORTS",UK: Sky Sports Main Event | HD
+http://sync1.iptv.bingo/live/1589?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Premiere League | HD" tvg-id="skysportspremiereleague.uk" group-title="UK SKY SPORTS",UK: Sky Sports Premiere League | HD
+http://sync1.iptv.bingo/live/1590?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Football | HD" tvg-id="skysportsfootball.uk" group-title="UK SKY SPORTS",UK: Sky Sports Football | HD
+http://sync1.iptv.bingo/live/1591?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Cricket | HD" tvg-id="skysportscricket.uk" group-title="UK SKY SPORTS",UK: Sky Sports Cricket | HD
+http://sync1.iptv.bingo/live/1592?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Golf | HD" tvg-id="skysportsgolf.uk" group-title="UK SKY SPORTS",UK: Sky Sports Golf | HD
+http://sync1.iptv.bingo/live/1593?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports F1 | HD" tvg-id="skysportsf1.uk" group-title="UK SKY SPORTS",UK: Sky Sports F1 | HD
+http://sync1.iptv.bingo/live/1594?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Action | HD" tvg-id="skysportsaction.uk" group-title="UK SKY SPORTS",UK: Sky Sports Action | HD
+http://sync1.iptv.bingo/live/1595?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Premier League | SD" tvg-id="skysportspremiereleague.uk" group-title="UK SKY SPORTS",UK: Sky Sports Premier League | SD
+http://sync1.iptv.bingo/live/1599?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS BOX OFFICE |  HD" tvg-id="skysportsboxoffice.uk" group-title="UK SKY SPORTS",UK: SKY SPORTS BOX OFFICE |  HD
+http://sync1.iptv.bingo/live/2550?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Arena | HD" tvg-id="skysportsarena.uk" group-title="UK SKY SPORTS",UK: Sky Sports Arena | HD
+http://sync1.iptv.bingo/live/1596?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports News | HD" tvg-id="skysportsnews.uk" group-title="UK SKY SPORTS",UK: Sky Sports News | HD
+http://sync1.iptv.bingo/live/1597?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Mix | HD" tvg-id="skysportsmix.uk" group-title="UK SKY SPORTS",UK: Sky Sports Mix | HD
+http://sync1.iptv.bingo/live/1598?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Racing | HD" tvg-id="skysportsracing.uk" group-title="UK SKY SPORTS",UK: Sky Sports Racing | HD
+http://sync1.iptv.bingo/live/1600?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports News | UHD" tvg-id="skysportsnews.uk" group-title="UK SKY SPORTS",UK: Sky Sports News | UHD
+http://sync1.iptv.bingo/live/1601?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Mix | UHD" tvg-id="skysportsmix.uk" group-title="UK SKY SPORTS",UK: Sky Sports Mix | UHD
+http://sync1.iptv.bingo/live/1602?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Racing | UHD" tvg-id="skysportsracing.uk" group-title="UK SKY SPORTS",UK: Sky Sports Racing | UHD
+http://sync1.iptv.bingo/live/1603?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Premier League | UHD" tvg-id="skysportspremiereleague.uk" group-title="UK SKY SPORTS",UK: Sky Sports Premier League | UHD
+http://sync1.iptv.bingo/live/1604?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Main Event | UHD" tvg-id="skysportsmainevent.uk" group-title="UK SKY SPORTS",UK: Sky Sports Main Event | UHD
+http://sync1.iptv.bingo/live/1605?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Golf | UHD" tvg-id="skysportsgolf.uk" group-title="UK SKY SPORTS",UK: Sky Sports Golf | UHD
+http://sync1.iptv.bingo/live/1606?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports F1 | UHD" tvg-id="skysportsf1.uk" group-title="UK SKY SPORTS",UK: Sky Sports F1 | UHD
+http://sync1.iptv.bingo/live/1608?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Cricket | UHD" tvg-id="skysportscricket.uk" group-title="UK SKY SPORTS",UK: Sky Sports Cricket | UHD
+http://sync1.iptv.bingo/live/1609?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Action | UHD" tvg-id="skysportsaction.uk" group-title="UK SKY SPORTS",UK: Sky Sports Action | UHD
+http://sync1.iptv.bingo/live/1611?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Premier League | HD" tvg-id="skysportspremiereleague.uk" group-title="UK SKY SPORTS",UK: Sky Sports Premier League | HD
+http://sync1.iptv.bingo/live/1612?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Football | UHD" tvg-id="skysportsfootball.uk" group-title="UK SKY SPORTS",UK: Sky Sports Football | UHD
+http://sync1.iptv.bingo/live/1607?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Greats | HD" tvg-id="skygreats.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Greats | HD
+http://sync1.iptv.bingo/live/1379?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Disney | HD" tvg-id="skydisney.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Disney | HD
+http://sync1.iptv.bingo/live/1380?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Family | HD" tvg-id="skyfamily.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Family | HD
+http://sync1.iptv.bingo/live/1381?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action | HD" tvg-id="skyaction.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Action | HD
+http://sync1.iptv.bingo/live/1382?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Comedy | HD" tvg-id="skycomedy.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Comedy | HD
+http://sync1.iptv.bingo/live/1383?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Thriller | HD" tvg-id="skycrimethriller.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Thriller | HD
+http://sync1.iptv.bingo/live/1384?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama | HD" tvg-id="skydrama.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Drama | HD
+http://sync1.iptv.bingo/live/1385?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Sci-fi | HD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Sci-fi | HD
+http://sync1.iptv.bingo/live/1386?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Select | HD" tvg-id="skyselect.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Select | HD
+http://sync1.iptv.bingo/live/1387?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Thriller | UHD" tvg-id="skycrimethriller.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Thriller | UHD
+http://sync1.iptv.bingo/live/1390?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Premier | UHD" tvg-id="skypremiere.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Premier | UHD
+http://sync1.iptv.bingo/live/1393?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Greats | UHD" tvg-id="skygreats.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Greats | UHD
+http://sync1.iptv.bingo/live/1395?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Family | UHD" tvg-id="skyfamily.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Family | UHD
+http://sync1.iptv.bingo/live/1396?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Disney | UHD" tvg-id="skydisney.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Disney | UHD
+http://sync1.iptv.bingo/live/1397?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Comedy | UHD" tvg-id="skycomedy.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Comedy | UHD
+http://sync1.iptv.bingo/live/1398?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action & Adventure | UHD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Action & Adventure | UHD
+http://sync1.iptv.bingo/live/1399?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema SciFi & Horror | HD" tvg-id="skyscifihorror.uk" group-title="UK SKY MOVIES",UK: Sky Cinema SciFi & Horror | HD
+http://sync1.iptv.bingo/live/1400?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama & Romance | HD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Drama & Romance | HD
+http://sync1.iptv.bingo/live/1401?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama & Romance | UHD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Drama & Romance | UHD
+http://sync1.iptv.bingo/live/1403?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action & Adventure | HD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Action & Adventure | HD
+http://sync1.iptv.bingo/live/1402?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Hits | UHD" tvg-id="skyhits.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Hits | UHD
+http://sync1.iptv.bingo/live/1394?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Premier +1 | SD" tvg-id="skypremiereplus1.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Premier +1 | SD
+http://sync1.iptv.bingo/live/1388?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema SciFi & Horror | SD" tvg-id="skyscifihorror.uk" group-title="UK SKY MOVIES",UK: Sky Cinema SciFi & Horror | SD
+http://sync1.iptv.bingo/live/1392?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Premiere | HD" tvg-id="skypremiere.uk" group-title="UK SKY MOVIES",UK: Sky Cinema Premiere | HD
+http://sync1.iptv.bingo/live/1377?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Hits | HD" tvg-id="" group-title="UK SKY MOVIES",UK: Sky Cinema Hits | HD
+http://sync1.iptv.bingo/live/1378?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CNN INTERNATIONAL | HD" tvg-id="cnn.uk" group-title="United Kingdom",UK: CNN INTERNATIONAL | HD
+http://sync1.iptv.bingo/live/1272?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TCM | HD" tvg-id="tcm.uk" group-title="United Kingdom",UK: TCM | HD
+http://sync1.iptv.bingo/live/1148?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick | SD" tvg-id="nickelodeon.uk" group-title="United Kingdom",UK: Nick | SD
+http://sync1.iptv.bingo/live/1241?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ID | HD" tvg-id="investigationdiscovery.uk" group-title="United Kingdom",UK: ID | HD
+http://sync1.iptv.bingo/live/1119?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 2 | SD" tvg-id="itv2.uk" group-title="United Kingdom",UK: ITV 2 | SD
+http://sync1.iptv.bingo/live/1051?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Dave ja vu | HD" tvg-id="davejavu.uk" group-title="United Kingdom",UK: Dave ja vu | HD
+http://sync1.iptv.bingo/live/1090?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 | HD" tvg-id="bbc1.uk" group-title="United Kingdom",UK: BBC 1 | HD
+http://sync1.iptv.bingo/live/1301?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 4 | HD" tvg-id="bbc4.uk" group-title="United Kingdom",UK: BBC 4 | HD
+http://sync1.iptv.bingo/live/1177?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 8 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 8 | HD
+http://sync1.iptv.bingo/live/2581?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 7 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 7 | HD
+http://sync1.iptv.bingo/live/2580?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBBC | UHD" tvg-id="cbbc.uk" group-title="United Kingdom",UK: CBBC | UHD
+http://sync1.iptv.bingo/live/1273?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eden | HD" tvg-id="eden.uk" group-title="United Kingdom",UK: Eden | HD
+http://sync1.iptv.bingo/live/1149?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Paramount | SD" tvg-id="Paramount.uk" group-title="United Kingdom",UK: Paramount | SD
+http://sync1.iptv.bingo/live/1242?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Starz TV | HD" tvg-id="starztv.uk" group-title="United Kingdom",UK: Starz TV | HD
+http://sync1.iptv.bingo/live/1120?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky News | HD" tvg-id="skynews.uk" group-title="United Kingdom",UK: Sky News | HD
+http://sync1.iptv.bingo/live/1052?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CITV | HD" tvg-id="citv.uk" group-title="United Kingdom",UK: CITV | HD
+http://sync1.iptv.bingo/live/1091?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Animal Planet | HD" tvg-id="animalplanet.uk" group-title="United Kingdom",UK: Animal Planet | HD
+http://sync1.iptv.bingo/live/1302?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky 1 | HD" tvg-id="sky1.uk" group-title="United Kingdom",UK: Sky 1 | HD
+http://sync1.iptv.bingo/live/1178?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 6 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 6 | HD
+http://sync1.iptv.bingo/live/2579?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Alibi | UHD" tvg-id="alibi.uk" group-title="United Kingdom",UK: Alibi | UHD
+http://sync1.iptv.bingo/live/1274?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: H2 | HD" tvg-id="" group-title="United Kingdom",UK: H2 | HD
+http://sync1.iptv.bingo/live/1150?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zee Cinema | UHD" tvg-id="zeecinema.uk" group-title="United Kingdom",UK: Zee Cinema | UHD
+http://sync1.iptv.bingo/live/1243?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ID 1 | HD" tvg-id="investigationdiscoveryplus1.uk" group-title="United Kingdom",UK: ID 1 | HD
+http://sync1.iptv.bingo/live/1121?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 3 | SD" tvg-id="itv3.uk" group-title="United Kingdom",UK: ITV 3 | SD
+http://sync1.iptv.bingo/live/1053?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Challenge | HD" tvg-id="challenge.uk" group-title="United Kingdom",UK: Challenge | HD
+http://sync1.iptv.bingo/live/1092?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Keep It Country | SD" tvg-id="keepitcountry.uk" group-title="United Kingdom",UK: Keep It Country | SD
+http://sync1.iptv.bingo/live/1304?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky 2 | HD" tvg-id="sky2.uk" group-title="United Kingdom",UK: Sky 2 | HD
+http://sync1.iptv.bingo/live/1179?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 5 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 5 | HD
+http://sync1.iptv.bingo/live/2578?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Live | UHD" tvg-id="mtv.uk" group-title="United Kingdom",UK: MTV Live | UHD
+http://sync1.iptv.bingo/live/1275?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Travel Channel | HD" tvg-id="travelchannel.uk" group-title="United Kingdom",UK: Travel Channel | HD
+http://sync1.iptv.bingo/live/1151?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TCM | UHD" tvg-id="tcm.uk" group-title="United Kingdom",UK: TCM | UHD
+http://sync1.iptv.bingo/live/1244?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Box Hits | HD" tvg-id="smashhits.uk" group-title="United Kingdom",UK: Box Hits | HD
+http://sync1.iptv.bingo/live/1122?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Live | HD" tvg-id="mtv.uk" group-title="United Kingdom",UK: MTV Live | HD
+http://sync1.iptv.bingo/live/1209?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: FREESPORTS | UHD" tvg-id="freesports.uk" group-title="United Kingdom",UK: FREESPORTS | UHD
+http://sync1.iptv.bingo/live/5684?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney JR | HD" tvg-id="disneyjunior.uk" group-title="United Kingdom",UK: Disney JR | HD
+http://sync1.iptv.bingo/live/1054?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBBC | HD" tvg-id="cbbc.uk" group-title="United Kingdom",UK: CBBC | HD
+http://sync1.iptv.bingo/live/1093?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC News | HD" tvg-id="bbcnews.uk" group-title="United Kingdom",UK: BBC News | HD
+http://sync1.iptv.bingo/live/1305?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Real lives | HD" tvg-id="reallives.uk" group-title="United Kingdom",UK: Real lives | HD
+http://sync1.iptv.bingo/live/1180?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Now 90s | SD" tvg-id="now90s.uk" group-title="United Kingdom",UK: Now 90s | SD
+http://sync1.iptv.bingo/live/1306?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Arts | HD" tvg-id="skyarts.uk" group-title="United Kingdom",UK: Sky Arts | HD
+http://sync1.iptv.bingo/live/1181?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 4 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 4 | HD
+http://sync1.iptv.bingo/live/2577?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 4 | UHD" tvg-id="itv4.uk" group-title="United Kingdom",UK: ITV 4 | UHD
+http://sync1.iptv.bingo/live/1276?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: National Geographic Wild | UHD" tvg-id="natgeo.uk" group-title="United Kingdom",UK: National Geographic Wild | UHD
+http://sync1.iptv.bingo/live/1152?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Gold | HD" tvg-id="gold.uk" group-title="United Kingdom",UK: Gold | HD
+http://sync1.iptv.bingo/live/1123?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: Eir Sport 1 | UHD" tvg-id="" group-title="United Kingdom",IE: Eir Sport 1 | UHD
+http://sync1.iptv.bingo/live/5957?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zee Cinema | UHD" tvg-id="zeecinema.uk" group-title="United Kingdom",UK: Zee Cinema | UHD
+http://sync1.iptv.bingo/live/1210?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 4 | HD" tvg-id="itv4.uk" group-title="United Kingdom",UK: ITV 4 | HD
+http://sync1.iptv.bingo/live/1055?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Blaze | HD" tvg-id="blaze.uk" group-title="United Kingdom",UK: Blaze | HD
+http://sync1.iptv.bingo/live/1094?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: PBS America | SD" tvg-id="pbsamerica.uk" group-title="United Kingdom",UK: PBS America | SD
+http://sync1.iptv.bingo/live/1307?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Lifetime | UHD" tvg-id="lifetime.uk" group-title="United Kingdom",UK: Lifetime | UHD
+http://sync1.iptv.bingo/live/1182?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 3 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 3 | HD
+http://sync1.iptv.bingo/live/2576?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 3 | HD" tvg-id="itv3.uk" group-title="United Kingdom",UK: ITV 3 | HD
+http://sync1.iptv.bingo/live/1277?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: National Geographic | UHD" tvg-id="natgeo.uk" group-title="United Kingdom",UK: National Geographic | UHD
+http://sync1.iptv.bingo/live/1153?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Gold 1 | HD" tvg-id="goldplus1.uk" group-title="United Kingdom",UK: Gold 1 | HD
+http://sync1.iptv.bingo/live/1124?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: Eir Sport 2 | UHD" tvg-id="" group-title="United Kingdom",IE: Eir Sport 2 | UHD
+http://sync1.iptv.bingo/live/5958?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zee TV | SD" tvg-id="zeetv.uk" group-title="United Kingdom",UK: Zee TV | SD
+http://sync1.iptv.bingo/live/1211?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney Channel | SD" tvg-id="disneychannel.uk" group-title="United Kingdom",UK: Disney Channel | SD
+http://sync1.iptv.bingo/live/1056?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cbeebies | HD" tvg-id="cbeebies.uk" group-title="United Kingdom",UK: Cbeebies | HD
+http://sync1.iptv.bingo/live/1095?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITVbe | SD" tvg-id="itvbe.uk" group-title="United Kingdom",UK: ITVbe | SD
+http://sync1.iptv.bingo/live/1057?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: True Entertainment | HD" tvg-id="" group-title="United Kingdom",UK: True Entertainment | HD
+http://sync1.iptv.bingo/live/1096?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Propeller | SD" tvg-id="" group-title="United Kingdom",UK: Propeller | SD
+http://sync1.iptv.bingo/live/1308?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: DMAX 1 | HD" tvg-id="discoverydmax.uk" group-title="United Kingdom",UK: DMAX 1 | HD
+http://sync1.iptv.bingo/live/1183?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 2 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 2 | HD
+http://sync1.iptv.bingo/live/2575?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 2 | UHD" tvg-id="itv2.uk" group-title="United Kingdom",UK: ITV 2 | UHD
+http://sync1.iptv.bingo/live/1278?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Animal Planet | UHD" tvg-id="animalplanet.uk" group-title="United Kingdom",UK: Animal Planet | UHD
+http://sync1.iptv.bingo/live/1154?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Box Upfront | HD" tvg-id="boxupfront.uk" group-title="United Kingdom",UK: Box Upfront | HD
+http://sync1.iptv.bingo/live/1125?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: Oireachtas | SD" tvg-id="" group-title="United Kingdom",IE: Oireachtas | SD
+http://sync1.iptv.bingo/live/5959?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zing | SD" tvg-id="" group-title="United Kingdom",UK: Zing | SD
+http://sync1.iptv.bingo/live/1212?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Baby TV | HD" tvg-id="babytv.uk" group-title="United Kingdom",UK: Baby TV | HD
+http://sync1.iptv.bingo/live/1058?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony Crime | HD" tvg-id="sonycrime.uk" group-title="United Kingdom",UK: Sony Crime | HD
+http://sync1.iptv.bingo/live/1097?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE One | SD" tvg-id="" group-title="United Kingdom",UK: RTE One | SD
+http://sync1.iptv.bingo/live/1309?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Film4 | HD" tvg-id="film4.uk" group-title="United Kingdom",UK: Film4 | HD
+http://sync1.iptv.bingo/live/1184?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 12 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 12 | HD
+http://sync1.iptv.bingo/live/2574?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zee TV | SD" tvg-id="zeetv.uk" group-title="United Kingdom",UK: Zee TV | SD
+http://sync1.iptv.bingo/live/1279?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: History | UHD" tvg-id="historychannel.uk" group-title="United Kingdom",UK: History | UHD
+http://sync1.iptv.bingo/live/1155?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony TV | UHD" tvg-id="sonytvasia.uk" group-title="United Kingdom",UK: Sony TV | UHD
+http://sync1.iptv.bingo/live/1245?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Home | HD" tvg-id="home.uk" group-title="United Kingdom",UK: Home | HD
+http://sync1.iptv.bingo/live/1126?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: RTE Junior | HD" tvg-id="" group-title="United Kingdom",IE: RTE Junior | HD
+http://sync1.iptv.bingo/live/5960?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 3E IRELAND | SD" tvg-id="" group-title="United Kingdom",UK: 3E IRELAND | SD
+http://sync1.iptv.bingo/live/1213?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: E4 | SD" tvg-id="e4.uk" group-title="United Kingdom",UK: E4 | SD
+http://sync1.iptv.bingo/live/1059?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Clubland TV | HD" tvg-id="clublandtv.uk" group-title="United Kingdom",UK: Clubland TV | HD
+http://sync1.iptv.bingo/live/1098?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Super Hero | HD" tvg-id="" group-title="United Kingdom",UK: Sky Super Hero | HD
+http://sync1.iptv.bingo/live/1310?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Film 4 | HD" tvg-id="film4.uk" group-title="United Kingdom",UK: Film 4 | HD
+http://sync1.iptv.bingo/live/1185?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 10 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 10 | HD
+http://sync1.iptv.bingo/live/2573?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery | UHD" tvg-id="discoverychannel.uk" group-title="United Kingdom",UK: Discovery | UHD
+http://sync1.iptv.bingo/live/1156?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Witness | UHD" tvg-id="skywitnessplus1.uk" group-title="United Kingdom",UK: Sky Witness | UHD
+http://sync1.iptv.bingo/live/1246?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: The Box | HD" tvg-id="thebox.uk" group-title="United Kingdom",UK: The Box | HD
+http://sync1.iptv.bingo/live/1127?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: RTE News | SD" tvg-id="" group-title="United Kingdom",IE: RTE News | SD
+http://sync1.iptv.bingo/live/5961?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: AAJ TAK | HD" tvg-id="aajtak.uk" group-title="United Kingdom",UK: AAJ TAK | HD
+http://sync1.iptv.bingo/live/1214?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: RTE One | UHD" tvg-id="" group-title="United Kingdom",IE: RTE One | UHD
+http://sync1.iptv.bingo/live/5962?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: AL ARABIYA | UHD" tvg-id="" group-title="United Kingdom",UK: AL ARABIYA | UHD
+http://sync1.iptv.bingo/live/1215?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick | UHD" tvg-id="nickelodeon.uk" group-title="United Kingdom",UK: Nick | UHD
+http://sync1.iptv.bingo/live/1060?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBS Reality | HD" tvg-id="cbsreality.uk" group-title="United Kingdom",UK: CBS Reality | HD
+http://sync1.iptv.bingo/live/1099?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: S4C | SD" tvg-id="s4c.uk" group-title="United Kingdom",UK: S4C | SD
+http://sync1.iptv.bingo/live/1311?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Movies4Men | HD" tvg-id="" group-title="United Kingdom",UK: Movies4Men | HD
+http://sync1.iptv.bingo/live/1186?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 1 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 1 | HD
+http://sync1.iptv.bingo/live/2572?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Crime & Investigation | UHD" tvg-id="crimeandinvestigationnetwork.uk" group-title="United Kingdom",UK: Crime & Investigation | UHD
+http://sync1.iptv.bingo/live/1157?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky ONE | UHD" tvg-id="sky1.uk" group-title="United Kingdom",UK: Sky ONE | UHD
+http://sync1.iptv.bingo/live/1247?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Home & Health | HD" tvg-id="homeandhealth.uk" group-title="United Kingdom",UK: Home & Health | HD
+http://sync1.iptv.bingo/live/1128?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: RTE Two | HD" tvg-id="" group-title="United Kingdom",IE: RTE Two | HD
+http://sync1.iptv.bingo/live/5963?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Al Jazeera Eng | UHD" tvg-id="aljazeera.uk" group-title="United Kingdom",UK: Al Jazeera Eng | UHD
+http://sync1.iptv.bingo/live/1216?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 4seven | HD" tvg-id="4seven.uk" group-title="United Kingdom",UK: 4seven | HD
+http://sync1.iptv.bingo/live/1061?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Chart Show TV | HD" tvg-id="chartshow.uk" group-title="United Kingdom",UK: Chart Show TV | HD
+http://sync1.iptv.bingo/live/1100?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Safeer TV | SD" tvg-id="" group-title="United Kingdom",UK: Safeer TV | SD
+http://sync1.iptv.bingo/live/1312?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Movies4Men 1 | HD" tvg-id="" group-title="United Kingdom",UK: Movies4Men 1 | HD
+http://sync1.iptv.bingo/live/1187?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 North West | UHD" tvg-id="bbcnorthwest.uk" group-title="United Kingdom",UK: BBC 1 North West | UHD
+http://sync1.iptv.bingo/live/1032?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Animal Planet 1 | HD" tvg-id="animalplanet.uk" group-title="United Kingdom",UK: Animal Planet 1 | HD
+http://sync1.iptv.bingo/live/1158?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky News | UHD" tvg-id="skynews.uk" group-title="United Kingdom",UK: Sky News | UHD
+http://sync1.iptv.bingo/live/1248?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: The Vault | HD" tvg-id="thevault.uk" group-title="United Kingdom",UK: The Vault | HD
+http://sync1.iptv.bingo/live/1129?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Home & Health 1 | HD" tvg-id="homeandhealthplus1.uk" group-title="United Kingdom",UK: Home & Health 1 | HD
+http://sync1.iptv.bingo/live/1130?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: TG 4 | SD" tvg-id="" group-title="United Kingdom",IE: TG 4 | SD
+http://sync1.iptv.bingo/live/5964?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: B4U Movies | SD" tvg-id="b4umovies.uk" group-title="United Kingdom",UK: B4U Movies | SD
+http://sync1.iptv.bingo/live/1217?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: More 4 | HD" tvg-id="more4.uk" group-title="United Kingdom",UK: More 4 | HD
+http://sync1.iptv.bingo/live/1062?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBS Reality 1 | HD" tvg-id="cbsreality.uk" group-title="United Kingdom",UK: CBS Reality 1 | HD
+http://sync1.iptv.bingo/live/1101?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Star Bharat | SD" tvg-id="starbharat.uk" group-title="United Kingdom",UK: Star Bharat | SD
+http://sync1.iptv.bingo/live/1313?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: True Movies 1 | HD" tvg-id="truemovies.uk" group-title="United Kingdom",UK: True Movies 1 | HD
+http://sync1.iptv.bingo/live/1188?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RedBull TV | UHD" tvg-id="" group-title="United Kingdom",UK: RedBull TV | UHD
+http://sync1.iptv.bingo/live/1280?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 2 | SD" tvg-id="bbc2.uk" group-title="United Kingdom",UK: BBC 2 | SD
+http://sync1.iptv.bingo/live/1033?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Science | HD" tvg-id="discoveryscience.uk" group-title="United Kingdom",UK: Discovery Science | HD
+http://sync1.iptv.bingo/live/1159?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Atlantic | UHD" tvg-id="skyatlantic.uk" group-title="United Kingdom",UK: Sky Atlantic | UHD
+http://sync1.iptv.bingo/live/1249?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Rocks | HD" tvg-id="mtvrocks.uk" group-title="United Kingdom",UK: MTV Rocks | HD
+http://sync1.iptv.bingo/live/1131?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: UTV | SD" tvg-id="" group-title="United Kingdom",IE: UTV | SD
+http://sync1.iptv.bingo/live/5965?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: B4U Music | SD" tvg-id="b4umusic.uk" group-title="United Kingdom",UK: B4U Music | SD
+http://sync1.iptv.bingo/live/1218?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cartoon Network | UHD" tvg-id="cartoonnetwork.uk" group-title="United Kingdom",UK: Cartoon Network | UHD
+http://sync1.iptv.bingo/live/1063?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBS Drama | HD" tvg-id="cbsdrama.uk" group-title="United Kingdom",UK: CBS Drama | HD
+http://sync1.iptv.bingo/live/1102?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Talking Pictures TV | HD" tvg-id="talkingpictures.uk" group-title="United Kingdom",UK: Talking Pictures TV | HD
+http://sync1.iptv.bingo/live/1189?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Poker Go | HD" tvg-id="" group-title="United Kingdom",UK: Poker Go | HD
+http://sync1.iptv.bingo/live/1281?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 2 | UHD" tvg-id="bbc2.uk" group-title="United Kingdom",UK: BBC 2 | UHD
+http://sync1.iptv.bingo/live/1034?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Shed | HD" tvg-id="discoveryshed.uk" group-title="United Kingdom",UK: Discovery Shed | HD
+http://sync1.iptv.bingo/live/1160?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Quest | UHD" tvg-id="quest.uk" group-title="United Kingdom",UK: Quest | UHD
+http://sync1.iptv.bingo/live/1250?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: E! | HD" tvg-id="eentertainment.uk" group-title="United Kingdom",UK: E! | HD
+http://sync1.iptv.bingo/live/1132?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Mytv | SD" tvg-id="" group-title="United Kingdom",UK: Mytv | SD
+http://sync1.iptv.bingo/live/1219?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 5SELECT | HD" tvg-id="5select.uk" group-title="United Kingdom",UK: 5SELECT | HD
+http://sync1.iptv.bingo/live/1064?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Global Hits | HD" tvg-id="" group-title="United Kingdom",UK: Global Hits | HD
+http://sync1.iptv.bingo/live/1103?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony Movies | SD" tvg-id="sonymovies.uk" group-title="United Kingdom",UK: Sony Movies | SD
+http://sync1.iptv.bingo/live/1190?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zee Cinema | HD" tvg-id="zeecinema.uk" group-title="United Kingdom",UK: Zee Cinema | HD
+http://sync1.iptv.bingo/live/1282?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV Granada | SD" tvg-id="itv1anglia.uk" group-title="United Kingdom",UK: ITV Granada | SD
+http://sync1.iptv.bingo/live/1035?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Turbo 1 | HD" tvg-id="discoveryturbo.uk" group-title="United Kingdom",UK: Discovery Turbo 1 | HD
+http://sync1.iptv.bingo/live/1161?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: More 4 | UHD" tvg-id="more4.uk" group-title="United Kingdom",UK: More 4 | UHD
+http://sync1.iptv.bingo/live/1251?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: H2 | UHD" tvg-id="history2.uk" group-title="United Kingdom",UK: H2 | UHD
+http://sync1.iptv.bingo/live/1252?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ALIBI | HD" tvg-id="alibi.uk" group-title="United Kingdom",UK: ALIBI | HD
+http://sync1.iptv.bingo/live/1133?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC One Channel Islands | SD" tvg-id="" group-title="United Kingdom",UK: BBC One Channel Islands | SD
+http://sync1.iptv.bingo/live/1220?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cartoonito | HD" tvg-id="cartoonito.uk" group-title="United Kingdom",UK: Cartoonito | HD
+http://sync1.iptv.bingo/live/1065?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBS Justice | HD" tvg-id="" group-title="United Kingdom",UK: CBS Justice | HD
+http://sync1.iptv.bingo/live/1104?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony Movies +1 | SD" tvg-id="sonymoviesplus1.uk" group-title="United Kingdom",UK: Sony Movies +1 | SD
+http://sync1.iptv.bingo/live/1191?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: UTV | SD" tvg-id="" group-title="United Kingdom",UK: UTV | SD
+http://sync1.iptv.bingo/live/1283?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 1 | UHD" tvg-id="itv1.uk" group-title="United Kingdom",UK: ITV 1 | UHD
+http://sync1.iptv.bingo/live/1036?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Turbo | HD" tvg-id="discoveryturbo.uk" group-title="United Kingdom",UK: Discovery Turbo | HD
+http://sync1.iptv.bingo/live/1162?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Gold | UHD" tvg-id="gold.uk" group-title="United Kingdom",UK: Gold | UHD
+http://sync1.iptv.bingo/live/1253?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV OMG | HD" tvg-id="mtvomg.uk" group-title="United Kingdom",UK: MTV OMG | HD
+http://sync1.iptv.bingo/live/1134?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Noor TV | SD" tvg-id="noortv.uk" group-title="United Kingdom",UK: Noor TV | SD
+http://sync1.iptv.bingo/live/1221?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Star Gold | UHD" tvg-id="stargold.uk" group-title="United Kingdom",UK: Star Gold | UHD
+http://sync1.iptv.bingo/live/1314?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 5 USA | HD" tvg-id="fiveusa.uk" group-title="United Kingdom",UK: 5 USA | HD
+http://sync1.iptv.bingo/live/1066?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 4Music | HD" tvg-id="4music.uk" group-title="United Kingdom",UK: 4Music | HD
+http://sync1.iptv.bingo/live/1105?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MUTV | HD" tvg-id="mutv.uk" group-title="United Kingdom",UK: MUTV | HD
+http://sync1.iptv.bingo/live/1192?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony TV | HD" tvg-id="sonytvasia.uk" group-title="United Kingdom",UK: Sony TV | HD
+http://sync1.iptv.bingo/live/1284?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 5 | SD" tvg-id="channel5.uk" group-title="United Kingdom",UK: Channel 5 | SD
+http://sync1.iptv.bingo/live/1037?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery History 1 | HD" tvg-id="discoveryhistory.uk" group-title="United Kingdom",UK: Discovery History 1 | HD
+http://sync1.iptv.bingo/live/1163?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery History | HD" tvg-id="discoveryhistory.uk" group-title="United Kingdom",UK: Discovery History | HD
+http://sync1.iptv.bingo/live/1164?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Fox | UHD" tvg-id="fox.uk" group-title="United Kingdom",UK: Fox | UHD
+http://sync1.iptv.bingo/live/1254?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Alibi 1 | HD" tvg-id="alibiplus1.uk" group-title="United Kingdom",UK: Alibi 1 | HD
+http://sync1.iptv.bingo/live/1135?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 London | SD" tvg-id="" group-title="United Kingdom",UK: BBC 1 London | SD
+http://sync1.iptv.bingo/live/1222?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Star Plus | HD" tvg-id="starplus.uk" group-title="United Kingdom",UK: Star Plus | HD
+http://sync1.iptv.bingo/live/1315?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 5STAR | HD" tvg-id="5star.uk" group-title="United Kingdom",UK: 5STAR | HD
+http://sync1.iptv.bingo/live/1067?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TLC | HD" tvg-id="tlc.uk" group-title="United Kingdom",UK: TLC | HD
+http://sync1.iptv.bingo/live/1106?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV London | SD" tvg-id="itv1anglia.uk" group-title="United Kingdom",UK: ITV London | SD
+http://sync1.iptv.bingo/live/1193?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: National Geographic Wild | HD" tvg-id="natgeo.uk" group-title="United Kingdom",UK: National Geographic Wild | HD
+http://sync1.iptv.bingo/live/1285?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 London | HD" tvg-id="bbc1.uk" group-title="United Kingdom",UK: BBC 1 London | HD
+http://sync1.iptv.bingo/live/1038?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery 1 | HD" tvg-id="discoverychannel.uk" group-title="United Kingdom",UK: Discovery 1 | HD
+http://sync1.iptv.bingo/live/1165?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eden | UHD" tvg-id="eden.uk" group-title="United Kingdom",UK: Eden | UHD
+http://sync1.iptv.bingo/live/1256?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Hits | HD" tvg-id="mtvhits.uk" group-title="United Kingdom",UK: MTV Hits | HD
+http://sync1.iptv.bingo/live/1136?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 Oxford | SD" tvg-id="bbc1.uk" group-title="United Kingdom",UK: BBC 1 Oxford | SD
+http://sync1.iptv.bingo/live/1223?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TG4 | SD" tvg-id="" group-title="United Kingdom",UK: TG4 | SD
+http://sync1.iptv.bingo/live/1316?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick Jr Too | HD" tvg-id="nickjrtoo.uk" group-title="United Kingdom",UK: Nick Jr Too | HD
+http://sync1.iptv.bingo/live/1068?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TLC  1 | HD" tvg-id="tlc.uk" group-title="United Kingdom",UK: TLC  1 | HD
+http://sync1.iptv.bingo/live/1107?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: Virgin Media 1 | UHD" tvg-id="" group-title="United Kingdom",IE: Virgin Media 1 | UHD
+http://sync1.iptv.bingo/live/1194?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: National Geographic | HD" tvg-id="natgeo.uk" group-title="United Kingdom",UK: National Geographic | HD
+http://sync1.iptv.bingo/live/1286?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 North West | HD" tvg-id="bbcnorthwest.uk" group-title="United Kingdom",UK: BBC 1 North West | HD
+http://sync1.iptv.bingo/live/1039?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE News |HD" tvg-id="" group-title="United Kingdom",UK: RTE News |HD
+http://sync1.iptv.bingo/live/1040?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery | HD" tvg-id="discoverychannel.uk" group-title="United Kingdom",UK: Discovery | HD
+http://sync1.iptv.bingo/live/1166?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Dave | UHD" tvg-id="dave.uk" group-title="United Kingdom",UK: Dave | UHD
+http://sync1.iptv.bingo/live/1257?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Comedy Central | HD" tvg-id="comedycentral.uk" group-title="United Kingdom",UK: Comedy Central | HD
+http://sync1.iptv.bingo/live/1137?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Prime TV | SD" tvg-id="ptvprime.uk" group-title="United Kingdom",UK: Prime TV | SD
+http://sync1.iptv.bingo/live/1224?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Chart Show Hits | SD" tvg-id="chartshowhits.uk" group-title="United Kingdom",UK: Chart Show Hits | SD
+http://sync1.iptv.bingo/live/1317?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 5Spike | HD" tvg-id="5spike.uk" group-title="United Kingdom",UK: 5Spike | HD
+http://sync1.iptv.bingo/live/1069?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV | HD" tvg-id="mtv.uk" group-title="United Kingdom",UK: MTV | HD
+http://sync1.iptv.bingo/live/1108?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: Virgin Media 2 | SD" tvg-id="" group-title="United Kingdom",IE: Virgin Media 2 | SD
+http://sync1.iptv.bingo/live/1195?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV | HD" tvg-id="itv1anglia.uk" group-title="United Kingdom",UK: ITV | HD
+http://sync1.iptv.bingo/live/1287?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Film 4 | UHD" tvg-id="film4.uk" group-title="United Kingdom",UK: Film 4 | UHD
+http://sync1.iptv.bingo/live/1288?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE Jr | HD" tvg-id="" group-title="United Kingdom",UK: RTE Jr | HD
+http://sync1.iptv.bingo/live/1041?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: DMAX | HD" tvg-id="discoverydmax.uk" group-title="United Kingdom",UK: DMAX | HD
+http://sync1.iptv.bingo/live/1167?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Comedy Central | SD" tvg-id="comedycentral.uk" group-title="United Kingdom",UK: Comedy Central | SD
+http://sync1.iptv.bingo/live/1258?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Classic | HD" tvg-id="mtvclassic.uk" group-title="United Kingdom",UK: MTV Classic | HD
+http://sync1.iptv.bingo/live/1138?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 West | SD" tvg-id="bbcwest.uk" group-title="United Kingdom",UK: BBC 1 West | SD
+http://sync1.iptv.bingo/live/1225?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: FORCES TV | SD" tvg-id="forcestv.uk" group-title="United Kingdom",UK: FORCES TV | SD
+http://sync1.iptv.bingo/live/1318?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick Jr 1 | HD" tvg-id="nickjunior.uk" group-title="United Kingdom",UK: Nick Jr 1 | HD
+http://sync1.iptv.bingo/live/1070?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Keep it Country | HD" tvg-id="keepitcountry.uk" group-title="United Kingdom",UK: Keep it Country | HD
+http://sync1.iptv.bingo/live/1109?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="IE: Virgin Media 3 | SD" tvg-id="" group-title="United Kingdom",IE: Virgin Media 3 | SD
+http://sync1.iptv.bingo/live/1196?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Yesterday | HD" tvg-id="yesterday.uk" group-title="United Kingdom",UK: Yesterday | HD
+http://sync1.iptv.bingo/live/1077?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney XD | HD" tvg-id="disneyxd.uk" group-title="United Kingdom",UK: Disney XD | HD
+http://sync1.iptv.bingo/live/1289?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 2 | HD" tvg-id="bbc2.uk" group-title="United Kingdom",UK: BBC 2 | HD
+http://sync1.iptv.bingo/live/1042?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Fox | HD" tvg-id="fox.uk" group-title="United Kingdom",UK: Fox | HD
+http://sync1.iptv.bingo/live/1168?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 5 | UHD" tvg-id="channel5.uk" group-title="United Kingdom",UK: Channel 5 | UHD
+http://sync1.iptv.bingo/live/1259?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Comedy Central 1 | HD" tvg-id="comedycentralplus1.uk" group-title="United Kingdom",UK: Comedy Central 1 | HD
+http://sync1.iptv.bingo/live/1139?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC One Yorks | SD" tvg-id="" group-title="United Kingdom",UK: BBC One Yorks | SD
+http://sync1.iptv.bingo/live/1226?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: GEO KAHANI | SD" tvg-id="geotv.uk" group-title="United Kingdom",UK: GEO KAHANI | SD
+http://sync1.iptv.bingo/live/1319?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Quest | HD" tvg-id="quest.uk" group-title="United Kingdom",UK: Quest | HD
+http://sync1.iptv.bingo/live/1071?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cartoon Network 1 | SD" tvg-id="cartoonnetworkplus1.uk" group-title="United Kingdom",UK: Cartoon Network 1 | SD
+http://sync1.iptv.bingo/live/1197?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nicktoons | HD" tvg-id="nicktoons.uk" group-title="United Kingdom",UK: Nicktoons | HD
+http://sync1.iptv.bingo/live/1078?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: POP 1 | HD" tvg-id="popplus1.uk" group-title="United Kingdom",UK: POP 1 | HD
+http://sync1.iptv.bingo/live/1198?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Boomerang +1 | HD" tvg-id="boomerangplus1.uk" group-title="United Kingdom",UK: Boomerang +1 | HD
+http://sync1.iptv.bingo/live/1079?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Crime & Investigation | HD" tvg-id="crimeandinvestigationnetwork.uk" group-title="United Kingdom",UK: Crime & Investigation | HD
+http://sync1.iptv.bingo/live/1290?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE 2 | HD" tvg-id="" group-title="United Kingdom",UK: RTE 2 | HD
+http://sync1.iptv.bingo/live/1043?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Witness | HD" tvg-id="skywitnessplus1.uk" group-title="United Kingdom",UK: Sky Witness | HD
+http://sync1.iptv.bingo/live/1169?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 4 | UHD" tvg-id="channel4.uk" group-title="United Kingdom",UK: Channel 4 | UHD
+http://sync1.iptv.bingo/live/1260?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ComedyXtra | HD" tvg-id="comedycentralextra.uk" group-title="United Kingdom",UK: ComedyXtra | HD
+http://sync1.iptv.bingo/live/1140?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC Scotland | UHD" tvg-id="bbcscotland.uk" group-title="United Kingdom",UK: BBC Scotland | UHD
+http://sync1.iptv.bingo/live/1227?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: William Hill TV | SD" tvg-id="" group-title="United Kingdom",UK: William Hill TV | SD
+http://sync1.iptv.bingo/live/1320?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Quest Red | HD" tvg-id="questred.uk" group-title="United Kingdom",UK: Quest Red | HD
+http://sync1.iptv.bingo/live/1072?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: POP Max 1 | SD" tvg-id="popmaxplus1.uk" group-title="United Kingdom",UK: POP Max 1 | SD
+http://sync1.iptv.bingo/live/1199?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Together | HD" tvg-id="" group-title="United Kingdom",UK: Together | HD
+http://sync1.iptv.bingo/live/1080?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 5 | HD" tvg-id="channel5.uk" group-title="United Kingdom",UK: Channel 5 | HD
+http://sync1.iptv.bingo/live/1291?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Atlantic | HD" tvg-id="skyatlantic.uk" group-title="United Kingdom",UK: Sky Atlantic | HD
+http://sync1.iptv.bingo/live/1170?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 4seven | SD" tvg-id="4seven.uk" group-title="United Kingdom",UK: 4seven | SD
+http://sync1.iptv.bingo/live/1262?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ComedyXtra 1 | HD" tvg-id="comedycentralplus1.uk" group-title="United Kingdom",UK: ComedyXtra 1 | HD
+http://sync1.iptv.bingo/live/1141?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC Two England | HD" tvg-id="bbc2.uk" group-title="United Kingdom",UK: BBC Two England | HD
+http://sync1.iptv.bingo/live/1228?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SIS 2 | SD" tvg-id="" group-title="United Kingdom",UK: SIS 2 | SD
+http://sync1.iptv.bingo/live/1321?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick Jr | HD" tvg-id="nickjunior.uk" group-title="United Kingdom",UK: Nick Jr | HD
+http://sync1.iptv.bingo/live/1073?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Paramount | HD" tvg-id="Paramount.uk" group-title="United Kingdom",UK: Paramount | HD
+http://sync1.iptv.bingo/live/1074?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: LFC TV | UHD" tvg-id="" group-title="United Kingdom",UK: LFC TV | UHD
+http://sync1.iptv.bingo/live/1200?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Boomerang | HD" tvg-id="boomerang.uk" group-title="United Kingdom",UK: Boomerang | HD
+http://sync1.iptv.bingo/live/1081?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BE3 | SD" tvg-id="" group-title="United Kingdom",UK: BE3 | SD
+http://sync1.iptv.bingo/live/1292?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: AMC | HD" tvg-id="amc.uk" group-title="United Kingdom",UK: AMC | HD
+http://sync1.iptv.bingo/live/1171?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: UTV | SD" tvg-id="" group-title="United Kingdom",UK: UTV | SD
+http://sync1.iptv.bingo/live/1263?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Horror Channel | HD" tvg-id="horrorchannel.uk" group-title="United Kingdom",UK: Horror Channel | HD
+http://sync1.iptv.bingo/live/1142?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: PTC Punjabi | SD" tvg-id="ptcpunjabi.uk" group-title="United Kingdom",UK: PTC Punjabi | SD
+http://sync1.iptv.bingo/live/1229?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV 1 | HD" tvg-id="mtv.uk" group-title="United Kingdom",UK: MTV 1 | HD
+http://sync1.iptv.bingo/live/1110?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SIS 1 | SD" tvg-id="" group-title="United Kingdom",UK: SIS 1 | SD
+http://sync1.iptv.bingo/live/1322?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV BE | UHD" tvg-id="itv1anglia.uk" group-title="United Kingdom",UK: ITV BE | UHD
+http://sync1.iptv.bingo/live/1323?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Really | HD" tvg-id="really.uk" group-title="United Kingdom",UK: Really | HD
+http://sync1.iptv.bingo/live/1075?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: GOOD NEWS TV | SD" tvg-id="" group-title="United Kingdom",UK: GOOD NEWS TV | SD
+http://sync1.iptv.bingo/live/1201?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Drama | HD" tvg-id="drama.uk" group-title="United Kingdom",UK: Drama | HD
+http://sync1.iptv.bingo/live/1082?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BET BLACKENTTV | SD" tvg-id="" group-title="United Kingdom",UK: BET BLACKENTTV | SD
+http://sync1.iptv.bingo/live/1293?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: VH1 | HD" tvg-id="vh1.uk" group-title="United Kingdom",UK: VH1 | HD
+http://sync1.iptv.bingo/live/1172?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TLC | HD" tvg-id="tlc.uk" group-title="United Kingdom",UK: TLC | HD
+http://sync1.iptv.bingo/live/1264?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sangat | SD" tvg-id="sangat.uk" group-title="United Kingdom",UK: Sangat | SD
+http://sync1.iptv.bingo/live/1230?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Universal | HD" tvg-id="universal.uk" group-title="United Kingdom",UK: Universal | HD
+http://sync1.iptv.bingo/live/1111?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Tiny Pop | HD" tvg-id="tinypopplus1.uk" group-title="United Kingdom",UK: Tiny Pop | HD
+http://sync1.iptv.bingo/live/1324?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nickelodeon | HD" tvg-id="nickelodeon.uk" group-title="United Kingdom",UK: Nickelodeon | HD
+http://sync1.iptv.bingo/live/1076?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV Granada | HD" tvg-id="itv1anglia.uk" group-title="United Kingdom",UK: ITV Granada | HD
+http://sync1.iptv.bingo/live/1044?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Colors | SD" tvg-id="colors.uk" group-title="United Kingdom",UK: Colors | SD
+http://sync1.iptv.bingo/live/1202?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cartoon Network | HD" tvg-id="cartoonnetwork.uk" group-title="United Kingdom",UK: Cartoon Network | HD
+http://sync1.iptv.bingo/live/1083?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Box Nation | SD" tvg-id="boxnation.uk" group-title="United Kingdom",UK: Box Nation | SD
+http://sync1.iptv.bingo/live/1294?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV | UHD" tvg-id="mtv.uk" group-title="United Kingdom",UK: MTV | UHD
+http://sync1.iptv.bingo/live/1173?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SYFY | UHD" tvg-id="syfy.uk" group-title="United Kingdom",UK: SYFY | UHD
+http://sync1.iptv.bingo/live/1265?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sewing Quarter | SD" tvg-id="" group-title="United Kingdom",UK: Sewing Quarter | SD
+http://sync1.iptv.bingo/live/1231?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Kerrang | HD" tvg-id="kerrang.uk" group-title="United Kingdom",UK: Kerrang | HD
+http://sync1.iptv.bingo/live/1112?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky News Arabia | SD" tvg-id="" group-title="United Kingdom",UK: Sky News Arabia | SD
+http://sync1.iptv.bingo/live/1232?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Universal 1 | HD" tvg-id="universal.uk" group-title="United Kingdom",UK: Universal 1 | HD
+http://sync1.iptv.bingo/live/1113?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE 1 | HD" tvg-id="" group-title="United Kingdom",UK: RTE 1 | HD
+http://sync1.iptv.bingo/live/1045?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: HIGHSTREET 2 | SD" tvg-id="" group-title="United Kingdom",UK: HIGHSTREET 2 | SD
+http://sync1.iptv.bingo/live/1203?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Watch | HD" tvg-id="" group-title="United Kingdom",UK: Watch | HD
+http://sync1.iptv.bingo/live/1084?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 4 | SD" tvg-id="channel4.uk" group-title="United Kingdom",UK: Channel 4 | SD
+http://sync1.iptv.bingo/live/1295?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Universal | UHD" tvg-id="universal.uk" group-title="United Kingdom",UK: Universal | UHD
+http://sync1.iptv.bingo/live/1174?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: STV | UHD" tvg-id="stv.uk" group-title="United Kingdom",UK: STV | UHD
+http://sync1.iptv.bingo/live/1266?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Yanga | SD" tvg-id="" group-title="United Kingdom",UK: Yanga | SD
+http://sync1.iptv.bingo/live/1235?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: KISS | HD" tvg-id="kisstv.uk" group-title="United Kingdom",UK: KISS | HD
+http://sync1.iptv.bingo/live/1114?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 4 | HD" tvg-id="channel4.uk" group-title="United Kingdom",UK: Channel 4 | HD
+http://sync1.iptv.bingo/live/1046?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: HIGHSTREET 4 | SD" tvg-id="" group-title="United Kingdom",UK: HIGHSTREET 4 | SD
+http://sync1.iptv.bingo/live/1204?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Tiny Pop | HD" tvg-id="" group-title="United Kingdom",UK: Tiny Pop | HD
+http://sync1.iptv.bingo/live/1085?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 2 Wales | SD" tvg-id="bbc1.uk" group-title="United Kingdom",UK: BBC 2 Wales | SD
+http://sync1.iptv.bingo/live/1296?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports USA | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports USA | HD
+http://sync1.iptv.bingo/live/2586?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Food Network | HD" tvg-id="foodnetwork.uk" group-title="United Kingdom",UK: Food Network | HD
+http://sync1.iptv.bingo/live/1175?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Arts | UHD" tvg-id="skyarts.uk" group-title="United Kingdom",UK: Sky Arts | UHD
+http://sync1.iptv.bingo/live/1267?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Club | HD" tvg-id="mtv.uk" group-title="United Kingdom",UK: MTV Club | HD
+http://sync1.iptv.bingo/live/1143?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zoomoo | SD" tvg-id="" group-title="United Kingdom",UK: Zoomoo | SD
+http://sync1.iptv.bingo/live/1237?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SYFY | HD" tvg-id="syfy.uk" group-title="United Kingdom",UK: SYFY | HD
+http://sync1.iptv.bingo/live/1115?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 | UHD" tvg-id="bbc1.uk" group-title="United Kingdom",UK: BBC 1 | UHD
+http://sync1.iptv.bingo/live/1047?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: DISNEY CHANNEL +1 | SD" tvg-id="disneychannelplus1.uk" group-title="United Kingdom",UK: DISNEY CHANNEL +1 | SD
+http://sync1.iptv.bingo/live/1205?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Pick | HD" tvg-id="" group-title="United Kingdom",UK: Pick | HD
+http://sync1.iptv.bingo/live/1086?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Turbo | SD" tvg-id="discoveryturbo.uk" group-title="United Kingdom",UK: Discovery Turbo | SD
+http://sync1.iptv.bingo/live/1297?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports La Liga | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports La Liga | HD
+http://sync1.iptv.bingo/live/2585?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Racing TV | UHD" tvg-id="racinguk.uk" group-title="United Kingdom",UK: Racing TV | UHD
+http://sync1.iptv.bingo/live/1268?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Horror Channel 1 | HD" tvg-id="horrorchannelplus1.uk" group-title="United Kingdom",UK: Horror Channel 1 | HD
+http://sync1.iptv.bingo/live/1144?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CORAL TV | SD" tvg-id="" group-title="United Kingdom",UK: CORAL TV | SD
+http://sync1.iptv.bingo/live/1238?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Magic | HD" tvg-id="magic.uk" group-title="United Kingdom",UK: Magic | HD
+http://sync1.iptv.bingo/live/1116?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Euro News | HD" tvg-id="euronews.uk" group-title="United Kingdom",UK: Euro News | HD
+http://sync1.iptv.bingo/live/1048?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: DISNEY XD +1 | SD" tvg-id="disneyxdplus1.uk" group-title="United Kingdom",UK: DISNEY XD +1 | SD
+http://sync1.iptv.bingo/live/1206?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Dave | HD" tvg-id="dave.uk" group-title="United Kingdom",UK: Dave | HD
+http://sync1.iptv.bingo/live/1087?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 Scotland | HD" tvg-id="bbcscotland.uk" group-title="United Kingdom",UK: BBC 1 Scotland | HD
+http://sync1.iptv.bingo/live/1298?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports En Espanyol | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports En Espanyol | HD
+http://sync1.iptv.bingo/live/2584?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITVbe | HD" tvg-id="itvbe.uk" group-title="United Kingdom",UK: ITVbe | HD
+http://sync1.iptv.bingo/live/1269?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Base | HD" tvg-id="mtvbase.uk" group-title="United Kingdom",UK: MTV Base | HD
+http://sync1.iptv.bingo/live/1145?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Ladbrokes | SD" tvg-id="" group-title="United Kingdom",UK: Ladbrokes | SD
+http://sync1.iptv.bingo/live/1239?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SYFY 1 | HD" tvg-id="syfy.uk" group-title="United Kingdom",UK: SYFY 1 | HD
+http://sync1.iptv.bingo/live/1117?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC Parliament | HD" tvg-id="bbcparliament.uk" group-title="United Kingdom",UK: BBC Parliament | HD
+http://sync1.iptv.bingo/live/1049?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: HOCHANDA | SD" tvg-id="4seven.uk" group-title="United Kingdom",UK: HOCHANDA | SD
+http://sync1.iptv.bingo/live/1207?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: POP Max | HD" tvg-id="popmax.uk" group-title="United Kingdom",UK: POP Max | HD
+http://sync1.iptv.bingo/live/1088?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 1 Northern Ireland | HD" tvg-id="bbc1northernireland.uk" group-title="United Kingdom",UK: BBC 1 Northern Ireland | HD
+http://sync1.iptv.bingo/live/1299?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN SPORTS NEWS | UHD" tvg-id="skysportsnews.uk" group-title="United Kingdom",UK: beIN SPORTS NEWS | UHD
+http://sync1.iptv.bingo/live/2583?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: E4 | UHD" tvg-id="e4.uk" group-title="United Kingdom",UK: E4 | UHD
+http://sync1.iptv.bingo/live/1270?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Music 1 | HD" tvg-id="mtvmusic.uk" group-title="United Kingdom",UK: MTV Music 1 | HD
+http://sync1.iptv.bingo/live/1146?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney Channel | UHD" tvg-id="disneychannel.uk" group-title="United Kingdom",UK: Disney Channel | UHD
+http://sync1.iptv.bingo/live/1271?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Music | HD" tvg-id="mtvmusic.uk" group-title="United Kingdom",UK: MTV Music | HD
+http://sync1.iptv.bingo/live/1147?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Ladbrokes tv 2 | SD" tvg-id="" group-title="United Kingdom",UK: Ladbrokes tv 2 | SD
+http://sync1.iptv.bingo/live/1240?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: NOW 90's | HD" tvg-id="now90s.uk" group-title="United Kingdom",UK: NOW 90's | HD
+http://sync1.iptv.bingo/live/1118?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC News | UHD" tvg-id="bbcnews.uk" group-title="United Kingdom",UK: BBC News | UHD
+http://sync1.iptv.bingo/live/1050?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Love Nature | SD" tvg-id="" group-title="United Kingdom",UK: Love Nature | SD
+http://sync1.iptv.bingo/live/1208?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: POP | HD" tvg-id="pop.uk" group-title="United Kingdom",UK: POP | HD
+http://sync1.iptv.bingo/live/1089?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Glory TV | SD" tvg-id="" group-title="United Kingdom",UK: Glory TV | SD
+http://sync1.iptv.bingo/live/1300?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: FOOD NETWORK 1 | SD" tvg-id="foodnetwork.uk" group-title="United Kingdom",UK: FOOD NETWORK 1 | SD
+http://sync1.iptv.bingo/live/1176?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: beIN Sports 9 | HD" tvg-id="" group-title="United Kingdom",UK: beIN Sports 9 | HD
+http://sync1.iptv.bingo/live/2582?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 03 | CFFC 79: Sabatini vs Chaulet (16.11 2PM ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 03 | CFFC 79: Sabatini vs Chaulet (16.11 2PM ET)
+http://sync1.iptv.bingo/live/1623?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 04 | Blachowicz vs Souza (16.11-8:00PM ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 04 | Blachowicz vs Souza (16.11-8:00PM ET)
+http://sync1.iptv.bingo/live/1631?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 05 | Absolute Muay Thai 052 - Lumpinee ( 11.12 6:30AM ET )" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 05 | Absolute Muay Thai 052 - Lumpinee ( 11.12 6:30AM ET )
+http://sync1.iptv.bingo/live/1632?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 06 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 06 |
+http://sync1.iptv.bingo/live/1633?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 07 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 07 |
+http://sync1.iptv.bingo/live/1636?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 08 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 08 |
+http://sync1.iptv.bingo/live/1637?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 09 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 09 |
+http://sync1.iptv.bingo/live/1638?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 10 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 10 |
+http://sync1.iptv.bingo/live/1639?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BOXING 01 | MCGREGOR VS FAROOQ (11.16 5pm ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: BOXING 01 | MCGREGOR VS FAROOQ (11.16 5pm ET)
+http://sync1.iptv.bingo/live/5544?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BOXING 02 | CANO VS ORTIZ (11.16  9:30 pm ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: BOXING 02 | CANO VS ORTIZ (11.16  9:30 pm ET)
+http://sync1.iptv.bingo/live/5549?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 11 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 11 |
+http://sync1.iptv.bingo/live/1640?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 12 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 12 |
+http://sync1.iptv.bingo/live/1641?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: UFC 00 | EARLY PRELIMS |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: UFC 00 | EARLY PRELIMS |
+http://sync1.iptv.bingo/live/1624?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: UFC 01 | PRELIMS | UFC FIGHT NIGHT: BLACHOWICZ VS. JACARE (Sat 16/11 6:00PM ET) | TBA" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: UFC 01 | PRELIMS | UFC FIGHT NIGHT: BLACHOWICZ VS. JACARE (Sat 16/11 6:00PM ET) | TBA
+http://sync1.iptv.bingo/live/1617?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BELLATOR | MAIN CARD: KHARITONOV VS. VASSELL (Fri 15/11 9:00PM ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: BELLATOR | MAIN CARD: KHARITONOV VS. VASSELL (Fri 15/11 9:00PM ET)
+http://sync1.iptv.bingo/live/1614?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: UFC 02 | MAIN EVENT | UFC FIGHT NIGHT: BLACHOWICZ VS. JACARE (Sat 16/11 9:00PM ET) | TBA" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: UFC 02 | MAIN EVENT | UFC FIGHT NIGHT: BLACHOWICZ VS. JACARE (Sat 16/11 9:00PM ET) | TBA
+http://sync1.iptv.bingo/live/1618?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BELLATOR | PRELIMS * : MCDONALD VS LIMA ( OCT.26 - 10/9PM CT)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: BELLATOR | PRELIMS * : MCDONALD VS LIMA ( OCT.26 - 10/9PM CT)
+http://sync1.iptv.bingo/live/1613?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BOXING 0 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: BOXING 0 |
+http://sync1.iptv.bingo/live/1615?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: UFC 03 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: UFC 03 |
+http://sync1.iptv.bingo/live/1616?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BOXING 03 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: BOXING 03 |
+http://sync1.iptv.bingo/live/1619?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: UFC 04 | MAIN EVENT |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: UFC 04 | MAIN EVENT |
+http://sync1.iptv.bingo/live/1634?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BOXING 05 | BKFC 9 (11.16 9PM ET) HD ESP" tvg-id="sonyaction.uk" group-title="PPV - MMA/BOXING/WWE",PPV: BOXING 05 | BKFC 9 (11.16 9PM ET) HD ESP
+http://sync1.iptv.bingo/live/1625?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: WRESTLING 00 |  WWE Hell in a Cell (10.06.2019 7PM ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: WRESTLING 00 |  WWE Hell in a Cell (10.06.2019 7PM ET)
+http://sync1.iptv.bingo/live/1620?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: BOXING 04 | BKFC 9 (11.16 9PM ET) HD" tvg-id="skysportsaction.uk" group-title="PPV - MMA/BOXING/WWE",PPV: BOXING 04 | BKFC 9 (11.16 9PM ET) HD
+http://sync1.iptv.bingo/live/1635?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: WRESTLING 01 | SD : October 31 – Crown Jewel 2019 | TBA" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: WRESTLING 01 | SD : October 31 – Crown Jewel 2019 | TBA
+http://sync1.iptv.bingo/live/1626?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 01 EN |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 01 EN |
+http://sync1.iptv.bingo/live/1642?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: WRESTLING 02 | HD : October 31 – Crown Jewel 2019" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: WRESTLING 02 | HD : October 31 – Crown Jewel 2019
+http://sync1.iptv.bingo/live/1627?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: WRESTLING 03 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: WRESTLING 03 |
+http://sync1.iptv.bingo/live/1628?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 01 SP |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 01 SP |
+http://sync1.iptv.bingo/live/1643?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: WRESTLING 04 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: WRESTLING 04 |
+http://sync1.iptv.bingo/live/1629?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 02 EN |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 02 EN |
+http://sync1.iptv.bingo/live/1644?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: WRESTLING 05 |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: WRESTLING 05 |
+http://sync1.iptv.bingo/live/1630?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 02 SP |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 02 SP |
+http://sync1.iptv.bingo/live/1645?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: 03 EN | AEW FULL GEAR (8PM ET-11.9)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: 03 EN | AEW FULL GEAR (8PM ET-11.9)
+http://sync1.iptv.bingo/live/1646?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: 03 SP | AEW FULL GEAR (8PM ET-11.9)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: 03 SP | AEW FULL GEAR (8PM ET-11.9)
+http://sync1.iptv.bingo/live/1647?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 04 EN |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 04 EN |
+http://sync1.iptv.bingo/live/1648?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 04 SP |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 04 SP |
+http://sync1.iptv.bingo/live/1649?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 05 EN |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 05 EN |
+http://sync1.iptv.bingo/live/1650?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: DIRECT 05 SP |" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: DIRECT 05 SP |
+http://sync1.iptv.bingo/live/1651?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 01 | LFA 78 (15.11 9:00PM ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 01 | LFA 78 (15.11 9:00PM ET)
+http://sync1.iptv.bingo/live/1621?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="PPV: MMA 02 | Broadway Boxing: Fa vs Vargas (15.11 10:00PM ET)" tvg-id="" group-title="PPV - MMA/BOXING/WWE",PPV: MMA 02 | Broadway Boxing: Fa vs Vargas (15.11 10:00PM ET)
+http://sync1.iptv.bingo/live/1622?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Music(1)" tvg-id="mtvmusic.uk" group-title="United Kingdom",UK: MTV Music(1)
+http://sync1b.iptv.bingo/live/101?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Dance" tvg-id="mtvdance.uk" group-title="United Kingdom",UK: MTV Dance
+http://sync1b.iptv.bingo/live/103?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC EARTH HD" tvg-id="" group-title="United Kingdom",UK: BBC EARTH HD
+http://sync1b.iptv.bingo/live/7082?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CHELSEA TV" tvg-id="4seven.uk" group-title="United Kingdom",UK: CHELSEA TV
+http://sync1b.iptv.bingo/live/3973?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK:True Movies 1" tvg-id="truemovies.uk" group-title="United Kingdom",UK:True Movies 1
+http://sync1b.iptv.bingo/live/1031?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK:TLC - IRELAND" tvg-id="tlc.uk" group-title="United Kingdom",UK:TLC - IRELAND
+http://sync1b.iptv.bingo/live/421?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Modern" tvg-id="" group-title="United Kingdom",UK: Sky Movies Modern
+http://sync1b.iptv.bingo/live/425?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC World News" tvg-id="bbcworldnews.uk" group-title="United Kingdom",UK: BBC World News
+http://sync1b.iptv.bingo/live/384?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 4Seven" tvg-id="4seven.uk" group-title="United Kingdom",UK: 4Seven
+http://sync1b.iptv.bingo/live/388?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: W   1" tvg-id="wplus1.uk" group-title="United Kingdom",UK: W   1
+http://sync1b.iptv.bingo/live/4450?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: VH1" tvg-id="vh1.uk" group-title="United Kingdom",UK: VH1
+http://sync1b.iptv.bingo/live/1035?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Travel Channel" tvg-id="travelchannel.uk" group-title="United Kingdom",UK: Travel Channel
+http://sync1b.iptv.bingo/live/1037?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TLC   1" tvg-id="tlc.uk" group-title="United Kingdom",UK: TLC   1
+http://sync1b.iptv.bingo/live/4445?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TLC" tvg-id="tlc.uk" group-title="United Kingdom",UK: TLC
+http://sync1b.iptv.bingo/live/1415?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Tiny Pop  +1" tvg-id="tinypopplus1.uk" group-title="United Kingdom",UK: Tiny Pop  +1
+http://sync1b.iptv.bingo/live/4461?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Syfy + 1" tvg-id="syfy.uk" group-title="United Kingdom",UK: Syfy + 1
+http://sync1b.iptv.bingo/live/4452?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony Chnl   1" tvg-id="sonychannelplus1.uk" group-title="United Kingdom",UK: Sony Chnl   1
+http://sync1b.iptv.bingo/live/4442?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SkySpBoxOff (PPV Events Only)" tvg-id="skysportsboxoffice.uk" group-title="United Kingdom",UK: SkySpBoxOff (PPV Events Only)
+http://sync1b.iptv.bingo/live/5212?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Two" tvg-id="" group-title="United Kingdom",UK: Sky Two
+http://sync1b.iptv.bingo/live/423?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS PREMIER LEAGUE" tvg-id="skysportspremiereleague.uk" group-title="United Kingdom",UK: SKY SPORTS PREMIER LEAGUE
+http://sync1b.iptv.bingo/live/2459?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS GOLF" tvg-id="skysportsgolf.uk" group-title="United Kingdom",UK: SKY SPORTS GOLF
+http://sync1b.iptv.bingo/live/2460?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS ACTION" tvg-id="skysportsaction.uk" group-title="United Kingdom",UK: SKY SPORTS ACTION
+http://sync1b.iptv.bingo/live/2461?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS CRICKET" tvg-id="skysportscricket.uk" group-title="United Kingdom",UK: SKY SPORTS CRICKET
+http://sync1b.iptv.bingo/live/2462?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-id="skysportsmainevent.uk" group-title="United Kingdom",UK: SKY SPORTS MAIN EVENT
+http://sync1b.iptv.bingo/live/2463?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Select HD" tvg-id="" group-title="United Kingdom",UK: Sky Movies Select HD
+http://sync1b.iptv.bingo/live/424?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Atlantic  1" tvg-id="skyatlantic.uk" group-title="United Kingdom",UK: Sky Atlantic  1
+http://sync1b.iptv.bingo/live/4447?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Setanta Sports 1" tvg-id="" group-title="United Kingdom",UK: Setanta Sports 1
+http://sync1b.iptv.bingo/live/1026?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE Two" tvg-id="" group-title="United Kingdom",UK: RTE Two
+http://sync1b.iptv.bingo/live/1425?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE One" tvg-id="" group-title="United Kingdom",UK: RTE One
+http://sync1b.iptv.bingo/live/1426?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Racing UK" tvg-id="racinguk.uk" group-title="United Kingdom",UK: Racing UK
+http://sync1b.iptv.bingo/live/391?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: PREMIERE SPORT HD" tvg-id="" group-title="United Kingdom",UK: PREMIERE SPORT HD
+http://sync1b.iptv.bingo/live/1028?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nickelodeon  +1" tvg-id="nickelodeonplus1.uk" group-title="United Kingdom",UK: Nickelodeon  +1
+http://sync1b.iptv.bingo/live/4462?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nickelodeon" tvg-id="nickelodeon.uk" group-title="United Kingdom",UK: Nickelodeon
+http://sync1b.iptv.bingo/live/383?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick Jr +1" tvg-id="nickjuniorplus1.uk" group-title="United Kingdom",UK: Nick Jr +1
+http://sync1b.iptv.bingo/live/4463?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick Jr Too" tvg-id="nickjrtoo.uk" group-title="United Kingdom",UK: Nick Jr Too
+http://sync1b.iptv.bingo/live/4464?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nat Geo Wild" tvg-id="natgeowild.uk" group-title="United Kingdom",UK: Nat Geo Wild
+http://sync1b.iptv.bingo/live/430?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MUTV" tvg-id="mutv.uk" group-title="United Kingdom",UK: MUTV
+http://sync1b.iptv.bingo/live/758?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV  +1" tvg-id="mtvplus1.uk" group-title="United Kingdom",UK: MTV  +1
+http://sync1b.iptv.bingo/live/4470?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: LFC TV" tvg-id="liverpoolfctv.uk" group-title="United Kingdom",UK: LFC TV
+http://sync1b.iptv.bingo/live/2895?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV4" tvg-id="itv4.uk" group-title="United Kingdom",UK: ITV4
+http://sync1b.iptv.bingo/live/379?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV3" tvg-id="itv3.uk" group-title="United Kingdom",UK: ITV3
+http://sync1b.iptv.bingo/live/380?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV2" tvg-id="itv2.uk" group-title="United Kingdom",UK: ITV2
+http://sync1b.iptv.bingo/live/381?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV1" tvg-id="itv1.uk" group-title="United Kingdom",UK: ITV1
+http://sync1b.iptv.bingo/live/382?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ID + 1" tvg-id="investigationdiscoveryplus1.uk" group-title="United Kingdom",UK: ID + 1
+http://sync1b.iptv.bingo/live/4449?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Horror Channel  +1" tvg-id="horrorchannelplus1.uk" group-title="United Kingdom",UK: Horror Channel  +1
+http://sync1b.iptv.bingo/live/4444?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Home&Health  +1" tvg-id="homeandhealthplus1.uk" group-title="United Kingdom",UK: Home&Health  +1
+http://sync1b.iptv.bingo/live/4458?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Good Food" tvg-id="goodfood.uk" group-title="United Kingdom",UK: Good Food
+http://sync1b.iptv.bingo/live/1038?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Food Network  1" tvg-id="foodnetworkplus1.uk" group-title="United Kingdom",UK: Food Network  1
+http://sync1b.iptv.bingo/live/4443?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Food Network" tvg-id="foodnetwork.uk" group-title="United Kingdom",UK: Food Network
+http://sync1b.iptv.bingo/live/1039?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eurosport 2" tvg-id="eurosport2.uk" group-title="United Kingdom",UK: Eurosport 2
+http://sync1b.iptv.bingo/live/4473?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eurosport 1" tvg-id="eurosport1.uk" group-title="United Kingdom",UK: Eurosport 1
+http://sync1b.iptv.bingo/live/4472?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eir Sports2" tvg-id="" group-title="United Kingdom",UK: Eir Sports2
+http://sync1b.iptv.bingo/live/4684?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Eir Sports1" tvg-id="eir Sport 1" group-title="United Kingdom",UK: Eir Sports1
+http://sync1b.iptv.bingo/live/4683?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: E!  + 1" tvg-id="eentertainmentplus1.uk" group-title="United Kingdom",UK: E!  + 1
+http://sync1b.iptv.bingo/live/4448?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: E!" tvg-id="eentertainment.uk" group-title="United Kingdom",UK: E!
+http://sync1b.iptv.bingo/live/1040?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney XD  +1" tvg-id="disneyxdplus1.uk" group-title="United Kingdom",UK: Disney XD  +1
+http://sync1b.iptv.bingo/live/4465?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney Channel  +1" tvg-id="disneychannelplus1.uk" group-title="United Kingdom",UK: Disney Channel  +1
+http://sync1b.iptv.bingo/live/4466?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Science  1" tvg-id="discoveryscienceplus1.uk" group-title="United Kingdom",UK: Discovery Science  1
+http://sync1b.iptv.bingo/live/4467?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery History +1" tvg-id="discoveryhistoryplus1.uk" group-title="United Kingdom",UK: Discovery History +1
+http://sync1b.iptv.bingo/live/4468?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery  +1" tvg-id="discoverychannelplus1.uk" group-title="United Kingdom",UK: Discovery  +1
+http://sync1b.iptv.bingo/live/4469?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Crime investigation  1" tvg-id="crimeandinvestigationnetworkplus1.uk" group-title="United Kingdom",UK: Crime investigation  1
+http://sync1b.iptv.bingo/live/4455?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Comedy Central Extra  +1" tvg-id="comedycentralextraplus1.uk" group-title="United Kingdom",UK: Comedy Central Extra  +1
+http://sync1b.iptv.bingo/live/4456?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Chelsea FC" tvg-id="chelseatv.uk" group-title="United Kingdom",UK: Chelsea FC
+http://sync1b.iptv.bingo/live/1030?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cartoon Network" tvg-id="cartoonnetwork.uk" group-title="United Kingdom",UK: Cartoon Network
+http://sync1b.iptv.bingo/live/1041?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sports 2 SD" tvg-id="btsport2.uk" group-title="United Kingdom",UK: BT Sports 2 SD
+http://sync1b.iptv.bingo/live/2464?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 4" tvg-id="btsportx4.uk" group-title="United Kingdom",UK: BT Sport Extra 4
+http://sync1b.iptv.bingo/live/4479?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 2" tvg-id="btsportx2.uk" group-title="United Kingdom",UK: BT Sport Extra 2
+http://sync1b.iptv.bingo/live/4477?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport Extra 1" tvg-id="btsportx1.uk" group-title="United Kingdom",UK: BT Sport Extra 1
+http://sync1b.iptv.bingo/live/4476?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 3 SD" tvg-id="btsport3.uk" group-title="United Kingdom",UK: BT Sport 3 SD
+http://sync1b.iptv.bingo/live/4954?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC 4 HD" tvg-id="bbc4.uk" group-title="United Kingdom",UK: BBC 4 HD
+http://sync1b.iptv.bingo/live/385?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC TWO HD" tvg-id="bbc2.uk" group-title="United Kingdom",UK: BBC TWO HD
+http://sync1b.iptv.bingo/live/852?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: At The Races" tvg-id="attheraces.uk" group-title="United Kingdom",UK: At The Races
+http://sync1b.iptv.bingo/live/440?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Animal Planet  +1" tvg-id="animalplanetplus1.uk" group-title="United Kingdom",UK: Animal Planet  +1
+http://sync1b.iptv.bingo/live/4457?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Alibi" tvg-id="alibi.uk" group-title="United Kingdom",UK: Alibi
+http://sync1b.iptv.bingo/live/390?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 5Star" tvg-id="5star.uk" group-title="United Kingdom",UK: 5Star
+http://sync1b.iptv.bingo/live/387?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 3e" tvg-id="" group-title="United Kingdom",UK: 3e
+http://sync1b.iptv.bingo/live/389?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ID" tvg-id="investigationdiscovery.uk" group-title="United Kingdom",UK: ID
+http://sync1b.iptv.bingo/live/1429?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 3 HD" tvg-id="btsport3.uk" group-title="United Kingdom",UK: BT Sport 3 HD
+http://sync1b.iptv.bingo/live/5547?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Crime & Investigiation" tvg-id="crimeandinvestigationnetwork.uk" group-title="United Kingdom",UK: Crime & Investigiation
+http://sync1b.iptv.bingo/live/5497?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports Mix" tvg-id="skysportsmix.uk" group-title="United Kingdom",UK: Sky Sports Mix
+http://sync1b.iptv.bingo/live/5496?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Premier Sports HD" tvg-id="4seven.uk" group-title="United Kingdom",UK: Premier Sports HD
+http://sync1b.iptv.bingo/live/1427?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 5USA" tvg-id="fiveusa.uk" group-title="United Kingdom",UK: 5USA
+http://sync1b.iptv.bingo/live/386?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK:VIP Cartoon network HD" tvg-id="cartoonnetwork.uk" group-title="United Kingdom",UK:VIP Cartoon network HD
+http://sync1b.iptv.bingo/live/5642?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: AMC FROM BT" tvg-id="amc.uk" group-title="United Kingdom",UK: AMC FROM BT
+http://sync1b.iptv.bingo/live/5805?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC ALBA" tvg-id="bbcalba.uk" group-title="United Kingdom",UK: BBC ALBA
+http://sync1b.iptv.bingo/live/5806?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC Parliament" tvg-id="bbcparliament.uk" group-title="United Kingdom",UK: BBC Parliament
+http://sync1b.iptv.bingo/live/5809?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BET" tvg-id="bet.uk" group-title="United Kingdom",UK: BET
+http://sync1b.iptv.bingo/live/5771?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 4" tvg-id="channel4.uk" group-title="United Kingdom",UK: Channel 4
+http://sync1b.iptv.bingo/live/5811?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel 4 HD" tvg-id="channel4.uk" group-title="United Kingdom",UK: Channel 4 HD
+http://sync1b.iptv.bingo/live/5810?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CHANNEL 5" tvg-id="channel5.uk" group-title="United Kingdom",UK: CHANNEL 5
+http://sync1b.iptv.bingo/live/5813?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CHANNEL 5 FHD" tvg-id="channel5.uk" group-title="United Kingdom",UK: CHANNEL 5 FHD
+http://sync1b.iptv.bingo/live/5812?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CNBC Europe" tvg-id="cnbc.uk" group-title="United Kingdom",UK: CNBC Europe
+http://sync1b.iptv.bingo/live/5769?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: FOX News" tvg-id="fox.uk" group-title="United Kingdom",UK: FOX News
+http://sync1b.iptv.bingo/live/5782?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Investigation Discovery" tvg-id="investigationdiscovery.uk" group-title="United Kingdom",UK: Investigation Discovery
+http://sync1b.iptv.bingo/live/5780?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV ENCORE" tvg-id="itvencore.uk" group-title="United Kingdom",UK: ITV ENCORE
+http://sync1b.iptv.bingo/live/5804?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: KERRANG" tvg-id="kerrang.uk" group-title="United Kingdom",UK: KERRANG
+http://sync1b.iptv.bingo/live/5786?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: KISS UK" tvg-id="kisstv.uk" group-title="United Kingdom",UK: KISS UK
+http://sync1b.iptv.bingo/live/5785?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Movies 4 Men" tvg-id="movies4men.uk" group-title="United Kingdom",UK: Movies 4 Men
+http://sync1b.iptv.bingo/live/5779?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: QUEST" tvg-id="quest.uk" group-title="United Kingdom",UK: QUEST
+http://sync1b.iptv.bingo/live/5778?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Real Lives" tvg-id="reallives.uk" group-title="United Kingdom",UK: Real Lives
+http://sync1b.iptv.bingo/live/5776?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY NEWS" tvg-id="skynews.uk" group-title="United Kingdom",UK: SKY NEWS
+http://sync1b.iptv.bingo/live/5784?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony Movie" tvg-id="sonymovies.uk" group-title="United Kingdom",UK: Sony Movie
+http://sync1b.iptv.bingo/live/5775?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony Channel" tvg-id="sonychannel.uk" group-title="United Kingdom",UK: Sony Channel
+http://sync1b.iptv.bingo/live/5774?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: VICELAND" tvg-id="viceland.uk" group-title="United Kingdom",UK: VICELAND
+http://sync1b.iptv.bingo/live/5807?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Watch" tvg-id="w.uk" group-title="United Kingdom",UK: Watch
+http://sync1b.iptv.bingo/live/5783?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY NEWS HD" tvg-id="skynews.uk" group-title="United Kingdom",UK: SKY NEWS HD
+http://sync1b.iptv.bingo/live/6001?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: HBO HD" tvg-id="" group-title="United Kingdom",VIP UK: HBO HD
+http://sync1b.iptv.bingo/live/6210?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: MTV LIVE HD" tvg-id="mtvlive.uk" group-title="United Kingdom",VIP UK: MTV LIVE HD
+http://sync1b.iptv.bingo/live/6209?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: BT Sport 2 HD 1080p" tvg-id="btsport2.uk" group-title="United Kingdom",VIP UK: BT Sport 2 HD 1080p
+http://sync1b.iptv.bingo/live/6630?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: BT Sport 3 HD 1080p" tvg-id="btsport3.uk" group-title="United Kingdom",VIP UK: BT Sport 3 HD 1080p
+http://sync1b.iptv.bingo/live/6631?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: Sky Sports 1 HD 1080p" tvg-id="" group-title="United Kingdom",VIP UK: Sky Sports 1 HD 1080p
+http://sync1b.iptv.bingo/live/6623?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: Sky Sports 2 HD 1080p" tvg-id="" group-title="United Kingdom",VIP UK: Sky Sports 2 HD 1080p
+http://sync1b.iptv.bingo/live/6624?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: Sky Sports 4 HD 1080p" tvg-id="" group-title="United Kingdom",VIP UK: Sky Sports 4 HD 1080p
+http://sync1b.iptv.bingo/live/6626?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: Sky Sports F1 HD 1080p" tvg-id="skysportsf1.uk" group-title="United Kingdom",VIP UK: Sky Sports F1 HD 1080p
+http://sync1b.iptv.bingo/live/6628?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: Sky Sports News HD 1080p" tvg-id="skysportsnews.uk" group-title="United Kingdom",VIP UK: Sky Sports News HD 1080p
+http://sync1b.iptv.bingo/live/6629?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: BBC 1 HD ( 1080P )" tvg-id="bbc1.uk" group-title="United Kingdom",VIP UK: BBC 1 HD ( 1080P )
+http://sync1b.iptv.bingo/live/6744?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: ITV2 FHD 1080" tvg-id="itv2.uk" group-title="United Kingdom",VIP UK: ITV2 FHD 1080
+http://sync1b.iptv.bingo/live/6972?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: Premier Sports FHD 1080" tvg-id="4seven.uk" group-title="United Kingdom",VIP UK: Premier Sports FHD 1080
+http://sync1b.iptv.bingo/live/6971?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="VIP UK: SKY NEWS 1080P HD" tvg-id="skynews.uk" group-title="United Kingdom",VIP UK: SKY NEWS 1080P HD
+http://sync1b.iptv.bingo/live/6979?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cartoonito" tvg-id="cartoonito.uk" group-title="United Kingdom",UK: Cartoonito
+http://sync1b.iptv.bingo/live/7144?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Action HD" tvg-id="skyaction.uk" group-title="United Kingdom",UK: Sky Cinema Action HD
+http://sync1b.iptv.bingo/live/7300?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Comedy HD" tvg-id="skycomedy.uk" group-title="United Kingdom",UK: Sky Cinema Comedy HD
+http://sync1b.iptv.bingo/live/7297?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Crime & Thriller HD" tvg-id="skycrimethriller.uk" group-title="United Kingdom",UK: Sky Cinema Crime & Thriller HD
+http://sync1b.iptv.bingo/live/7293?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Disney HD" tvg-id="skydisney.uk" group-title="United Kingdom",UK: Sky Cinema Disney HD
+http://sync1b.iptv.bingo/live/7298?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Drama & Romance HD" tvg-id="skycinemaromance.uk" group-title="United Kingdom",UK: Sky Cinema Drama & Romance HD
+http://sync1b.iptv.bingo/live/7294?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Family HD" tvg-id="skyfamily.uk" group-title="United Kingdom",UK: Sky Cinema Family HD
+http://sync1b.iptv.bingo/live/7299?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Premier HD" tvg-id="skypremiere.uk" group-title="United Kingdom",UK: Sky Cinema Premier HD
+http://sync1b.iptv.bingo/live/7301?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Sci-Fi & Horror HD" tvg-id="skyscifihorror.uk" group-title="United Kingdom",UK: Sky Cinema Sci-Fi & Horror HD
+http://sync1b.iptv.bingo/live/7296?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Select HD" tvg-id="skyselect.uk" group-title="United Kingdom",UK: Sky Cinema Select HD
+http://sync1b.iptv.bingo/live/7292?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Cbeebies" tvg-id="cbeebies.uk" group-title="United Kingdom",UK: Cbeebies
+http://sync1b.iptv.bingo/live/7439?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: History" tvg-id="historychannel.uk" group-title="United Kingdom",UK: History
+http://sync1b.iptv.bingo/live/7437?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Magic" tvg-id="magic.uk" group-title="United Kingdom",UK: Magic
+http://sync1b.iptv.bingo/live/7436?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV" tvg-id="mtv.uk" group-title="United Kingdom",UK: MTV
+http://sync1b.iptv.bingo/live/7438?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TCM" tvg-id="tcm.uk" group-title="United Kingdom",UK: TCM
+http://sync1b.iptv.bingo/live/7440?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: National Geographic" tvg-id="natgeo.uk" group-title="United Kingdom",UK: National Geographic
+http://sync1b.iptv.bingo/live/7441?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: H2" tvg-id="history2.uk" group-title="United Kingdom",UK: H2
+http://sync1b.iptv.bingo/live/7442?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: NATGEO WILD" tvg-id="natgeowild.uk" group-title="United Kingdom",UK: NATGEO WILD
+http://sync1b.iptv.bingo/live/7463?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Yesterday" tvg-id="yesterday.uk" group-title="United Kingdom",UK: Yesterday
+http://sync1b.iptv.bingo/live/420?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sport F1 HD" tvg-id="skysportsf1.uk" group-title="United Kingdom",UK: Sky Sport F1 HD
+http://sync1b.iptv.bingo/live/443?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sport 1 SD" tvg-id="" group-title="United Kingdom",UK: Sky Sport 1 SD
+http://sync1b.iptv.bingo/live/1922?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY One" tvg-id="sky1.uk" group-title="United Kingdom",UK: SKY One
+http://sync1b.iptv.bingo/live/422?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK : Sky Movies Drama" tvg-id="" group-title="United Kingdom",UK : Sky Movies Drama
+http://sync1b.iptv.bingo/live/427?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY Atlantic HD" tvg-id="skyatlantic.uk" group-title="United Kingdom",UK: SKY Atlantic HD
+http://sync1b.iptv.bingo/live/428?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Arts" tvg-id="skyarts.uk" group-title="United Kingdom",UK: Sky Arts
+http://sync1b.iptv.bingo/live/429?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nat Geo Graphic" tvg-id="natgeo.uk" group-title="United Kingdom",UK: Nat Geo Graphic
+http://sync1b.iptv.bingo/live/431?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Mototrs TV" tvg-id="motorstv.uk" group-title="United Kingdom",UK: Mototrs TV
+http://sync1b.iptv.bingo/live/1029?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: More 4" tvg-id="more4.uk" group-title="United Kingdom",UK: More 4
+http://sync1b.iptv.bingo/live/432?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Manchester United TV" tvg-id="mutv.uk" group-title="United Kingdom",UK: Manchester United TV
+http://sync1b.iptv.bingo/live/433?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Living UK" tvg-id="skyliving.uk" group-title="United Kingdom",UK: Living UK
+http://sync1b.iptv.bingo/live/426?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Life time" tvg-id="lifetime.uk" group-title="United Kingdom",UK: Life time
+http://sync1b.iptv.bingo/live/894?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: FOX" tvg-id="fox.uk" group-title="United Kingdom",UK: FOX
+http://sync1b.iptv.bingo/live/434?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK : Eden" tvg-id="eden.uk" group-title="United Kingdom",UK : Eden
+http://sync1b.iptv.bingo/live/436?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Dave" tvg-id="dave.uk" group-title="United Kingdom",UK: Dave
+http://sync1b.iptv.bingo/live/437?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK : Comedy Central" tvg-id="comedycentral.uk" group-title="United Kingdom",UK : Comedy Central
+http://sync1b.iptv.bingo/live/438?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CNN" tvg-id="cnn.uk" group-title="United Kingdom",UK: CNN
+http://sync1b.iptv.bingo/live/3134?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Chelsea TV1" tvg-id="challenge.uk" group-title="United Kingdom",UK: Chelsea TV1
+http://sync1b.iptv.bingo/live/439?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Animal Planet" tvg-id="animalplanet.uk" group-title="United Kingdom",UK: Animal Planet
+http://sync1b.iptv.bingo/live/441?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: UTV" tvg-id="mutv.uk" group-title="United Kingdom",UK: UTV
+http://sync1b.iptv.bingo/live/1416?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Tiny POP" tvg-id="tinypop.uk" group-title="United Kingdom",UK: Tiny POP
+http://sync1b.iptv.bingo/live/4460?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Syfy" tvg-id="syfy.uk" group-title="United Kingdom",UK: Syfy
+http://sync1b.iptv.bingo/live/74?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-id="skysportsmainevent.uk" group-title="United Kingdom",UK: SKY SPORTS MAIN EVENT HD
+http://sync1b.iptv.bingo/live/26?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sport News" tvg-id="skysportsnews.uk" group-title="United Kingdom",UK: Sky Sport News
+http://sync1b.iptv.bingo/live/16?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS PREMIER LEAGUE HD" tvg-id="skysportspremiereleague.uk" group-title="United Kingdom",UK: SKY SPORTS PREMIER LEAGUE HD
+http://sync1b.iptv.bingo/live/18?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS GOLF HD" tvg-id="skysportsgolf.uk" group-title="United Kingdom",UK: SKY SPORTS GOLF HD
+http://sync1b.iptv.bingo/live/20?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS ACTION HD" tvg-id="skysportsaction.uk" group-title="United Kingdom",UK: SKY SPORTS ACTION HD
+http://sync1b.iptv.bingo/live/22?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY SPORTS CRICKET HD" tvg-id="skysportscricket.uk" group-title="United Kingdom",UK: SKY SPORTS CRICKET HD
+http://sync1b.iptv.bingo/live/24?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Thriller" tvg-id="skycrimethriller.uk" group-title="United Kingdom",UK: Sky Movies Thriller
+http://sync1b.iptv.bingo/live/54?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Showcase" tvg-id="" group-title="United Kingdom",UK: Sky Movies Showcase
+http://sync1b.iptv.bingo/live/55?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Premiere" tvg-id="" group-title="United Kingdom",UK: Sky Movies Premiere
+http://sync1b.iptv.bingo/live/56?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Greats" tvg-id="Sky Movies Greats UK" group-title="United Kingdom",UK: Sky Movies Greats
+http://sync1b.iptv.bingo/live/57?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Family" tvg-id="" group-title="United Kingdom",UK: Sky Movies Family
+http://sync1b.iptv.bingo/live/58?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Disney" tvg-id="" group-title="United Kingdom",UK: Sky Movies Disney
+http://sync1b.iptv.bingo/live/59?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Comedy" tvg-id="" group-title="United Kingdom",UK: Sky Movies Comedy
+http://sync1b.iptv.bingo/live/60?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movies Action" tvg-id="" group-title="United Kingdom",UK: Sky Movies Action
+http://sync1b.iptv.bingo/live/61?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Movie Sci-Fi" tvg-id="" group-title="United Kingdom",UK: Sky Movie Sci-Fi
+http://sync1b.iptv.bingo/live/62?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nicktoons" tvg-id="nicktoons.uk" group-title="United Kingdom",UK: Nicktoons
+http://sync1b.iptv.bingo/live/1433?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Nick Jr" tvg-id="nickjunior.uk" group-title="United Kingdom",UK: Nick Jr
+http://sync1b.iptv.bingo/live/1434?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: London Live" tvg-id="londonlive.uk" group-title="United Kingdom",UK: London Live
+http://sync1b.iptv.bingo/live/1417?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV be" tvg-id="itvbe.uk" group-title="United Kingdom",UK: ITV be
+http://sync1b.iptv.bingo/live/1627?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Home & Health" tvg-id="homeandhealth.uk" group-title="United Kingdom",UK: Home & Health
+http://sync1b.iptv.bingo/live/66?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK:  Good Food" tvg-id="goodfood.uk" group-title="United Kingdom",UK:  Good Food
+http://sync1b.iptv.bingo/live/1414?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: gold" tvg-id="gold.uk" group-title="United Kingdom",UK: gold
+http://sync1b.iptv.bingo/live/1432?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Film 4" tvg-id="film4.uk" group-title="United Kingdom",UK: Film 4
+http://sync1b.iptv.bingo/live/1419?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: E4" tvg-id="e4.uk" group-title="United Kingdom",UK: E4
+http://sync1b.iptv.bingo/live/1420?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: E!(1)" tvg-id="eentertainment.uk" group-title="United Kingdom",UK: E!(1)
+http://sync1b.iptv.bingo/live/1430?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Drama" tvg-id="drama.uk" group-title="United Kingdom",UK: Drama
+http://sync1b.iptv.bingo/live/174?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: DMax" tvg-id="discoverydmax.uk" group-title="United Kingdom",UK: DMax
+http://sync1b.iptv.bingo/live/853?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney XD" tvg-id="disneyxd.uk" group-title="United Kingdom",UK: Disney XD
+http://sync1b.iptv.bingo/live/47?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney Junior" tvg-id="disneyjunior.uk" group-title="United Kingdom",UK: Disney Junior
+http://sync1b.iptv.bingo/live/48?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney" tvg-id="disneychannel.uk" group-title="United Kingdom",UK: Disney
+http://sync1b.iptv.bingo/live/49?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Turbo" tvg-id="discoveryturbo.uk" group-title="United Kingdom",UK: Discovery Turbo
+http://sync1b.iptv.bingo/live/63?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Shed" tvg-id="discoveryshed.uk" group-title="United Kingdom",UK: Discovery Shed
+http://sync1b.iptv.bingo/live/64?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery Science" tvg-id="discoveryscience.uk" group-title="United Kingdom",UK: Discovery Science
+http://sync1b.iptv.bingo/live/65?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Discovery History" tvg-id="discoveryhistory.uk" group-title="United Kingdom",UK: Discovery History
+http://sync1b.iptv.bingo/live/67?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: DISCOVERY" tvg-id="discoverychannel.uk" group-title="United Kingdom",UK: DISCOVERY
+http://sync1b.iptv.bingo/live/68?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBS reality" tvg-id="cbsreality.uk" group-title="United Kingdom",UK: CBS reality
+http://sync1b.iptv.bingo/live/1421?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBS Drama" tvg-id="cbsdrama.uk" group-title="United Kingdom",UK: CBS Drama
+http://sync1b.iptv.bingo/live/1422?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBS Action" tvg-id="cbsaction.uk" group-title="United Kingdom",UK: CBS Action
+http://sync1b.iptv.bingo/live/1423?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK | BT Sport Europe HD" tvg-id="" group-title="United Kingdom",UK | BT Sport Europe HD
+http://sync1b.iptv.bingo/live/3?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport ESPN" tvg-id="btsportespn.uk" group-title="United Kingdom",UK: BT Sport ESPN
+http://sync1b.iptv.bingo/live/4?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 2 HD" tvg-id="btsport2.uk" group-title="United Kingdom",UK: BT Sport 2 HD
+http://sync1b.iptv.bingo/live/6?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 1 HD" tvg-id="btsport1.uk" group-title="United Kingdom",UK: BT Sport 1 HD
+http://sync1b.iptv.bingo/live/8?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Boxnation" tvg-id="boxnation.uk" group-title="United Kingdom",UK: Boxnation
+http://sync1b.iptv.bingo/live/9?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Boomerang" tvg-id="boomerang.uk" group-title="United Kingdom",UK: Boomerang
+http://sync1b.iptv.bingo/live/1424?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Pick(1)" tvg-id="picktv.uk" group-title="United Kingdom",UK: Pick(1)
+http://sync1b.iptv.bingo/live/1428?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CBBC" tvg-id="cbbc.uk" group-title="United Kingdom",UK: CBBC
+http://sync1b.iptv.bingo/live/167?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC Three HD" tvg-id="" group-title="United Kingdom",UK: BBC Three HD
+http://sync1b.iptv.bingo/live/184?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK BBC ONE HD" tvg-id="bbc1.uk" group-title="United Kingdom",UK BBC ONE HD
+http://sync1b.iptv.bingo/live/185?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Baby TV" tvg-id="babytv.uk" group-title="United Kingdom",UK: Baby TV
+http://sync1b.iptv.bingo/live/171?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Clubland" tvg-id="clublandtv.uk" group-title="United Kingdom",UK: Clubland
+http://sync1b.iptv.bingo/live/7597?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Celtic FC TV (Live for Matches )" tvg-id="" group-title="United Kingdom",UK: Celtic FC TV (Live for Matches )
+http://sync1b.iptv.bingo/live/7682?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RANGERS FC TV (matchtime)" tvg-id="" group-title="United Kingdom",UK: RANGERS FC TV (matchtime)
+http://sync1b.iptv.bingo/live/7681?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MUTV Backup" tvg-id="mutv.uk" group-title="United Kingdom",UK: MUTV Backup
+http://sync1b.iptv.bingo/live/7686?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: EUROSPORT 2 HD" tvg-id="eurosport2.uk" group-title="United Kingdom",UK: EUROSPORT 2 HD
+http://sync1b.iptv.bingo/live/7688?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: EUROSPORT 1 HD" tvg-id="eurosport1.uk" group-title="United Kingdom",UK: EUROSPORT 1 HD
+http://sync1b.iptv.bingo/live/7689?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: CNN FHD" tvg-id="cnn.uk" group-title="United Kingdom",UK: CNN FHD
+http://sync1b.iptv.bingo/live/7794?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV 2 FHD" tvg-id="itv2.uk" group-title="United Kingdom",UK: ITV 2 FHD
+http://sync1b.iptv.bingo/live/7791?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TV ONE HD" tvg-id="" group-title="United Kingdom",UK: TV ONE HD
+http://sync1b.iptv.bingo/live/7989?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: LFC TV HD" tvg-id="liverpoolfctv.uk" group-title="United Kingdom",UK: LFC TV HD
+http://sync1b.iptv.bingo/live/7996?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TG4" tvg-id="" group-title="United Kingdom",UK: TG4
+http://sync1b.iptv.bingo/live/8412?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV +1" tvg-id="itv1angliaplus1.uk" group-title="United Kingdom",UK: ITV +1
+http://sync1b.iptv.bingo/live/8684?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV2 +1" tvg-id="itv2plus1.uk" group-title="United Kingdom",UK: ITV2 +1
+http://sync1b.iptv.bingo/live/8685?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV3  +1" tvg-id="itv3plus1.uk" group-title="United Kingdom",UK: ITV3  +1
+http://sync1b.iptv.bingo/live/8686?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV4 +1" tvg-id="itv4plus1.uk" group-title="United Kingdom",UK: ITV4 +1
+http://sync1b.iptv.bingo/live/8687?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE JUNIOR" tvg-id="" group-title="United Kingdom",UK: RTE JUNIOR
+http://sync1b.iptv.bingo/live/8682?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RTE News Now" tvg-id="" group-title="United Kingdom",UK: RTE News Now
+http://sync1b.iptv.bingo/live/8631?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: TV3" tvg-id="" group-title="United Kingdom",UK: TV3
+http://sync1b.iptv.bingo/live/8683?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Euronews" tvg-id="euronews.uk" group-title="United Kingdom",UK: Euronews
+http://sync1b.iptv.bingo/live/8695?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Cinema Hits" tvg-id="" group-title="United Kingdom",UK: Sky Cinema Hits
+http://sync1b.iptv.bingo/live/8867?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BT Sport 1 backup" tvg-id="btsport1.uk" group-title="United Kingdom",UK: BT Sport 1 backup
+http://sync1b.iptv.bingo/live/8950?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC ONE SD" tvg-id="bbc1.uk" group-title="United Kingdom",UK: BBC ONE SD
+http://sync1b.iptv.bingo/live/8868?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BOX OFFICE HD 1" tvg-id="" group-title="United Kingdom",UK: BOX OFFICE HD 1
+http://sync1b.iptv.bingo/live/9131?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BOX OFFICE HD 2" tvg-id="" group-title="United Kingdom",UK: BOX OFFICE HD 2
+http://sync1b.iptv.bingo/live/9130?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BOX OFFICE HD 3" tvg-id="" group-title="United Kingdom",UK: BOX OFFICE HD 3
+http://sync1b.iptv.bingo/live/9129?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BOX OFFICE HD 4" tvg-id="" group-title="United Kingdom",UK: BOX OFFICE HD 4
+http://sync1b.iptv.bingo/live/9128?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Peace TV" tvg-id="" group-title="United Kingdom",UK: Peace TV
+http://sync1b.iptv.bingo/live/9149?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Amc" tvg-id="amc.uk" group-title="United Kingdom",UK: Amc
+http://sync1b.iptv.bingo/live/9160?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: ITV BOX OFFICE PPV" tvg-id="itvboxoffice.uk" group-title="United Kingdom",UK: ITV BOX OFFICE PPV
+http://sync1b.iptv.bingo/live/9183?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sport Arena HD" tvg-id="skysportsarena.uk" group-title="United Kingdom",UK: Sky Sport Arena HD
+http://sync1b.iptv.bingo/live/10165?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sport Football HD" tvg-id="skysportsfootball.uk" group-title="United Kingdom",UK: Sky Sport Football HD
+http://sync1b.iptv.bingo/live/10164?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Channel AKA" tvg-id="channelaka.uk" group-title="United Kingdom",UK: Channel AKA
+http://sync1b.iptv.bingo/live/10185?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: MTV Base HD" tvg-id="mtvbase.uk" group-title="United Kingdom",UK: MTV Base HD
+http://sync1b.iptv.bingo/live/11771?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 4Music" tvg-id="4music.uk" group-title="United Kingdom",UK: 4Music
+http://sync1b.iptv.bingo/live/11777?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Box hits" tvg-id="Box Hits" group-title="United Kingdom",UK: Box hits
+http://sync1b.iptv.bingo/live/11779?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports The Open" tvg-id="" group-title="United Kingdom",UK: Sky Sports The Open
+http://sync1b.iptv.bingo/live/11781?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sky Sports The Open HD" tvg-id="" group-title="United Kingdom",UK: Sky Sports The Open HD
+http://sync1b.iptv.bingo/live/11782?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Horror Channel" tvg-id="horrorchannel.uk" group-title="United Kingdom",UK: Horror Channel
+http://sync1b.iptv.bingo/live/16855?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BBC News" tvg-id="bbcnews.uk" group-title="United Kingdom",UK: BBC News
+http://sync1b.iptv.bingo/live/17019?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: RT NEW" tvg-id="rt.uk" group-title="United Kingdom",UK: RT NEW
+http://sync1b.iptv.bingo/live/17205?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: PBS America" tvg-id="pbsamerica.uk" group-title="United Kingdom",UK: PBS America
+http://sync1b.iptv.bingo/live/18141?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: S4C" tvg-id="" group-title="United Kingdom",UK: S4C
+http://sync1b.iptv.bingo/live/18140?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Starz TV" tvg-id="starztv.uk" group-title="United Kingdom",UK: Starz TV
+http://sync1b.iptv.bingo/live/18139?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: The Vault" tvg-id="thevault.uk" group-title="United Kingdom",UK: The Vault
+http://sync1b.iptv.bingo/live/18138?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: 5 Spike" tvg-id="5spike.uk" group-title="United Kingdom",UK: 5 Spike
+http://sync1b.iptv.bingo/live/26817?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: BIKE" tvg-id="" group-title="United Kingdom",UK: BIKE
+http://sync1b.iptv.bingo/live/17649?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Motors TV" tvg-id="motorstv.uk" group-title="United Kingdom",UK: Motors TV
+http://sync1b.iptv.bingo/live/19333?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: PICK" tvg-id="picktv.uk" group-title="United Kingdom",UK: PICK
+http://sync1b.iptv.bingo/live/17196?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Colors" tvg-id="" group-title="United Kingdom",UK: Colors
+http://sync1b.iptv.bingo/live/32097?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Sony Max" tvg-id="sonymax.uk" group-title="United Kingdom",UK: Sony Max
+http://sync1b.iptv.bingo/live/26605?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SONY TV" tvg-id="sonychannel.uk" group-title="United Kingdom",UK: SONY TV
+http://sync1b.iptv.bingo/live/26604?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: True Crime" tvg-id="truecrime.uk" group-title="United Kingdom",UK: True Crime
+http://sync1b.iptv.bingo/live/17017?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zee Cinema" tvg-id="" group-title="United Kingdom",UK: Zee Cinema
+http://sync1b.iptv.bingo/live/32096?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Zee TV" tvg-id="" group-title="United Kingdom",UK: Zee TV
+http://sync1b.iptv.bingo/live/32095?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: Disney Movies" tvg-id="" group-title="United Kingdom",UK: Disney Movies
+http://sync1b.iptv.bingo/live/32006?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: SKY 5* MOVIES FHD" tvg-id="" group-title="United Kingdom",UK: SKY 5* MOVIES FHD
+http://sync1b.iptv.bingo/live/40405?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-name="UK: True Movies  1" tvg-id="truemovies.uk" group-title="United Kingdom",UK: True Movies  1
+http://sync1b.iptv.bingo/live/29468?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
