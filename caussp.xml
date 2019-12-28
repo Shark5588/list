@@ -16,7 +16,7 @@ EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png"
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 12/24/2019 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 12/28/2019 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
@@ -674,31 +674,42 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Sky Sports   Sky Sports  Sky Sports   Sky Sports   Sky Sports  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Arena | UK[/B][/COLOR]
-http://51.15.211.162:8081/live/skysportsarena-hq/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Action | HD[/B][/COLOR]
+http://sync1.iptv.bingo/live/1595?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Arena | UHD[/B][/COLOR]
+http://sync1.iptv.bingo/live/1610?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Cricket | UK[/B][/COLOR]
+http://sync1.iptv.bingo/live/1592?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports F1 | UK[/B][/COLOR]
+http://sync1.iptv.bingo/live/1594?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Football | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Premier League | UK[/B][/COLOR]
-http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Football | UK[/B][/COLOR]
+http://sync1.iptv.bingo/live/1591?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Football | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Golf | UK[/B][/COLOR]
+http://sync1.iptv.bingo/live/1593?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Main Event | UK[/B][/COLOR]
+http://sync1.iptv.bingo/live/1589?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Main Event | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Premier League | UK[/B][/COLOR]
+http://sync1.iptv.bingo/live/1590?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Premier League | UK[/B][/COLOR]
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 ##########################################################################################################################################
 EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png",[B][COLORorange]Specturm Sportsnet SD| USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png",[B][COLORorange]Specturm Sportsnet HD| USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d1/b9/1f/d1b91f1b-846e-7e36-1834-0da8a6a3d9dc/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",[B][COLORorange]SPORTSMAX | USA[/B][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d1/b9/1f/d1b91f1b-846e-7e36-1834-0da8a6a3d9dc/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",[B][COLORorange]SPORTSMAX | USA[/B][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ SPORTNET $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Sports-Net   Sports-Net  Sports-Net   Sports-Net   Sports-Net  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61wDZgIu%2BcL.png" group-title="USA/CA Channels",[B][COLORorange]Sports-Net|USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -786,8 +797,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-
-
 #########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" ,[B][COLORorange]Stadium | SD[/B][/COLOR]
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
@@ -801,9 +810,9 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",US SPORT | Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",US SPORT | Tennis Plus 2
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-
-TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1  tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -876,13 +885,13 @@ EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.
 
 EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png",TSN 3 HD 
 
-
 EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 4 HD 
-
 
 EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 5 HD
 
-########################################################################## TVA_Sports_ vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
@@ -893,11 +902,9 @@ EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasp
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS 1| CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-==============================================UFC=========================================UFC=========================================================
-EXTINF:-1 tvg-logo="https://i.imgur.com/nAkvH0H.png" group-title="SPORTS", Tuff TV (USA) =============================================================
-http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8=============================
-======================================================================================================================================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  UFC_FIGHTPASS UFC_FIGHTPASS UFC_FIGHTPASS UFC_FIGHTPASS UFC_FIGHTPASS <<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2IG6npc
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
@@ -938,7 +945,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 ==========================================================================================================
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_kT7EmHnqrvGKGgDy5uQrrDKyXxzxVYknxLg=s900-c-k-c0xffffffff-no-rj-mo",[B][COLORorange]WOSN TV | US[/B][/COLOR]
 http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
-==========================================================================================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  WWE Network WWE Network WWE Network WWE Network WWE Network WWE Network <<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
 http://sv6.dailymotion.com.1cdn.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
@@ -968,7 +977,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="http://149.202.206.141:7070/logo/US-WWE.png",[B][COLORorange]WWE Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-========================================================== YES NETWORK =====================================
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  YES_Network YES_Network YES_Network YES_Network YES_Network YES_Network <<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png",[B][COLORorange]YES NETWORK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -980,9 +991,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 =====================================================================================================================================
 #####################################################################################################################################
 =====================================================================================================================================
-EXTINF:-1,US: FOX SPORTS 1 | HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
 EXTINF:-1,ACETest
 plugin://program.plexus/?mode=1&url=acestream://43b513e2cdc2eaa73fc4dc0da15888da9e60a358&name=My+acestream+channel
 EXTINF:-1,ACETest
