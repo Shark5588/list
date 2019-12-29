@@ -19,387 +19,274 @@ http://0.0.0.0:1234
 
 
 #EXTM3U
-#EXTINF:-1,CA: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34695
-#EXTINF:-1,CA: ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34694
-#EXTINF:-1,CA: ABC SPARK CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34693
-#EXTINF:-1,CA: ABC WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34692
-#EXTINF:-1,CA: ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34691
-#EXTINF:-1,CA: AHC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34690
-#EXTINF:-1,CA: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34689
-#EXTINF:-1,CA: ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34688
-#EXTINF:-1,CA: APTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34687
-#EXTINF:-1,CA: ASSEMBLÉE NATIONALE QUÉBEC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34686
-#EXTINF:-1,CA: BBC CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34685
-#EXTINF:-1,CA: BBC KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34684
-#EXTINF:-1,CA: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34683
-#EXTINF:-1,CA: BET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34682
-#EXTINF:-1,CA: BNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34681
-#EXTINF:-1,CA: BOOK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34680
-#EXTINF:-1,CA: BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34679
-#EXTINF:-1,CA: CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34677
-#EXTINF:-1,CA: CBC NOVA SCOTIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34676
-#EXTINF:-1,CA: CBC OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34675
-#EXTINF:-1,CA: CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34674
-#EXTINF:-1,CA: CBC VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34673
-#EXTINF:-1,CA: CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34672
-#EXTINF:-1,CA: CBS WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34671
-#EXTINF:-1,CA: CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34670
-#EXTINF:-1,CA: CITY MONTREAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34669
-#EXTINF:-1,CA: CITY SASKATCHEWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34668
-#EXTINF:-1,CA: CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34667
-#EXTINF:-1,CA: CITY VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34666
-#EXTINF:-1,CA: CITY WINNIPEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34665
-#EXTINF:-1,CA: CMT CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34664
-#EXTINF:-1,CA: CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34663
-#EXTINF:-1,CA: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34662
-#EXTINF:-1,CA: CNN INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34661
-#EXTINF:-1,CA: COMEDY EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34660
-#EXTINF:-1,CA: COMEDY GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34659
-#EXTINF:-1,CA: COMEDY WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34658
-#EXTINF:-1,CA: COOKING CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34657
-#EXTINF:-1,CA: COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34656
-#EXTINF:-1,CA: COTTAGE LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34655
-#EXTINF:-1,CA: CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34654
-#EXTINF:-1,CA: CPAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34653
-#EXTINF:-1,CA: CPAC FRENCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34652
-#EXTINF:-1,CA: CRIME   INVEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34651
-#EXTINF:-1,CA: CTV 2 TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34650
-#EXTINF:-1,CA: CTV 2 VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34649
-#EXTINF:-1,CA: CTV HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34648
-#EXTINF:-1,CA: CTV NEWS NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34647
-#EXTINF:-1,CA: CTV OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34646
-#EXTINF:-1,CA: CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34645
-#EXTINF:-1,CA: CTV VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34644
-#EXTINF:-1,CA: CTV2 OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34643
-#EXTINF:-1,CA: CW 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34642
-#EXTINF:-1,CA: DAYSTAR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34641
-#EXTINF:-1,CA: DEJAVIEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34640
-#EXTINF:-1,CA: DISCOVERY CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34639
-#EXTINF:-1,CA: DISCOVERY SCIENCE CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34638
-#EXTINF:-1,CA: DISNEY CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34637
-#EXTINF:-1,CA: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34636
-#EXTINF:-1,CA: DIY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34635
-#EXTINF:-1,CA: DOCUMENTARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34634
-#EXTINF:-1,CA: DTOUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34633
-#EXTINF:-1,CA: E! CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34632
-#EXTINF:-1,CA: ENCORE 1 EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34631
-#EXTINF:-1,CA: ENCORE 2 EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34630
-#EXTINF:-1,CA: EVASION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34629
-#EXTINF:-1,CA: FAMILY CHRGD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34628
-#EXTINF:-1,CA: FAMILY EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34627
-#EXTINF:-1,CA: FAMILY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34626
-#EXTINF:-1,CA: FAMILY WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34625
-#EXTINF:-1,CA: FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34624
-#EXTINF:-1,CA: FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34623
-#EXTINF:-1,CA: FOX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34622
-#EXTINF:-1,CA: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34621
-#EXTINF:-1,CA: FOX WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34620
-#EXTINF:-1,CA: FRISSON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34619
-#EXTINF:-1,CA: FTV CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34618
-#EXTINF:-1,CA: FYI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34617
-#EXTINF:-1,CA: Game TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34616
-#EXTINF:-1,CA: GINX ESPORTS TV CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34615
-#EXTINF:-1,CA: GLOBAL HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34614
-#EXTINF:-1,CA: GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34613
-#EXTINF:-1,CA: GLOBAL VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34612
-#EXTINF:-1,CA: GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34611
-#EXTINF:-1,CA: GSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34610
-#EXTINF:-1,CA: GUSTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34609
-#EXTINF:-1,CA: H2 CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34608
-#EXTINF:-1,CA: HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34607
-#EXTINF:-1,CA: HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34606
-#EXTINF:-1,CA: HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34605
-#EXTINF:-1,CA: HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34604
-#EXTINF:-1,CA: HLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34603
-#EXTINF:-1,CA: HOPE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34602
-#EXTINF:-1,CA: ICI VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34601
-#EXTINF:-1,CA: ID CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34600
-#EXTINF:-1,CA: IFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34599
-#EXTINF:-1,CA: JOY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34598
-#EXTINF:-1,CA: KNOWLEDGE KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34597
-#EXTINF:-1,CA: KTLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34596
-#EXTINF:-1,CA: LEAFS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34595
-#EXTINF:-1,CA: LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34594
-#EXTINF:-1,CA: MAKEFUL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34593
-#EXTINF:-1,CA: MAVTV CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34592
-#EXTINF:-1,CA: MIRACLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34591
-#EXTINF:-1,CA: MLB NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34590
-#EXTINF:-1,CA: MTIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34589
-#EXTINF:-1,CA: MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34588
-#EXTINF:-1,CA: MTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34587
-#EXTINF:-1,CA: MUCH MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34586
-#EXTINF:-1,CA: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34585
-#EXTINF:-1,CA: NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34584
-#EXTINF:-1,CA: NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34583
-#EXTINF:-1,CA: NBC WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34582
-#EXTINF:-1,CA: NFL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34581
-#EXTINF:-1,CA: NICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34580
-#EXTINF:-1,CA: NTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34579
-#EXTINF:-1,CA: OLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34578
-#EXTINF:-1,CA: OMNI 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34577
-#EXTINF:-1,CA: OMNI 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34576
-#EXTINF:-1,CA: OMNI BC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34575
-#EXTINF:-1,CA: OMNI EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34574
-#EXTINF:-1,CA: ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34573
-#EXTINF:-1,CA: OUTTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34572
-#EXTINF:-1,CA: OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34571
-#EXTINF:-1,CA: PBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34570
-#EXTINF:-1,CA: PBS WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34569
-#EXTINF:-1,CA: PEACH TREE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34568
-#EXTINF:-1,CA: PRISE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34567
-#EXTINF:-1,CA: RT AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34566
-#EXTINF:-1,CA: SHOPPING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34565
-#EXTINF:-1,CA: SHOWCASE EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34564
-#EXTINF:-1,CA: SILVER SCREEN CLASSICS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34563
-#EXTINF:-1,CA: SLICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34562
-#EXTINF:-1,CA: SMITHSONIAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34561
-#EXTINF:-1,CA: SPACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34560
-#EXTINF:-1,CA: SPIKE TV / PARAMOUNT CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34559
-#EXTINF:-1,CA: SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34558
-#EXTINF:-1,CA: SPORTSNET EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34557
-#EXTINF:-1,CA: SPORTSNET ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34556
-#EXTINF:-1,CA: SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34555
-#EXTINF:-1,CA: SPORTSNET PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34554
-#EXTINF:-1,CA: SPORTSNET WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34553
-#EXTINF:-1,CA: SPORTSNET WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34552
-#EXTINF:-1,CA: SUPER CHANNEL FUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34551
-#EXTINF:-1,CA: SUPER CHANNEL HEART & HOME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34550
-#EXTINF:-1,CA: SUPER CHANNEL VAULT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34549
-#EXTINF:-1,CA: TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34548
-#EXTINF:-1,CA: TELE LATINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34547
-#EXTINF:-1,CA: TELE TOON EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34546
-#EXTINF:-1,CA: TELE TOON WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34545
-#EXTINF:-1,CA: TELEMAGINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34544
-#EXTINF:-1,CA: TFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34543
-#EXTINF:-1,CA: THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34542
-#EXTINF:-1,CA: TLC CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34541
-#EXTINF:-1,CA: TMN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34540
-#EXTINF:-1,CA: TMN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34539
-#EXTINF:-1,CA: TMN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34538
-#EXTINF:-1,CA: TMN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34537
-#EXTINF:-1,CA: TRAVEL   ESCAPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34536
-#EXTINF:-1,CA: TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34535
-#EXTINF:-1,CA: TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34534
-#EXTINF:-1,CA: TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34533
-#EXTINF:-1,CA: TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34532
-#EXTINF:-1,CA: TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34531
-#EXTINF:-1,CA: TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34530
-#EXTINF:-1,CA: TVA GATINEAU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34529
-#EXTINF:-1,CA: TVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34528
-#EXTINF:-1,CA: UNIS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34527
-#EXTINF:-1,CA: VISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34526
-#EXTINF:-1,CA: W NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34525
-#EXTINF:-1,CA: WFN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34524
-#EXTINF:-1,CA: WGN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34523
-#EXTINF:-1,CA: Wild TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34522
-#EXTINF:-1,CA: WSBK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34521
-#EXTINF:-1,CA: YES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34520
-#EXTINF:-1,CA: YTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34519
-#EXTINF:-1,CA: YTV West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34518
-#EXTINF:-1,CA: RADIO CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34517
-#EXTINF:-1,CA: CBC CALGARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34516
-#EXTINF:-1,CA: CBC CHARLOTTETOWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34515
-#EXTINF:-1,CA: CBC EDMONTON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34514
-#EXTINF:-1,CA: CBC FREDERICTON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34513
-#EXTINF:-1,CA: CBC HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34512
-#EXTINF:-1,CA: CBC NATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34511
-#EXTINF:-1,CA: CBC REGINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34510
-#EXTINF:-1,CA: CBC ST.JOHN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34509
-#EXTINF:-1,CA: CBC VANCOVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34508
-#EXTINF:-1,CA: CBC WINDSOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34507
-#EXTINF:-1,CA: CBC WINNIPEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34506
-#EXTINF:-1,CA: CBC YELLOWKNIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34505
-#EXTINF:-1,CA: GLOBAL CALGRAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34504
-#EXTINF:-1,CA: GLOBAL TORONTO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/34503
+#EXTINF:0,ES :SP EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93367
+#EXTINF:0,ES :SP EUROSPORT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93368
+#EXTINF:0,ES :SP Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93370
+#EXTINF:0,ES :SP ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93381
+#EXTINF:0,ES :SP TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93378
+#EXTINF:0,ES :SP  TELEDEPORTE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93128
+#EXTINF:0,ES :SP MOVISTAR  TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93379
+#EXTINF:0,ES :SP MOVISTAR TOROS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93380
+#EXTINF:0,[FR] RMC Sport Live 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129789
+#EXTINF:0,[FR] RMC Sport Live 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129790
+#EXTINF:0,[FR] RMC Sport Live 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129791
+#EXTINF:0,[FR] RMC Sport Live 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129792
+#EXTINF:0,[FR] RMC Sport Live 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129793
+#EXTINF:0,[FR] RMC Sport Live 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129794
+#EXTINF:0,[FR] RMC Sport Live 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129795
+#EXTINF:0,[FR] RMC Sport Live 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129796
+#EXTINF:0,[FR] RMC Sport Live 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129797
+#EXTINF:0,[FR] RMC Sport Live 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129798
+#EXTINF:0,[FR] RMC SPORT ACCESS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129799
+#EXTINF:0,[FR] RMC SPORT ACCESS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129800
+#EXTINF:0,[FR] RMC SPORT ACCESS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129801
+#EXTINF:0,[FR] RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129802
+#EXTINF:0,[FR] EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129880
+#EXTINF:0,[FR] EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129881
+#EXTINF:0,[FR] beIN SPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129882
+#EXTINF:0,[FR] beIN SPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129883
+#EXTINF:0,[FR] beIN SPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129884
+#EXTINF:0,[FR] BeIN Sports MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129885
+#EXTINF:0,[FR] BeIN Sports MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129886
+#EXTINF:0,[FR] BeIN Sports MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129887
+#EXTINF:0,[FR] BeIN Sports MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129888
+#EXTINF:0,[FR] BeIN Sports MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129889
+#EXTINF:0,[FR] BeIN Sports MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129890
+#EXTINF:0,[FR] BeIN Sports MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129891
+#EXTINF:0,DE: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115906
+#EXTINF:0,DE: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115907
+#EXTINF:0,DE: Eurosport 2 Xtra FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115908
+#EXTINF:0,DE: Eurosport Player 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115909
+#EXTINF:0,DE: Eurosport Player 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115910
+#EXTINF:0,DE: Eurosport Player 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115911
+#EXTINF:0,DE: Eurosport Player 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115912
+#EXTINF:0,DE: Eurosport Player 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115913
+#EXTINF:0,DE: Eurosport Player 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115914
+#EXTINF:0,DE: Eurosport Player 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115915
+#EXTINF:0,DE: Sky Bundesliga 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115972
+#EXTINF:0,DE: Sky Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115973
+#EXTINF:0,DE: Sky Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115974
+#EXTINF:0,DE: Sky Bundesliga 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115975
+#EXTINF:0,DE: Sky Bundesliga 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115976
+#EXTINF:0,DE: Sky Bundesliga 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115977
+#EXTINF:0,DE: Sky Bundesliga 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115978
+#EXTINF:0,DE: Sky Bundesliga 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115979
+#EXTINF:0,DE: Sky Bundesliga 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115980
+#EXTINF:0,DE: Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115991
+#EXTINF:0,DE: Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115992
+#EXTINF:0,DE: Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115993
+#EXTINF:0,DE: Sky Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115994
+#EXTINF:0,DE: Sky Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115995
+#EXTINF:0,DE: Sky Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115996
+#EXTINF:0,DE: Sky Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115997
+#EXTINF:0,DE: Sky Sport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115998
+#EXTINF:0,DE: Sky Sport Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115999
+#EXTINF:0,DE: Sky Sport HD 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/116000
+#EXTINF:0,DE: Sky Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/116001
+#EXTINF:0,DE: Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/116002
+
+#EXTINF:0,IT: SKY Calcio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127066
+#EXTINF:0,IT: SKY CALCIO 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127067
+#EXTINF:0,IT: SKY CALCIO 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127068
+#EXTINF:0,IT: SKY CALCIO 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127069
+#EXTINF:0,IT: Top Calcio 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127070
+#EXTINF:0,IT: Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127071
+#EXTINF:0,IT: Sky Sport Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127072
+#EXTINF:0,IT: Sky Sport Serie A HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127073
+#EXTINF:0,IT: sky sport serie a FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127074
+#EXTINF:0,IT: Sky Sport Seri A 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127075
+#EXTINF:0,IT: Sky Sport Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127076
+#EXTINF:0,IT: Sky Sport Arena H D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127077
+#EXTINF:0,IT: DAZN Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127078
+#EXTINF:0,IT: DAZN Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127079
+#EXTINF:0,IT: DAZN Sport  3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127080
+#EXTINF:0,IT: DAZN Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127081
+#EXTINF:0,IT: DAZN Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127082
+#EXTINF:0,IT: DAZN Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127083
+#EXTINF:0,IT: DAZN Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127084
+#EXTINF:0,IT: DAZN Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127085
+#EXTINF:0,IT: DAZN Sport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127086
+#EXTINF:0,IT: Premium Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127087
+#EXTINF:0,IT: Lazio Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127088
+#EXTINF:0,IT: SportitaliaSOLOCALCIOHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127089
+#EXTINF:0,IT: Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127090
+#EXTINF:0,IT: SKY FOX SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127091
+#EXTINF:0,IT: SKY Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127092
+#EXTINF:0,IT: Sky Sport MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127093
+#EXTINF:0,IT: Rai Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127094
+#EXTINF:0,IT: Rai Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127095
+#EXTINF:0,IT: Super Tennis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127096
+#EXTINF:0,IT: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127097
+#EXTINF:0,IT: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127098
+#EXTINF:0,IT: SKY Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127099
+#EXTINF:0,IT: RAI SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127100
+#EXTINF:0,IT: FoxLife
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127101
+#EXTINF:0,IT: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127102
+#EXTINF:0,IT: Sky Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127103
+#EXTINF:0,IT: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127104
+#EXTINF:0,IT: Sky  DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127105
+#EXTINF:0,IT: Sky DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127106
+#EXTINF:0,IT: Rai gulp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127107
+#EXTINF:0,IT: Rai Yoyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127108
+#EXTINF:0,IT: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127109
+#EXTINF:0,IT: CARTOONITO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127110
+#EXTINF:0,IT: Sky Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127111
+#EXTINF:0,IT: Sky NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127112
+#EXTINF:0,IT: SKY NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127113
+#EXTINF:0,IT: Focus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127114
+#EXTINF:0,IT: History Lab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127115
+#EXTINF:0,IT: GIALLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127116
+#EXTINF:0,IT: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127117
+#EXTINF:0,IT: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127118
+#EXTINF:0,IT: FOX COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127119
+#EXTINF:0,IT: Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127120
+#EXTINF:0,IT: CACCIA PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127121
+#EXTINF:0,MEDIASET EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93979
+#EXTINF:0,NL-Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104224
+#EXTINF:0,NL-Ziggo Sport select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104225
+#EXTINF:0,NL-Ziggo Sport Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104226
+#EXTINF:0,NL-Ziggo Sport extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104227
+#EXTINF:0,NL-Ziggo Sport eXtra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104228
+#EXTINF:0,NL-Ziggo Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104229
+#EXTINF:0,NL-ZIGGO GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104230
+#EXTINF:0,NL-Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104254
+#EXTINF:0,NL-Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104255
+#EXTINF:0,NL-Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104256
+#EXTINF:0,NL-Fox Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104257
+#EXTINF:0,NL-Fox Sport 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104258
+#EXTINF:0,NL-Fox sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104259
