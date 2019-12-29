@@ -17,276 +17,2402 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-
 #EXTM3U
-#EXTINF:0,ES :SP EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93367
-#EXTINF:0,ES :SP EUROSPORT FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93368
-#EXTINF:0,ES :SP Eurosport  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93370
-#EXTINF:0,ES :SP ESPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93381
-#EXTINF:0,ES :SP TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93378
-#EXTINF:0,ES :SP  TELEDEPORTE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93128
-#EXTINF:0,ES :SP MOVISTAR  TOROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93379
-#EXTINF:0,ES :SP MOVISTAR TOROS FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93380
-#EXTINF:0,[FR] RMC Sport Live 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129789
-#EXTINF:0,[FR] RMC Sport Live 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129790
-#EXTINF:0,[FR] RMC Sport Live 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129791
-#EXTINF:0,[FR] RMC Sport Live 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129792
-#EXTINF:0,[FR] RMC Sport Live 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129793
-#EXTINF:0,[FR] RMC Sport Live 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129794
-#EXTINF:0,[FR] RMC Sport Live 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129795
-#EXTINF:0,[FR] RMC Sport Live 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129796
-#EXTINF:0,[FR] RMC Sport Live 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129797
-#EXTINF:0,[FR] RMC Sport Live 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129798
-#EXTINF:0,[FR] RMC SPORT ACCESS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129799
-#EXTINF:0,[FR] RMC SPORT ACCESS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129800
-#EXTINF:0,[FR] RMC SPORT ACCESS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129801
-#EXTINF:0,[FR] RMC SPORT NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129802
-#EXTINF:0,[FR] EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129880
-#EXTINF:0,[FR] EUROSPORT 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129881
-#EXTINF:0,[FR] beIN SPORT 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129882
-#EXTINF:0,[FR] beIN SPORT 2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129883
-#EXTINF:0,[FR] beIN SPORT 3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129884
-#EXTINF:0,[FR] BeIN Sports MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129885
-#EXTINF:0,[FR] BeIN Sports MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129886
-#EXTINF:0,[FR] BeIN Sports MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129887
-#EXTINF:0,[FR] BeIN Sports MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129888
-#EXTINF:0,[FR] BeIN Sports MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129889
-#EXTINF:0,[FR] BeIN Sports MAX 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129890
-#EXTINF:0,[FR] BeIN Sports MAX 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/129891
-#EXTINF:0,DE: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115906
-#EXTINF:0,DE: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115907
-#EXTINF:0,DE: Eurosport 2 Xtra FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115908
-#EXTINF:0,DE: Eurosport Player 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115909
-#EXTINF:0,DE: Eurosport Player 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115910
-#EXTINF:0,DE: Eurosport Player 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115911
-#EXTINF:0,DE: Eurosport Player 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115912
-#EXTINF:0,DE: Eurosport Player 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115913
-#EXTINF:0,DE: Eurosport Player 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115914
-#EXTINF:0,DE: Eurosport Player 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115915
-#EXTINF:0,DE: Sky Bundesliga 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115972
-#EXTINF:0,DE: Sky Bundesliga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115973
-#EXTINF:0,DE: Sky Bundesliga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115974
-#EXTINF:0,DE: Sky Bundesliga 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115975
-#EXTINF:0,DE: Sky Bundesliga 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115976
-#EXTINF:0,DE: Sky Bundesliga 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115977
-#EXTINF:0,DE: Sky Bundesliga 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115978
-#EXTINF:0,DE: Sky Bundesliga 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115979
-#EXTINF:0,DE: Sky Bundesliga 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115980
-#EXTINF:0,DE: Sky Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115991
-#EXTINF:0,DE: Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115992
-#EXTINF:0,DE: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115993
-#EXTINF:0,DE: Sky Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115994
-#EXTINF:0,DE: Sky Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115995
-#EXTINF:0,DE: Sky Sport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115996
-#EXTINF:0,DE: Sky Sport 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115997
-#EXTINF:0,DE: Sky Sport 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115998
-#EXTINF:0,DE: Sky Sport Austria HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/115999
-#EXTINF:0,DE: Sky Sport HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/116000
-#EXTINF:0,DE: Sky Sport 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/116001
-#EXTINF:0,DE: Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/116002
-
-#EXTINF:0,IT: SKY Calcio 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127066
-#EXTINF:0,IT: SKY CALCIO 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127067
-#EXTINF:0,IT: SKY CALCIO 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127068
-#EXTINF:0,IT: SKY CALCIO 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127069
-#EXTINF:0,IT: Top Calcio 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127070
-#EXTINF:0,IT: Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127071
-#EXTINF:0,IT: Sky Sport Uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127072
-#EXTINF:0,IT: Sky Sport Serie A HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127073
-#EXTINF:0,IT: sky sport serie a FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127074
-#EXTINF:0,IT: Sky Sport Seri A 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127075
-#EXTINF:0,IT: Sky Sport Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127076
-#EXTINF:0,IT: Sky Sport Arena H D
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127077
-#EXTINF:0,IT: DAZN Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127078
-#EXTINF:0,IT: DAZN Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127079
-#EXTINF:0,IT: DAZN Sport  3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127080
-#EXTINF:0,IT: DAZN Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127081
-#EXTINF:0,IT: DAZN Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127082
-#EXTINF:0,IT: DAZN Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127083
-#EXTINF:0,IT: DAZN Sport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127084
-#EXTINF:0,IT: DAZN Sport 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127085
-#EXTINF:0,IT: DAZN Sport 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127086
-#EXTINF:0,IT: Premium Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127087
-#EXTINF:0,IT: Lazio Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127088
-#EXTINF:0,IT: SportitaliaSOLOCALCIOHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127089
-#EXTINF:0,IT: Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127090
-#EXTINF:0,IT: SKY FOX SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127091
-#EXTINF:0,IT: SKY Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127092
-#EXTINF:0,IT: Sky Sport MotoGP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127093
-#EXTINF:0,IT: Rai Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127094
-#EXTINF:0,IT: Rai Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127095
-#EXTINF:0,IT: Super Tennis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127096
-#EXTINF:0,IT: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127097
-#EXTINF:0,IT: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127098
-#EXTINF:0,IT: SKY Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127099
-#EXTINF:0,IT: RAI SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127100
-#EXTINF:0,IT: FoxLife
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127101
-#EXTINF:0,IT: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127102
-#EXTINF:0,IT: Sky Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127103
-#EXTINF:0,IT: Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127104
-#EXTINF:0,IT: Sky  DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127105
-#EXTINF:0,IT: Sky DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127106
-#EXTINF:0,IT: Rai gulp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127107
-#EXTINF:0,IT: Rai Yoyo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127108
-#EXTINF:0,IT: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127109
-#EXTINF:0,IT: CARTOONITO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127110
-#EXTINF:0,IT: Sky Discovery Science HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127111
-#EXTINF:0,IT: Sky NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127112
-#EXTINF:0,IT: SKY NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127113
-#EXTINF:0,IT: Focus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127114
-#EXTINF:0,IT: History Lab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127115
-#EXTINF:0,IT: GIALLO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127116
-#EXTINF:0,IT: FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127117
-#EXTINF:0,IT: Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127118
-#EXTINF:0,IT: FOX COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127119
-#EXTINF:0,IT: Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127120
-#EXTINF:0,IT: CACCIA PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/127121
-#EXTINF:0,MEDIASET EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/93979
-#EXTINF:0,NL-Ziggo Sport Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104224
-#EXTINF:0,NL-Ziggo Sport select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104225
-#EXTINF:0,NL-Ziggo Sport Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104226
-#EXTINF:0,NL-Ziggo Sport extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104227
-#EXTINF:0,NL-Ziggo Sport eXtra 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104228
-#EXTINF:0,NL-Ziggo Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104229
-#EXTINF:0,NL-ZIGGO GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104230
-#EXTINF:0,NL-Fox Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104254
-#EXTINF:0,NL-Fox Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104255
-#EXTINF:0,NL-Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104256
-#EXTINF:0,NL-Fox Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104257
-#EXTINF:0,NL-Fox Sport 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104258
-#EXTINF:0,NL-Fox sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvtool.es:9977/Elisabetpoligono/EJYVatNwQQ/104259
+#EXTINF:-1,Big Brother Brasil 2020 (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3975
+#EXTINF:-1,A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1521
+#EXTINF:-1,A&E HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/375
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1498
+#EXTINF:-1,AMC HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/373
+#EXTINF:-1,Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1497
+#EXTINF:-1,Animal Planet HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/371
+#EXTINF:-1,Arte 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/15
+#EXTINF:-1,As Aventuras de Jackie Chan (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2326
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1496
+#EXTINF:-1,AXN HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/369
+#EXTINF:-1,Baby TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/367
+#EXTINF:-1,Band HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/489
+#EXTINF:-1,Band HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/484
+#EXTINF:-1,Band News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1494
+#EXTINF:-1,Band News HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/363
+#EXTINF:-1,Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1495
+#EXTINF:-1,Band Sports HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/360
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1493
+#EXTINF:-1,BIS HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/358
+#EXTINF:-1,Bob Esponja (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2327
+#EXTINF:-1,Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1492
+#EXTINF:-1,Boomerang HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/355
+#EXTINF:-1,Canal Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/353
+#EXTINF:-1,Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/351
+#EXTINF:-1,Cancao Nova SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1519
+#EXTINF:-1,Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1491
+#EXTINF:-1,Cartoon Network HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/349
+#EXTINF:-1,Chaves (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2701
+#EXTINF:-1,Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1490
+#EXTINF:-1,Cinemax HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/347
+#EXTINF:-1,Clássicos Walt Disney (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3970
+#EXTINF:-1,CNN Espanhol SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/345
+#EXTINF:-1,CNN Internacional SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/344
+#EXTINF:-1,Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1489
+#EXTINF:-1,Combate HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/342
+#EXTINF:-1,Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1488
+#EXTINF:-1,Comedy Central HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/340
+#EXTINF:-1,Copa do Mundo FIFA 2002: Melhores Momentos (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3971
+#EXTINF:-1,Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/79
+#EXTINF:-1,Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/338
+#EXTINF:-1,DAZN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2716
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1487
+#EXTINF:-1,Discovery Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/337
+#EXTINF:-1,Discovery Civilization HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1484
+#EXTINF:-1,Discovery Civilization HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/335
+#EXTINF:-1,Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1518
+#EXTINF:-1,Discovery Home & Health HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/334
+#EXTINF:-1,Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1483
+#EXTINF:-1,Discovery Kids HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/332
+#EXTINF:-1,Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1482
+#EXTINF:-1,Discovery Science HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/330
+#EXTINF:-1,Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1486
+#EXTINF:-1,Discovery Theater HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/329
+#EXTINF:-1,Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1481
+#EXTINF:-1,Discovery Turbo HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/328
+#EXTINF:-1,Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1485
+#EXTINF:-1,Discovery World HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/326
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1480
+#EXTINF:-1,Disney Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/325
+#EXTINF:-1,Disney Júnior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1478
+#EXTINF:-1,Disney Júnior HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/323
+#EXTINF:-1,Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1517
+#EXTINF:-1,Disney XD HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/683
+#EXTINF:-1,Dragon Ball Super (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3972
+#EXTINF:-1,Dragon Ball Z (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3973
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/318
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1477
+#EXTINF:-1,ESPN HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/309
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1476
+#EXTINF:-1,ESPN 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/314
+#EXTINF:-1,ESPN Brasil HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1475
+#EXTINF:-1,ESPN Brasil HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/313
+#EXTINF:-1,ESPN Extra HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/311
+#EXTINF:-1,Eu a Patroa e as Crianças (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3974
+#EXTINF:-1,Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/307
+#EXTINF:-1,Food Netword HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1474
+#EXTINF:-1,Food Network HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/306
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1473
+#EXTINF:-1,Fox HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/304
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1472
+#EXTINF:-1,Fox Life HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/303
+#EXTINF:-1,Fox Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1505
+#EXTINF:-1,Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1502
+#EXTINF:-1,Fox Sports HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/298
+#EXTINF:-1,Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1501
+#EXTINF:-1,Fox Sports 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/300
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1469
+#EXTINF:-1,FX HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/294
+#EXTINF:-1,Globo Bahia HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2707
+#EXTINF:-1,Globo Bahia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/260
+#EXTINF:-1,Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/291
+#EXTINF:-1,Globo Centro America HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2712
+#EXTINF:-1,Globo EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/289
+#EXTINF:-1,Globo EPTV Campinas HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2711
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/287
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2952
+#EXTINF:-1,Globo EPTV São Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2941
+#EXTINF:-1,Globo EPTV São Carlos HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2940
+#EXTINF:-1,Globo Goiânia SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/262
+#EXTINF:-1,Globo Manaus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/19
+#EXTINF:-1,Globo Minas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/279
+#EXTINF:-1,Globo Minas HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2713
+#EXTINF:-1,Globo News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1468
+#EXTINF:-1,Globo News HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/277
+#EXTINF:-1,Globo Nordeste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/275
+#EXTINF:-1,Globo Nordeste HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2714
+#EXTINF:-1,Globo NSC Floripa HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2710
+#EXTINF:-1,Globo Poa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1467
+#EXTINF:-1,Globo Poa HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/271
+#EXTINF:-1,Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1504
+#EXTINF:-1,Globo RJ HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/268
+#EXTINF:-1,Globo RPC Paranaense HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2709
+#EXTINF:-1,Globo RPC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/266
+#EXTINF:-1,Globo S.J Rio Preto HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2945
+#EXTINF:-1,Globo S.J Rio Preto HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2944
+#EXTINF:-1,Globo Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/250
+#EXTINF:-1,Globo São Paulo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1466
+#EXTINF:-1,Globo São Paulo HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/265
+#EXTINF:-1,Globo TV Anhanguera HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2708
+#EXTINF:-1,Globo TV DIÁRIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2947
+#EXTINF:-1,Globo TV DIÁRIO HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2946
+#EXTINF:-1,Globo TV Fronteira HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2943
+#EXTINF:-1,Globo TV Fronteira HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2942
+#EXTINF:-1,Globo TV Liberal HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2706
+#EXTINF:-1,Globo TV Mirante HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2705
+#EXTINF:-1,Globo TV Morena HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2704
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2949
+#EXTINF:-1,Globo TV TEM Sorocaba HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2948
+#EXTINF:-1,Globo TV TRIBUNA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2954
+#EXTINF:-1,Globo TV TRIBUNA HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2953
+#EXTINF:-1,Globo TV VANGUARDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2951
+#EXTINF:-1,Globo TV VANGUARDA HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2950
+#EXTINF:-1,Globo TV Verdes Mares HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2703
+#EXTINF:-1,Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1499
+#EXTINF:-1,Gloob HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/686
+#EXTINF:-1,Gloobinho HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/237
+#EXTINF:-1,Gloobinho SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1515
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/235
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1465
+#EXTINF:-1,H2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/233
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1463
+#EXTINF:-1,HBO HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/227
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1460
+#EXTINF:-1,HBO 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/231
+#EXTINF:-1,HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1464
+#EXTINF:-1,HBO Family HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/229
+#EXTINF:-1,HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1462
+#EXTINF:-1,HBO Plus HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/226
+#EXTINF:-1,HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1461
+#EXTINF:-1,HBO Signature HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/224
+#EXTINF:-1,History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1459
+#EXTINF:-1,History Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/95
+#EXTINF:-1,Hit TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/221
+#EXTINF:-1,Ideal TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/219
+#EXTINF:-1,Investigacao Discovery SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1514
+#EXTINF:-1,Investigação Discovery HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/218
+#EXTINF:-1,Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1458
+#EXTINF:-1,Lifetime HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/216
+#EXTINF:-1,Luluzinha (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2609
+#EXTINF:-1,Mais Globosat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/213
+#EXTINF:-1,Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1457
+#EXTINF:-1,Max HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/211
+#EXTINF:-1,Max Prime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1456
+#EXTINF:-1,Max Prime HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/209
+#EXTINF:-1,Max UP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1455
+#EXTINF:-1,Max UP HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/207
+#EXTINF:-1,Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1454
+#EXTINF:-1,Megapix HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/204
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1453
+#EXTINF:-1,MTV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/202
+#EXTINF:-1,Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1452
+#EXTINF:-1,Multishow HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/199
+#EXTINF:-1,Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1451
+#EXTINF:-1,Nat Geo Kids HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/195
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1450
+#EXTINF:-1,Nat Geo Wild HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/193
+#EXTINF:-1,National Geographic HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/196
+#EXTINF:-1,Nick JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1503
+#EXTINF:-1,Nick JR HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/187
+#EXTINF:-1,Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1449
+#EXTINF:-1,Nickelodeon HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/188
+#EXTINF:-1,Novo Tempo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/184
+#EXTINF:-1,O Pequeno Urso (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2607
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/183
+#EXTINF:-1,Os Simpsons (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2328
+#EXTINF:-1,Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1448
+#EXTINF:-1,Paramount Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/181
+#EXTINF:-1,Peppa Pig (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2329
+#EXTINF:-1,Pica-Pau (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2325
+#EXTINF:-1,Play TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/179
+#EXTINF:-1,Polishop TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/178
+#EXTINF:-1,Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1511
+#EXTINF:-1,Premiere 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/172
+#EXTINF:-1,Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1510
+#EXTINF:-1,Premiere 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/170
+#EXTINF:-1,Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1509
+#EXTINF:-1,Premiere 4 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/168
+#EXTINF:-1,Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1508
+#EXTINF:-1,Premiere 5 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/166
+#EXTINF:-1,Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1507
+#EXTINF:-1,Premiere 6 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/164
+#EXTINF:-1,Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1506
+#EXTINF:-1,Premiere 7 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/162
+#EXTINF:-1,Premiere 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/160
+#EXTINF:-1,Premiere Clubes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1447
+#EXTINF:-1,Premiere Clubes HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/159
+#EXTINF:-1,Prime Box Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/157
+#EXTINF:-1,Record HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/148
+#EXTINF:-1,Record News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1513
+#EXTINF:-1,Record News HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/405
+#EXTINF:-1,Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/403
+#EXTINF:-1,Rede Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/137
+#EXTINF:-1,Rede TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/136
+#EXTINF:-1,Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/134
+#EXTINF:-1,RIT TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/133
+#EXTINF:-1,Rá Tim Bum HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/72
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1512
+#EXTINF:-1,SBT HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/402
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1446
+#EXTINF:-1,Sony HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/127
+#EXTINF:-1,Space HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1445
+#EXTINF:-1,Space HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/125
+#EXTINF:-1,SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1444
+#EXTINF:-1,SporTV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/119
+#EXTINF:-1,SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1443
+#EXTINF:-1,SporTV 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/123
+#EXTINF:-1,SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1442
+#EXTINF:-1,SporTV 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/121
+#EXTINF:-1,Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1441
+#EXTINF:-1,Studio Universal HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/117
+#EXTINF:-1,Super Choque (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2679
+#EXTINF:-1,Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1440
+#EXTINF:-1,Syfy HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/115
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/113
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/99
+#EXTINF:-1,Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1438
+#EXTINF:-1,Telecine Action HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/111
+#EXTINF:-1,Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1437
+#EXTINF:-1,Telecine Cult HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/109
+#EXTINF:-1,Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1436
+#EXTINF:-1,Telecine Fun HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/107
+#EXTINF:-1,Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1435
+#EXTINF:-1,Telecine Pipoca HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/105
+#EXTINF:-1,Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1434
+#EXTINF:-1,Telecine Premium HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/103
+#EXTINF:-1,Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1439
+#EXTINF:-1,Telecine Touch HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/101
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/94
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1433
+#EXTINF:-1,TNT HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/92
+#EXTINF:-1,TNT Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1432
+#EXTINF:-1,TNT Séries HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/90
+#EXTINF:-1,Todo Mundo Odeia o Chris (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2702
+#EXTINF:-1,Tru TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/85
+#EXTINF:-1,TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/84
+#EXTINF:-1,TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/83
+#EXTINF:-1,TV Climatempo SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/80
+#EXTINF:-1,TV Câmara SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/82
+#EXTINF:-1,TV Escola HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/77
+#EXTINF:-1,TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/75
+#EXTINF:-1,TV Justiça SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/73
+#EXTINF:-1,TV Senado SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/70
+#EXTINF:-1,TV5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/69
+#EXTINF:-1,Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1431
+#EXTINF:-1,Universal Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/67
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/65
+#EXTINF:-1,VH1 Mega Hits SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/64
+#EXTINF:-1,Viva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2680
+#EXTINF:-1,Viva HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/10
+#EXTINF:-1,Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/1430
+#EXTINF:-1,Warner Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/61
+#EXTINF:-1,WooHoo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/59
+#EXTINF:-1,X-Men: Evolution (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/2678
+#EXTINF:-1,xxx Bangbros 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4048
+#EXTINF:-1,xxx BangBros 1 4k++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4157
+#EXTINF:-1,xxx BangBros 2 4k++
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4158
+#EXTINF:-1,xxx Bangers HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4049
+#EXTINF:-1,xxx Brasileirinhas (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3977
+#EXTINF:-1,xxx DDF Network 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4050
+#EXTINF:-1,xxx DDF Network 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4051
+#EXTINF:-1,xxx Eroxxx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4046
+#EXTINF:-1,xxx Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4043
+#EXTINF:-1,xxx Mens 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4141
+#EXTINF:-1,xxx Mens 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4142
+#EXTINF:-1,xxx Mia Khalifa (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3969
+#EXTINF:-1,xxx Mia Linz (24H)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/3976
+#EXTINF:-1,xxx Penthouse HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4047
+#EXTINF:-1,xxx Petite 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4045
+#EXTINF:-1,xxx Playboy TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/57
+#EXTINF:-1,xxx RedLight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4044
+#EXTINF:-1,xxx Sex Privê HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/257
+#EXTINF:-1,xxx Sextreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/54
+#EXTINF:-1,xxx Sexy Hot HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/49
+#EXTINF:-1,xxx SuperOne HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/4052
+#EXTINF:-1,ZooMoo HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://canais.servidor.tv:8080/maite123/maite123/377
+#EXTINF:-1,(500) Dias com Ela
+http://canais.servidor.tv:8080/movie/maite123/maite123/2751.mp4
+#EXTINF:-1,007: Cassino Royale
+http://canais.servidor.tv:8080/movie/maite123/maite123/814.mp4
+#EXTINF:-1,007: Contra Spectre
+http://canais.servidor.tv:8080/movie/maite123/maite123/815.mp4
+#EXTINF:-1,007: Operação Skyfall
+http://canais.servidor.tv:8080/movie/maite123/maite123/816.mp4
+#EXTINF:-1,007: Quantum of Solace
+http://canais.servidor.tv:8080/movie/maite123/maite123/817.mp4
+#EXTINF:-1,10 Anos de Pura Amizade
+http://canais.servidor.tv:8080/movie/maite123/maite123/2748.mp4
+#EXTINF:-1,10 Coisas que eu Odeio em Você
+http://canais.servidor.tv:8080/movie/maite123/maite123/2749.mp4
+#EXTINF:-1,12 Rounds
+http://canais.servidor.tv:8080/movie/maite123/maite123/818.mp4
+#EXTINF:-1,13 Horas: Os Soldados Secretos de Benghazi
+http://canais.servidor.tv:8080/movie/maite123/maite123/819.mp4
+#EXTINF:-1,13ª Distrito 1: B13
+http://canais.servidor.tv:8080/movie/maite123/maite123/873.mp4
+#EXTINF:-1,13ª Distrito 2: Ultimato
+http://canais.servidor.tv:8080/movie/maite123/maite123/874.mp4
+#EXTINF:-1,13ª Distrito 3 (Remake 2014)
+http://canais.servidor.tv:8080/movie/maite123/maite123/875.mp4
+#EXTINF:-1,20 Anos Mais Jovem
+http://canais.servidor.tv:8080/movie/maite123/maite123/2750.mp4
+#EXTINF:-1,2012
+http://canais.servidor.tv:8080/movie/maite123/maite123/820.mp4
+#EXTINF:-1,211: O Grande Assalto
+http://canais.servidor.tv:8080/movie/maite123/maite123/821.mp4
+#EXTINF:-1,22 Milhas
+http://canais.servidor.tv:8080/movie/maite123/maite123/822.mp4
+#EXTINF:-1,30 Dias de Noite
+http://canais.servidor.tv:8080/movie/maite123/maite123/2846.mp4
+#EXTINF:-1,300
+http://canais.servidor.tv:8080/movie/maite123/maite123/824.mp4
+#EXTINF:-1,300: A Ascensão do Império
+http://canais.servidor.tv:8080/movie/maite123/maite123/823.mp4
+#EXTINF:-1,60 Segundos
+http://canais.servidor.tv:8080/movie/maite123/maite123/825.mp4
+#EXTINF:-1,A Aparição
+http://canais.servidor.tv:8080/movie/maite123/maite123/2847.mp4
+#EXTINF:-1,A Bela Adormecida
+http://canais.servidor.tv:8080/movie/maite123/maite123/2796.mp4
+#EXTINF:-1,A Caminho da Fé
+http://canais.servidor.tv:8080/movie/maite123/maite123/2814.mp4
+#EXTINF:-1,A Caminho de Casa
+http://canais.servidor.tv:8080/movie/maite123/maite123/693.mp4
+#EXTINF:-1,A Casa Caiu: Um Cassino na Vizinhança
+http://canais.servidor.tv:8080/movie/maite123/maite123/2753.mp4
+#EXTINF:-1,A Casa de Cera
+http://canais.servidor.tv:8080/movie/maite123/maite123/2848.mp4
+#EXTINF:-1,A Chefa
+http://canais.servidor.tv:8080/movie/maite123/maite123/2754.mp4
+#EXTINF:-1,A Cilada
+http://canais.servidor.tv:8080/movie/maite123/maite123/2904.mp4
+#EXTINF:-1,A Cinco Passos de Você
+http://canais.servidor.tv:8080/movie/maite123/maite123/694.mp4
+#EXTINF:-1,A Clínica
+http://canais.servidor.tv:8080/movie/maite123/maite123/2849.mp4
+#EXTINF:-1,A Comédia Divina
+http://canais.servidor.tv:8080/movie/maite123/maite123/2755.mp4
+#EXTINF:-1,A Creche do Papai
+http://canais.servidor.tv:8080/movie/maite123/maite123/2756.mp4
+#EXTINF:-1,A Entidade
+http://canais.servidor.tv:8080/movie/maite123/maite123/2850.mp4
+#EXTINF:-1,A Escala: Amizade em Segundo Lugar
+http://canais.servidor.tv:8080/movie/maite123/maite123/2757.mp4
+#EXTINF:-1,A Escolha Perfeita 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2758.mp4
+#EXTINF:-1,A Escolha Perfeita 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2759.mp4
+#EXTINF:-1,A Escolha Perfeita 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2760.mp4
+#EXTINF:-1,A Família Buscapé
+http://canais.servidor.tv:8080/movie/maite123/maite123/2970.mp4
+#EXTINF:-1,A Família Bélier
+http://canais.servidor.tv:8080/movie/maite123/maite123/2761.mp4
+#EXTINF:-1,A Filha do Presidente
+http://canais.servidor.tv:8080/movie/maite123/maite123/2762.mp4
+#EXTINF:-1,A Forca 2: Segundo Ato
+http://canais.servidor.tv:8080/movie/maite123/maite123/2741.mp4
+#EXTINF:-1,A Fraternidade
+http://canais.servidor.tv:8080/movie/maite123/maite123/2763.mp4
+#EXTINF:-1,A Grande Aposta
+http://canais.servidor.tv:8080/movie/maite123/maite123/2764.mp4
+#EXTINF:-1,A Grande Muralha
+http://canais.servidor.tv:8080/movie/maite123/maite123/826.mp4
+#EXTINF:-1,A Hora da Virada
+http://canais.servidor.tv:8080/movie/maite123/maite123/2765.mp4
+#EXTINF:-1,A Hora do Espanto 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2851.mp4
+#EXTINF:-1,A Hora do Rush 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2766.mp4
+#EXTINF:-1,A Hora do Rush 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2767.mp4
+#EXTINF:-1,A Hora do Rush 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2768.mp4
+#EXTINF:-1,A Hospedeira
+http://canais.servidor.tv:8080/movie/maite123/maite123/827.mp4
+#EXTINF:-1,A Ilha
+http://canais.servidor.tv:8080/movie/maite123/maite123/832.mp4
+#EXTINF:-1,A Ilha dos Mortos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2852.mp4
+#EXTINF:-1,A Justiceira
+http://canais.servidor.tv:8080/movie/maite123/maite123/833.mp4
+#EXTINF:-1,A Lenda de Tarzan
+http://canais.servidor.tv:8080/movie/maite123/maite123/834.mp4
+#EXTINF:-1,A Luz Divina
+http://canais.servidor.tv:8080/movie/maite123/maite123/2816.mp4
+#EXTINF:-1,A Maldição da Chorona
+http://canais.servidor.tv:8080/movie/maite123/maite123/698.mp4
+#EXTINF:-1,A Maldição da Sétima Lua
+http://canais.servidor.tv:8080/movie/maite123/maite123/2853.mp4
+#EXTINF:-1,A Menina e o Leão
+http://canais.servidor.tv:8080/movie/maite123/maite123/699.mp4
+#EXTINF:-1,A Mentira
+http://canais.servidor.tv:8080/movie/maite123/maite123/2769.mp4
+#EXTINF:-1,A Morte de Stalin
+http://canais.servidor.tv:8080/movie/maite123/maite123/2770.mp4
+#EXTINF:-1,A Morte do Superman
+http://canais.servidor.tv:8080/movie/maite123/maite123/835.mp4
+#EXTINF:-1,A Morte te dá Parabéns 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/701.mp4
+#EXTINF:-1,A Mula
+http://canais.servidor.tv:8080/movie/maite123/maite123/702.mp4
+#EXTINF:-1,A Mulher de Preto 2: Anjo da Morte
+http://canais.servidor.tv:8080/movie/maite123/maite123/2854.mp4
+#EXTINF:-1,A Máscara do Zorro
+http://canais.servidor.tv:8080/movie/maite123/maite123/836.mp4
+#EXTINF:-1,A Múmia (2017)
+http://canais.servidor.tv:8080/movie/maite123/maite123/840.mp4
+#EXTINF:-1,A Múmia 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/837.mp4
+#EXTINF:-1,A Múmia 2: O Retorno
+http://canais.servidor.tv:8080/movie/maite123/maite123/838.mp4
+#EXTINF:-1,A Múmia 3: Tumba do Imperador Dragão
+http://canais.servidor.tv:8080/movie/maite123/maite123/839.mp4
+#EXTINF:-1,A Noite do Jogo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2771.mp4
+#EXTINF:-1,A Noite nos Persegue
+http://canais.servidor.tv:8080/movie/maite123/maite123/841.mp4
+#EXTINF:-1,A Outra Face
+http://canais.servidor.tv:8080/movie/maite123/maite123/842.mp4
+#EXTINF:-1,A Paixão de Cristo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2817.mp4
+#EXTINF:-1,A Proposta
+http://canais.servidor.tv:8080/movie/maite123/maite123/2772.mp4
+#EXTINF:-1,A Quimica do Amor
+http://canais.servidor.tv:8080/movie/maite123/maite123/2773.mp4
+#EXTINF:-1,A Rainha dos Condenados
+http://canais.servidor.tv:8080/movie/maite123/maite123/2855.mp4
+#EXTINF:-1,A Senha: Swordfish
+http://canais.servidor.tv:8080/movie/maite123/maite123/843.mp4
+#EXTINF:-1,A Sereia: Lago dos Mortos
+http://canais.servidor.tv:8080/movie/maite123/maite123/1649.mp4
+#EXTINF:-1,A Torre Negra
+http://canais.servidor.tv:8080/movie/maite123/maite123/846.mp4
+#EXTINF:-1,A Travessia
+http://canais.servidor.tv:8080/movie/maite123/maite123/847.mp4
+#EXTINF:-1,A Verdade Nua e Crua
+http://canais.servidor.tv:8080/movie/maite123/maite123/2774.mp4
+#EXTINF:-1,A Vida Secreta de Walter Mitty
+http://canais.servidor.tv:8080/movie/maite123/maite123/2776.mp4
+#EXTINF:-1,A Vida é Bela
+http://canais.servidor.tv:8080/movie/maite123/maite123/2775.mp4
+#EXTINF:-1,A Vigilante do Amanhã: Ghost in The Shell
+http://canais.servidor.tv:8080/movie/maite123/maite123/848.mp4
+#EXTINF:-1,A Volta do Todo Poderoso
+http://canais.servidor.tv:8080/movie/maite123/maite123/2777.mp4
+#EXTINF:-1,A Volta dos Mortos Vivos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2856.mp4
+#EXTINF:-1,Academia de Vampiros
+http://canais.servidor.tv:8080/movie/maite123/maite123/2778.mp4
+#EXTINF:-1,Ace Ventura 1: Um Detetive Diferente
+http://canais.servidor.tv:8080/movie/maite123/maite123/2779.mp4
+#EXTINF:-1,Ace Ventura 2: Um Maluco na África
+http://canais.servidor.tv:8080/movie/maite123/maite123/2780.mp4
+#EXTINF:-1,Acertando o Passo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2781.mp4
+#EXTINF:-1,Ad Astra: Rumo às Estrelas
+http://canais.servidor.tv:8080/movie/maite123/maite123/3728.mp4
+#EXTINF:-1,Adulto: Abella Danger (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2043.mp4
+#EXTINF:-1,Adulto: Adria Rae (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2044.mp4
+#EXTINF:-1,Adulto: Adriana Chechik (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2045.mp4
+#EXTINF:-1,Adulto: Aline Rios e Viviane Mel (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2035.mp4
+#EXTINF:-1,Adulto: Angela White (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2046.mp4
+#EXTINF:-1,Adulto: Casal com Tesão no POV Amador
+http://canais.servidor.tv:8080/movie/maite123/maite123/869.mp4
+#EXTINF:-1,Adulto: Casey Calvert (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2047.mp4
+#EXTINF:-1,Adulto: Cinthia Santos e Melissa Ramos (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2036.mp4
+#EXTINF:-1,Adulto: Fernandinha Fernandez e Priscylla (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2037.mp4
+#EXTINF:-1,Adulto: Gia Vendetti (TrueAnal)
+http://canais.servidor.tv:8080/movie/maite123/maite123/872.mp4
+#EXTINF:-1,Adulto: Grazy, Melissa Ramos e Viviane Mel (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2038.mp4
+#EXTINF:-1,Adulto: Jessica e Melissa Ramos (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2039.mp4
+#EXTINF:-1,Adulto: Juliana e Flavia Oliveira (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2040.mp4
+#EXTINF:-1,Adulto: Kenzie Reeves (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2048.mp4
+#EXTINF:-1,Adulto: Melissa Fire, Juliana e Viviane Mel (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2041.mp4
+#EXTINF:-1,Adulto: Nanda e Melissa Ramos (NewMFX)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2042.mp4
+#EXTINF:-1,Adulto: Riley Reid (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2049.mp4
+#EXTINF:-1,Adulto: Ryan Conner a Milf Surpreendente
+http://canais.servidor.tv:8080/movie/maite123/maite123/870.mp4
+#EXTINF:-1,Adulto: Tori Black (TUSHY RAW)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2050.mp4
+#EXTINF:-1,After
+http://canais.servidor.tv:8080/movie/maite123/maite123/695.mp4
+#EXTINF:-1,Agente 86
+http://canais.servidor.tv:8080/movie/maite123/maite123/2782.mp4
+#EXTINF:-1,Aladdin (2019)
+http://canais.servidor.tv:8080/movie/maite123/maite123/696.mp4
+#EXTINF:-1,Alemão
+http://canais.servidor.tv:8080/movie/maite123/maite123/849.mp4
+#EXTINF:-1,Alexandre
+http://canais.servidor.tv:8080/movie/maite123/maite123/850.mp4
+#EXTINF:-1,Alita: Anjo de Combate
+http://canais.servidor.tv:8080/movie/maite123/maite123/697.mp4
+#EXTINF:-1,Almas Condenadas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2857.mp4
+#EXTINF:-1,Alvin e os Esquilos 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2783.mp4
+#EXTINF:-1,Alvin e os Esquilos 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2784.mp4
+#EXTINF:-1,Alvin e os Esquilos 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2785.mp4
+#EXTINF:-1,Amanhecer Violento
+http://canais.servidor.tv:8080/movie/maite123/maite123/851.mp4
+#EXTINF:-1,American Pie 1: A Primeira Vez é Inesquecível
+http://canais.servidor.tv:8080/movie/maite123/maite123/2786.mp4
+#EXTINF:-1,American Pie 2: A Segunda Vez é Ainda Melhor
+http://canais.servidor.tv:8080/movie/maite123/maite123/2787.mp4
+#EXTINF:-1,American Pie 3: O Casamento
+http://canais.servidor.tv:8080/movie/maite123/maite123/2788.mp4
+#EXTINF:-1,American Pie 4: Tocando a Maior Zona
+http://canais.servidor.tv:8080/movie/maite123/maite123/2789.mp4
+#EXTINF:-1,American Pie 5: O Último Stifler Vírgem
+http://canais.servidor.tv:8080/movie/maite123/maite123/2790.mp4
+#EXTINF:-1,American Pie 6: Caindo em Tentação
+http://canais.servidor.tv:8080/movie/maite123/maite123/2791.mp4
+#EXTINF:-1,American Pie 7: O Livro do Amor
+http://canais.servidor.tv:8080/movie/maite123/maite123/2792.mp4
+#EXTINF:-1,American Pie 8: O Reencontro
+http://canais.servidor.tv:8080/movie/maite123/maite123/2793.mp4
+#EXTINF:-1,Amigos Para Sempre
+http://canais.servidor.tv:8080/movie/maite123/maite123/700.mp4
+#EXTINF:-1,Anaconda 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/855.mp4
+#EXTINF:-1,Anaconda 2: A Caçada pela Orquídea Sangrenta
+http://canais.servidor.tv:8080/movie/maite123/maite123/852.mp4
+#EXTINF:-1,Anaconda 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/853.mp4
+#EXTINF:-1,Anaconda 4: Rastro de Sangue
+http://canais.servidor.tv:8080/movie/maite123/maite123/854.mp4
+#EXTINF:-1,Andar Montar Rodeio: A Virada de Amberley
+http://canais.servidor.tv:8080/movie/maite123/maite123/703.mp4
+#EXTINF:-1,Angry Birds 2: O Filme
+http://canais.servidor.tv:8080/movie/maite123/maite123/2739.mp4
+#EXTINF:-1,Animais Fantásticos 1: Onde Habitam
+http://canais.servidor.tv:8080/movie/maite123/maite123/800.mp4
+#EXTINF:-1,Animais Fantásticos 2: Os Crimes de Grindelwald
+http://canais.servidor.tv:8080/movie/maite123/maite123/707.mp4
+#EXTINF:-1,Anjos da Lei 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2794.mp4
+#EXTINF:-1,Anjos da Lei 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2795.mp4
+#EXTINF:-1,Anjos da Vida: Mais Bravos que o Mar
+http://canais.servidor.tv:8080/movie/maite123/maite123/856.mp4
+#EXTINF:-1,Anna: O Perigo Tem Nome (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2323.mp4
+#EXTINF:-1,Annabelle 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2858.mp4
+#EXTINF:-1,Annabelle 3: De Volta Para Casa (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/799.mp4
+#EXTINF:-1,Antes de Eu ir
+http://canais.servidor.tv:8080/movie/maite123/maite123/2874.mp4
+#EXTINF:-1,Apocalypto
+http://canais.servidor.tv:8080/movie/maite123/maite123/857.mp4
+#EXTINF:-1,Aquaman
+http://canais.servidor.tv:8080/movie/maite123/maite123/687.mp4
+#EXTINF:-1,Armageddon
+http://canais.servidor.tv:8080/movie/maite123/maite123/858.mp4
+#EXTINF:-1,Arranha-Céu: Coragem Sem Limite
+http://canais.servidor.tv:8080/movie/maite123/maite123/859.mp4
+#EXTINF:-1,Arraste-me Para o Inferno
+http://canais.servidor.tv:8080/movie/maite123/maite123/2859.mp4
+#EXTINF:-1,Artista do Desastre
+http://canais.servidor.tv:8080/movie/maite123/maite123/2875.mp4
+#EXTINF:-1,As Apimentadas 3: Tudo ou Nada
+http://canais.servidor.tv:8080/movie/maite123/maite123/2876.mp4
+#EXTINF:-1,As Apimentadas 6: Desafio Mundial
+http://canais.servidor.tv:8080/movie/maite123/maite123/2877.mp4
+#EXTINF:-1,As Branquelas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2878.mp4
+#EXTINF:-1,As Crônicas de Nárnia 1: O Leão, a Feiticeira e o Guarda-Roupa
+http://canais.servidor.tv:8080/movie/maite123/maite123/803.mp4
+#EXTINF:-1,As Crônicas de Nárnia 2: Príncipe Caspian
+http://canais.servidor.tv:8080/movie/maite123/maite123/802.mp4
+#EXTINF:-1,As Crônicas de Nárnia 3: A Viagem do Peregrino da Alvorada
+http://canais.servidor.tv:8080/movie/maite123/maite123/801.mp4
+#EXTINF:-1,As Excluídas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2879.mp4
+#EXTINF:-1,As Férias da Minha Vida
+http://canais.servidor.tv:8080/movie/maite123/maite123/2880.mp4
+#EXTINF:-1,As Minas do Rei Salomão
+http://canais.servidor.tv:8080/movie/maite123/maite123/2881.mp4
+#EXTINF:-1,As Rainhas da Torcida
+http://canais.servidor.tv:8080/movie/maite123/maite123/2844.mp4
+#EXTINF:-1,As Trapaceiras
+http://canais.servidor.tv:8080/movie/maite123/maite123/3729.mp4
+#EXTINF:-1,As Viúvas
+http://canais.servidor.tv:8080/movie/maite123/maite123/705.mp4
+#EXTINF:-1,Assassin's Creed
+http://canais.servidor.tv:8080/movie/maite123/maite123/860.mp4
+#EXTINF:-1,Assassino a Preço Fixo 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/863.mp4
+#EXTINF:-1,Assassino a Preço Fixo 2: A Ressurreição
+http://canais.servidor.tv:8080/movie/maite123/maite123/862.mp4
+#EXTINF:-1,Atentado em Paris
+http://canais.servidor.tv:8080/movie/maite123/maite123/864.mp4
+#EXTINF:-1,Atividade Paranormal 5: Marcados pelo Mal
+http://canais.servidor.tv:8080/movie/maite123/maite123/2860.mp4
+#EXTINF:-1,Atos de Violência
+http://canais.servidor.tv:8080/movie/maite123/maite123/865.mp4
+#EXTINF:-1,Até que a Sorte nos Separe 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2882.mp4
+#EXTINF:-1,Até que a Sorte nos Separe 3: A Falência Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/2883.mp4
+#EXTINF:-1,Atômica
+http://canais.servidor.tv:8080/movie/maite123/maite123/866.mp4
+#EXTINF:-1,Avatar
+http://canais.servidor.tv:8080/movie/maite123/maite123/867.mp4
+#EXTINF:-1,Babá Fora de Controle 2: Missão Brasil
+http://canais.servidor.tv:8080/movie/maite123/maite123/2884.mp4
+#EXTINF:-1,Bad Boys 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/876.mp4
+#EXTINF:-1,Bad Boys 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/877.mp4
+#EXTINF:-1,Barbie e as Três Mosqueteiras
+http://canais.servidor.tv:8080/movie/maite123/maite123/2797.mp4
+#EXTINF:-1,Barbie e o Castelo de Diamante
+http://canais.servidor.tv:8080/movie/maite123/maite123/2798.mp4
+#EXTINF:-1,Barbie e o Segredo das Fadas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2799.mp4
+#EXTINF:-1,Barbie em Vida de Sereia
+http://canais.servidor.tv:8080/movie/maite123/maite123/2800.mp4
+#EXTINF:-1,Bata Antes de Entrar
+http://canais.servidor.tv:8080/movie/maite123/maite123/2861.mp4
+#EXTINF:-1,Bater ou Correr
+http://canais.servidor.tv:8080/movie/maite123/maite123/2885.mp4
+#EXTINF:-1,Batman 1: Begins
+http://canais.servidor.tv:8080/movie/maite123/maite123/880.mp4
+#EXTINF:-1,Batman 2: O Cavaleiro das Trevas
+http://canais.servidor.tv:8080/movie/maite123/maite123/879.mp4
+#EXTINF:-1,Batman 3: O Cavaleiro das Trevas Ressurge
+http://canais.servidor.tv:8080/movie/maite123/maite123/878.mp4
+#EXTINF:-1,Batman vs Superman: A Origem da Justiça
+http://canais.servidor.tv:8080/movie/maite123/maite123/881.mp4
+#EXTINF:-1,Bayoneta
+http://canais.servidor.tv:8080/movie/maite123/maite123/704.mp4
+#EXTINF:-1,Baywatch: S.O.S. Malibu
+http://canais.servidor.tv:8080/movie/maite123/maite123/2886.mp4
+#EXTINF:-1,Bem-vindo à Selva (2003)
+http://canais.servidor.tv:8080/movie/maite123/maite123/882.mp4
+#EXTINF:-1,Ben-Hur (2016)
+http://canais.servidor.tv:8080/movie/maite123/maite123/883.mp4
+#EXTINF:-1,Benji
+http://canais.servidor.tv:8080/movie/maite123/maite123/2801.mp4
+#EXTINF:-1,Blade 1: O Caçador de Vampiros
+http://canais.servidor.tv:8080/movie/maite123/maite123/887.mp4
+#EXTINF:-1,Blade 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/885.mp4
+#EXTINF:-1,Blade 3: Trinity
+http://canais.servidor.tv:8080/movie/maite123/maite123/886.mp4
+#EXTINF:-1,Blade Runner 2049 (4K)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2117.mkv
+#EXTINF:-1,Bohemian Rhapsody
+http://canais.servidor.tv:8080/movie/maite123/maite123/706.mp4
+#EXTINF:-1,Boneco do Mal
+http://canais.servidor.tv:8080/movie/maite123/maite123/2862.mp4
+#EXTINF:-1,Bourne 1: A Identidade
+http://canais.servidor.tv:8080/movie/maite123/maite123/828.mp4
+#EXTINF:-1,Bourne 2: A Supremacia
+http://canais.servidor.tv:8080/movie/maite123/maite123/829.mp4
+#EXTINF:-1,Bourne 3: O Ultimato
+http://canais.servidor.tv:8080/movie/maite123/maite123/830.mp4
+#EXTINF:-1,Bourne 4: O Legado
+http://canais.servidor.tv:8080/movie/maite123/maite123/831.mp4
+#EXTINF:-1,Branca de Neve e os Sete Anões
+http://canais.servidor.tv:8080/movie/maite123/maite123/2802.mp4
+#EXTINF:-1,Bridget Jones 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2887.mp4
+#EXTINF:-1,Bridget Jones 2: No Limite da Razão
+http://canais.servidor.tv:8080/movie/maite123/maite123/2888.mp4
+#EXTINF:-1,Bridget Jones 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2889.mp4
+#EXTINF:-1,Brightburn: Filho das Trevas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2568.mp4
+#EXTINF:-1,Brinquedo Assassino (2019)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2608.mp4
+#EXTINF:-1,Bruce Lee 1: O Dragão Chinês
+http://canais.servidor.tv:8080/movie/maite123/maite123/892.mp4
+#EXTINF:-1,Bruce Lee 2: A Fúria do Dragão
+http://canais.servidor.tv:8080/movie/maite123/maite123/893.mp4
+#EXTINF:-1,Bruce Lee 3: O Vôo do Dragão
+http://canais.servidor.tv:8080/movie/maite123/maite123/894.mp4
+#EXTINF:-1,Bruce Lee 4: Operação Dragão
+http://canais.servidor.tv:8080/movie/maite123/maite123/895.mp4
+#EXTINF:-1,Bruce Lee 5: O Jogo da Morte
+http://canais.servidor.tv:8080/movie/maite123/maite123/897.mp4
+#EXTINF:-1,Bruce Lee 6: O Jogo da Morte 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/898.mp4
+#EXTINF:-1,Bumblebee
+http://canais.servidor.tv:8080/movie/maite123/maite123/708.mp4
+#EXTINF:-1,Busca Implacável 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/901.mp4
+#EXTINF:-1,Busca Implacável 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/899.mp4
+#EXTINF:-1,Busca Implacável 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/900.mp4
+#EXTINF:-1,Cada Um Tem a Gêmea Que Merece
+http://canais.servidor.tv:8080/movie/maite123/maite123/2890.mp4
+#EXTINF:-1,Cadáver
+http://canais.servidor.tv:8080/movie/maite123/maite123/709.mp4
+#EXTINF:-1,Camisa de Força
+http://canais.servidor.tv:8080/movie/maite123/maite123/2863.mp4
+#EXTINF:-1,Camp Rock 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2891.mp4
+#EXTINF:-1,Camp Rock 2: The Final Jam
+http://canais.servidor.tv:8080/movie/maite123/maite123/2892.mp4
+#EXTINF:-1,Capitã Marvel
+http://canais.servidor.tv:8080/movie/maite123/maite123/662.mp4
+#EXTINF:-1,Capitão América 1: O Primeiro Vingador
+http://canais.servidor.tv:8080/movie/maite123/maite123/663.mp4
+#EXTINF:-1,Capitão América 2: O Soldado Invernal
+http://canais.servidor.tv:8080/movie/maite123/maite123/664.mp4
+#EXTINF:-1,Capitão América 3: Guerra Civil
+http://canais.servidor.tv:8080/movie/maite123/maite123/665.mp4
+#EXTINF:-1,Cara, Cadê Meu Carro?
+http://canais.servidor.tv:8080/movie/maite123/maite123/2893.mp4
+#EXTINF:-1,Carga Explosiva 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/904.mp4
+#EXTINF:-1,Carga Explosiva 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/902.mp4
+#EXTINF:-1,Carga Explosiva 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/903.mp4
+#EXTINF:-1,Carros 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2803.mp4
+#EXTINF:-1,Carros 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2804.mp4
+#EXTINF:-1,Carros 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2805.mp4
+#EXTINF:-1,Cartas para Deus
+http://canais.servidor.tv:8080/movie/maite123/maite123/2819.mp4
+#EXTINF:-1,Caçada Brutal
+http://canais.servidor.tv:8080/movie/maite123/maite123/905.mp4
+#EXTINF:-1,Caçadores de Emoção
+http://canais.servidor.tv:8080/movie/maite123/maite123/907.mp4
+#EXTINF:-1,Caçadores de Emoção: Além do Limite
+http://canais.servidor.tv:8080/movie/maite123/maite123/906.mp4
+#EXTINF:-1,Cegos, Surdos e Loucos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2894.mp4
+#EXTINF:-1,Celular: Um Grito de Socorro
+http://canais.servidor.tv:8080/movie/maite123/maite123/2864.mp4
+#EXTINF:-1,Cemitério Maldito (Legendado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/720.mp4
+#EXTINF:-1,Chamas da Vingança
+http://canais.servidor.tv:8080/movie/maite123/maite123/908.mp4
+#EXTINF:-1,Chappie
+http://canais.servidor.tv:8080/movie/maite123/maite123/909.mp4
+#EXTINF:-1,Cheque em Branco
+http://canais.servidor.tv:8080/movie/maite123/maite123/2895.mp4
+#EXTINF:-1,CHiPS: O Filme
+http://canais.servidor.tv:8080/movie/maite123/maite123/2896.mp4
+#EXTINF:-1,Cidade de Deus
+http://canais.servidor.tv:8080/movie/maite123/maite123/910.mp4
+#EXTINF:-1,Cinderela Pop
+http://canais.servidor.tv:8080/movie/maite123/maite123/721.mp4
+#EXTINF:-1,Click
+http://canais.servidor.tv:8080/movie/maite123/maite123/2898.mp4
+#EXTINF:-1,Cobras
+http://canais.servidor.tv:8080/movie/maite123/maite123/2865.mp4
+#EXTINF:-1,Colheita Maldita 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2866.mp4
+#EXTINF:-1,Colheita Maldita 2: O Sacrifício Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/2867.mp4
+#EXTINF:-1,Colheita Maldita 4
+http://canais.servidor.tv:8080/movie/maite123/maite123/2868.mp4
+#EXTINF:-1,Colheita Maldita 9: Genesis
+http://canais.servidor.tv:8080/movie/maite123/maite123/2869.mp4
+#EXTINF:-1,Com Amor, Simon
+http://canais.servidor.tv:8080/movie/maite123/maite123/2899.mp4
+#EXTINF:-1,Comando Para Matar
+http://canais.servidor.tv:8080/movie/maite123/maite123/926.mp4
+#EXTINF:-1,Como Eu Era Antes de Você
+http://canais.servidor.tv:8080/movie/maite123/maite123/2742.mp4
+#EXTINF:-1,Como Perder um Homem em 10 Dias
+http://canais.servidor.tv:8080/movie/maite123/maite123/2900.mp4
+#EXTINF:-1,Como Se Fosse a Primeira Vez
+http://canais.servidor.tv:8080/movie/maite123/maite123/2901.mp4
+#EXTINF:-1,Como Sobreviver a um Ataque Zumbi
+http://canais.servidor.tv:8080/movie/maite123/maite123/2870.mp4
+#EXTINF:-1,Como Treinar o Seu Dragão 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/722.mp4
+#EXTINF:-1,Compramos um Zoológico
+http://canais.servidor.tv:8080/movie/maite123/maite123/2902.mp4
+#EXTINF:-1,Con Air: A Rota da Fuga
+http://canais.servidor.tv:8080/movie/maite123/maite123/927.mp4
+#EXTINF:-1,Conan (1997)
+http://canais.servidor.tv:8080/movie/maite123/maite123/929.mp4
+#EXTINF:-1,Conan, O Destruidor (1984)
+http://canais.servidor.tv:8080/movie/maite123/maite123/928.mp4
+#EXTINF:-1,Condenação Brutal
+http://canais.servidor.tv:8080/movie/maite123/maite123/930.mp4
+#EXTINF:-1,Conexão Jamaica
+http://canais.servidor.tv:8080/movie/maite123/maite123/931.mp4
+#EXTINF:-1,Conflitos em Família
+http://canais.servidor.tv:8080/movie/maite123/maite123/2903.mp4
+#EXTINF:-1,Convidados Sem Honra
+http://canais.servidor.tv:8080/movie/maite123/maite123/2905.mp4
+#EXTINF:-1,Corajosos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2820.mp4
+#EXTINF:-1,Coração Valente
+http://canais.servidor.tv:8080/movie/maite123/maite123/932.mp4
+#EXTINF:-1,Corações de Ferro
+http://canais.servidor.tv:8080/movie/maite123/maite123/933.mp4
+#EXTINF:-1,Coringa (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2743.mp4
+#EXTINF:-1,Corra Que a Polícia Vem Aí 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2906.mp4
+#EXTINF:-1,Corra Que a Polícia Vem Aí 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2907.mp4
+#EXTINF:-1,Corra Que a Polícia Vem Aí 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2908.mp4
+#EXTINF:-1,Correndo Atrás de Um Pai
+http://canais.servidor.tv:8080/movie/maite123/maite123/2909.mp4
+#EXTINF:-1,Corrida Mortal 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/934.mp4
+#EXTINF:-1,Corrida Mortal 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/935.mp4
+#EXTINF:-1,Corrida Mortal 3: Inferno
+http://canais.servidor.tv:8080/movie/maite123/maite123/936.mp4
+#EXTINF:-1,Corrida Mortal 4: Além da Anarquia
+http://canais.servidor.tv:8080/movie/maite123/maite123/937.mp4
+#EXTINF:-1,Corridas Clandestinas
+http://canais.servidor.tv:8080/movie/maite123/maite123/938.mp4
+#EXTINF:-1,Covil de Ladrões
+http://canais.servidor.tv:8080/movie/maite123/maite123/939.mp4
+#EXTINF:-1,Creed 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/723.mp4
+#EXTINF:-1,Cruzeiro das Loucas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2912.mp4
+#EXTINF:-1,Crô em Família
+http://canais.servidor.tv:8080/movie/maite123/maite123/2910.mp4
+#EXTINF:-1,Crônicas de Natal
+http://canais.servidor.tv:8080/movie/maite123/maite123/2911.mp4
+#EXTINF:-1,Curtindo A Vida Adoidado
+http://canais.servidor.tv:8080/movie/maite123/maite123/2913.mp4
+#EXTINF:-1,Cão de Briga
+http://canais.servidor.tv:8080/movie/maite123/maite123/913.mp4
+#EXTINF:-1,Cão Selvagem
+http://canais.servidor.tv:8080/movie/maite123/maite123/912.mp4
+#EXTINF:-1,Círculo de Fogo (2001): Inimigo às Portas
+http://canais.servidor.tv:8080/movie/maite123/maite123/924.mp4
+#EXTINF:-1,Círculo de Fogo 1: Pacific Rim
+http://canais.servidor.tv:8080/movie/maite123/maite123/925.mp4
+#EXTINF:-1,Círculo de Fogo 2: A Revolta
+http://canais.servidor.tv:8080/movie/maite123/maite123/911.mp4
+#EXTINF:-1,D.U.F.F. Você Conhece, tem ou é
+http://canais.servidor.tv:8080/movie/maite123/maite123/2914.mp4
+#EXTINF:-1,Damien: A Profecia 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2871.mp4
+#EXTINF:-1,Darc
+http://canais.servidor.tv:8080/movie/maite123/maite123/940.mp4
+#EXTINF:-1,Darkman 1: Vingança Sem Rosto
+http://canais.servidor.tv:8080/movie/maite123/maite123/941.mp4
+#EXTINF:-1,Darkman 2: O Retorno de Durant
+http://canais.servidor.tv:8080/movie/maite123/maite123/942.mp4
+#EXTINF:-1,Darkman 3: Enfrentando a Morte
+http://canais.servidor.tv:8080/movie/maite123/maite123/943.mp4
+#EXTINF:-1,David Vs Golias: A Batalha Da Fé
+http://canais.servidor.tv:8080/movie/maite123/maite123/2821.mp4
+#EXTINF:-1,De Encontro Com a Vida
+http://canais.servidor.tv:8080/movie/maite123/maite123/2915.mp4
+#EXTINF:-1,De Pernas Pro Ar 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/759.mp4
+#EXTINF:-1,De Repente 30
+http://canais.servidor.tv:8080/movie/maite123/maite123/2916.mp4
+#EXTINF:-1,Debi e Lóide
+http://canais.servidor.tv:8080/movie/maite123/maite123/2917.mp4
+#EXTINF:-1,Dennis, o Pimentinha
+http://canais.servidor.tv:8080/movie/maite123/maite123/2918.mp4
+#EXTINF:-1,Dennis, o Pimentinha Ataca Novamente
+http://canais.servidor.tv:8080/movie/maite123/maite123/2919.mp4
+#EXTINF:-1,Desafiando Gigantes
+http://canais.servidor.tv:8080/movie/maite123/maite123/2822.mp4
+#EXTINF:-1,Descendentes 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2569.mp4
+#EXTINF:-1,Descompensada
+http://canais.servidor.tv:8080/movie/maite123/maite123/2920.mp4
+#EXTINF:-1,Desconhecido
+http://canais.servidor.tv:8080/movie/maite123/maite123/944.mp4
+#EXTINF:-1,Desejo de Matar (2018)
+http://canais.servidor.tv:8080/movie/maite123/maite123/949.mp4
+#EXTINF:-1,Desejo de Matar 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/945.mp4
+#EXTINF:-1,Desejo de Matar 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/946.mp4
+#EXTINF:-1,Desejo de Matar 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/947.mp4
+#EXTINF:-1,Desejo de Matar 4: Operação Crackdown
+http://canais.servidor.tv:8080/movie/maite123/maite123/948.mp4
+#EXTINF:-1,Detetives do Prédio Azul 2: O Mistério Italiano
+http://canais.servidor.tv:8080/movie/maite123/maite123/724.mp4
+#EXTINF:-1,Detona Ralph 2: Quebrando a Internet
+http://canais.servidor.tv:8080/movie/maite123/maite123/788.mp4
+#EXTINF:-1,Deu a Louca nos Bichos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2921.mp4
+#EXTINF:-1,Deus Não Está Morto 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2823.mp4
+#EXTINF:-1,Deus Não Está Morto 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2824.mp4
+#EXTINF:-1,Deus Não Está Morto 3: Uma Luz na Escuridão
+http://canais.servidor.tv:8080/movie/maite123/maite123/2825.mp4
+#EXTINF:-1,Deuses do Egito
+http://canais.servidor.tv:8080/movie/maite123/maite123/950.mp4
+#EXTINF:-1,Dezessete
+http://canais.servidor.tv:8080/movie/maite123/maite123/3730.mp4
+#EXTINF:-1,Dia de Treinamento
+http://canais.servidor.tv:8080/movie/maite123/maite123/951.mp4
+#EXTINF:-1,Dia dos Mortos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2872.mp4
+#EXTINF:-1,Dias de Trovão
+http://canais.servidor.tv:8080/movie/maite123/maite123/952.mp4
+#EXTINF:-1,Distúrbio
+http://canais.servidor.tv:8080/movie/maite123/maite123/2873.mp4
+#EXTINF:-1,Divergente 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/953.mp4
+#EXTINF:-1,Divergente 2: Insurgente
+http://canais.servidor.tv:8080/movie/maite123/maite123/845.mp4
+#EXTINF:-1,Divergente 3: Convergente
+http://canais.servidor.tv:8080/movie/maite123/maite123/844.mp4
+#EXTINF:-1,Divisão de Homicídios
+http://canais.servidor.tv:8080/movie/maite123/maite123/954.mp4
+#EXTINF:-1,Divórcio
+http://canais.servidor.tv:8080/movie/maite123/maite123/2922.mp4
+#EXTINF:-1,Do Fundo do Mar 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/955.mp4
+#EXTINF:-1,Do Fundo do Mar 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/956.mp4
+#EXTINF:-1,Do Jeito Que Elas Querem
+http://canais.servidor.tv:8080/movie/maite123/maite123/2923.mp4
+#EXTINF:-1,Do Que As Mulheres Gostam
+http://canais.servidor.tv:8080/movie/maite123/maite123/2924.mp4
+#EXTINF:-1,Doce Argumento
+http://canais.servidor.tv:8080/movie/maite123/maite123/2925.mp4
+#EXTINF:-1,Dois Loucos Com Sorte
+http://canais.servidor.tv:8080/movie/maite123/maite123/2926.mp4
+#EXTINF:-1,Dois Malucos na TV
+http://canais.servidor.tv:8080/movie/maite123/maite123/2927.mp4
+#EXTINF:-1,Dois Tiras Fora de Ordem
+http://canais.servidor.tv:8080/movie/maite123/maite123/2928.mp4
+#EXTINF:-1,Dois Virgens na América
+http://canais.servidor.tv:8080/movie/maite123/maite123/2929.mp4
+#EXTINF:-1,Doom: A Porta do Inferno
+http://canais.servidor.tv:8080/movie/maite123/maite123/957.mp4
+#EXTINF:-1,Doutor Estranho
+http://canais.servidor.tv:8080/movie/maite123/maite123/666.mp4
+#EXTINF:-1,Doze Homens e Outro Segredo
+http://canais.servidor.tv:8080/movie/maite123/maite123/958.mp4
+#EXTINF:-1,Dragon Ball Super: Broly
+http://canais.servidor.tv:8080/movie/maite123/maite123/725.mp4
+#EXTINF:-1,Duas de Mim
+http://canais.servidor.tv:8080/movie/maite123/maite123/2930.mp4
+#EXTINF:-1,Dude: A Vida é Assim
+http://canais.servidor.tv:8080/movie/maite123/maite123/2931.mp4
+#EXTINF:-1,Dumbo
+http://canais.servidor.tv:8080/movie/maite123/maite123/726.mp4
+#EXTINF:-1,Dupla Explosiva
+http://canais.servidor.tv:8080/movie/maite123/maite123/960.mp4
+#EXTINF:-1,Duplex
+http://canais.servidor.tv:8080/movie/maite123/maite123/2932.mp4
+#EXTINF:-1,Durante a Tormenta
+http://canais.servidor.tv:8080/movie/maite123/maite123/727.mp4
+#EXTINF:-1,Duro de Matar 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/961.mp4
+#EXTINF:-1,Duro de Matar 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/962.mp4
+#EXTINF:-1,Duro de Matar 3: A Vingança
+http://canais.servidor.tv:8080/movie/maite123/maite123/963.mp4
+#EXTINF:-1,Duro de Matar 4.0
+http://canais.servidor.tv:8080/movie/maite123/maite123/964.mp4
+#EXTINF:-1,Duro de Matar 5: Um Bom Dia Para Morrer
+http://canais.servidor.tv:8080/movie/maite123/maite123/965.mp4
+#EXTINF:-1,E Se Fosse Verdade
+http://canais.servidor.tv:8080/movie/maite123/maite123/2933.mp4
+#EXTINF:-1,Efeito Colateral
+http://canais.servidor.tv:8080/movie/maite123/maite123/966.mp4
+#EXTINF:-1,El Camino: Um Filme de Breaking Bad
+http://canais.servidor.tv:8080/movie/maite123/maite123/3731.mp4
+#EXTINF:-1,Ela é o Cara
+http://canais.servidor.tv:8080/movie/maite123/maite123/2934.mp4
+#EXTINF:-1,Ele está de Volta
+http://canais.servidor.tv:8080/movie/maite123/maite123/2935.mp4
+#EXTINF:-1,Elektra
+http://canais.servidor.tv:8080/movie/maite123/maite123/967.mp4
+#EXTINF:-1,Eli
+http://canais.servidor.tv:8080/movie/maite123/maite123/3732.mp4
+#EXTINF:-1,Em Busca de Vingança
+http://canais.servidor.tv:8080/movie/maite123/maite123/968.mp4
+#EXTINF:-1,Em Ritmo de Fuga
+http://canais.servidor.tv:8080/movie/maite123/maite123/969.mp4
+#EXTINF:-1,Encantada
+http://canais.servidor.tv:8080/movie/maite123/maite123/2936.mp4
+#EXTINF:-1,Encontro Explosivo
+http://canais.servidor.tv:8080/movie/maite123/maite123/971.mp4
+#EXTINF:-1,Endiabrado
+http://canais.servidor.tv:8080/movie/maite123/maite123/2938.mp4
+#EXTINF:-1,Enquanto Você Dormia
+http://canais.servidor.tv:8080/movie/maite123/maite123/2955.mp4
+#EXTINF:-1,Entrando Numa Fria
+http://canais.servidor.tv:8080/movie/maite123/maite123/2956.mp4
+#EXTINF:-1,Entrando Numa Fria Maior Ainda
+http://canais.servidor.tv:8080/movie/maite123/maite123/2957.mp4
+#EXTINF:-1,Entrando Numa Fria Maior Ainda com a Família
+http://canais.servidor.tv:8080/movie/maite123/maite123/2958.mp4
+#EXTINF:-1,Entrevista Com Deus
+http://canais.servidor.tv:8080/movie/maite123/maite123/2826.mp4
+#EXTINF:-1,Era Uma Vez em… Hollywood
+http://canais.servidor.tv:8080/movie/maite123/maite123/2570.mp4
+#EXTINF:-1,Era Uma Vez Um Deadpool
+http://canais.servidor.tv:8080/movie/maite123/maite123/728.mp4
+#EXTINF:-1,Escola de Rock
+http://canais.servidor.tv:8080/movie/maite123/maite123/2959.mp4
+#EXTINF:-1,Escrito nas Estrelas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2960.mp4
+#EXTINF:-1,Espartalhões
+http://canais.servidor.tv:8080/movie/maite123/maite123/2961.mp4
+#EXTINF:-1,Esporte Sangrento
+http://canais.servidor.tv:8080/movie/maite123/maite123/972.mp4
+#EXTINF:-1,Esposa de Mentirinha
+http://canais.servidor.tv:8080/movie/maite123/maite123/2962.mp4
+#EXTINF:-1,Esquadrão Classe A
+http://canais.servidor.tv:8080/movie/maite123/maite123/2963.mp4
+#EXTINF:-1,Esquadrão Suicida
+http://canais.servidor.tv:8080/movie/maite123/maite123/973.mp4
+#EXTINF:-1,Esqueceram de Mim 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2964.mp4
+#EXTINF:-1,Esqueceram de Mim 2: Perdido em Nova York
+http://canais.servidor.tv:8080/movie/maite123/maite123/2965.mp4
+#EXTINF:-1,Esqueceram de Mim 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2966.mp4
+#EXTINF:-1,Estrada Sem Lei
+http://canais.servidor.tv:8080/movie/maite123/maite123/729.mp4
+#EXTINF:-1,Eu Não Sou um Homem Fácil
+http://canais.servidor.tv:8080/movie/maite123/maite123/2967.mp4
+#EXTINF:-1,Eu os Declaro Marido e... Larry
+http://canais.servidor.tv:8080/movie/maite123/maite123/2968.mp4
+#EXTINF:-1,Eu Sou a Fúria
+http://canais.servidor.tv:8080/movie/maite123/maite123/974.mp4
+#EXTINF:-1,Exterminadores do Além Contra a Loira do Banheiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/730.mp4
+#EXTINF:-1,Extraordinário
+http://canais.servidor.tv:8080/movie/maite123/maite123/2845.mp4
+#EXTINF:-1,Fala Sério, Mãe!
+http://canais.servidor.tv:8080/movie/maite123/maite123/2969.mp4
+#EXTINF:-1,Falcão Negro em Perigo
+http://canais.servidor.tv:8080/movie/maite123/maite123/976.mp4
+#EXTINF:-1,Falcão: O Campeão dos Campeões
+http://canais.servidor.tv:8080/movie/maite123/maite123/975.mp4
+#EXTINF:-1,Família do Bagulho
+http://canais.servidor.tv:8080/movie/maite123/maite123/2971.mp4
+#EXTINF:-1,Feito na América
+http://canais.servidor.tv:8080/movie/maite123/maite123/977.mp4
+#EXTINF:-1,Felicidade por um Fio
+http://canais.servidor.tv:8080/movie/maite123/maite123/2972.mp4
+#EXTINF:-1,Fim dos Dias
+http://canais.servidor.tv:8080/movie/maite123/maite123/1120.mp4
+#EXTINF:-1,Fim dos Tempos
+http://canais.servidor.tv:8080/movie/maite123/maite123/978.mp4
+#EXTINF:-1,Fogo Contra Fogo
+http://canais.servidor.tv:8080/movie/maite123/maite123/979.mp4
+#EXTINF:-1,Ford vs Ferrari (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/3747.mp4
+#EXTINF:-1,Forrest Gump: O Contador de Histórias
+http://canais.servidor.tv:8080/movie/maite123/maite123/2976.mp4
+#EXTINF:-1,Férias do Barulho
+http://canais.servidor.tv:8080/movie/maite123/maite123/2973.mp4
+#EXTINF:-1,Férias Frustradas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2974.mp4
+#EXTINF:-1,Férias Frustradas de Verão
+http://canais.servidor.tv:8080/movie/maite123/maite123/2975.mp4
+#EXTINF:-1,Fúria de Titãs 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/981.mp4
+#EXTINF:-1,Fúria de Titãs 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/982.mp4
+#EXTINF:-1,Fúria Em Alto Mar
+http://canais.servidor.tv:8080/movie/maite123/maite123/731.mp4
+#EXTINF:-1,Fúria em Duas Rodas
+http://canais.servidor.tv:8080/movie/maite123/maite123/983.mp4
+#EXTINF:-1,Fúria Sobre Rodas
+http://canais.servidor.tv:8080/movie/maite123/maite123/980.mp4
+#EXTINF:-1,G.I. Joe 1: A Origem de Cobra
+http://canais.servidor.tv:8080/movie/maite123/maite123/984.mp4
+#EXTINF:-1,G.I. Joe 2: Retaliação
+http://canais.servidor.tv:8080/movie/maite123/maite123/985.mp4
+#EXTINF:-1,Galinha Pintadinha 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2806.mp4
+#EXTINF:-1,Galinha Pintadinha 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2807.mp4
+#EXTINF:-1,Galinha Pintadinha 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2808.mp4
+#EXTINF:-1,Galinha Pintadinha 4
+http://canais.servidor.tv:8080/movie/maite123/maite123/2809.mp4
+#EXTINF:-1,Garota Infernal
+http://canais.servidor.tv:8080/movie/maite123/maite123/2977.mp4
+#EXTINF:-1,Garota Mimada
+http://canais.servidor.tv:8080/movie/maite123/maite123/2978.mp4
+#EXTINF:-1,Gente Grande 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2979.mp4
+#EXTINF:-1,Gente Grande 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2980.mp4
+#EXTINF:-1,Gigantes de Aço
+http://canais.servidor.tv:8080/movie/maite123/maite123/986.mp4
+#EXTINF:-1,Gladiador
+http://canais.servidor.tv:8080/movie/maite123/maite123/987.mp4
+#EXTINF:-1,Gnomeu e Julieta: O Mistério do Jardim
+http://canais.servidor.tv:8080/movie/maite123/maite123/776.mp4
+#EXTINF:-1,Godzilla 2: Rei dos Monstros
+http://canais.servidor.tv:8080/movie/maite123/maite123/732.mp4
+#EXTINF:-1,Golpe Baixo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2981.mp4
+#EXTINF:-1,Grace: Entre a Fé e a Fama
+http://canais.servidor.tv:8080/movie/maite123/maite123/2827.mp4
+#EXTINF:-1,Graças a Deus
+http://canais.servidor.tv:8080/movie/maite123/maite123/3734.mp4
+#EXTINF:-1,Green Book: O Guia
+http://canais.servidor.tv:8080/movie/maite123/maite123/733.mp4
+#EXTINF:-1,Grinch
+http://canais.servidor.tv:8080/movie/maite123/maite123/734.mp4
+#EXTINF:-1,Guardiões da Galáxia Vol.1
+http://canais.servidor.tv:8080/movie/maite123/maite123/667.mp4
+#EXTINF:-1,Guardiões da Galáxia Vol.2
+http://canais.servidor.tv:8080/movie/maite123/maite123/668.mp4
+#EXTINF:-1,Guerreira de Sangue
+http://canais.servidor.tv:8080/movie/maite123/maite123/989.mp4
+#EXTINF:-1,Guerreiro da Escuridão
+http://canais.servidor.tv:8080/movie/maite123/maite123/990.mp4
+#EXTINF:-1,Halloween
+http://canais.servidor.tv:8080/movie/maite123/maite123/735.mp4
+#EXTINF:-1,Harry Potter 1: A Pedra Filosofal
+http://canais.servidor.tv:8080/movie/maite123/maite123/806.mp4
+#EXTINF:-1,Harry Potter 2: A Câmara Secreta
+http://canais.servidor.tv:8080/movie/maite123/maite123/804.mp4
+#EXTINF:-1,Harry Potter 3: O Prisioneiro de Azkaban
+http://canais.servidor.tv:8080/movie/maite123/maite123/811.mp4
+#EXTINF:-1,Harry Potter 4: O Cálice de Fogo
+http://canais.servidor.tv:8080/movie/maite123/maite123/809.mp4
+#EXTINF:-1,Harry Potter 5: A Ordem da Fênix
+http://canais.servidor.tv:8080/movie/maite123/maite123/805.mp4
+#EXTINF:-1,Harry Potter 6: O Enigma do Príncipe
+http://canais.servidor.tv:8080/movie/maite123/maite123/810.mp4
+#EXTINF:-1,Harry Potter 7: As Relíquias da Morte, parte 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/807.mp4
+#EXTINF:-1,Harry Potter 8: As Relíquias da Morte, parte 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/808.mp4
+#EXTINF:-1,Hellboy (2019)
+http://canais.servidor.tv:8080/movie/maite123/maite123/760.mp4
+#EXTINF:-1,High School Musical 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2982.mp4
+#EXTINF:-1,High School Musical 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2983.mp4
+#EXTINF:-1,High School Musical 3: Ano da Formatura
+http://canais.servidor.tv:8080/movie/maite123/maite123/2984.mp4
+#EXTINF:-1,Histórias Assustadoras para Contar no Escuro
+http://canais.servidor.tv:8080/movie/maite123/maite123/3733.mp4
+#EXTINF:-1,Hitch: Conselheiro Amoroso
+http://canais.servidor.tv:8080/movie/maite123/maite123/2985.mp4
+#EXTINF:-1,Hitman 1: Assassino 47
+http://canais.servidor.tv:8080/movie/maite123/maite123/992.mp4
+#EXTINF:-1,Hitman 2: Agente 47
+http://canais.servidor.tv:8080/movie/maite123/maite123/991.mp4
+#EXTINF:-1,Homem de Ferro 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/672.mp4
+#EXTINF:-1,Homem de Ferro 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/673.mp4
+#EXTINF:-1,Homem de Ferro 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/674.mp4
+#EXTINF:-1,Homem-Aranha (2002) (4K)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2118.mp4
+#EXTINF:-1,Homem-Aranha no Aranhaverso
+http://canais.servidor.tv:8080/movie/maite123/maite123/736.mp4
+#EXTINF:-1,Homem-Aranha: De Volta ao Lar
+http://canais.servidor.tv:8080/movie/maite123/maite123/669.mp4
+#EXTINF:-1,Homem-Aranha: Longe de Casa
+http://canais.servidor.tv:8080/movie/maite123/maite123/2740.mp4
+#EXTINF:-1,Homem-Formiga
+http://canais.servidor.tv:8080/movie/maite123/maite123/670.mp4
+#EXTINF:-1,Homem-Formiga e a Vespa
+http://canais.servidor.tv:8080/movie/maite123/maite123/671.mp4
+#EXTINF:-1,Homens de Coragem
+http://canais.servidor.tv:8080/movie/maite123/maite123/993.mp4
+#EXTINF:-1,Horas de Desespero
+http://canais.servidor.tv:8080/movie/maite123/maite123/994.mp4
+#EXTINF:-1,Horizonte Profundo: Desastre do Golfo
+http://canais.servidor.tv:8080/movie/maite123/maite123/995.mp4
+#EXTINF:-1,Idiocracia
+http://canais.servidor.tv:8080/movie/maite123/maite123/2986.mp4
+#EXTINF:-1,Impacto Profundo
+http://canais.servidor.tv:8080/movie/maite123/maite123/996.mp4
+#EXTINF:-1,Implacável
+http://canais.servidor.tv:8080/movie/maite123/maite123/1556.mp4
+#EXTINF:-1,Independence Day 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/998.mp4
+#EXTINF:-1,Independence Day 2: O Ressurgimento
+http://canais.servidor.tv:8080/movie/maite123/maite123/997.mp4
+#EXTINF:-1,Infiltrado na Klan
+http://canais.servidor.tv:8080/movie/maite123/maite123/737.mp4
+#EXTINF:-1,Inimigo do Estado
+http://canais.servidor.tv:8080/movie/maite123/maite123/999.mp4
+#EXTINF:-1,Inimigo Mortal
+http://canais.servidor.tv:8080/movie/maite123/maite123/896.mp4
+#EXTINF:-1,Internet: O Filme
+http://canais.servidor.tv:8080/movie/maite123/maite123/2987.mp4
+#EXTINF:-1,Invasão a Casa Branca
+http://canais.servidor.tv:8080/movie/maite123/maite123/1000.mp4
+#EXTINF:-1,Invasão a Londres
+http://canais.servidor.tv:8080/movie/maite123/maite123/1001.mp4
+#EXTINF:-1,IO: O Último na Terra
+http://canais.servidor.tv:8080/movie/maite123/maite123/738.mp4
+#EXTINF:-1,It: Capítulo Dois
+http://canais.servidor.tv:8080/movie/maite123/maite123/3735.mp4
+#EXTINF:-1,Jack Reacher 1: O Último Tiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/1003.mp4
+#EXTINF:-1,Jack Reacher 2: Sem Retorno
+http://canais.servidor.tv:8080/movie/maite123/maite123/1004.mp4
+#EXTINF:-1,Jack: O Caçador de Gigantes
+http://canais.servidor.tv:8080/movie/maite123/maite123/1002.mp4
+#EXTINF:-1,Jesus de Nazaré 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2828.mp4
+#EXTINF:-1,Jesus de Nazaré 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2829.mp4
+#EXTINF:-1,Jesus de Nazaré 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2830.mp4
+#EXTINF:-1,Jesus de Nazaré 4
+http://canais.servidor.tv:8080/movie/maite123/maite123/2831.mp4
+#EXTINF:-1,Jogo de Amor em Las Vegas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2989.mp4
+#EXTINF:-1,Jogos Vorazes 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1005.mp4
+#EXTINF:-1,Jogos Vorazes 2: Em Chamas
+http://canais.servidor.tv:8080/movie/maite123/maite123/1006.mp4
+#EXTINF:-1,Jogos Vorazes 3: A Esperança, Parte 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1007.mp4
+#EXTINF:-1,Jogos Vorazes 4: A Esperança, O Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/1042.mp4
+#EXTINF:-1,John Wick 1: De Volta ao Jogo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1043.mp4
+#EXTINF:-1,John Wick 2: Um Novo Dia Para Matar
+http://canais.servidor.tv:8080/movie/maite123/maite123/1044.mp4
+#EXTINF:-1,John Wick 3: Parabellum
+http://canais.servidor.tv:8080/movie/maite123/maite123/739.mp4
+#EXTINF:-1,Johnny English 3.0
+http://canais.servidor.tv:8080/movie/maite123/maite123/2990.mp4
+#EXTINF:-1,Jumanji: Bem-Vindo à Selva
+http://canais.servidor.tv:8080/movie/maite123/maite123/2991.mp4
+#EXTINF:-1,Juntos e Misturados
+http://canais.servidor.tv:8080/movie/maite123/maite123/2992.mp4
+#EXTINF:-1,Juntos para Sempre
+http://canais.servidor.tv:8080/movie/maite123/maite123/3736.mp4
+#EXTINF:-1,Juntos pelo Acaso
+http://canais.servidor.tv:8080/movie/maite123/maite123/2993.mp4
+#EXTINF:-1,Jurassic Park 1: O Parque dos Dinossauros
+http://canais.servidor.tv:8080/movie/maite123/maite123/1047.mp4
+#EXTINF:-1,Jurassic Park 2: O Mundo Perdido
+http://canais.servidor.tv:8080/movie/maite123/maite123/1045.mp4
+#EXTINF:-1,Jurassic Park 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1046.mp4
+#EXTINF:-1,Jurassic World: O Mundo dos Dinossauros
+http://canais.servidor.tv:8080/movie/maite123/maite123/1048.mp4
+#EXTINF:-1,Já Não Me Sinto Em Casa Nesse Mundo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2988.mp4
+#EXTINF:-1,Kardec: A História por Trás do Nome
+http://canais.servidor.tv:8080/movie/maite123/maite123/2571.mp4
+#EXTINF:-1,Kate & Leopold
+http://canais.servidor.tv:8080/movie/maite123/maite123/2994.mp4
+#EXTINF:-1,Kickboxer 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1049.mp4
+#EXTINF:-1,Kickboxer 2:  A Vingança do Dragão
+http://canais.servidor.tv:8080/movie/maite123/maite123/1050.mp4
+#EXTINF:-1,Kickboxer 3: A Arte da Guerra
+http://canais.servidor.tv:8080/movie/maite123/maite123/1051.mp4
+#EXTINF:-1,Kickboxer 4: O Agressor
+http://canais.servidor.tv:8080/movie/maite123/maite123/1052.mp4
+#EXTINF:-1,Kickboxer 5: O Desafio Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/1053.mp4
+#EXTINF:-1,Kickboxer 6: A Vingança do Dragão
+http://canais.servidor.tv:8080/movie/maite123/maite123/1054.mp4
+#EXTINF:-1,Kickboxer 7: A Retaliação
+http://canais.servidor.tv:8080/movie/maite123/maite123/1055.mp4
+#EXTINF:-1,Kingsman 1: Serviço Secreto
+http://canais.servidor.tv:8080/movie/maite123/maite123/1057.mp4
+#EXTINF:-1,Kingsman 2: O Círculo Dourado
+http://canais.servidor.tv:8080/movie/maite123/maite123/1056.mp4
+#EXTINF:-1,Kong: A Ilha da Caveira
+http://canais.servidor.tv:8080/movie/maite123/maite123/1058.mp4
+#EXTINF:-1,Kung Fu Futebol Clube
+http://canais.servidor.tv:8080/movie/maite123/maite123/2995.mp4
+#EXTINF:-1,Kung Pow: O Mestre da Kung-Fu-São
+http://canais.servidor.tv:8080/movie/maite123/maite123/1059.mp4
+#EXTINF:-1,Kung-fusão
+http://canais.servidor.tv:8080/movie/maite123/maite123/2996.mp4
+#EXTINF:-1,La La Land: Cantando Estações
+http://canais.servidor.tv:8080/movie/maite123/maite123/2997.mp4
+#EXTINF:-1,Ladrões de Mentes
+http://canais.servidor.tv:8080/movie/maite123/maite123/1060.mp4
+#EXTINF:-1,Lanterna Verde
+http://canais.servidor.tv:8080/movie/maite123/maite123/1061.mp4
+#EXTINF:-1,Lara Croft: Tomb Raider
+http://canais.servidor.tv:8080/movie/maite123/maite123/2297.mp4
+#EXTINF:-1,Legalmente Loira 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2999.mp4
+#EXTINF:-1,Legalmente Loira 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/3000.mp4
+#EXTINF:-1,Logan
+http://canais.servidor.tv:8080/movie/maite123/maite123/1062.mp4
+#EXTINF:-1,Looney Tunes: De Volta à Ação
+http://canais.servidor.tv:8080/movie/maite123/maite123/3001.mp4
+#EXTINF:-1,Loucademia de Polícia 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3002.mp4
+#EXTINF:-1,Loucademia de Polícia 2: A Primeira Missão
+http://canais.servidor.tv:8080/movie/maite123/maite123/3003.mp4
+#EXTINF:-1,Loucademia de Polícia 3: De Volta ao Treinamento
+http://canais.servidor.tv:8080/movie/maite123/maite123/3004.mp4
+#EXTINF:-1,Loucademia de Polícia 4: O Cidadão se Defende
+http://canais.servidor.tv:8080/movie/maite123/maite123/3005.mp4
+#EXTINF:-1,Loucademia de Polícia 5: Missão Miami Beach
+http://canais.servidor.tv:8080/movie/maite123/maite123/3006.mp4
+#EXTINF:-1,Loucademia de Polícia 6: Cidade em Estado de Sítio
+http://canais.servidor.tv:8080/movie/maite123/maite123/3007.mp4
+#EXTINF:-1,Loucademia de Polícia 7: Missão Moscou
+http://canais.servidor.tv:8080/movie/maite123/maite123/3008.mp4
+#EXTINF:-1,Loucas Pra Casar
+http://canais.servidor.tv:8080/movie/maite123/maite123/3009.mp4
+#EXTINF:-1,Lua Negra
+http://canais.servidor.tv:8080/movie/maite123/maite123/1063.mp4
+#EXTINF:-1,Luccas Neto em: Acampamento de Férias
+http://canais.servidor.tv:8080/movie/maite123/maite123/2572.mp4
+#EXTINF:-1,Luccas Neto em: Uma Babá Muito Esquisita
+http://canais.servidor.tv:8080/movie/maite123/maite123/740.mp4
+#EXTINF:-1,Lucy
+http://canais.servidor.tv:8080/movie/maite123/maite123/1064.mp4
+#EXTINF:-1,Lá Vem os Pais
+http://canais.servidor.tv:8080/movie/maite123/maite123/2998.mp4
+#EXTINF:-1,Mad Max 4: Estrada da Fúria
+http://canais.servidor.tv:8080/movie/maite123/maite123/1065.mp4
+#EXTINF:-1,Madrugada Muito Louca 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3010.mp4
+#EXTINF:-1,Madrugada Muito Louca 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/3011.mp4
+#EXTINF:-1,Maligno
+http://canais.servidor.tv:8080/movie/maite123/maite123/741.mp4
+#EXTINF:-1,Malévola 2: Dona do Mal (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2841.mp4
+#EXTINF:-1,Mamma Mia! Lá Vamos Nós de Novo
+http://canais.servidor.tv:8080/movie/maite123/maite123/3013.mp4
+#EXTINF:-1,Mamãe: Operação Balada
+http://canais.servidor.tv:8080/movie/maite123/maite123/3012.mp4
+#EXTINF:-1,Man Down: A Guerra
+http://canais.servidor.tv:8080/movie/maite123/maite123/1066.mp4
+#EXTINF:-1,Mansão Mal-Assombrada
+http://canais.servidor.tv:8080/movie/maite123/maite123/3014.mp4
+#EXTINF:-1,Maria Madalena
+http://canais.servidor.tv:8080/movie/maite123/maite123/2832.mp4
+#EXTINF:-1,Marido e Mulher
+http://canais.servidor.tv:8080/movie/maite123/maite123/3016.mp4
+#EXTINF:-1,Marido Por Acaso
+http://canais.servidor.tv:8080/movie/maite123/maite123/3017.mp4
+#EXTINF:-1,Marley & Eu 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3018.mp4
+#EXTINF:-1,Marmaduke
+http://canais.servidor.tv:8080/movie/maite123/maite123/3019.mp4
+#EXTINF:-1,Massacre no Bairro Japonês
+http://canais.servidor.tv:8080/movie/maite123/maite123/1067.mp4
+#EXTINF:-1,Matrix 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1068.mp4
+#EXTINF:-1,Matrix 2: Reloaded
+http://canais.servidor.tv:8080/movie/maite123/maite123/1069.mp4
+#EXTINF:-1,Matrix 3: Revolutions
+http://canais.servidor.tv:8080/movie/maite123/maite123/1074.mp4
+#EXTINF:-1,Maze Runner 3: A Cura Mortal
+http://canais.servidor.tv:8080/movie/maite123/maite123/1075.mp4
+#EXTINF:-1,Mazzaropi: A Banda das Velhas Virgens
+http://canais.servidor.tv:8080/movie/maite123/maite123/3020.mp4
+#EXTINF:-1,Mazzaropi: A Carrocinha
+http://canais.servidor.tv:8080/movie/maite123/maite123/3021.mp4
+#EXTINF:-1,Mazzaropi: As Aventuras de Pedro Malasartes
+http://canais.servidor.tv:8080/movie/maite123/maite123/3022.mp4
+#EXTINF:-1,Mazzaropi: Betão Ronca Ferro
+http://canais.servidor.tv:8080/movie/maite123/maite123/3023.mp4
+#EXTINF:-1,Mazzaropi: Candinho
+http://canais.servidor.tv:8080/movie/maite123/maite123/3024.mp4
+#EXTINF:-1,Mazzaropi: Casinha Pequenina
+http://canais.servidor.tv:8080/movie/maite123/maite123/3025.mp4
+#EXTINF:-1,Mazzaropi: Chico Fumaça
+http://canais.servidor.tv:8080/movie/maite123/maite123/3026.mp4
+#EXTINF:-1,Mazzaropi: Chofer de Praça
+http://canais.servidor.tv:8080/movie/maite123/maite123/3027.mp4
+#EXTINF:-1,Mazzaropi: Fuzileiro do Amor
+http://canais.servidor.tv:8080/movie/maite123/maite123/3028.mp4
+#EXTINF:-1,Mazzaropi: Jeca Contra o Capeta
+http://canais.servidor.tv:8080/movie/maite123/maite123/3030.mp4
+#EXTINF:-1,Mazzaropi: Jeca e Seu Filho Preto
+http://canais.servidor.tv:8080/movie/maite123/maite123/3031.mp4
+#EXTINF:-1,Mazzaropi: Jeca Tatu
+http://canais.servidor.tv:8080/movie/maite123/maite123/3032.mp4
+#EXTINF:-1,Mazzaropi: Jecão... Um Fofoqueiro no Céu
+http://canais.servidor.tv:8080/movie/maite123/maite123/3033.mp4
+#EXTINF:-1,Mazzaropi: Meu Japão Brasileiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/3034.mp4
+#EXTINF:-1,Mazzaropi: Nadando em Dinheiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/3035.mp4
+#EXTINF:-1,Mazzaropi: No Paraíso das Solteironas
+http://canais.servidor.tv:8080/movie/maite123/maite123/3036.mp4
+#EXTINF:-1,Mazzaropi: O Cineasta das Platéias
+http://canais.servidor.tv:8080/movie/maite123/maite123/3037.mp4
+#EXTINF:-1,Mazzaropi: O Corintiano
+http://canais.servidor.tv:8080/movie/maite123/maite123/3038.mp4
+#EXTINF:-1,Mazzaropi: O Gato de Madame
+http://canais.servidor.tv:8080/movie/maite123/maite123/3029.mp4
+#EXTINF:-1,Mazzaropi: O Grande Xerife
+http://canais.servidor.tv:8080/movie/maite123/maite123/3039.mp4
+#EXTINF:-1,Mazzaropi: O Jeca e a Freira
+http://canais.servidor.tv:8080/movie/maite123/maite123/3041.mp4
+#EXTINF:-1,Mazzaropi: O Jeca e a Égua Milagrosa
+http://canais.servidor.tv:8080/movie/maite123/maite123/3040.mp4
+#EXTINF:-1,Mazzaropi: O Jeca Macumbeiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/3042.mp4
+#EXTINF:-1,Mazzaropi: O Lamparina
+http://canais.servidor.tv:8080/movie/maite123/maite123/3043.mp4
+#EXTINF:-1,Mazzaropi: O Noivo da Girafa
+http://canais.servidor.tv:8080/movie/maite123/maite123/3052.mp4
+#EXTINF:-1,Mazzaropi: O Puritano da Rua Augusta
+http://canais.servidor.tv:8080/movie/maite123/maite123/3044.mp4
+#EXTINF:-1,Mazzaropi: O Vendedor de Linguiça
+http://canais.servidor.tv:8080/movie/maite123/maite123/3045.mp4
+#EXTINF:-1,Mazzaropi: Portugal... Minha Saudade
+http://canais.servidor.tv:8080/movie/maite123/maite123/3046.mp4
+#EXTINF:-1,Mazzaropi: Sai da Frente
+http://canais.servidor.tv:8080/movie/maite123/maite123/3047.mp4
+#EXTINF:-1,Mazzaropi: Tristeza do Jeca
+http://canais.servidor.tv:8080/movie/maite123/maite123/3048.mp4
+#EXTINF:-1,Mazzaropi: Um Caipira em Bariloche
+http://canais.servidor.tv:8080/movie/maite123/maite123/3049.mp4
+#EXTINF:-1,Mazzaropi: Uma Pistola Para Djeca
+http://canais.servidor.tv:8080/movie/maite123/maite123/3050.mp4
+#EXTINF:-1,Mazzaropi: Zé do Periquito
+http://canais.servidor.tv:8080/movie/maite123/maite123/3051.mp4
+#EXTINF:-1,Megarromântico
+http://canais.servidor.tv:8080/movie/maite123/maite123/743.mp4
+#EXTINF:-1,Meninas Malvadas 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3053.mp4
+#EXTINF:-1,Meninas Malvadas 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/3054.mp4
+#EXTINF:-1,Mens@gem Para Você
+http://canais.servidor.tv:8080/movie/maite123/maite123/3055.mp4
+#EXTINF:-1,Mente Criminosa
+http://canais.servidor.tv:8080/movie/maite123/maite123/1076.mp4
+#EXTINF:-1,Mergulho Radical
+http://canais.servidor.tv:8080/movie/maite123/maite123/1077.mp4
+#EXTINF:-1,Meu Amigo Enzo
+http://canais.servidor.tv:8080/movie/maite123/maite123/3737.mp4
+#EXTINF:-1,Meu Ex é um Espião
+http://canais.servidor.tv:8080/movie/maite123/maite123/1078.mp4
+#EXTINF:-1,Meu Malvado Favorito 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2810.mp4
+#EXTINF:-1,Meu Malvado Favorito 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2811.mp4
+#EXTINF:-1,Meu Malvado Favorito 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2812.mp4
+#EXTINF:-1,Meu Primeiro Amor
+http://canais.servidor.tv:8080/movie/maite123/maite123/3056.mp4
+#EXTINF:-1,Meus Vizinhos São um Terror
+http://canais.servidor.tv:8080/movie/maite123/maite123/3057.mp4
+#EXTINF:-1,MIB: Homens de Preto Internacional
+http://canais.servidor.tv:8080/movie/maite123/maite123/761.mp4
+#EXTINF:-1,Milagres de Jesus: O Filme
+http://canais.servidor.tv:8080/movie/maite123/maite123/2833.mp4
+#EXTINF:-1,Millennium: A Garota na Teia de Aranha
+http://canais.servidor.tv:8080/movie/maite123/maite123/744.mp4
+#EXTINF:-1,Minha Fama de Mau
+http://canais.servidor.tv:8080/movie/maite123/maite123/3739.mp4
+#EXTINF:-1,Minha Mãe é uma Peça: O Filme
+http://canais.servidor.tv:8080/movie/maite123/maite123/3058.mp4
+#EXTINF:-1,Minha Vida Em Marte
+http://canais.servidor.tv:8080/movie/maite123/maite123/749.mp4
+#EXTINF:-1,Minhas Adoráveis Ex-Namoradas
+http://canais.servidor.tv:8080/movie/maite123/maite123/3059.mp4
+#EXTINF:-1,Missão Impossível 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1079.mp4
+#EXTINF:-1,Missão Impossível 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1080.mp4
+#EXTINF:-1,Missão Impossível 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1081.mp4
+#EXTINF:-1,Missão Impossível 4: Protocolo Fantasma
+http://canais.servidor.tv:8080/movie/maite123/maite123/1082.mp4
+#EXTINF:-1,Missão Impossível 5: Nação Secreta
+http://canais.servidor.tv:8080/movie/maite123/maite123/1083.mp4
+#EXTINF:-1,Missão Impossível 6: Efeito Fallout
+http://canais.servidor.tv:8080/movie/maite123/maite123/1084.mp4
+#EXTINF:-1,Missão Quase Impossível
+http://canais.servidor.tv:8080/movie/maite123/maite123/3060.mp4
+#EXTINF:-1,Mistério no Mediterrâneo
+http://canais.servidor.tv:8080/movie/maite123/maite123/762.mp4
+#EXTINF:-1,Momento Crítico
+http://canais.servidor.tv:8080/movie/maite123/maite123/1085.mp4
+#EXTINF:-1,Mortal Kombat 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1086.mp4
+#EXTINF:-1,Morte no Funeral
+http://canais.servidor.tv:8080/movie/maite123/maite123/3061.mp4
+#EXTINF:-1,Morte Súbita
+http://canais.servidor.tv:8080/movie/maite123/maite123/1087.mp4
+#EXTINF:-1,Motoqueiros Selvagens
+http://canais.servidor.tv:8080/movie/maite123/maite123/1088.mp4
+#EXTINF:-1,Mudança de Hábito 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3062.mp4
+#EXTINF:-1,Mudança de Hábito 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/3063.mp4
+#EXTINF:-1,Muita Calma Nessa Hora
+http://canais.servidor.tv:8080/movie/maite123/maite123/3064.mp4
+#EXTINF:-1,Muito Bem Acompanhada
+http://canais.servidor.tv:8080/movie/maite123/maite123/3065.mp4
+#EXTINF:-1,Mulher-Gato
+http://canais.servidor.tv:8080/movie/maite123/maite123/1089.mp4
+#EXTINF:-1,Mulher-Maravilha
+http://canais.servidor.tv:8080/movie/maite123/maite123/1090.mp4
+#EXTINF:-1,Mulheres ao Ataque
+http://canais.servidor.tv:8080/movie/maite123/maite123/3067.mp4
+#EXTINF:-1,Máquina Mortífera 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1070.mp4
+#EXTINF:-1,Máquina Mortífera 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1071.mp4
+#EXTINF:-1,Máquina Mortífera 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1072.mp4
+#EXTINF:-1,Máquina Mortífera 4
+http://canais.servidor.tv:8080/movie/maite123/maite123/1073.mp4
+#EXTINF:-1,Máquinas Mortais
+http://canais.servidor.tv:8080/movie/maite123/maite123/742.mp4
+#EXTINF:-1,Mãe e Muito Mais
+http://canais.servidor.tv:8080/movie/maite123/maite123/2573.mp4
+#EXTINF:-1,Na Escuridão do Oceano (Legendado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/884.mp4
+#EXTINF:-1,Nada a Esconder
+http://canais.servidor.tv:8080/movie/maite123/maite123/3068.mp4
+#EXTINF:-1,Nada a Perder 2: Não Se Pode Esconder a Verdade
+http://canais.servidor.tv:8080/movie/maite123/maite123/3738.mp4
+#EXTINF:-1,Nasce Uma Estrela
+http://canais.servidor.tv:8080/movie/maite123/maite123/750.mp4
+#EXTINF:-1,Next Gen
+http://canais.servidor.tv:8080/movie/maite123/maite123/1091.mp4
+#EXTINF:-1,Ninguém Segura Esse Bebê
+http://canais.servidor.tv:8080/movie/maite123/maite123/3071.mp4
+#EXTINF:-1,No Limite do Amanhã
+http://canais.servidor.tv:8080/movie/maite123/maite123/1092.mp4
+#EXTINF:-1,No Olho do Furacão
+http://canais.servidor.tv:8080/movie/maite123/maite123/1093.mp4
+#EXTINF:-1,No Olho do Tornado
+http://canais.servidor.tv:8080/movie/maite123/maite123/1094.mp4
+#EXTINF:-1,No Pique de Nova York
+http://canais.servidor.tv:8080/movie/maite123/maite123/3072.mp4
+#EXTINF:-1,Nocaute
+http://canais.servidor.tv:8080/movie/maite123/maite123/1095.mp4
+#EXTINF:-1,Norbit
+http://canais.servidor.tv:8080/movie/maite123/maite123/3073.mp4
+#EXTINF:-1,Noé
+http://canais.servidor.tv:8080/movie/maite123/maite123/2834.mp4
+#EXTINF:-1,Não Aceitamos Devoluções
+http://canais.servidor.tv:8080/movie/maite123/maite123/3069.mp4
+#EXTINF:-1,Não Vai Dar
+http://canais.servidor.tv:8080/movie/maite123/maite123/3070.mp4
+#EXTINF:-1,Nós
+http://canais.servidor.tv:8080/movie/maite123/maite123/751.mp4
+#EXTINF:-1,Nós Somos os Campeões 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3074.mp4
+#EXTINF:-1,Nós Somos os Campeões 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1096.mp4
+#EXTINF:-1,O Alvo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1097.mp4
+#EXTINF:-1,O Amor Dá Trabalho
+http://canais.servidor.tv:8080/movie/maite123/maite123/3740.mp4
+#EXTINF:-1,O Amor Não Tira Férias
+http://canais.servidor.tv:8080/movie/maite123/maite123/3076.mp4
+#EXTINF:-1,O Amor É Cego
+http://canais.servidor.tv:8080/movie/maite123/maite123/3075.mp4
+#EXTINF:-1,O Anel do Rei: A Última Batalha
+http://canais.servidor.tv:8080/movie/maite123/maite123/1098.mp4
+#EXTINF:-1,O Assassino: O Primeiro Alvo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1099.mp4
+#EXTINF:-1,O Atirador: O Extermínio Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/1100.mp4
+#EXTINF:-1,O Beijo do Dragão
+http://canais.servidor.tv:8080/movie/maite123/maite123/1101.mp4
+#EXTINF:-1,O Candidato Honesto 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3077.mp4
+#EXTINF:-1,O Candidato Honesto 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/3078.mp4
+#EXTINF:-1,O Carma De Um Assassino
+http://canais.servidor.tv:8080/movie/maite123/maite123/1103.mp4
+#EXTINF:-1,O Caçador e a Rainha do Gelo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1102.mp4
+#EXTINF:-1,O Chacal
+http://canais.servidor.tv:8080/movie/maite123/maite123/1104.mp4
+#EXTINF:-1,O Clube dos Canibais
+http://canais.servidor.tv:8080/movie/maite123/maite123/3079.mp4
+#EXTINF:-1,O Clube dos Meninos Bilionarios
+http://canais.servidor.tv:8080/movie/maite123/maite123/1651.mp4
+#EXTINF:-1,O Conde de Monte Cristo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1105.mp4
+#EXTINF:-1,O Confronto
+http://canais.servidor.tv:8080/movie/maite123/maite123/1106.mp4
+#EXTINF:-1,O Contador
+http://canais.servidor.tv:8080/movie/maite123/maite123/1107.mp4
+#EXTINF:-1,O Céu é de Verdade
+http://canais.servidor.tv:8080/movie/maite123/maite123/2835.mp4
+#EXTINF:-1,O Date Perfeito
+http://canais.servidor.tv:8080/movie/maite123/maite123/752.mp4
+#EXTINF:-1,O Dia Depois de Amanhã
+http://canais.servidor.tv:8080/movie/maite123/maite123/1108.mp4
+#EXTINF:-1,O Diabo Veste Prada
+http://canais.servidor.tv:8080/movie/maite123/maite123/3080.mp4
+#EXTINF:-1,O Ditador
+http://canais.servidor.tv:8080/movie/maite123/maite123/3083.mp4
+#EXTINF:-1,O Diário da Princesa 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/3081.mp4
+#EXTINF:-1,O Diário da Princesa 2: Casamento Real
+http://canais.servidor.tv:8080/movie/maite123/maite123/3082.mp4
+#EXTINF:-1,O Dono da Festa
+http://canais.servidor.tv:8080/movie/maite123/maite123/3084.mp4
+#EXTINF:-1,O Doutrinador
+http://canais.servidor.tv:8080/movie/maite123/maite123/753.mp4
+#EXTINF:-1,O Escorpião Rei 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1109.mp4
+#EXTINF:-1,O Escorpião Rei 2: A Saga de um Guerreiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/1110.mp4
+#EXTINF:-1,O Escorpião Rei 3: Batalha Pela Redenção
+http://canais.servidor.tv:8080/movie/maite123/maite123/1111.mp4
+#EXTINF:-1,O Escorpião Rei 4: Na Busca Pelo Poder
+http://canais.servidor.tv:8080/movie/maite123/maite123/1112.mp4
+#EXTINF:-1,O Escorpião Rei 5: O Livro das Almas
+http://canais.servidor.tv:8080/movie/maite123/maite123/1113.mp4
+#EXTINF:-1,O Estado das Coisas
+http://canais.servidor.tv:8080/movie/maite123/maite123/3085.mp4
+#EXTINF:-1,O Estrangeiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/1114.mp4
+#EXTINF:-1,O Exterminador do Futuro 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1115.mp4
+#EXTINF:-1,O Exterminador do Futuro 2: O Julgamento Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/1116.mp4
+#EXTINF:-1,O Exterminador do Futuro 3: A Rebelião das Máquinas
+http://canais.servidor.tv:8080/movie/maite123/maite123/1117.mp4
+#EXTINF:-1,O Exterminador do Futuro 4: A Salvação
+http://canais.servidor.tv:8080/movie/maite123/maite123/1118.mp4
+#EXTINF:-1,O Exterminador do Futuro 6: Destino Sombrio (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2738.mp4
+#EXTINF:-1,O Fabuloso Destino de Amélie Poulain
+http://canais.servidor.tv:8080/movie/maite123/maite123/3086.mp4
+#EXTINF:-1,O Fada do Dente
+http://canais.servidor.tv:8080/movie/maite123/maite123/3087.mp4
+#EXTINF:-1,O Feiticeiro e a Serpente Branca
+http://canais.servidor.tv:8080/movie/maite123/maite123/1119.mp4
+#EXTINF:-1,O Fim do Mundo - 2019
+http://canais.servidor.tv:8080/movie/maite123/maite123/3741.mp4
+#EXTINF:-1,O Grande Assalto
+http://canais.servidor.tv:8080/movie/maite123/maite123/970.mp4
+#EXTINF:-1,O Grande Dragão Branco
+http://canais.servidor.tv:8080/movie/maite123/maite123/1121.mp4
+#EXTINF:-1,O Grande Lebowski
+http://canais.servidor.tv:8080/movie/maite123/maite123/3088.mp4
+#EXTINF:-1,O Grande Mestre 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1122.mp4
+#EXTINF:-1,O Grande Mestre 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1123.mp4
+#EXTINF:-1,O Grande Mestre 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1124.mp4
+#EXTINF:-1,O Guarda-Costas
+http://canais.servidor.tv:8080/movie/maite123/maite123/988.mp4
+#EXTINF:-1,O Homem Bicentenário
+http://canais.servidor.tv:8080/movie/maite123/maite123/3089.mp4
+#EXTINF:-1,O Homem da Máscara de Ferro
+http://canais.servidor.tv:8080/movie/maite123/maite123/1125.mp4
+#EXTINF:-1,O Homem de Aço
+http://canais.servidor.tv:8080/movie/maite123/maite123/1126.mp4
+#EXTINF:-1,O Homem Perfeito
+http://canais.servidor.tv:8080/movie/maite123/maite123/754.mp4
+#EXTINF:-1,O Imbatível 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/891.mp4
+#EXTINF:-1,O Imbatível 2: O Lutador
+http://canais.servidor.tv:8080/movie/maite123/maite123/888.mp4
+#EXTINF:-1,O Imbatível 3: A Redenção
+http://canais.servidor.tv:8080/movie/maite123/maite123/889.mp4
+#EXTINF:-1,O Imbatível 4: Boyka
+http://canais.servidor.tv:8080/movie/maite123/maite123/890.mp4
+#EXTINF:-1,O Incrível Hulk
+http://canais.servidor.tv:8080/movie/maite123/maite123/675.mp4
+#EXTINF:-1,O Inferno de Dante
+http://canais.servidor.tv:8080/movie/maite123/maite123/1127.mp4
+#EXTINF:-1,O Livro de Eli
+http://canais.servidor.tv:8080/movie/maite123/maite123/1128.mp4
+#EXTINF:-1,O Manicômio
+http://canais.servidor.tv:8080/movie/maite123/maite123/755.mp4
+#EXTINF:-1,O Matador
+http://canais.servidor.tv:8080/movie/maite123/maite123/1129.mp4
+#EXTINF:-1,O Menino Que Descobriu o Vento
+http://canais.servidor.tv:8080/movie/maite123/maite123/756.mp4
+#EXTINF:-1,O Menino Que Queria Ser Rei
+http://canais.servidor.tv:8080/movie/maite123/maite123/757.mp4
+#EXTINF:-1,O Mestre das Armas
+http://canais.servidor.tv:8080/movie/maite123/maite123/1130.mp4
+#EXTINF:-1,O Parque dos Sonhos
+http://canais.servidor.tv:8080/movie/maite123/maite123/758.mp4
+#EXTINF:-1,O Passageiro
+http://canais.servidor.tv:8080/movie/maite123/maite123/1131.mp4
+#EXTINF:-1,O Preço do Amanhã
+http://canais.servidor.tv:8080/movie/maite123/maite123/1132.mp4
+#EXTINF:-1,O Primeiro Homem
+http://canais.servidor.tv:8080/movie/maite123/maite123/763.mp4
+#EXTINF:-1,O Procurado
+http://canais.servidor.tv:8080/movie/maite123/maite123/1926.mp4
+#EXTINF:-1,O Quebra-Nozes e os Quatro Reinos
+http://canais.servidor.tv:8080/movie/maite123/maite123/764.mp4
+#EXTINF:-1,O Rei
+http://canais.servidor.tv:8080/movie/maite123/maite123/2842.mp4
+#EXTINF:-1,O Rei Leão (2019)
+http://canais.servidor.tv:8080/movie/maite123/maite123/959.mp4
+#EXTINF:-1,O Reino Proibido
+http://canais.servidor.tv:8080/movie/maite123/maite123/1927.mp4
+#EXTINF:-1,O Retorno de Mary Poppins
+http://canais.servidor.tv:8080/movie/maite123/maite123/765.mp4
+#EXTINF:-1,O Retorno do Dragão: A Cidade Perdida
+http://canais.servidor.tv:8080/movie/maite123/maite123/1928.mp4
+#EXTINF:-1,O Silêncio
+http://canais.servidor.tv:8080/movie/maite123/maite123/780.mp4
+#EXTINF:-1,O Turista
+http://canais.servidor.tv:8080/movie/maite123/maite123/1929.mp4
+#EXTINF:-1,O Último Assalto
+http://canais.servidor.tv:8080/movie/maite123/maite123/1931.mp4
+#EXTINF:-1,O Último Desafio
+http://canais.servidor.tv:8080/movie/maite123/maite123/1930.mp4
+#EXTINF:-1,O Último Samurai
+http://canais.servidor.tv:8080/movie/maite123/maite123/1932.mp4
+#EXTINF:-1,Obsessão Secreta
+http://canais.servidor.tv:8080/movie/maite123/maite123/2574.mp4
+#EXTINF:-1,Oito Mulheres e Um Segredo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2752.mp4
+#EXTINF:-1,Onde Está Deus
+http://canais.servidor.tv:8080/movie/maite123/maite123/2836.mp4
+#EXTINF:-1,Ong-Bak 1: Guerreiro Sagrado
+http://canais.servidor.tv:8080/movie/maite123/maite123/1933.mp4
+#EXTINF:-1,Ong-Bak 2: O Começo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1934.mp4
+#EXTINF:-1,Ong-Bak 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1935.mp4
+#EXTINF:-1,Operação Fronteira
+http://canais.servidor.tv:8080/movie/maite123/maite123/766.mp4
+#EXTINF:-1,Operação Invasão 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1936.mp4
+#EXTINF:-1,Operação Invasão 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1937.mp4
+#EXTINF:-1,Operação Overlord
+http://canais.servidor.tv:8080/movie/maite123/maite123/767.mp4
+#EXTINF:-1,Os Aventureiros do Bairro Proibido
+http://canais.servidor.tv:8080/movie/maite123/maite123/1938.mp4
+#EXTINF:-1,Os Condenados 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1939.mp4
+#EXTINF:-1,Os Condenados 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1940.mp4
+#EXTINF:-1,Os Doze Condenados
+http://canais.servidor.tv:8080/movie/maite123/maite123/1941.mp4
+#EXTINF:-1,Os Esquenta-Banco 2: Quebrando As Bolas
+http://canais.servidor.tv:8080/movie/maite123/maite123/3742.mp4
+#EXTINF:-1,Os Instrumentos Mortais: Cidade dos Ossos
+http://canais.servidor.tv:8080/movie/maite123/maite123/1942.mp4
+#EXTINF:-1,Os Mercenários 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1943.mp4
+#EXTINF:-1,Os Mercenários 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1944.mp4
+#EXTINF:-1,Os Mercenários 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1945.mp4
+#EXTINF:-1,Os Outros Caras
+http://canais.servidor.tv:8080/movie/maite123/maite123/1946.mp4
+#EXTINF:-1,Os Perdedores
+http://canais.servidor.tv:8080/movie/maite123/maite123/1947.mp4
+#EXTINF:-1,Os Três Mosqueteiros
+http://canais.servidor.tv:8080/movie/maite123/maite123/1948.mp4
+#EXTINF:-1,Pantera Negra
+http://canais.servidor.tv:8080/movie/maite123/maite123/676.mp4
+#EXTINF:-1,Par Perfeito
+http://canais.servidor.tv:8080/movie/maite123/maite123/1949.mp4
+#EXTINF:-1,Parque do Inferno
+http://canais.servidor.tv:8080/movie/maite123/maite123/768.mp4
+#EXTINF:-1,Passageiro 57
+http://canais.servidor.tv:8080/movie/maite123/maite123/1950.mp4
+#EXTINF:-1,Paulo: Apóstolo de Cristo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2837.mp4
+#EXTINF:-1,Perda Total
+http://canais.servidor.tv:8080/movie/maite123/maite123/1951.mp4
+#EXTINF:-1,Perigo Extremo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1952.mp4
+#EXTINF:-1,Pets: A Vida Secreta dos Bichos 2 (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/813.mp4
+#EXTINF:-1,Pica-Pau: O Filme
+http://canais.servidor.tv:8080/movie/maite123/maite123/2813.mp4
+#EXTINF:-1,Pixels
+http://canais.servidor.tv:8080/movie/maite123/maite123/1953.mp4
+#EXTINF:-1,Platoon
+http://canais.servidor.tv:8080/movie/maite123/maite123/1954.mp4
+#EXTINF:-1,Pokémon: Detetive Pikachu
+http://canais.servidor.tv:8080/movie/maite123/maite123/769.mp4
+#EXTINF:-1,Polar
+http://canais.servidor.tv:8080/movie/maite123/maite123/770.mp4
+#EXTINF:-1,Polícia Federal: A Lei é Para Todos
+http://canais.servidor.tv:8080/movie/maite123/maite123/1955.mp4
+#EXTINF:-1,Pompeia
+http://canais.servidor.tv:8080/movie/maite123/maite123/1956.mp4
+#EXTINF:-1,Poseidon
+http://canais.servidor.tv:8080/movie/maite123/maite123/1957.mp4
+#EXTINF:-1,Predadores Assassinos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2744.mp4
+#EXTINF:-1,Preso no Tempo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1958.mp4
+#EXTINF:-1,Projeto Gemini (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/3743.mp4
+#EXTINF:-1,Projeto X: Uma Festa Fora de Controle
+http://canais.servidor.tv:8080/movie/maite123/maite123/2939.mp4
+#EXTINF:-1,Próxima Parada: Apocalipse
+http://canais.servidor.tv:8080/movie/maite123/maite123/1959.mp4
+#EXTINF:-1,Quarteto Fantástico (2015)
+http://canais.servidor.tv:8080/movie/maite123/maite123/1962.mp4
+#EXTINF:-1,Quarteto Fantástico 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1960.mp4
+#EXTINF:-1,Quarteto Fantástico 2: O Surfista Prateado
+http://canais.servidor.tv:8080/movie/maite123/maite123/1961.mp4
+#EXTINF:-1,Quarto de Guerra
+http://canais.servidor.tv:8080/movie/maite123/maite123/2838.mp4
+#EXTINF:-1,Queima de Arquivo
+http://canais.servidor.tv:8080/movie/maite123/maite123/1963.mp4
+#EXTINF:-1,Quem Encontra um Amigo Encontra um Tesouro
+http://canais.servidor.tv:8080/movie/maite123/maite123/2937.mp4
+#EXTINF:-1,Quem Sou Eu?
+http://canais.servidor.tv:8080/movie/maite123/maite123/1964.mp4
+#EXTINF:-1,Rambo 1: Programado Para Matar
+http://canais.servidor.tv:8080/movie/maite123/maite123/1965.mp4
+#EXTINF:-1,Rambo 2: A Missão
+http://canais.servidor.tv:8080/movie/maite123/maite123/1966.mp4
+#EXTINF:-1,Rambo 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1967.mp4
+#EXTINF:-1,Rambo 4
+http://canais.servidor.tv:8080/movie/maite123/maite123/1968.mp4
+#EXTINF:-1,Rambo 5: Até o Fim
+http://canais.servidor.tv:8080/movie/maite123/maite123/3744.mp4
+#EXTINF:-1,Rampage: Destruição Total
+http://canais.servidor.tv:8080/movie/maite123/maite123/1969.mp4
+#EXTINF:-1,RED 1: Aposentados e Perigosos
+http://canais.servidor.tv:8080/movie/maite123/maite123/1970.mp4
+#EXTINF:-1,RED 2: Aposentados e Ainda Mais Perigosos
+http://canais.servidor.tv:8080/movie/maite123/maite123/1971.mp4
+#EXTINF:-1,Rede de Corrupção
+http://canais.servidor.tv:8080/movie/maite123/maite123/1972.mp4
+#EXTINF:-1,Refém do Jogo
+http://canais.servidor.tv:8080/movie/maite123/maite123/771.mp4
+#EXTINF:-1,Rei Arthur: A Lenda da Espada
+http://canais.servidor.tv:8080/movie/maite123/maite123/1973.mp4
+#EXTINF:-1,Resgate Sem Limites
+http://canais.servidor.tv:8080/movie/maite123/maite123/1974.mp4
+#EXTINF:-1,Robin Hood: A Origem
+http://canais.servidor.tv:8080/movie/maite123/maite123/772.mp4
+#EXTINF:-1,RoboCop (2014)
+http://canais.servidor.tv:8080/movie/maite123/maite123/1978.mp4
+#EXTINF:-1,RoboCop 1: O Policial do Futuro
+http://canais.servidor.tv:8080/movie/maite123/maite123/1975.mp4
+#EXTINF:-1,RoboCop 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1976.mp4
+#EXTINF:-1,RoboCop 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/1977.mp4
+#EXTINF:-1,Rocketman (Gravado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/1652.mp4
+#EXTINF:-1,Rogue One: Uma História Star Wars
+http://canais.servidor.tv:8080/movie/maite123/maite123/1979.mp4
+#EXTINF:-1,Romeu Tem Que Morrer
+http://canais.servidor.tv:8080/movie/maite123/maite123/1980.mp4
+#EXTINF:-1,Rota de Fuga 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1981.mp4
+#EXTINF:-1,Rota de Fuga 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1982.mp4
+#EXTINF:-1,Rota de Fuga 3: O Resgate
+http://canais.servidor.tv:8080/movie/maite123/maite123/2575.mp4
+#EXTINF:-1,Ruas Sangrentas: O Acerto Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/1983.mp4
+#EXTINF:-1,S.W.A.T.: Comando Especial
+http://canais.servidor.tv:8080/movie/maite123/maite123/1984.mp4
+#EXTINF:-1,Sabotagem
+http://canais.servidor.tv:8080/movie/maite123/maite123/1985.mp4
+#EXTINF:-1,Sai de Baixo: O Filme
+http://canais.servidor.tv:8080/movie/maite123/maite123/773.mp4
+#EXTINF:-1,Sala de Fuga
+http://canais.servidor.tv:8080/movie/maite123/maite123/774.mp4
+#EXTINF:-1,Samurai X: O Fim de Uma Lenda
+http://canais.servidor.tv:8080/movie/maite123/maite123/1986.mp4
+#EXTINF:-1,Sangue na Veia
+http://canais.servidor.tv:8080/movie/maite123/maite123/1987.mp4
+#EXTINF:-1,Sansão
+http://canais.servidor.tv:8080/movie/maite123/maite123/1988.mp4
+#EXTINF:-1,Scooby-Doo! De Volta à Ilha dos Zumbis
+http://canais.servidor.tv:8080/movie/maite123/maite123/2843.mp4
+#EXTINF:-1,Se Beber, Não Case! 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2745.mp4
+#EXTINF:-1,Se Beber, Não Case! 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2746.mp4
+#EXTINF:-1,Se Beber, Não Case! 3
+http://canais.servidor.tv:8080/movie/maite123/maite123/2747.mp4
+#EXTINF:-1,Sem Escalas
+http://canais.servidor.tv:8080/movie/maite123/maite123/1989.mp4
+#EXTINF:-1,Sem Limites 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/1990.mp4
+#EXTINF:-1,Sentença de Morte
+http://canais.servidor.tv:8080/movie/maite123/maite123/1991.mp4
+#EXTINF:-1,Sequestro na Ilha
+http://canais.servidor.tv:8080/movie/maite123/maite123/1992.mp4
+#EXTINF:-1,Sexta-Feira Muito Louca
+http://canais.servidor.tv:8080/movie/maite123/maite123/3066.mp4
+#EXTINF:-1,Shazam!
+http://canais.servidor.tv:8080/movie/maite123/maite123/775.mp4
+#EXTINF:-1,Sherlock Holmes 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/1993.mp4
+#EXTINF:-1,Sherlock Holmes 2: O Jogo de Sombras
+http://canais.servidor.tv:8080/movie/maite123/maite123/1994.mp4
+#EXTINF:-1,Sicário 1: Terra de Ninguém
+http://canais.servidor.tv:8080/movie/maite123/maite123/1995.mp4
+#EXTINF:-1,Sicário 2: Dia do Soldado
+http://canais.servidor.tv:8080/movie/maite123/maite123/1996.mp4
+#EXTINF:-1,Sin City 1: A Cidade do Pecado
+http://canais.servidor.tv:8080/movie/maite123/maite123/1997.mp4
+#EXTINF:-1,Sin City 2: A Dama Fatal
+http://canais.servidor.tv:8080/movie/maite123/maite123/2285.mp4
+#EXTINF:-1,Sniper Americano
+http://canais.servidor.tv:8080/movie/maite123/maite123/2286.mp4
+#EXTINF:-1,Sniper: Operações Especiais
+http://canais.servidor.tv:8080/movie/maite123/maite123/777.mp4
+#EXTINF:-1,Socorro! Virei uma Garota
+http://canais.servidor.tv:8080/movie/maite123/maite123/3745.mp4
+#EXTINF:-1,Soldado Universal 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2287.mp4
+#EXTINF:-1,Soldado Universal 2: O Retorno
+http://canais.servidor.tv:8080/movie/maite123/maite123/2288.mp4
+#EXTINF:-1,Soldado Universal 3: Regeneração
+http://canais.servidor.tv:8080/movie/maite123/maite123/2289.mp4
+#EXTINF:-1,Soldado Universal 4: Juízo Final
+http://canais.servidor.tv:8080/movie/maite123/maite123/2290.mp4
+#EXTINF:-1,Speed Racer
+http://canais.servidor.tv:8080/movie/maite123/maite123/2291.mp4
+#EXTINF:-1,Street Fighter: A Última Batalha
+http://canais.servidor.tv:8080/movie/maite123/maite123/2292.mp4
+#EXTINF:-1,Sucker Punch: Mundo Surreal
+http://canais.servidor.tv:8080/movie/maite123/maite123/2293.mp4
+#EXTINF:-1,Superação: O Milagre da Fé
+http://canais.servidor.tv:8080/movie/maite123/maite123/778.mp4
+#EXTINF:-1,Supercross
+http://canais.servidor.tv:8080/movie/maite123/maite123/2294.mp4
+#EXTINF:-1,Terremoto: A Falha de San Andreas
+http://canais.servidor.tv:8080/movie/maite123/maite123/2295.mp4
+#EXTINF:-1,The Perfection
+http://canais.servidor.tv:8080/movie/maite123/maite123/779.mp4
+#EXTINF:-1,The Warriors: Os Selvagens da Noite
+http://canais.servidor.tv:8080/movie/maite123/maite123/2320.mp4
+#EXTINF:-1,Thor 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/677.mp4
+#EXTINF:-1,Thor 2: O Mundo Sombrio
+http://canais.servidor.tv:8080/movie/maite123/maite123/678.mp4
+#EXTINF:-1,Thor 3: Ragnarok
+http://canais.servidor.tv:8080/movie/maite123/maite123/679.mp4
+#EXTINF:-1,Todo Dia
+http://canais.servidor.tv:8080/movie/maite123/maite123/1650.mp4
+#EXTINF:-1,Tomb Raider: A Origem
+http://canais.servidor.tv:8080/movie/maite123/maite123/2296.mp4
+#EXTINF:-1,Top Gun: Ases Indomáveis
+http://canais.servidor.tv:8080/movie/maite123/maite123/2298.mp4
+#EXTINF:-1,Toy Story 4
+http://canais.servidor.tv:8080/movie/maite123/maite123/2737.mp4
+#EXTINF:-1,Treze Homens e um Novo Segredo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2299.mp4
+#EXTINF:-1,Triplo X 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2300.mp4
+#EXTINF:-1,Triplo X 2: Estado de Emergência
+http://canais.servidor.tv:8080/movie/maite123/maite123/2301.mp4
+#EXTINF:-1,Triplo X 3: Reativado
+http://canais.servidor.tv:8080/movie/maite123/maite123/2302.mp4
+#EXTINF:-1,Tropa de Elite 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2303.mp4
+#EXTINF:-1,Tropa de Elite 2: O Inimigo Agora é Outro
+http://canais.servidor.tv:8080/movie/maite123/maite123/2304.mp4
+#EXTINF:-1,Tropas Estelares 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2305.mp4
+#EXTINF:-1,Tropas Estelares 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2306.mp4
+#EXTINF:-1,Tropas Estelares 3: Marauder
+http://canais.servidor.tv:8080/movie/maite123/maite123/2307.mp4
+#EXTINF:-1,True Lies
+http://canais.servidor.tv:8080/movie/maite123/maite123/2308.mp4
+#EXTINF:-1,Truque de Mestre 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/2309.mp4
+#EXTINF:-1,Truque de Mestre 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/2310.mp4
+#EXTINF:-1,Tudo Acaba Em Festa
+http://canais.servidor.tv:8080/movie/maite123/maite123/782.mp4
+#EXTINF:-1,Turma da Mônica: Laços
+http://canais.servidor.tv:8080/movie/maite123/maite123/2576.mp4
+#EXTINF:-1,Twister
+http://canais.servidor.tv:8080/movie/maite123/maite123/2311.mp4
+#EXTINF:-1,Um Ninja da Pesada
+http://canais.servidor.tv:8080/movie/maite123/maite123/2312.mp4
+#EXTINF:-1,Uma Aventura Lego 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/783.mp4
+#EXTINF:-1,Uma Saída de Mestre
+http://canais.servidor.tv:8080/movie/maite123/maite123/2313.mp4
+#EXTINF:-1,Uma Vida Com Propósito
+http://canais.servidor.tv:8080/movie/maite123/maite123/2839.mp4
+#EXTINF:-1,V de Vingança
+http://canais.servidor.tv:8080/movie/maite123/maite123/2314.mp4
+#EXTINF:-1,Velocidade Máxima
+http://canais.servidor.tv:8080/movie/maite123/maite123/2315.mp4
+#EXTINF:-1,Velozes e Furiosos 1
+http://canais.servidor.tv:8080/movie/maite123/maite123/791.mp4
+#EXTINF:-1,Velozes e Furiosos 2
+http://canais.servidor.tv:8080/movie/maite123/maite123/792.mp4
+#EXTINF:-1,Velozes e Furiosos 3: Desafio em Tóquio
+http://canais.servidor.tv:8080/movie/maite123/maite123/793.mp4
+#EXTINF:-1,Velozes e Furiosos 4
+http://canais.servidor.tv:8080/movie/maite123/maite123/794.mp4
+#EXTINF:-1,Velozes e Furiosos 5: Operação Rio
+http://canais.servidor.tv:8080/movie/maite123/maite123/795.mp4
+#EXTINF:-1,Velozes e Furiosos 6
+http://canais.servidor.tv:8080/movie/maite123/maite123/796.mp4
+#EXTINF:-1,Velozes e Furiosos 7
+http://canais.servidor.tv:8080/movie/maite123/maite123/797.mp4
+#EXTINF:-1,Velozes e Furiosos 8
+http://canais.servidor.tv:8080/movie/maite123/maite123/798.mp4
+#EXTINF:-1,Velozes e Furiosos 9: Hobbs & Shaw
+http://canais.servidor.tv:8080/movie/maite123/maite123/1653.mp4
+#EXTINF:-1,Viagem ao Centro da Terra
+http://canais.servidor.tv:8080/movie/maite123/maite123/2317.mp4
+#EXTINF:-1,Viagem Insólita
+http://canais.servidor.tv:8080/movie/maite123/maite123/2316.mp4
+#EXTINF:-1,Vidro
+http://canais.servidor.tv:8080/movie/maite123/maite123/784.mp4
+#EXTINF:-1,Vingadores 1: The Avengers
+http://canais.servidor.tv:8080/movie/maite123/maite123/680.mp4
+#EXTINF:-1,Vingadores 2: Era de Ultron
+http://canais.servidor.tv:8080/movie/maite123/maite123/681.mp4
+#EXTINF:-1,Vingadores 3: Guerra Infinita
+http://canais.servidor.tv:8080/movie/maite123/maite123/682.mp4
+#EXTINF:-1,Vingadores 4: Ultimato
+http://canais.servidor.tv:8080/movie/maite123/maite123/785.mp4
+#EXTINF:-1,Vingadores: Ultimato (4K)
+http://canais.servidor.tv:8080/movie/maite123/maite123/2119.mkv
+#EXTINF:-1,Vingança
+http://canais.servidor.tv:8080/movie/maite123/maite123/2318.mp4
+#EXTINF:-1,Vingança a Sangue Frio
+http://canais.servidor.tv:8080/movie/maite123/maite123/786.mp4
+#EXTINF:-1,Virando a Mesa do Poder
+http://canais.servidor.tv:8080/movie/maite123/maite123/787.mp4
+#EXTINF:-1,Você Acredita?
+http://canais.servidor.tv:8080/movie/maite123/maite123/2840.mp4
+#EXTINF:-1,Warcraft: O Primeiro Encontro de Dois Mundos
+http://canais.servidor.tv:8080/movie/maite123/maite123/2319.mp4
+#EXTINF:-1,Whindersson Nunes: Adulto
+http://canais.servidor.tv:8080/movie/maite123/maite123/2577.mp4
+#EXTINF:-1,Wolverine: Imortal
+http://canais.servidor.tv:8080/movie/maite123/maite123/2321.mp4
+#EXTINF:-1,X-Men: Fênix Negra
+http://canais.servidor.tv:8080/movie/maite123/maite123/789.mp4
+#EXTINF:-1,Yesterday (Legendado)
+http://canais.servidor.tv:8080/movie/maite123/maite123/3746.mp4
+#EXTINF:-1,Zona de Perigo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2322.mp4
+#EXTINF:-1,Zoo: Uma Amizade Maior que a Vida
+http://canais.servidor.tv:8080/movie/maite123/maite123/790.mp4
+#EXTINF:-1,À Espera de Um Milagre
+http://canais.servidor.tv:8080/movie/maite123/maite123/2815.mp4
+#EXTINF:-1,À Prova de Fogo
+http://canais.servidor.tv:8080/movie/maite123/maite123/2818.mp4
+#EXTINF:-1,À Queima-Roupa
+http://canais.servidor.tv:8080/movie/maite123/maite123/915.mp4
