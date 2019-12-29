@@ -414,9 +414,8 @@ item>
 <item>
 	<title>NBCSN USA</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://123tvnow.com/watch/nbc-sport-network-nbcsn|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36::LISTNAME:[B][COLORorangered]Shadow.net[/COLOR][/B]::#
-	
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://bfst.to/play/soccer-14.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36::LISTNAME:[B][COLORorangered]BFST[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-43.php::LISTNAME:[B][COLORorangered]Link 1 | daddylive[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link 2 | OFFLINE[/COLOR][/B]::#
 	</link>
 	<thumbnail>http://epg-image.totsuko.tv/epg-images/channel/25159/nbcsn_440x330_NETWORK_LARGE_440_330.png</thumbnail>
 	<fanart>-</fanart>
@@ -773,10 +772,10 @@ item>
 	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
 </item>
 
-<item>
+item>
 	<title>Sky Sports Mix</title>
 	<link>
-	sublink:LISTSOURCE:http://tv.latintvweb.com:25461/hectorhdezchvz/01BG6YfuKu/16669::LISTNAME:[B][COLORorangered]Link 1[/COLOR][/B]::#
+	sublink:LISTSOURCE:::LISTNAME:[B][COLORorangered]Link 1[/COLOR][/B]::#
 	</link>
 	<thumbnail>http://tvprofil.net/img/kanali-logo/Sky_Sports_Mix_logo.png</thumbnail>
 	<fanart>http://e0.365dm.com/16/08/16-9/20/sky-sports-presenters_3759513.jpg?20160807075529</fanart>
