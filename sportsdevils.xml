@@ -176,7 +176,7 @@ item>
 	<link>
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.sports-stream.net/BT-Sport-1.html::LISTNAME:[B][COLORorangered]Link 1 sports-stream.net[/COLOR][/B]::#
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-31.php::LISTNAME:[B][COLORorangered]Link 2 DaddyLive[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link 3 Down[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://m.liveonlinetv.org/external.php?title=English%20Premier%20League&stream=btsport1-hq::LISTNAME:[B][COLORorangered]Link 3 Down[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://i.imgur.com/ZFWtoa1.png</thumbnail>
 	<fanart>http://sport-onthebox.com/wp-content/uploads/2016/08/BT-Sport-Generic.png</fanart>
@@ -332,11 +332,11 @@ item>
 	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
 </item>
 
-<item>
+item>
 	<title>Fox Sports</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.live/watchfeeds/index/25|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36::LISTNAME:[B][COLORorangered]Link OffLine[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.live/update/snone.php|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36::LISTNAME:[B][COLORorangered]Link OffLine[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link OffLine[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link OffLine[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Logo_fox_sports.png/revision/latest?cb=20140414164158</thumbnail>
 	<fanart>-</fanart>
@@ -346,8 +346,8 @@ item>
 <item>
 	<title>Fox Sports 1 USA</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/71971/Fox-Sport-1-(HD)::LISTNAME:[B][COLORorangered]Link 1 [/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-39.php::LISTNAME:[B][COLORorangered]OffLine[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link 1 OFFLINE[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-39.php::LISTNAME:[B][COLORorangered]Link 2|daddylive[/COLOR][/B]::#
 	</link>
 	<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png</thumbnail>
 	<fanart>https://static.nascar.com/content/dam/nascar/articles/2016/Non-date-specific-images/NewTVmain-2.jpg/jcr:content/renditions/original</fanart>
@@ -402,9 +402,9 @@ item>
 
 item>
 	<title>NBA TV</title>
-	<link>http://strims.world/live/nbatv.php
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strims.world/live/nbatv.php::LISTNAME:[B][COLORorangered]Link | Strims World[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://sportsbay.org/embed/53397/1/atlanta-hawks-detroit-pistons-live.html|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36::LISTNAME:[B][COLORorangered]OFFLINE | cricfree[/COLOR][/B]::#
+	<link>
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link | Strims World[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]OFFLINE | cricfree[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://archive.org/download/tvlogos/NBA%20TV.png</thumbnail>
 	<fanart>-</fanart>
@@ -683,116 +683,33 @@ item>
 </item>
 
 <item>
-	<title>Sky Calcio</title>
-	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.liveonlinetv247.info/skycalcio.php::LISTNAME:[B][COLORorangered]Link[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://i.imgur.com/c1dhmnX.jpg</thumbnail>
-	<fanart>-</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-<item>
-	<title>Sky Racing 1</title>
-	<link>
-	sublink:LISTSOURCE:http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8::LISTNAME:[B][COLORorangered]Link[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFTMmWggnCoiv1c8NIbaXZY_-gxqDjhRfJ4rn2i7v7Lpsds_u</thumbnail>
-	<fanart>-</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-<item>
-	<title>Sky Racing 2</title>
-	<link>
-	sublink:LISTSOURCE:http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8::LISTNAME:[B][COLORorangered]Link[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://www.telstra.com.au/foxtel/images/channels/sky-racing2.jpg</thumbnail>
-	<fanart>-</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-<item>
-	<title>SKY Sport 1</title>
-	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/259.ts::LISTNAME:[B][COLORgrey]Link 1[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/16.ts::LISTNAME:[B][COLORgrey]Link 2[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://live-tv-channels.org/pt-data/uploads/logo/uk-sky-sports-1.jpg</thumbnail>
-	<fanart>http://sports.wegreenz.com/wp-content/uploads/2018/05/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-<item>
-	<title>SKY Sport 2</title>
-	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/27.ts::LISTNAME:[B][COLORgrey]Link 1[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/15.ts::LISTNAME:[B][COLORgrey]Link 2[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://i.pinimg.com/236x/a2/22/13/a2221373c9bd651e725b013ab55ddc7d.jpg</thumbnail>
-	<fanart>http://sports.wegreenz.com/wp-content/uploads/2018/05/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-
-<item>
-	<title>SKY Sport 3</title>
-	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/24.ts::LISTNAME:[B][COLORgrey]Link 1[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/14.ts::LISTNAME:[B][COLORgrey]Link 2[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://live-tv-channels.org/pt-data/uploads/logo/uk-sky-sports-3.jpg</thumbnail>
-	<fanart>http://sports.wegreenz.com/wp-content/uploads/2018/05/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-
-<item>
-	<title>SKY Sport 4</title>
-	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=ttp://bestbuyiptv.link:6969/live/tomdavis092279@outlook.com/zoBo1E0zCp/6626.ts::LISTNAME:[B][COLORgrey]Link 1[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/13.ts::LISTNAME:[B][COLORgrey]Link 2[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://live-tv-channels.org/pt-data/uploads/logo/uk-sky-sports-4.jpg</thumbnail>
-	<fanart>http://sports.wegreenz.com/wp-content/uploads/2018/05/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-
-<item>
-	<title>SKY Sport 5</title>
-	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORgrey]Link 1[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORgrey]Link 2[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://live-tv-channels.org/pt-data/uploads/logo/uk-sky-sports-5.jpg</thumbnail>
-	<fanart>http://sports.wegreenz.com/wp-content/uploads/2018/05/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-
-<item>
 	<title>Sky Sports Action</title>
 	<link>
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-37.php::LISTNAME:[B][COLORorangered]Link Daddylive[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv4embed.com/ss3/ss3-stream2.php::LISTNAME:[B][COLORorangered]Link Down[/COLOR][/B]::#
-	
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link OFFLINE[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://i.imgur.com/gXOK2rK.png</thumbnail>
-	<fanart>https://www.liveonlinetv247.info/skysportsaction.php-</fanart>
+	<fanart>-</fanart>
 	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
 </item>
-
 
 <item>
 	<title>Sky Sports Arena</title>
 	<link>
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-36.php::LISTNAME:[B][COLORorangered]Link DaddyLive[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link OFFLINE[/COLOR][/B]::#
 	</link>
 	<thumbnail>http://sportstvon.com/wp-content/uploads/2017/12/sky-arena.png</thumbnail>
-	<fanart>https://www.liveonlinetv247.info/skysportsaction.php-</fanart>
+	<fanart>-</fanart>
 	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
 </item>
 
 <item>
 	<title>Sky Sports Cricket</title>
 	<link>
-	sublink:LISTSOURCE:::LISTNAME:[B][COLORorangered]Link 1[/COLOR][/B]::#
-	sublink:LISTSOURCE:::LISTNAME:[B][COLORorangered]Link 2[/COLOR][/B]::#
-	
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv4embed.com/ss1/ss1-stream2.php::LISTNAME:[B][COLORorangered]Link 3 SportsDevil[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link 1 OFFLINE[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link 2 OFFLINE[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link 3 OFFLINE[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://i.imgur.com/KO1s0lE.png</thumbnail>
 	<fanart>-</fanart>
