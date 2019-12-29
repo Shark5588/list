@@ -888,8 +888,9 @@ item>
 <item>
 	<title>Sky Sports Premier League</title>
 	<link>
-		sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/channels/stream-46.php::LISTNAME:[B][COLORorangered]Link 1 daddyLive[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-46.php::LISTNAME:[B][COLORorangered]Link 1 daddyLive[/COLOR][/B]::#
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.live/watchfeeds/index/2::LISTNAME:[B][COLORorangered]Link 2 Down[/COLOR][/B]::#
+		sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://m.liveonlinetv.org/external.php?title=English%20Premier%20League&stream=skysports5-hq::LISTNAME:[B][COLORorangered]Link 3 liveonlinetv[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://i.imgur.com/CGNeotr.png</thumbnail>
 	<fanart>-</fanart>
