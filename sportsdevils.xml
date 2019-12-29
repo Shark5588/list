@@ -313,7 +313,7 @@ item>
 <item>
 	<title>EuroSport 1</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.me:80/live/belkhira/bdou1/2127.ts::LISTNAME:[B][COLORorangered]Link[/COLOR][/B]::#
+        sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-41.php::LISTNAME:[B][COLORorangered]Link 1[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a2/ESP_GGS_RVB.png</thumbnail>
 	<fanart></fanart>
@@ -323,9 +323,9 @@ item>
 <item>
 	<title>EuroSport 2</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://hbox.cdnss.me:80/live/belkhira/bdou1/2055.ts::LISTNAME:[B][COLORorangered]Link[/COLOR][/B]::#
+	sublink:LISTSOURCE:::LISTNAME:[B][COLORorangered]Link[/COLOR][/B]::#
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.live/watchfeeds/index/22|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36::LISTNAME:[B][COLORorangered]Link | cricfree[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.live/watchfeeds/index/22::LISTNAME:[B][COLORorangered]Link | cricfree[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-42.php::LISTNAME:[B][COLORorangered]Link | cricfree[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Eurosport_2_HD.svg/revision/latest/scale-to-width-down/640?cb=20171123164013</thumbnail>
 	<fanart>-</fanart>
@@ -347,6 +347,7 @@ item>
 	<title>Fox Sports 1 USA</title>
 	<link>
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/71971/Fox-Sport-1-(HD)::LISTNAME:[B][COLORorangered]Link 1 [/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-39.php::LISTNAME:[B][COLORorangered]OffLine[/COLOR][/B]::#
 	</link>
 	<thumbnail>http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png</thumbnail>
 	<fanart>https://static.nascar.com/content/dam/nascar/articles/2016/Non-date-specific-images/NewTVmain-2.jpg/jcr:content/renditions/original</fanart>
@@ -360,16 +361,6 @@ item>
 	</link>
 	<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png</thumbnail>
 	<fanart>https://newyorkcity-mp7static.mlsdigital.net/images/Screen%20Shot%202016-04-23%20at%202.11.24%20PM.png?Pd8Kflf0DhLkVcfVu31wkq0WXrhXNCoW</fanart>
-	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
-</item>
-
-<item>
-	<title>Fox Sports News(OFFLINE)</title>
-	<link>
-	sublink:LISTSOURCE:http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8::LISTNAME:[B][COLORorangered]Link[/COLOR][/B]::#
-	</link>
-	<thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/FSN/fox-sports-news-hero.png</thumbnail>
-	<fanart>-</fanart>
 	<summary>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</summary>
 </item>
 
@@ -764,8 +755,8 @@ item>
 <item>
 	<title>SKY Sport 5</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestbuyiptv.link:6969/live/tomdavis092279@outlook.com/zoBo1E0zCp/6627.ts::LISTNAME:[B][COLORgrey]Link 1[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
-	sublink:LISTSOURCE:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ak47gaming.tk:8000/live/09348jahds/3uasldkjajhb2/12.ts::LISTNAME:[B][COLORgrey]Link 2[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORgrey]Link 1[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORgrey]Link 2[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://live-tv-channels.org/pt-data/uploads/logo/uk-sky-sports-5.jpg</thumbnail>
 	<fanart>http://sports.wegreenz.com/wp-content/uploads/2018/05/Sky-Sports-Living-For-Sport_2722560.jpg</fanart>
@@ -788,7 +779,7 @@ item>
 <item>
 	<title>Sky Sports Arena</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/channels/stream-36.php::LISTNAME:[B][COLORorangered]Link DaddyLive[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-36.php::LISTNAME:[B][COLORorangered]Link DaddyLive[/COLOR][/B]::#
 	</link>
 	<thumbnail>http://sportstvon.com/wp-content/uploads/2017/12/sky-arena.png</thumbnail>
 	<fanart>https://www.liveonlinetv247.info/skysportsaction.php-</fanart>
@@ -812,7 +803,7 @@ item>
 	<title>Sky Sports F1</title>
 	<link>
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.strims.world/live/f1base.php::LISTNAME:[B][COLORgrey]Link 1[/COLOR][COLORred]strims.world[/COLOR][/B]::#
-	sublink:LISTSOURCE:::LISTNAME:[B][COLORgrey]Link 2[/COLOR] [COLORred]f4mTester[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORgrey]Link 2[/COLOR][/B]::#
 	</link>
 	<thumbnail>http://i.imgur.com/BUuKpRw.png</thumbnail>
 	<fanart>https://i.ytimg.com/vi/dPUiNofiCsI/maxresdefault.jpg</fanart>
@@ -822,7 +813,8 @@ item>
 <item>
 	<title>Sky Sports Football</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/channels/stream-35.php::LISTNAME:[B][COLORorangered]Link 2[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-35.php::LISTNAME:[B][COLORorangered]Link 1[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=::LISTNAME:[B][COLORorangered]Link 2 OffLine[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://i.imgur.com/qnoLouH.png</thumbnail>
 	<fanart>-</fanart>
@@ -846,7 +838,7 @@ item>
 <item>
 	<title>Sky Sports Main Event</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/channels/stream-38.php::LISTNAME:[B][COLORorangered]Link 1 DaddyLive[/COLOR][/B]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-38.php::LISTNAME:[B][COLORorangered]Link 1 DaddyLive[/COLOR][/B]::#
 	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://tv4embed.com/ss1/ss1-stream1.php::LISTNAME:[B][COLORorangered]Link 2 Down[/COLOR][/B]::#
 	</link>
 	<thumbnail>https://i.imgur.com/aR33kqd.png</thumbnail>
