@@ -32,10 +32,10 @@
 </channel>http://ccld.io/atom.m3u
 
 
-<channel>
+channel>
 	<name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua] SPORTS CLASSIC TV [COLOR white][I]PAC12[COLOR red]•[/COLOR][COLORaqua]•[/COLOR][/I][/B]</name>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-	<link>plugin://item.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/4cQ9mj8X</link>
+	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/Pack12.xml</externallink>
 	<fanart></fanart>
 	<info>[COLORyellow]Pac 12 Sports[/COLOR]</info>
 </channel>
@@ -290,14 +290,15 @@ channel>
        <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
 </channel>
 
-channel>
+<channel>
        <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 1[/I][/B]</name>
        <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
-       <externallink>https://raw.githubusercontent.com/freearhey/iptv/master/index.sport.m3u</externallink>
+       <externallink>https://pastebin.com/raw/4cQ9mj8X</externallink>
        <fanart></fanart>
        <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
 </channel>
- #https://raw.githubusercontent.com/MongoMongoMongo/channel/8b6768a4a63e214126343c85f782ba466093602c/live321.m3u
+https://raw.githubusercontent.com/freearhey/iptv/master/index.sport.m3u
+https://raw.githubusercontent.com/MongoMongoMongo/channel/8b6768a4a63e214126343c85f782ba466093602c/live321.m3u
 <-------------------------------------------------------------------------------------------------------------------
 channel>
        <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 2[/I][/B]</name>
