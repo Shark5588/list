@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
+<items>
 
 <item>
     <title>[COLORsnow][B]USA CANADA[/COLOR][/B]</title>
@@ -44,4 +45,85 @@
     <link>plugin://item.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/WVyV87rg</link>
 	<thumbnail></thumbnail>
 </item>
+
+<item>
+<title>http://cricfree.ws</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR gold]Channel [makelist.param2][/COLOR]</title>
+  <link>$doregex[getUrl]</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  list=re.findall('id="channels">(?s)(.*?)class="panel',page_data)[0]
+  title=re.findall('(?:"channels"|"channel-item")>\n.*?href=".*?"(?:>|[\w\W]*?hannel.)[\w\W]*?(\w.*?)(?:</a>|\s*</a|\.[P|p|j|g])',list)
+  for t in title:
+    gtitle=t.replace('Channel ','').replace('- ','');list=list.replace(t,gtitle.title())
+  return re.findall('(?:"channels"|"channel-item")>\n.*?href="(.*?)"(?:>|[\w\W]*?hannel.)[\w\W]*?(\w.*?)(?:</a>|\s*</a|\.[P|p|j|g])',list)
+]]></expres>
+<page>http://cricfree.ws</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  url=re.findall('id="server1".*\n.*?src="([^"]+)',page_data)[0]
+  source=requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param1]'}).content  #,verify=False
+  inf=re.findall('id="iframe1".src="((h.+?)/chan[^"]+)',source)[0]
+  source=requests.get(inf[0],headers={'user-agent':'Mozilla/5.0','referer':url}).content
+  m3u8=re.findall('Clappr.Player[\w\W]*?(?:source|src):\s*[\'"]([^\'"]+)',source)[0]
+  if 'http' in m3u8:
+    return m3u8+'|user-agent=ipad&referer='+inf[0]
+  else:
+    return '%s%s|user-agent=ipad&referer=%s'%(inf[1],m3u8,inf[0])
+]]></expres>
+<page>[makelist.param1]</page>
+<referer>http://cricfree.ws</referer>
+</regex>
+</item>
+
+
+<item>
+<title>cricfree.ws</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen][makelist.param1][/COLOR]</title>
+<link>http://s1.livesport365.stream$doregex[cristalazul]</link> 
+<thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+ return re.findall('(?s)href="(.*?)".*?<img src="(.*?)"', re.findall('panel-heading channel-heading.*?All Channels(?s)(.*?)<br><table', page_data)[0])
+]]></expres>
+<page>http://cricfree.ws/</page>
+</regex>
+
+<regex>
+<name>cristalazul</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    import requests
+    link = '[makelist.param1]' #'http://cricfree.ws/update/skys1'
+    link1 = requests.get(link, headers={'User-Agent': 'Mozilla/5.0', 'Referer': 'http://cricfree.ws/update/skys1'}, verify=False).text
+    url =  re.findall('<iframe.*?src="(http://cricfree.ws/.*?)"', link1)[0]
+
+    html = requests.get(url, headers={'User-Agent': 'Mozilla/5.0', 'Referer': 'http://cricfree.ws/update/skys1'}, verify=False).text
+    url2 = re.findall('iframe1" src="(.*?)"', html)[0]
+    html2 = requests.get(url2, headers={'User-Agent': 'Mozilla/5.0', 'Referer': url}, verify=False).text
+    return re.findall('Clappr.Player[\w\W]*?(?:src|source).+?[\'"]([^\'"]+)', html2)[0]
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+</items>
 
