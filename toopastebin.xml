@@ -60,9 +60,23 @@
 </item>
 
 <item>
-<title>LIST Test</title>
+<title>LIST Test 1</title>
 <link>http://ignorame</link>
-<externallink>plugin://plugin.video.live.streamspro/?mode=1&url=http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u</externallink>
+<externallink>http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u</externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LIST Test 2</title>
+<link>http://ignorame</link>
+<externallink>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u</externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LIST Test 3</title>
+<link>http://ignorame</link>
+<externallink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u</externallink>
 <thumbnail></thumbnail>
 </item>&amp;output=mpegts$$TSDOWNLOADER$$
 
