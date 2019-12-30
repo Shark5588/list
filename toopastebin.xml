@@ -18,6 +18,13 @@
 </item>plugin://item.video.live.streamspro/?mode=1&url=
 
 <item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus IPTV  [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
     <title>[COLORsnow][B]SPAIN[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/aji3b4dP</externallink>
@@ -55,9 +62,9 @@
 <item>
 <title>LIST Test</title>
 <link>http://ignorame</link>
-<externallink>http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u</externallink>
 <thumbnail></thumbnail>
-</item>
+</item>&amp;output=mpegts$$TSDOWNLOADER$$
 
 <item>
 <title>http://cricfree.ws</title>
