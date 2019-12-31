@@ -11,6 +11,23 @@
 </item>
 
 <item>
+<title>[COLOR red]USA CANADA[/COLOR][COLOR orange] OF IPTV[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red]USA CANADA..[/COLOR][COLOR orange ][makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>http://www.delrey.com.sv/wp-content/uploads/2014/05/del-rey-logo1.png</thumbnail>
+ <fanart>http://www.fanaru.com/the-lion-king/image/25048-the-lion-king-hakuna-matata.jpg</fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://pastebin.com/raw/4cQ9mj</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+</regex>
+
+<item>
     <title>[COLORdeepskyblue][B]Uk[/COLOR][/B]</title>
     <link>plugin://item.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/J1p1Uknd</link>
 	<thumbnail></thumbnail>
