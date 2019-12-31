@@ -8,13 +8,7 @@
     <link>http://ignorame</link>
 	<externallink>https://pastebin.com/raw/4cQ9mj8X</externallink>
 	<thumbnail></thumbnail>
-<item></items>
-
-<plugin>
-    <title>[COLORsnow]Fluxus IPTV ooooo[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/M4q7YxPW</link>
-    <summary></summary>
-</plugin></plugins>
+<item>
 
 <item>
 <title>[COLOR red]USA CANADA[/COLOR]</title>
@@ -268,3 +262,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 </items>
 
+<plugin>
+    <title>[COLORsnow]Fluxus IPTV ooooo[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/M4q7YxPW</link>
+    <summary></summary>
+</plugin>
