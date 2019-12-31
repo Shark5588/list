@@ -49,7 +49,18 @@
 </item>plugin://item.video.live.streamspro/?mode=1&url=
 
 <item>
-    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus IPTV  [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>ignore-me</link>
+<externallink>$doregex[iptvLink]</externallink>
+<regex>
+<name>iptvLink</name>
+<expres>id="myInput1".+?value="([^"]+)</expres>
+<page>https://fluxustv.blogspot.com/p/iptv.html</page>
+</regex>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
