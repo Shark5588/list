@@ -97,7 +97,7 @@
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
   return re.findall('src="([^"]+)[\w\W]*?href="(.*?)">([^<]+)',re.findall('"postsbody">(?s)(.*?)</ul>',page_data)[0])
 ]]></expres>
 <page>https://animeku.tv/popular-anime</page>
@@ -111,7 +111,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
   url=re.findall('.+href="(.*?)">Watch',re.findall('"latestepisode"(?s)(.*?)</ul',page_data)[0])[0]+'?v=1'
   return re.findall('<option value="(h.*?)">([^<]+)',requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':'https://animeku.tv/popular-anime'}).content.decode('ascii','ignore'))
 ]]></expres>
@@ -127,7 +127,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
   return re.findall('href=[\'"]([^\'"]+).+?src="([^"]+).+?<span>(?!LokalHD|Lokal480p|GvidHD|Gvid|usercloud)([^<]+)',re.findall('class="ui-tabs-nav">(?s)(.*?)</ul',page_data)[0])
 ]]></expres>
 <page>[makelist2.param1]</page>
@@ -137,7 +137,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <name>getUrl</name>
 <expres><![CDATA[#$pyFunction
 import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
 #  from resolveurl.plugins.lib import jsunpack
   from urlresolver.plugins.lib import jsunpack
   link=re.findall('id="videoad1".+?iframe.src=[\'"]([^\'"]+)',page_data)[0]
