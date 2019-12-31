@@ -6,12 +6,12 @@
 <item>
     <title>[COLORsnow][B]USA CANADA[/COLOR][/B]</title>
     <link>http://ignorame</link>
-	<externallink>plugin://plugin.video.f4mTester/?mode=0&url=https://pastebin.com/raw/4cQ9mj</externallink>
+	<externallink>plugin://plugin.video.f4mTester/?url=https://pastebin.com/raw/4cQ9mj</externallink>
 	<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]THE KING[/COLOR][COLOR orange] OF IPTV[/COLOR]</title>
+<title>[COLOR red]USA CANADA[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -36,7 +36,7 @@
  ]]></listrepeat>
 <expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
 <page>[makelist2.param2]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+<agent>Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0</agent>
 </regex>
 <thumbnail>http://www.delrey.com.sv/wp-content/uploads/2014/05/del-rey-logo1.png</thumbnail>
 </item>
@@ -44,7 +44,7 @@
 
 <item>
     <title>[COLORdeepskyblue][B]Uk[/COLOR][/B]</title>
-    <link>plugin://plugin.video.f4mTester/?mode=1&url=https://pastebin.com/raw/J1p1Uknd</link>
+    <link>plugin://plugin.video.f4mTester/?url=https://pastebin.com/raw/J1p1Uknd</link>
 	<thumbnail></thumbnail>
 </item>plugin://item.video.live.streamspro/?mode=1&url=
 
