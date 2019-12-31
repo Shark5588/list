@@ -6,12 +6,12 @@
 <item>
     <title>[COLORsnow][B]USA CANADA[/COLOR][/B]</title>
     <link>http://ignorame</link>
-	<externallink>plugin://plugin.video.live.streamspro/?url&mode=1=https://pastebin.com/raw/4cQ9mj</externallink>
+	<externallink>plugin://plugin.video.f4mTester/?mode=0&url=https://pastebin.com/raw/4cQ9mj</externallink>
 	<thumbnail></thumbnail>
 </item>
 
 <item>
-<title>[COLOR red]USA CANADA[/COLOR][COLOR orange] OF IPTV[/COLOR]</title>
+<title>[COLOR red]USA CANADA[/COLOR]</title>
 <link>$doregex[makelist2]</link>
 
 <regex>
@@ -19,17 +19,17 @@
 <listrepeat><![CDATA[
  <title>[COLOR red]USA CANADA..[/COLOR][COLOR orange ][makelist2.param1][/COLOR]</title>
  <link>$doregex[makelist]</link>
- <thumbnail>http://www.delrey.com.sv/wp-content/uploads/2014/05/del-rey-logo1.png</thumbnail>
- <fanart>http://www.fanaru.com/the-lion-king/image/25048-the-lion-king-hakuna-matata.jpg</fanart>
+ <thumbnail>-</thumbnail>
+ <fanart>-</fanart>
  ]]></listrepeat>
 <expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
 <page>https://pastebin.com/raw/4cQ9mj</page>
-<agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0</agent>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 
 <item>
     <title>[COLORdeepskyblue][B]Uk[/COLOR][/B]</title>
-    <link>plugin://item.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/J1p1Uknd</link>
+    <link>plugin://plugin.video.f4mTester/?mode=1&url=https://pastebin.com/raw/J1p1Uknd</link>
 	<thumbnail></thumbnail>
 </item>plugin://item.video.live.streamspro/?mode=1&url=
 
@@ -100,89 +100,6 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 
-
-<item>
-<title>[B][COLORred]Test[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold][makelist.param3][/COLOR]</title>
-  <link>$doregex[makelist2]</link>
-  <thumbnail>http:[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
-  return re.findall('src="([^"]+)[\w\W]*?href="(.*?)">([^<]+)',re.findall('"postsbody">(?s)(.*?)</ul>',page_data)[0])
-]]></expres>
-<page>https://animeku.tv/popular-anime</page>
-</regex>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold][makelist2.param2][COLOR dodgerblue] ([makelist.param3])[/COLOR]</title>
-  <link>$doregex[makelist3]</link>
-  <thumbnail>http:[makelist.param1]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
-  url=re.findall('.+href="(.*?)">Watch',re.findall('"latestepisode"(?s)(.*?)</ul',page_data)[0])[0]+'?v=1'
-  return re.findall('<option value="(h.*?)">([^<]+)',requests.get(url,headers={'user-agent':'Mozilla/5.0','referer':'https://animeku.tv/popular-anime'}).content.decode('ascii','ignore'))
-]]></expres>
-<page>[makelist.param2]</page>
-<referer>https://animeku.tv/popular-anime</referer>
-</regex>
-<regex>
-<name>makelist3</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold][makelist2.param2][/COLOR] (Server: [makelist3.param3])</title>
-  <link>$doregex[getUrl]</link>
-  <thumbnail>http:[makelist3.param2]</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
-  return re.findall('href=[\'"]([^\'"]+).+?src="([^"]+).+?<span>(?!LokalHD|Lokal480p|GvidHD|Gvid|usercloud)([^<]+)',re.findall('class="ui-tabs-nav">(?s)(.*?)</ul',page_data)[0])
-]]></expres>
-<page>[makelist2.param1]</page>
-<referer>[makelist.param2]</referer>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):#resolveURL
-#  from resolveurl.plugins.lib import jsunpack
-  from urlresolver.plugins.lib import jsunpack
-  link=re.findall('id="videoad1".+?iframe.src=[\'"]([^\'"]+)',page_data)[0]
-  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist3.param1]'}).content.decode('ascii','ignore')
-  if 'googlevideo.com' in source:
-     if '"720' in source:
-        return re.findall('.+"file":"([^"]+).+?label":"720',source)[0]+'|user-agent=ipad&referer='+link
-     else:
-        return re.findall('"file":"([^"]+)',source)[0]+'|user-agent=ipad&referer='+link
-  else:
-     gsource=jsunpack.unpack(re.findall('(eval.*)',source)[0]).replace('\\', '')
-     return re.findall('"file":"([^"]+)',gsource)[0]+'|user-agent=ipad'
-]]></expres>
-<page>[makelist3.param1]</page>
-<referer>[makelist2.param1]</referer>
-</regex>
-<thumbnail>https://i0.wp.com/animeku.tv/wp-content/themes/animeku/images/logo.png</thumbnail>
-</item>
-
-<item>
-<title>http://www.televall.website/cnnes.html</title>
-<link>$doregex[getUrl]|user-agent=ipad&amp;referer=http://stream.televall.website/cnnes.php</link>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[Clappr.Player[\w\W]*?(?:source|src):\s*[\'"]([^\'"]+)]]></expres>
-<page>http://stream.televall.website/cnnes.php</page>
-<referer>http://www.televall.website/cnnes.html</referer>
-</regex>
-</item>
 
 <item>
 <title>http://cricfree.ws</title>
