@@ -6,7 +6,7 @@
 <item>
     <title>[COLORsnow][B]USA CANADA[/COLOR][/B]</title>
     <link>http://ignorame</link>
-	<externallink>https://pastebin.com/raw/4cQ9mj$$TSDOWNLOADER$$</externallink>
+	<externallink>https://pastebin.com/raw/4cQ9mj</externallink>
 	<thumbnail></thumbnail>
 </item>
 
@@ -44,7 +44,7 @@
 
 <item>
     <title>[COLORdeepskyblue][B]Uk[/COLOR][/B]</title>
-    <link>plugin://plugin.video.f4mTester/?url=https://pastebin.com/raw/J1p1Uknd</link>
+    <link>https://pastebin.com/raw/J1p1Uknd</link>
 	<thumbnail></thumbnail>
 </item>plugin://item.video.live.streamspro/?mode=1&url=
 
@@ -54,15 +54,15 @@
 <externallink>$doregex[iptvLink]</externallink>
 <regex>
 <name>iptvLink</name>
-<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>
+<expres>id="myInput1".+?value="([^"]+)</expres>
 <page>https://fluxustv.blogspot.com/p/iptv.html</page>
 </regex>
 </item>
 
-(((((<expres></expres>)))))))
-id="myInput1".+?value="([^"]+)
+(((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
+
 <item>
-    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORblue][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORlime][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
@@ -71,7 +71,7 @@ id="myInput1".+?value="([^"]+)
 <item>
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus Cinema English [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/jbqA0j82$$TSDOWNLOADER$$</externallink>
+    <externallink>https://pastebin.com/raw/jbqA0j82<externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
 
