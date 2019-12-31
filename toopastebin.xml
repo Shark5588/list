@@ -54,11 +54,13 @@
 <externallink>$doregex[iptvLink]</externallink>
 <regex>
 <name>iptvLink</name>
-<expres>id="myInput1".+?value="([^"]+)</expres>
+<expres><![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]></expres>
 <page>https://fluxustv.blogspot.com/p/iptv.html</page>
 </regex>
 </item>
 
+(((((<expres></expres>)))))))
+id="myInput1".+?value="([^"]+)
 <item>
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
