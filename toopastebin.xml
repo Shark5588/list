@@ -54,7 +54,7 @@
 <externallink>$doregex[iptvLink]</externallink>
 <regex>
 <name>iptvLink</name>
-<expres><![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]></expres>
+<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>
 <page>https://fluxustv.blogspot.com/p/iptv.html</page>
 </regex>
 </item>
@@ -67,6 +67,7 @@ id="myInput1".+?value="([^"]+)
     <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
+
 
 <item>
     <title>[COLORsnow][B]SPAIN[/COLOR][/B]</title>
