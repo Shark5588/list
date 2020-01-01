@@ -93,7 +93,8 @@
 	<fanart></fanart>
 	<info>[COLORyellow]UK Streams[/COLOR]</info>
   </channel>
-  <items>
+<channels>
+</item>
 
   <item>
        <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]SPORTS CLASSIC TV[COLOR white][B] WHATEVER! IPTV  [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
@@ -101,9 +102,8 @@
        <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</link>
        <fanart></fanart>
        <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
-  </item>	   
-</items>
-</channel>
+  <channels>	   
+
 <!-------------------------------------------------------------------------------------------------------------------------------
   channel>
        <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLORwhite][B] 5 Streamking[/COLOR][/B]</name>
