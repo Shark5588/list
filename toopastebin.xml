@@ -4,11 +4,98 @@
 <items>
 
 <item>
-    <title>[COLORsnow][B]USA CANADA[/COLOR][/B]</title>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] USA CANADA[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
     <link>http://ignorame</link>
 	<externallink>https://pastebin.com/raw/4cQ9mj8X</externallink>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 <item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] Uk [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/J1p1Uknd</externallink>
+	<thumbnail></thumbnail>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] SPAIN [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/aji3b4dP</externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] LATINO [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/GME4W6j4</externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] MEXICO [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/7QW9f4sz</externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>  
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] SPANISH [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/WVyV87rg</externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORred][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>ignore-me</link>
+<externallink>$doregex[iptvLink]</externallink>
+<regex>
+<name>iptvLink</name>
+<expres>id="myInput1".+?value="([^"]+)</expres>
+<page>https://fluxustv.blogspot.com/p/iptv.html</page>
+</regex>
+</item>
+
+(((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORlime][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus Cinema English [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+	<link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/jbqA0j82<externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+<title>LIST Test 1</title>
+<link>http://ignorame</link>
+<externallink>http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LIST Test 2</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>LIST Test 3</title>
+<link>http://ignorame</link>
+<externallink></externallink>
+<thumbnail></thumbnail>
+</item>&amp;output=mpegts$$TSDOWNLOADER$$
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX <<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 
 <item>
 <title>[COLOR red]USA CANADA[/COLOR]</title>
@@ -40,103 +127,6 @@
 </regex>
 <thumbnail>http://www.delrey.com.sv/wp-content/uploads/2014/05/del-rey-logo1.png</thumbnail>
 </item>
-
-
-<item>
-    <title>[COLORdeepskyblue][B]Uk[/COLOR][/B]</title>
-    <link>https://pastebin.com/raw/J1p1Uknd</link>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-<link>ignore-me</link>
-<externallink>$doregex[iptvLink]</externallink>
-<regex>
-<name>iptvLink</name>
-<expres>id="myInput1".+?value="([^"]+)</expres>
-<page>https://fluxustv.blogspot.com/p/iptv.html</page>
-</regex>
-</item>
-
-(((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
-
-<item>
-    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORlime][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
-	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-</item>
-
-<item>
-    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus Cinema English [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/jbqA0j82<externallink>
-	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-</item>
-
-https://pastebin.com/raw/jbqA0j82
-
-
-<item>
-    <title>[COLORsnow][B]SPAIN[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/aji3b4dP</externallink>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-    <title>[COLORsnow][B]LATINO[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/GME4W6j4</externallink>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-    <title>[COLORsnow][B]MEXICO[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/7QW9f4sz</externallink>
-	<thumbnail></thumbnail>  
-</item>
-
-<item>
-    <title>[COLORsnow][B]ENGLISH[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/2D80tRy5</externallink>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-    <title>[COLORsnow][B]SPANISH[/COLOR][/B]</title>
-	<link>http://ignorame</link>
-    <externallink>https://pastebin.com/raw/WVyV87rg</externallink>
-	<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LIST Test 1</title>
-<link>http://ignorame</link>
-<externallink>http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LIST Test 2</title>
-<link>http://ignorame</link>
-<externallink></externallink>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>LIST Test 3</title>
-<link>http://ignorame</link>
-<externallink></externallink>
-<thumbnail></thumbnail>
-</item>&amp;output=mpegts$$TSDOWNLOADER$$
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX <<<<<<<<<<<<<<<<<<<<<<<<
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 
 
 <item>
