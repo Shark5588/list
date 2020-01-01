@@ -103,22 +103,16 @@ channel>
 	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/uk.xml</externallink>
 	<fanart></fanart>
 	<info>[COLORyellow]UK Streams[/COLOR]</info>
-</channel>
+  <items>
 
-channel>
-       <name>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]SPORTS CLASSIC TV[COLOR white][B] IPTV BIN [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</name>
-       <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-       <externallink></externallink>
-       <fanart></fanart>
-       <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
-</channel>
-
-<channel>
+  <item>
        <name>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]SPORTS CLASSIC TV[COLOR white][B] WHATEVER! IPTV  [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</name>
        <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-       <externallink>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</externallink>
+       <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</link>
        <fanart></fanart>
        <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
+  </item>	   
+</items>
 </channel>
 
 channel>
@@ -376,5 +370,5 @@ https://raw.githubusercontent.com/boomski/homeofcycling/bebed9701de6f9d6085469f5
        <fanart></fanart>
        <info>[B][COLORyellow]Adult tv list[/COLOR][/B]</info>
 </channel>
-
+</items>
 </channels>
