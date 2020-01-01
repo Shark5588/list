@@ -140,6 +140,22 @@ https://pastebin.com/raw/jbqA0j82
 
 
 <item>
+<title>[COLOR lightgreen]$doregex[cristalazul]    guia arena[/COLOR]</title>
+<link>$doregex[cristalazul]</link>
+<regex>
+<name>cristalazul</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data, Cookie_Jar,m):
+  import re,cfscrape
+  scraper = cfscrape.create_scraper()
+  fuente=scraper.get("https://arenavision.us/", headers={'User-Agent': 'Mozilla/5.0'}, verify=False)
+  return re.findall('href="(.*?)">EVENTS GUIDE',fuente.text)[0]
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
 <title>http://cricfree.ws</title>
 <link>http://ignorame</link>
 <externallink>$doregex[makelist]</externallink>
