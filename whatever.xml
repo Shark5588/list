@@ -9,13 +9,8 @@
 </item>
  
 
-dir>https://www.youtube.com/channel/UCuVPpxrm2VAgpH3Ktln4HXg
-    <name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORwhite] THE MAG[/COLOR][/B]</name>
-    <link></link>
-    <thumbnail>http://pluspng.com/img-png/mag-png-mag-png-550.png</thumbnail>
-    <fanart>https://www.studioef.cz/wp-content/uploads/2017/10/the-mag.png</fanart>
-    <content></content>
-</dir>
+
+<plugins>
 
 <plugin>
 <title>[B]Cowboy TSY Western Movies[/B]</title>
@@ -118,4 +113,22 @@ plugin>
 <content></content>
 </plugin>
 
+</plugins>
+
+
+dir>
+    <name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORwhite] THE MAG[/COLOR][/B]</name>
+    <link></link>
+    <thumbnail>http://pluspng.com/img-png/mag-png-mag-png-550.png</thumbnail>
+    <fanart>https://www.studioef.cz/wp-content/uploads/2017/10/the-mag.png</fanart>
+    <content></content>
+</dir>
+<dir>
+    <name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORwhite] TEST ZONE[/COLOR][/B]</name>
+    <link>http://ignorame</link>
+	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</externallink>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <content></content>
+</dir>
 
