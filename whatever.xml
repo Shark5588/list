@@ -123,11 +123,18 @@ dir>
     <fanart>https://www.studioef.cz/wp-content/uploads/2017/10/the-mag.png</fanart>
     <content></content>
 </dir>
-<dir>
+<plugin>
     <name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORwhite] TEST ZONE[/COLOR][/B]</name>
-	<link>https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</link>
+	<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
     <content></content>
-</dir>
+</plugin>
+
+<plugin>
+<title>[COLORwhite]LODGE IPTV[/COLOR]</title>
+<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/2D80tRy5</link>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+<fanart></fanart>
+</plugin>
 
