@@ -46,7 +46,7 @@
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORred][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORred] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>ignore-me</link>
 <externallink>$doregex[iptvLink]</externallink>
 <regex>
@@ -59,23 +59,47 @@
 (((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
 
 <item>
-    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORlime][B] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORred] FLUXUS USA [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[makelist.param2]</title>
+   <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=[makelist.param3]</link>
+   <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[logo="([^"]*)"[^"]*"USA[^"]*",(.*)\W(.*)]]></expres>
+<page>https://pastebin.com/raw/ZzGTySZE</page>
+</regex>
+<thumbnail></thumbnail>
+  <fanart></fanart>
+</item>
+
+<item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORlime] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
 
 <item>
-    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow][B] Fluxus Cinema English [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow] Fluxus Cinema English [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/jbqA0j82<externallink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
 
 <item>
+    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR snow] LODGE IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+    <link>http://ignorame</link>
+    <externallink>https://pastebin.com/raw/2D80tRy5</externallink>
+    <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
 <title>LIST Test 1</title>
 <link>http://ignorame</link>
-<externallink>http://gold.hopto.me:83/get.php?username=11111111&password=22222222&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>https://iptvgratuit.xyz/category/iptv-m3u/&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 <thumbnail></thumbnail>
 </item>
 
