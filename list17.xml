@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 12/18/2019[/B][/COLOR][COLOR red][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/4/2020[/B][/COLOR][COLOR red][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -18,3 +18,376 @@ http://0.0.0.0:1234
 
 
 
+#EXTM3U
+#EXTINF:-1,US: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1256.ts
+#EXTINF:-1,US: ABC NEWS LIVE EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7867.ts
+#EXTINF:-1,US: ABC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7868.ts
+#EXTINF:-1,US: ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7869.ts
+#EXTINF:-1,US: ADULT SWIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1257.ts
+#EXTINF:-1,US: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1258.ts
+#EXTINF:-1,US: AMERICAN HEROES CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1259.ts
+#EXTINF:-1,US: ANIMAL PLANET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1260.ts
+#EXTINF:-1,US: ANIMAL PLANET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1261.ts
+#EXTINF:-1,US: ANTENNA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1262.ts
+#EXTINF:-1,US: ASPIRE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1263.ts
+#EXTINF:-1,US: AUDIENCE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7870.ts
+#EXTINF:-1,US: AXS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1264.ts
+#EXTINF:-1,US: BBC AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1265.ts
+#EXTINF:-1,US: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1266.ts
+#EXTINF:-1,US: BET (WEST)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7871.ts
+#EXTINF:-1,US: BET GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4039.ts
+#EXTINF:-1,US: BET HER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1268.ts
+#EXTINF:-1,US: BET JAMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1269.ts
+#EXTINF:-1,US: BET SOUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1270.ts
+#EXTINF:-1,US: BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5554.ts
+#EXTINF:-1,US: BLOOMBERG POLITICS LIVE EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7872.ts
+#EXTINF:-1,US: BOUNCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4040.ts
+#EXTINF:-1,US: BRAVO EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1272.ts
+#EXTINF:-1,US: BRAVO WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1273.ts
+#EXTINF:-1,US: BUZZR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7873.ts
+#EXTINF:-1,US: CHEDDAR BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1276.ts
+#EXTINF:-1,US: CHEDDAR NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1275.ts
+#EXTINF:-1,US: C-SPAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7874.ts
+#EXTINF:-1,US: C-SPAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7875.ts
+#EXTINF:-1,US: CBS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7876.ts
+#EXTINF:-1,US: CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7877.ts
+#EXTINF:-1,US: CLEO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7878.ts
+#EXTINF:-1,US: CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4483.ts
+#EXTINF:-1,US: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1278.ts
+#EXTINF:-1,US: CNBC WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1277.ts
+#EXTINF:-1,US: CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7879.ts
+#EXTINF:-1,US: COMEDY CENTRAL EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1405.ts
+#EXTINF:-1,US: COMET TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1282.ts
+#EXTINF:-1,US: COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1281.ts
+#EXTINF:-1,US: COWBOY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7880.ts
+#EXTINF:-1,US: COZI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1285.ts
+#EXTINF:-1,US: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1287.ts
+#EXTINF:-1,US: CW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1286.ts
+#EXTINF:-1,US: DESTINATION AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1288.ts
+#EXTINF:-1,US: DISCOVERY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1289.ts
+#EXTINF:-1,US: DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1291.ts
+#EXTINF:-1,US: DISCOVERY LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1292.ts
+#EXTINF:-1,US: DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1293.ts
+#EXTINF:-1,US: DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7881.ts
+#EXTINF:-1,US: DISCOVERY WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1290.ts
+#EXTINF:-1,US: DIY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1294.ts
+#EXTINF:-1,US: DOG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7883.ts
+#EXTINF:-1,US: DUCK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7884.ts
+#EXTINF:-1,US: E! EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1295.ts
+#EXTINF:-1,US: E! WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1296.ts
+#EXTINF:-1,US: EL REY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1297.ts
+#EXTINF:-1,US: ESCAPE (COURT TV MYSTERY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7885.ts
+#EXTINF:-1,US: FOOD NETWORK EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1377.ts
+#EXTINF:-1,US: FOOD NETWORK WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1378.ts
+#EXTINF:-1,US: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7886.ts
+#EXTINF:-1,US: FOX BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1379.ts
+#EXTINF:-1,US: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1380.ts
+#EXTINF:-1,US: FREEFORM EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1382.ts
+#EXTINF:-1,US: FREEFORM WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1383.ts
+#EXTINF:-1,US: FREE SPEECH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7887.ts
+#EXTINF:-1,US: FUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1384.ts
+#EXTINF:-1,US: FUSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1385.ts
+#EXTINF:-1,US: FX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1387.ts
+#EXTINF:-1,US: FX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1388.ts
+#EXTINF:-1,US: FXM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1389.ts
+#EXTINF:-1,US: FXX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1390.ts
+#EXTINF:-1,US: FXX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1391.ts
+#EXTINF:-1,US: FYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1386.ts
+#EXTINF:-1,US: GAMESHOW NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1392.ts
+#EXTINF:-1,US: GINX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4042.ts
+#EXTINF:-1,US: GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1393.ts
+#EXTINF:-1,US: GREAT AMERICAN COUNTRY (GAC)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4043.ts
+#EXTINF:-1,US: GRIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4044.ts
+#EXTINF:-1,US: HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1395.ts
+#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1396.ts
+#EXTINF:-1,US: HDNET MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7888.ts
+#EXTINF:-1,US: HGTV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1398.ts
+#EXTINF:-1,US: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1400.ts
+#EXTINF:-1,US: HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1399.ts
+#EXTINF:-1,US: IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1401.ts
+#EXTINF:-1,US: INSP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7889.ts
+#EXTINF:-1,US: INVESTIGATION DISCOVERY WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1403.ts
+#EXTINF:-1,US: ION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4045.ts
+#EXTINF:-1,US: JUSTICE CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7890.ts
+#EXTINF:-1,US: LAW & CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1407.ts
+#EXTINF:-1,US: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1408.ts
+#EXTINF:-1,US: LIFETIME MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1409.ts
+#EXTINF:-1,US: LOGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5557.ts
+#EXTINF:-1,US: MAV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7892.ts
+#EXTINF:-1,US: ME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1410.ts
+#EXTINF:-1,US: MILITARY HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4046.ts
+#EXTINF:-1,US: MOTORTREND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1412.ts
+#EXTINF:-1,US: MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1415.ts
+#EXTINF:-1,US: MTV CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1416.ts
+#EXTINF:-1,US: MTV EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1413.ts
+#EXTINF:-1,US: MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1417.ts
+#EXTINF:-1,US: NAT GEO MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4047.ts
+#EXTINF:-1,US: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1420.ts
+#EXTINF:-1,US: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1419.ts
+#EXTINF:-1,US: NAUTICAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7894.ts
+#EXTINF:-1,US: NE CABLE NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7895.ts
+#EXTINF:-1,US: NECN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7896.ts
+#EXTINF:-1,US: ONE AMERICA NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7898.ts
+#EXTINF:-1,US: OUTDOOR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1423.ts
+#EXTINF:-1,US: OUTSIDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1424.ts
+#EXTINF:-1,US: OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1425.ts
+#EXTINF:-1,US: OXYGEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1426.ts
+#EXTINF:-1,US: OXYGEN WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4048.ts
+#EXTINF:-1,US: PARAMOUNT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1427.ts
+#EXTINF:-1,US: PBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4050.ts
+#EXTINF:-1,US: PEOPLE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1428.ts
+#EXTINF:-1,US: POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4049.ts
+#EXTINF:-1,US: PURSUIT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6444.ts
+#EXTINF:-1,US: QVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4051.ts
+#EXTINF:-1,US: REELZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4245.ts
+#EXTINF:-1,US: REVOLT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1430.ts
+#EXTINF:-1,US: RFD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6435.ts
+#EXTINF:-1,US: RIDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7899.ts
+#EXTINF:-1,US: RT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7900.ts
+#EXTINF:-1,US: SMITHSONIAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1431.ts
+#EXTINF:-1,US: SNY (SportsNet New York)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7901.ts
+#EXTINF:-1,US: SPORTSMAN CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6443.ts
+#EXTINF:-1,US: STADIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7905.ts
+#EXTINF:-1,US: STADIUM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7902.ts
+#EXTINF:-1,US: STADIUM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7903.ts
+#EXTINF:-1,US: STADIUM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7904.ts
+#EXTINF:-1,US: START TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1432.ts
+#EXTINF:-1,US: SUNDANCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1433.ts
+#EXTINF:-1,US: SYFY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1434.ts
+#EXTINF:-1,US: SYFY WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1435.ts
+#EXTINF:-1,US: TASTEMADE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7906.ts
+#EXTINF:-1,US: TBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1437.ts
+#EXTINF:-1,US: TBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1438.ts
+#EXTINF:-1,US: THE WEATHER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1439.ts
+#EXTINF:-1,US: TLC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1441.ts
+#EXTINF:-1,US: TLC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1442.ts
+#EXTINF:-1,US: TNT EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1444.ts
+#EXTINF:-1,US: TNT WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1445.ts
+#EXTINF:-1,US: TRAVEL CHANNEL EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1446.ts
+#EXTINF:-1,US: TRAVEL CHANNEL WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1447.ts
+#EXTINF:-1,US: TRU TV EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1448.ts
+#EXTINF:-1,US: TRU TV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1449.ts
+#EXTINF:-1,US: TURNER CLASSIC MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1450.ts
+#EXTINF:-1,US: TV LAND EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7913.ts
+#EXTINF:-1,US: TV LAND WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4053.ts
+#EXTINF:-1,US: TV ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4052.ts
+#EXTINF:-1,US: TYC SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7909.ts
+#EXTINF:-1,US: UNIVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6439.ts
+#EXTINF:-1,US: USA WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1452.ts
+#EXTINF:-1,US: VH1 East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4055.ts
+#EXTINF:-1,US: VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4477.ts
+#EXTINF:-1,US: WEATHER NATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7911.ts
+#EXTINF:-1,US: WE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1453.ts
+#EXTINF:-1,US: WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4056.ts
+#EXTINF:-1,US: NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1485.ts
+#EXTINF:-1,US: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1490.ts
+#EXTINF:-1,US: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1552.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1551.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1550.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1549.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1548.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1547.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1546.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1545.ts
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1544.ts
+#EXTINF:-1,US: ESPN DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1543.ts
+#EXTINF:-1,US: ESPN GOAL LINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1542.ts
+#EXTINF:-1,US: ESPN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1541.ts
+#EXTINF:-1,US: ESPN SEC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1536.ts
+#EXTINF:-1,US: ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1539.ts
+#EXTINF:-1,US: NBC GOLD 01: Liverpool vs Sheffield United (01.02-20:00 UK)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7583.ts
+#EXTINF:-1,US: NBC GOLD 02: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7584.ts
+#EXTINF:-1,US: NBC GOLD 03: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7585.ts
+#EXTINF:-1,US: NBC GOLD 04: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7586.ts
+#EXTINF:-1,US: NBC GOLD 05: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7587.ts
+#EXTINF:-1,US: NBC GOLD 06: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7588.ts
+#EXTINF:-1,US: NBC GOLD 07: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7589.ts
+#EXTINF:-1,US: NBC GOLD 08: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7590.ts
+#EXTINF:-1,US: NBC GOLD 09: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7591.ts
+#EXTINF:-1,US: NBC GOLD 10: TBD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7592.ts
