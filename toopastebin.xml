@@ -288,33 +288,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/vEoCPVN.jpg</thumbnail>
 </item>
 
-<item>
-<title>IcI Montreal</title>             
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR gold]IcI Montreal [makelist.param2][/COLOR]</title>
-  <link>$doregex[http://photocall.tv/bF3j/l1?ch=ici]|User-Agent=iPad<</link>
-  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/40/ICI_Montreal.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
-  source=requests.get('http://photocall.tv/',headers={'user-agent':'Mozilla/5.0'}).content
-  return re.findall('href="([^"]+).+?>(H[^<]+)',re.findall('beIN SPORTS"(?s)(.*?)</ul',source)[0])
-]]></expres>
-<page></page>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>source:\s*'([^']+)</expres>
-<page>[makelist.param1]#</page>
-<referer>http://photocall.tv/</referer>
-</regex>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/40/ICI_Montreal.png</thumbnail>
-</item>
-
 
 </items>
 
