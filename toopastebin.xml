@@ -8,7 +8,7 @@
 <item>
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] USA CANADA[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
     <link>http://ignorame</link>
-	<externallink>https://pastebin.com/raw/4cQ9mj8X</externallink>
+	<sublink>https://pastebin.com/raw/4cQ9mj8X</sublink>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 <item>
 
@@ -16,7 +16,7 @@
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] Uk [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/J1p1Uknd</externallink>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
 
 <item>
@@ -56,6 +56,7 @@
 <expres>id="myInput1".+?value="([^"]+)</expres>
 <page>https://fluxustv.blogspot.com/p/iptv.html</page>
 </regex>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
 
 (((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
@@ -73,7 +74,7 @@
 <expres><![CDATA[logo="([^"]*)"[^"]*"USA[^"]*",(.*)\W(.*)]]></expres>
 <page>https://pastebin.com/raw/ZzGTySZE</page>
 </regex>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
   <fanart></fanart>
 </item>
 
