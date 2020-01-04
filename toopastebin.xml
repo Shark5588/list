@@ -307,7 +307,7 @@ def GetLSProData(page_data, Cookie_Jar,m):#streamwatcher
 <page></page>
 </regex>
 <regex>
-<name>http://photocall.tv/bF3j/l1?ch=ici</name>
+<name>getUrl</name>
 <expres>source:\s*'([^']+)</expres>
 <page>[makelist.param1]#</page>
 <referer>http://photocall.tv/</referer>
