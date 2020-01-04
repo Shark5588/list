@@ -1,19 +1,1171 @@
 #EXTM3U
 <layouttype>-=DONT STEAL MY FUCKIN LINKS=-</layouttype>
 
- #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] THEY ARE FREELY AVAILABLE ON THE INTERNET.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
+ #EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] THEY ARE FREELY AVAILABLE ON THE INTERNET.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 12/29/2019[/B][/COLOR][COLORred][B]****[/B][/COLOR]
-http://0.0.0.0:1234
+ #EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/4/2019[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
 
 ################################################################ LIST  ###########################################################################################
 
 
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1256.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ABC NEWS LIVE EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7867.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ABC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7868.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7869.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ADULT SWIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1257.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1258.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: AMERICAN HEROES CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1259.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ANIMAL PLANET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1260.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ANIMAL PLANET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1261.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ANTENNA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1262.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ASPIRE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1263.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: AUDIENCE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7870.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: AXS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1264.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BBC AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1265.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1266.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BET |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1267.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BET (WEST)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7871.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BET GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4039.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BET HER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1268.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BET JAMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1269.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BET SOUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1270.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5554.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BLOOMBERG POLITICS LIVE EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7872.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BOUNCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4040.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BRAVO EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1272.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BRAVO WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1273.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: BUZZR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7873.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CHEDDAR BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1276.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CHEDDAR NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1275.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: C-SPAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7874.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: C-SPAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7875.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CBS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7876.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7877.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CLEO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7878.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4483.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1278.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CNBC WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1277.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CNN |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1279.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7879.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: COMEDY CENTRAL EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1405.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: COMET TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1282.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1281.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: COWBOY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7880.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: COZI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1285.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1287.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: CW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1286.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DESTINATION AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1288.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DISCOVERY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1289.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1291.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DISCOVERY LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1292.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1293.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DISCOVERY WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1290.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DIY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1294.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DOG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7883.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: DUCK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7884.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: E! EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1295.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: E! WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1296.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: EL REY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1297.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ESCAPE (COURT TV MYSTERY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7885.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FOOD NETWORK EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1377.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FOOD NETWORK WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1378.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7886.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FOX BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1379.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1380.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FOX NEWS |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1381.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FREEFORM EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1382.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FREEFORM WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1383.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FREE SPEECH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7887.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1384.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FUSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1385.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1387.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1388.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FXM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1389.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FXX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1390.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FXX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1391.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: FYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1386.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: GAMESHOW NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1392.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1393.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: GREAT AMERICAN COUNTRY (GAC)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4043.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: GRIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4044.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HALLMARK CHANNEL |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1394.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1395.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HALLMARK MOVIES & MYSTERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1396.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HDNET MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7888.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HGTV EAST |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1397.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HGTV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1398.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1400.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1399.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1401.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: INSP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7889.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: INVESTIGATION DISCOVERY EAST |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1402.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: INVESTIGATION DISCOVERY WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1403.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4045.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: JUSTICE CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7890.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: LAW & CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1407.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1408.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: LIFETIME MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1409.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: LOGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5557.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MAV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7892.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1410.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MILITARY HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4046.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MOTORTREND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1412.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MSNBC |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1411.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1415.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MTV CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1416.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MTV EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1413.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1417.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: NAT GEO MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4047.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1420.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1419.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: NAUTICAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7894.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: NE CABLE NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7895.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: NECN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7896.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: ONE AMERICA NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7898.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: OUTDOOR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1423.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: OUTSIDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1424.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1425.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: OXYGEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1426.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: OXYGEN WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4048.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: PARAMOUNT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1427.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: PBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4050.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: PEOPLE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1428.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4049.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: PURSUIT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6444.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: QVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4051.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: REELZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4245.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: REVOLT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1430.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: RFD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6435.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: RIDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7899.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: RT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7900.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: SMITHSONIAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1431.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: SNY (SportsNet New York)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7901.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: SPORTSMAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6443.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: STADIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7905.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: STADIUM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7902.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: STADIUM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7903.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: STADIUM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7904.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: START TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1432.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: SUNDANCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1433.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: SYFY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1434.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: SYFY WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1435.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TASTEMADE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7906.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1437.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1438.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: THE WEATHER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1439.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TLC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1441.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TLC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1442.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TNT EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1444.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TNT WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1445.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TRAVEL CHANNEL EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1446.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TRAVEL CHANNEL WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1447.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TRU TV EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1448.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TRU TV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1449.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TURNER CLASSIC MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1450.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TV LAND EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7913.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TV LAND WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4053.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TV ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4052.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: TYC SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7909.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: UNIVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6439.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: USA EAST |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1451.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: USA WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1452.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: VH1 East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4055.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4477.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: WEATHER NATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7911.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: WE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1453.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", US: WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4056.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: ACC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5950.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5951.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: AMERICAN HEROES CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5952.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5953.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: ANTENNA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5954.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5955.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5956.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5957.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5958.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5959.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: C-SPAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5960.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CARTOON NETWORK EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5961.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CARTOON NETWORK EAST*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5962.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CHEDDAR BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5963.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CHEDDAR NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5964.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CINE SONY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5965.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CINEMAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5966.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CINEMAX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5967.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CLEO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5968.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5969.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5971.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: CNN EN ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5972.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: COMET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5973.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5974.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: COZI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5975.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DESTINATION AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5976.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5977.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DISCOVERY EN ESPANOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5978.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DISCOVERY FAMILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5979.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DISCOVERY LIFE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5980.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5981.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5982.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5983.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DIY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5984.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: DUCK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5985.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: E! EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5986.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: EPIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5987.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: EPIX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5988.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: EPIX HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5989.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5990.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5991.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FOX BUSINESS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5992.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5993.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FOX NEWS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5994.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FREEFORM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5995.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FUSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5997.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5998.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: FXX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6000.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: GEM SHOPPING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6002.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: GRIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6003.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: HALLMARK CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6004.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6005.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: HALLMARK MOVIES & MYSTERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6006.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: HBO EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6007.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: HBO WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6008.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: HGTV EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6009.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6010.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6011.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6012.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: LAW AND CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6013.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6015.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: MTV CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6016.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6017.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: NAT GEO MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6018.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6019.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6021.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6022.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6023.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: OUTSIDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6024.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6025.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: OXYGEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6026.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6027.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: SHOWTIME EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6028.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: SHOWTIME PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6029.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: SHOWTIME WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6030.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: SMITHSONIAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6031.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: STARZ WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6033.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: SUNDANCETV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6034.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6035.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TASTEMADE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6036.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6037.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TEEN NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6038.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TELEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6039.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TENNIS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6040.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6042.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6043.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6044.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TRUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6045.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TURNER CLASSIC MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6046.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: TVG NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6047.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: UNIVERSAL KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6048.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: USA NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6049.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: WE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6050.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: WPIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6051.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", USA SD: YES NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6052.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", CINEMAX 5STARMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5638.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", CINEMAX ACTIONMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2763.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", CINEMAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2764.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", CINEMAX OUTERMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5639.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", CINEMAX THRILLERMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2766.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", CINEMAX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2765.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", EPIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2767.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", EPIX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2768.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", EPIX HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2769.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2770.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2772.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", HBO COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2775.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2773.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", HBO WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2771.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", HBO ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2774.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", HD NET MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4057.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", INDIEPLEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5642.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", MGM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2776.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", MOVIEPLEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5641.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", PIXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4058.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", RETROPLEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5640.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2779.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME BEYOND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5645.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2777.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME EXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4059.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME FAMILY ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4060.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME NEXT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5644.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2780.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2778.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SHOWTIME WOMEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5643.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA ACTION & ADVENTURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4023.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4021.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4020.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA DRAMA & ROMANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4022.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4019.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA GREATS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4018.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4017.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4016.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA SCIFI & HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4015.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SKY CINEMA THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4013.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SONY MOVIE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2781.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2782.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5653.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2783.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ EDGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2784.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2785.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5652.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5651.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5650.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5649.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE SUSPENSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5648.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5647.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ ENCORE WESTERNS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5553.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ IN BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5646.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", STARZ KIDS & FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/2786.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", THE MOVIE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4061.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", THE MOVIE CHANNEL XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5654.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: ACC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1570.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: BEIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1569.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: BEIN SPORTS EN ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1568.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: BIG TEN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4450.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CBS SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7523.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN BAY AREA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1566.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN BAY AREA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1567.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN BOSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1565.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN CALIFORNIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1563.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN CALIFORNIA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1564.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN CHICAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1562.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN CHICAGO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1561.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN MID ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1560.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN NEW ENGLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1559.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN NORTHWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1558.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN PHILADELPHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1556.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN PHILADELPHIA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1557.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: CSN WASHINGTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1554.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1535.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS 1 |+|
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1529.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1528.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS ARIZONA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1527.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS CAROLINAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1525.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS CINCINNATI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1523.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1522.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS DETROIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1521.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS FLORIDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1520.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS INDIANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1518.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS KANSAS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1517.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS MIDWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1516.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS NEW ORLEANS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1515.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS NORTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1509.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS NORTH PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1508.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS OHIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1503.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS OHIO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1502.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS PRIME TICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1501.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS SAN DIEGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1500.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS SOUTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1499.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS SOUTHEAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1506.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS SOUTHWEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1498.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS SOUTHWEST PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1505.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS SUN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1497.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS TENNESSEE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1504.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1496.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX SPORTS WISCONSIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1495.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: FOX YES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4476.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", FOX SPORTS NEWS (AUSTRALIA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4384.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1494.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: LONGHORN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1493.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1492.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: MLBN STRIKEZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1491.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: MSG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4480.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: MSG PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6430.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: MSG 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6431.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: MSG 2 PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/6432.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: NBCSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/7912.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: NESN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1488.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: NESN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1489.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: OLYMPIC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1422.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: PAC-12 NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5560.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: SPORTSNET LA DODGERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4479.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: SPORTSNET LA LAKERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4478.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: TENNIS CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/4482.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1484.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: WILLOW CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/5558.ts
+
+#EXTINF:-1 tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://127.0.0.1/" group-title="Channels", SPORTS US: WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/jkal/jkal/1483.ts
