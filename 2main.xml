@@ -117,18 +117,18 @@
     </channels_info>
     
     <channel>
-    <name>News</name>
-    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+    <name>TesTinG</name>
+    <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
     <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
         <items>
             <item>
-                <title>test2</title>
+                <title>test3</title>
 				<link>http://ignorame</link>
-                <externallink>https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</externallink>
+                <externallink>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</externallink>
                 <thumbnail>http://channel.png</thumbnail>
                 <genre>Poker</genre>
                 <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+                <date>01.5.2020</date>  <!-- format - dd.mm.yyyy -->
                 <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
                 <fanart>http://fanart.jpg</fanart>
             </item>
