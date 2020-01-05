@@ -95,7 +95,7 @@
 	<info>[COLORyellow]UK Streams[/COLOR]</info>
   </channel>	
 
-  <channel>
+  channel>
     <name>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]SPORTS CLASSIC TV[COLOR snow][B] WHATEVER IPTV  [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</name>
 	<link>http://ignorame</link>
 	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</externallink>
@@ -104,79 +104,6 @@
     <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
   </channel>	
 
-  
-  <channels>
-    <channels_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>IPTV</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>01.05.2020</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </channels_info>
-    
-    <channel>
-    <name>TesTinG</name>
-    <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-        <items>
-            <item>
-                <title>test3</title>
-				<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</link>
-                <thumbnail>http://channel.png</thumbnail>
-                <genre>Poker</genre>
-                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
-                <date>01.5.2020</date>  <!-- format - dd.mm.yyyy -->
-                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
-                <fanart>http://fanart.jpg</fanart>
-            </item>
-     </channel>
-
-     <channel>
-    <name>Tele5</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <subchannel>
-        <name>Tv 1</name>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
-            <subitems>
-                <subitem>
-                <title>tv1-test4</title>
-                <link>https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</link>
-                <thumbnail>http://thumb.png </thumbnail>
-                </subitem>
-
-                <subitem>
-                <title>tv1-2</title>
-                <link>http://some/place/channel_4.mp4</link>
-                <thumbnail>http://thumb.png</thumbnail>
-                </subitem>
-            </subitems>	
-        </channel>
-    </subchannel>
-    
-    <items>
-        <item>
-        <title>FILM 4</title>
-        <link>mms://some/place</link>
-        <thumbnail>http://thumb.png </thumbnail>
-        </item>
-
-        <item>
-        <title>CHANNEL 4</title>
-        <link>http://some/place/channel_4.mp4</link>
-        <thumbnail>http://thumb.png</thumbnail>
-        </item>
-    </items>	
-    </channel>
-
-</channels>
-  
-  
-  
-  
   <channel>
        <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR white][B] PlAyLiSt 1[/COLOR][/B]</name>
        <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
@@ -337,6 +264,20 @@
        <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
   </channel>
 <!-------------------------------------------------------------------------------------------------------------------
+    <channel>
+    <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 0[/I][/B]</name>
+    <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
+    <fanart></fanart>
+        <items>
+
+            <item>
+                <title>News 4</title>         
+                <link>rtmp://some/place playpath=some_place swfUrl="http://player.swf pageUrl=http://nhkworld/r/movie/ swfVfy=true live=true</link>
+                <thumbnail></thumbnail>
+            </item>
+        </items>
+    </channel>
+
   <channel>
        <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 1[/I][/B]</name>
        <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
