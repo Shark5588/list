@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
 
 <layouttype>list
 
@@ -98,14 +98,44 @@
   <channel>
     <name>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]SPORTS CLASSIC TV[COLOR snow][B] WHATEVER IPTV  [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</name>
 	<link>http://ignorame</link>
-	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/Pack12.xml</externallink>
+	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</externallink>
     <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
     <fanart></fanart>
     <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
   </channel>	
-plugin://plugin.video.live.streamspro/
-?mode=1&url=  
-?item=url=livesports.cfg&amp;mode=1
+
+  
+  <channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>News</genre>
+      <description>this is the descripton string</description>
+      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+      <date>04.01.2013</date>
+      <credits>divingmule, Johnny Cache</credits>
+    </channels_info>
+    
+    <channel>
+    <name>News</name>
+    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+        <items>
+            <item>
+                <title>POKER CHANNEL</title>
+                <link>https://raw.githubusercontent.com/Shark5588/list/master/toopastebin.xml</link>
+                <thumbnail>http://channel.png</thumbnail>
+                <genre>Poker</genre>
+                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
+                <date>07.12.2011</date>  <!-- format - dd.mm.yyyy -->
+                <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
+                <fanart>http://fanart.jpg</fanart>
+            </item>
+  
+  
+  
+  
+  
   <channel>
        <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR white][B] PlAyLiSt 1[/COLOR][/B]</name>
        <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
