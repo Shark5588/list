@@ -6,7 +6,8 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
    <title>[makelist.param2]</title>
-   <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=[makelist.param3]</link>
+   <link>ignore</link>
+   <externallink>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=[makelist.param3]</externallink>
    <thumbnail>[makelist.param1]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[logo="([^"]*)"[^"]*"USA[^"]*",(.*)\W(.*)]]></expres>
