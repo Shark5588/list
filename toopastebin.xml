@@ -131,6 +131,33 @@
   <thumbnail></thumbnail>
 <externallink>&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
+
+<item>
+<title>Private (make sure TSDOWNLOADER.xml exists in addon_data\plugin.video.live.streamspro\LivewebTV</title>
+<link>http://Ignoreme</link>
+<externallink>TSDOWNLOADER.xml</externallink>
+</item>
+<item>
+<title>zombi live events from twitter</title>
+<link>http://Ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</externallink>
+</item>
+<item>
+<title>live ts channels </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER</link>
+<referer>http://www.tutelevisionenvivo.org/</referer>
+<thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:-1,(.*?)<.*?><a href="(.*?)"]]></expres>
+<page>http://www.calciohd.info/iptv/arabiv-bein-sports-osn-france-canal-vlc/</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
 <!------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX <<<<<<<<<<<<<<<<<<<<<<<<
