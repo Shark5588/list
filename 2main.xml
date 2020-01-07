@@ -272,7 +272,7 @@
 
             <item>
                 <title>News 4</title>         
-                <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</link>
+                <link>plugin://item.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</link>
                 <thumbnail></thumbnail>
             </item>
         </items>
@@ -289,7 +289,7 @@
   <channel>
        <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 2[/I][/B]</name>
        <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
-       <externallink>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</externallink>
+       <externallink>plugin://item.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</externallink>
        <fanart></fanart>
        <info>[B][COLORyellow]Some works some dont[/COLOR][/B]/info>
   </channel>
