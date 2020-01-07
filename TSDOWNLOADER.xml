@@ -1,20 +1,41 @@
 
+<plugin>
+<title>LIST Test 0</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[makelist.param2]</title>
+   <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;url=[makelist.param3]</link>
+   <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[logo="([^"]*)"[^"]*"USA[^"]*",(.*)\W(.*)]]></expres>
+<page>http://51.79.81.97:25461/get.php?username=ITV&password=4RTYUI&type=m3u</page>
+</regex>
+<thumbnail></thumbnail>
+  <fanart></fanart>
+</plugin>
+
+
+
+
+
           <item> 
             <title>[B][COLOR deepskyblue]LIST Test 1[/COLOR][/B]</title> 
 	     <link>ignore</link>
-   <externallink>&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://51.79.81.97:25461/get.php?username=ITV&password=4RTYUI&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	     <page></page>
         </item> 
           <item> 
             <title>[B][COLOR deepskyblue]LIST Test 2[/COLOR][/B]</title> 
 	     <link>ignore</link>
-   <externallink>&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://srv02.evolucion03.net:25461/get.php?username=ITV&password=4RTYUI&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	     <page></page>
         </item> 
           <item> 
             <title>[B][COLOR deepskyblue]LIST Test 3[/COLOR][/B]</title> 
 	     <link>ignore</link>
-   <externallink>&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://213.152.172.67:25461/get.php?username=afriquepro1gsqeg532&password=4685466531422&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	     <page></page>
         </item> 
           <item> 
