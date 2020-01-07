@@ -2,13 +2,13 @@
           <item> 
             <title>[B][COLOR deepskyblue]LIST Test 1[/COLOR][/B]</title> 
 	     <link>ignore</link>
-   <externallink>plugin://plugin.video.live.streamspro/?mode=1&url=http://51.79.81.97:25461/get.php?username=ITV&password=4RTYUI&type=m3u</externallink>
+   <externallink>http://51.79.81.97:25461/get.php?username=ITV&password=4RTYUI&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	     <page></page>
         </item> 
           <item> 
             <title>[B][COLOR deepskyblue]LIST Test 2[/COLOR][/B]</title> 
 	     <link>ignore</link>
-   <externallink>plugin://plugin.video.live.streamspro/?mode=1&url=http://srv02.evolucion03.net:25461/get.php?username=ITV&password=4RTYUI&type=m3u</externallink>
+   <externallink>http://srv02.evolucion03.net:25461/get.php?username=ITV&password=4RTYUI&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	     <page></page>
         </item> 
           <item> 
