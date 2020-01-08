@@ -116,11 +116,11 @@
 <name>makelist</name>
 <listrepeat><![CDATA[
  <title>[makelist.param2]</title>
- <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]Shark[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
  <thumbnail></thumbnail>
   ]]></listrepeat>
 <expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
-<page></page>
+<page>https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</page>
 </regex>
 <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
