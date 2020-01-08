@@ -132,6 +132,22 @@
 <externallink>&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
+<item>
+<title>Tv sport hd (Regex)</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href=[\'"]([^\'"]+)"><img alt=[\'"]([^\'"]+)]]></expres>
+<page>http://www.tv-sport-hd.com/widget/tv_mobile.html</page>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
 
 <!------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
