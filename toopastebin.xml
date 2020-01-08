@@ -136,7 +136,7 @@
  <thumbnail>https://iptvbin.com/wp-content/uploads/2019/11/%C3%ADndice.jpeg</thumbnail>
  ]]></listrepeat>
 <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
-<page>https://iptvbin.com/?s=</page>
+<page>https://iptvbin.com/search?max-results=40</page>
 </regex>
 <regex>
 <name>makelist</name>
