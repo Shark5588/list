@@ -120,7 +120,7 @@
  <thumbnail></thumbnail>
   ]]></listrepeat>
 <expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
-<page>https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</page>
+<page>http://iptv6.premium-stv.com:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u</page>
 </regex>
 <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
@@ -136,7 +136,7 @@
  <thumbnail>https://iptvbin.com/wp-content/uploads/2019/11/%C3%ADndice.jpeg</thumbnail>
  ]]></listrepeat>
 <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
-<page>https://iptvbin.com/search?max-results=40</page>
+<page>http://iptv6.premium-stv.com:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u</page>
 </regex>
 <regex>
 <name>makelist</name>
@@ -179,7 +179,7 @@
 
 <item>
 <title>[B][COLOR deepskyblue]LIST Test 1[/COLOR][/B]</title>
-<>http://iptv6.premium-stv.com:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</link>
+<link>http://iptv6.premium-stv.com:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</link>
 <thumbnail></thumbnail>
 </item>
 
