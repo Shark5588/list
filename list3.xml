@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 12/29/2019[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/8/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -16,3 +16,300 @@ http://0.0.0.0:1234
 
 ################################################################ LIST  ###########################################################################################
 
+#EXTM3U
+#EXTINF:-1,CA: CHCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
+#EXTINF:-1,CA: SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
+#EXTINF:-1,CA: SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
+#EXTINF:-1,CA: SPORTSNET WEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
+#EXTINF:-1,CA: SPORTSNET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
+#EXTINF:-1,CA: TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
+#EXTINF:-1,CA: TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
+#EXTINF:-1,CA: TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
+#EXTINF:-1,CA: TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
+#EXTINF:-1,CA: TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
+#EXTINF:-1,The Weather Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
+#EXTINF:-1,CA: ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
+#EXTINF:-1,CA: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/570
+#EXTINF:-1,CA: BOUNCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/562
+#EXTINF:-1,CA: CBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/575
+#EXTINF:-1,CA: CBC VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/573
+#EXTINF:-1,CA: CBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/572
+#EXTINF:-1,CA: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
+#EXTINF:-1,CA: CTV 2 VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/576
+#EXTINF:-1,CA: CTV VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/577
+#EXTINF:-1,CA: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
+#EXTINF:-1,CA: FOX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/567
+#EXTINF:-1,CA: FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
+#EXTINF:-1,CA: FXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
+#EXTINF:-1,CA: GLOBAL VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
+#EXTINF:-1,CA: HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
+#EXTINF:-1,CA: NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/559
+#EXTINF:-1,CA: PBS KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/560
+#EXTINF:-1,CA: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
+#EXTINF:-1,CA: ABC SPARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
+#EXTINF:-1,CA: ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/725
+#EXTINF:-1,CA: ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
+#EXTINF:-1,CA: AHC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
+#EXTINF:-1,CA: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
+#EXTINF:-1,CA: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
+#EXTINF:-1,CA: BBC CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
+#EXTINF:-1,CA: BBC KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/719
+#EXTINF:-1,CA: BOOK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/718
+#EXTINF:-1,CA: BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
+#EXTINF:-1,CA: CANAL SAVOIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
+#EXTINF:-1,CA: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/715
+#EXTINF:-1,CA: CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/714
+#EXTINF:-1,CA: CBC MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/713
+#EXTINF:-1,CA: CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
+#EXTINF:-1,CA: CBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
+#EXTINF:-1,CA: CHIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spot-1.spotv.me:8080/live/radios/radios/5542.ts
+#EXTINF:-1,CA: CINÉPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
+#EXTINF:-1,CA: CIRV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spot-1.spotv.me:8080/live/radios/radios/5540.ts
+#EXTINF:-1,CA: CITY MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/709
+#EXTINF:-1,CA: CITY VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/708
+#EXTINF:-1,CA: CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
+#EXTINF:-1,CA: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
+#EXTINF:-1,CA: COMEDY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
+#EXTINF:-1,CA: COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/704
+#EXTINF:-1,CA: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/703
+#EXTINF:-1,CA: CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/702
+#EXTINF:-1,CA: CPAC FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/701
+#EXTINF:-1,CA: CPWA ASAS DO ATLANTICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spot-1.spotv.me:8080/live/radios/radios/5541.ts
+#EXTINF:-1,CA: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
+#EXTINF:-1,CA: CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/699
+#EXTINF:-1,CA: CTV NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
+#EXTINF:-1,CA: CTV OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
+#EXTINF:-1,CA: CTV2 OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
+#EXTINF:-1,CA: CW 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
+#EXTINF:-1,CA: DAYSTAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
+#EXTINF:-1,CA: DISCOVERY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
+#EXTINF:-1,CA: DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
+#EXTINF:-1,CA: DISNEY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
+#EXTINF:-1,CA: DISNEY FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/690
+#EXTINF:-1,CA: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/689
+#EXTINF:-1,CA: DOCUMENTARY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
+#EXTINF:-1,CA: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
+#EXTINF:-1,CA: FAITH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/668
+#EXTINF:-1,CA: FAMILY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
+#EXTINF:-1,CA: FAMILY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
+#EXTINF:-1,CA: FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/678
+#EXTINF:-1,CA: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
+#EXTINF:-1,CA: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
+#EXTINF:-1,CA: FOX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
+#EXTINF:-1,CA: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
+#EXTINF:-1,CA: FYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/677
+#EXTINF:-1,CA: GAME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
+#EXTINF:-1,CA: GINX ESPORTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
+#EXTINF:-1,CA: GLOBAL HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/674
+#EXTINF:-1,CA: GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
+#EXTINF:-1,CA: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
+#EXTINF:-1,CA: HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
+#EXTINF:-1,CA: HISTORY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
+#EXTINF:-1,CA: HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
+#EXTINF:-1,CA: ICI MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
+#EXTINF:-1,CA: ICI VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/665
+#EXTINF:-1,CA: ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
+#EXTINF:-1,CA: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
+#EXTINF:-1,CA: M ENCORE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
+#EXTINF:-1,CA: M ENCORE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
+#EXTINF:-1,CA: MAKEFUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/662
+#EXTINF:-1,CA: MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
+#EXTINF:-1,CA: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
+#EXTINF:-1,CA: MOI CIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
+#EXTINF:-1,CA: MOVIE TIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
+#EXTINF:-1,CA: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/657
+#EXTINF:-1,CA: MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
+#EXTINF:-1,CA: MUCH MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/655
+#EXTINF:-1,CA: MUSIQUE PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
+#EXTINF:-1,CA: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
+#EXTINF:-1,CA: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
+#EXTINF:-1,CA: NBC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
+#EXTINF:-1,CA: NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
+#EXTINF:-1,CA: OLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
+#EXTINF:-1,CA: OMNI BC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/646
+#EXTINF:-1,CA: OMNI EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/645
+#EXTINF:-1,CA: ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/644
+#EXTINF:-1,CA: OUTTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/643
+#EXTINF:-1,CA: OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
+#EXTINF:-1,CA: RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
+#EXTINF:-1,CA: RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
+#EXTINF:-1,CA: RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
+#EXTINF:-1,CA: SPIKE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
+#EXTINF:-1,CA: SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
+#EXTINF:-1,CA: SUPER ECRAN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
+#EXTINF:-1,CA: SUPER ECRAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
+#EXTINF:-1,CA: SUPER ECRAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
+#EXTINF:-1,CA: SUPER ECRAN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
+#EXTINF:-1,CA: TREEHOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
+#EXTINF:-1,CA: TELETOON FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
+#EXTINF:-1,CA: THE SHOOPING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/638
+#EXTINF:-1,CA: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
+#EXTINF:-1,CA: TMN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/627
+#EXTINF:-1,CA: TMN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/626
+#EXTINF:-1,CA: TMN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
+#EXTINF:-1,CA: TMN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
+#EXTINF:-1,CA: TV5 QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
+#EXTINF:-1,CA: TVA OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
+#EXTINF:-1,CA: TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
+#EXTINF:-1,CA: VRAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/619
+#EXTINF:-1,CA: W NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/618
+#EXTINF:-1,CA: WFN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/617
+#EXTINF:-1,CA: WGN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
+#EXTINF:-1,CA: YES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
+#EXTINF:-1,CA: BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
+#EXTINF:-1,CA: HUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
+#EXTINF:-1,CA: LEAFS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
+#EXTINF:-1,CA: SPACE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
+#EXTINF:-1,CA: TELE LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
+#EXTINF:-1,CA: VISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
+#EXTINF:-1,CA: WILD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
+#EXTINF:-1,CA: YTV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
