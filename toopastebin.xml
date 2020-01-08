@@ -15,7 +15,7 @@
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] Uk [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/J1p1Uknd</externallink>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
 
 <item>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORred] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered] Fluxus IPTV (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>ignore-me</link>
 <externallink>$doregex[iptvLink]</externallink>
 <regex>
@@ -61,7 +61,7 @@
 (((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORred] FLUXUS USA [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered] FLUXUS USA (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -75,6 +75,80 @@
 </regex>
 <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
   <fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered]TESTING (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href=[\'"]([^\'"]+)"><img alt=[\'"]([^\'"]+)]]></expres>
+<page>http://www.tv-sport-hd.com/widget/tv_mobile.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered] TESTING (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param3]</title>
+ <link>plugin://program.plexus/?url=sop:[makelist.param1]&amp;mode=2&amp;name=[makelist.param3]</link>
+ <thumbnail>[makelist.param2]</thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[sop:([^\'"]+)"><img src=[\'"]([^\'"]+)" height="52" width="72" alt=[\'"]([^\'"]+)]]></expres>
+<page>http://www.digi-hdsport.com/Mobile-TV/</page>
+</regex>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered]TESTING (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param2]</title>
+ <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
+ <thumbnail></thumbnail>
+  ]]></listrepeat>
+<expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered]TESTING IPTV Servers[/B] [/COLOR][COLOR gold][I] f4mTester[/I][/COLOR]</title><thumbnail></thumbnail><fanart></fanart>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue] [makelist2.param2][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail>https://iptvbin.com/wp-content/uploads/2019/11/%C3%ADndice.jpeg</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>https://iptvbin.com/?s=max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLORdodgerblue][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]S[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0</agent>
+</regex>
 </item>
 
 <item>
@@ -132,21 +206,8 @@
 <externallink>&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 </item>
 
-<item>
-<title>Tv sport hd (Regex)</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param2]</title>
- <link>plugin://program.plexus/?url=[makelist.param1]&amp;mode=2&amp;name=[makelist.param2]</link>
- <thumbnail></thumbnail>
-  ]]></listrepeat>
-<expres><![CDATA[href=[\'"]([^\'"]+)"><img alt=[\'"]([^\'"]+)]]></expres>
-<page>http://www.tv-sport-hd.com/widget/tv_mobile.html</page>
-</regex>
-<thumbnail></thumbnail>
-</item>
+
+
 
 
 <!------------------------------------------------------
