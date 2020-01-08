@@ -13,15 +13,6 @@
 	<content></content>
 </channel>
 
-<!-------------------------------------------------------------------------------------------------
-channel>
-	<name>[B][COLOR lime]• • 24/7[/COLOR][COLORred]•• Christmas Movies[/COLOR][/B]</name>
-	<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTglArlvu52qchGL7XuvK88pRE416r_KOfCUUSEw5W7vYm8K551A</thumbnail>
-	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/noel.xml</externallink>
-	<fanart>https://cdn2.theheartysoul.com/uploads/2018/10/Oct09_Part03_01Site_TV-798x418.jpg</fanart>
-	<content></content>
-</channel>
------------------------------------------------------------------------------------------------------>
 <channel>
 	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC TV[/COLOR][COLORred][I] (SPORTS-IPTV)[/COLOR][/B][/I]</name>
 	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
@@ -38,60 +29,7 @@ channel>
     <thumbnail>https://i.redd.it/sdxju0q3s73y.png</thumbnail>
     <fanart>https://i.imgur.com/xk1uXr9.jpg</fanart>
 </channel>
-<!---------------------------------------------------------------------------------------------------------------
-channel>
-    <name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORsnow] Live [/COLOR][COLORred] Events[/COLOR][COLORff00afaf][I]<<<<< [/COLOR][/B][/I]</name>
-    <link>ignore</link>
-    <externallink>https://raw.githubusercontent.com/Shark5588/list/master/SpecialEvent.xml</externallink>
-    <thumbnail>https://cdn.bleacherreport.net/images/team_logos/328x328/ufc.png</thumbnail>
-    <fanart></fanart>
-</channel>NHLtonight.xml
 
-
-channel>
-	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] Formula 1[/COLOR][/B]</name>
-	<thumbnail>https://i2.wp.com/www.insidesport.co/wp-content/uploads/2017/11/4-7-1.jpg?resize=696%2C464&ssl=1</thumbnail>
-	<externallink></externallink>
-	<fanart>https://fhm.nl/wp-content/uploads/2017/11/formula-1-logo-.jpg</fanart>
-	<content></content>
-</channel>
-
-<channel>
-	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] NHL STREAMS by TEAMS [I](OFFLINE) [/COLOR][/I][/B]</name>
-	<thumbnail>http://content.sportslogos.net/news/2018/06/nhl-2018-2019-logo.png</thumbnail>
-	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/NHLbyteam.xml</externallink>
-	<fanart>https://nhl.bamcontent.com/images/photos/290082354/1024x576/cut.jpg</fanart>
-	<content></content>
-</channel>
-
-<!-----------------------------------------------------------------------------------------------------------------
-<channel>
-    <name>[COLOR gold][B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] NHL | STREAMS [I](Live Games) [/COLOR][/I][/B][/COLOR]</name>
-    <link>ignore</link>
-    <externallink>https://raw.githubusercontent.com/Shark5588/list/master/NHLUnitedStreams4All.xml</externallink>
-    <thumbnail>http://content.sportslogos.net/news/2018/06/nhl-2018-2019-logo.png</thumbnail>
-    <fanart>https://nhl.bamcontent.com/images/photos/290082354/1024x576/cut.jpg</fanart>
-</channel>    
------------------------------------------------------------------------------------------------------------------------->
-
-
-<!------------------------------------------------------------------------------------------------------------------------
-<channel>
-	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] NFL STREAMS by TEAMS [I](OFFLINE)[/COLOR][/I][/B]</name>
-	<thumbnail>http://images.tritondigitalcms.com/1453/sites/2/2016/08/19142728/NFL-LOGO-Tilted-228x300.png</thumbnail>
-	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/NFLbyteam.xml</externallink>
-	<fanart>https://ingyen-hatterkep.hu/hatterkepek_tablet/nfl-logo-hatterkep-59668.jpg</fanart>
-	<content></content>
-</channel>
--------------------------------------------------------------------------------------------------------------------------
-<channel>
-	<name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] MLB STREAMS by TEAMS [I][/COLOR][/I][/B]</name>
-	<thumbnail>https://cdn.bleacherreport.net/images/team_logos/328x328/mlb_injuries.png</thumbnail>
-	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/MLBbyteame.xml</externallink>
-	<fanart>https://wallpapercave.com/wp/D7XvCgB.jpg</fanart>
-	<content></content>
-</channel>
------------------------------------------------------------------------------------------------------------------------------------>
 <channel>
         <name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC PASS[/COLOR][/B]</name>
         <thumbnail>https://www.multichannel.com/.image/t_share/MTU0MDY5NTIzOTkxNzAxMjQz/article.png</thumbnail>
@@ -234,25 +172,5 @@ channel>
     <fanart>https://www.studioef.cz/wp-content/uploads/2017/10/the-mag.png</fanart>
     <content></content>ignorme
 </channel>
-<!------------------------------
-<channel>
-<name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORlightseagreen]---------[/COLOR][B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart>https://www.hds.to/images/slider/top_2017.jpg</fanart>
-<info>Movies New Release</info>
-</channel>
------------------------------------
-<channel>
-<name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORlightseagreen]---------[/COLOR][B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart>https://www.hds.to/images/slider/top_2017.jpg</fanart>
-<info>Movies New Release</info>
-</channel>
------------------------------------------------------------------------------------------------------------------------>
-
-
-
 
 </channels>
