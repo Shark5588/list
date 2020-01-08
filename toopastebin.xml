@@ -4,12 +4,6 @@
 
 <items>
 
-<dir>
-  <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] All Networks (News)[/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-   <tvmaze>country/all</tvmaze>
-    <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-    </dir>
-
   <item>
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] USA CANADA [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
     <link>http://ignorame</link>
@@ -100,64 +94,6 @@
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered] TESTING (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param3]</title>
- <link>plugin://program.plexus/?url=sop:[makelist.param1]&amp;mode=2&amp;name=[makelist.param3]</link>
- <thumbnail>[makelist.param2]</thumbnail>
-  ]]></listrepeat>
-<expres><![CDATA[sop:([^\'"]+)"><img src=[\'"]([^\'"]+)" height="52" width="72" alt=[\'"]([^\'"]+)]]></expres>
-<page>http://www.digi-hdsport.com/Mobile-TV/</page>
-</regex>
-<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered]TESTING (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[makelist.param2]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]Shark[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
- <thumbnail></thumbnail>
-  ]]></listrepeat>
-<expres><![CDATA[href='(.*?)'>(.*?)</a>]]></expres>
-<page>http://iptv6.premium-stv.com:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u</page>
-</regex>
-<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered]TESTING IPTV Servers[/B] [/COLOR][COLOR gold][I] f4mTester[/I][/COLOR]</title><thumbnail></thumbnail><fanart></fanart>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLORdodgerblue] [makelist2.param2][/COLOR]</title>
- <link>$doregex[makelist]</link>
- <thumbnail>https://iptvbin.com/wp-content/uploads/2019/11/%C3%ADndice.jpeg</thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
-<page>http://iptv6.premium-stv.com:25461/get.php?username=SOURCEUSASNOW&password=3246569824&type=m3u</page>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLORdodgerblue][makelist.param1][/COLOR]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]S[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
- <thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3</agent>
-</regex>
-</item>
-
-<item>
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORlime] Fluxus IPTV [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 	<link>http://ignorame</link>
     <externallink>https://pastebin.com/raw/ZzGTySZE</externallink>
@@ -177,12 +113,6 @@
     <externallink>https://pastebin.com/raw/2D80tRy5</externallink>
     <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
-
-<dir>
-    <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] TSDOWNLOADER-M3U [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>      				
-    <link>https://raw.githubusercontent.com/Shark5588/list/master/TSDOWNLOADER.xml</link>
-    <thumbnail></thumbnail>
- </dir>
 
 <!------------------------------------------------------
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
