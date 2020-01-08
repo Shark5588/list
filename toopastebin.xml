@@ -4,6 +4,13 @@
 
 <items>
 
+<item>
+	<title>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR white][B][I] Atom [COLOR red]•[/COLOR][COLORaqua]•[/COLOR][/I][/B]</title>
+	<link>http://ignorame</link>
+	<externallink>http://ccld.io/atom.m3u</externallink>
+	<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+</item>
+
   <item>
     <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORdeepskyblue] USA CANADA [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
     <link>http://ignorame</link>
@@ -57,9 +64,10 @@
 </regex>
 <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
 </item>
-
+     
 (((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
-
+     <expres>id="myInput1".+?value="([^"]+)</expres>
+	 
 <item>
 <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered] FLUXUS USA (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
@@ -285,6 +293,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://ugc.kn3.net/i/origin/http://3.bp.blogspot.com/-7Sq_1Ap72R0/TcnvEtT2eyI/AAAAAAAAA_Y/HWSWReXQsmI/s1600/camp-nou.jpg</fanart>
 <thumbnail>https://i.imgur.com/vEoCPVN.jpg</thumbnail>
 </item>
-
-
 </items>
