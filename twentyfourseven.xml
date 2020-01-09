@@ -667,18 +667,6 @@
 </item>
 
 <item>
-    <title>[B][COLOR lime]•[/COLOR] ABC 7[/B]</title>
-    <link>http://live.field59.com/wwsb/ngrp:wwsb1_all/master.m3u8</link>
-    <thumbnail>http://cdn.abclocal.go.com/assets/news/kabc/images/logos/header-large.png</thumbnail>
-</item>
-
-<item>
-    <title>[B][COLOR lime]•[/COLOR] ABC News [/B]</title>
-    <link>https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8</link>
-    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71-b-xoU+pL._SL210_QL95_BG0,0,0,0_FMpng_.png</thumbnail>
-</item>
-
-<item>
     <title>[B][COLOR lime]•[/COLOR] AMC [/B]</title>
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=6</link>
     <thumbnail>https://www.a-m-c.ca/images/theme/logo.png</thumbnail>
@@ -697,12 +685,6 @@
 </item>
 
 <item>
-    <title>[B][COLOR lime]•[/COLOR] ANIMAL PLANET HD [/B]</title>
-    <link>http://80.80.160.168/live/1/1500000/live.m3u8</link>
-    <thumbnail>https://alchetron.com/cdn/animal-planet-c621f661-edf5-494f-9337-d25543a9080-resize-750.jpeg</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR lime]•[/COLOR]ASSEMBLEE NATIONALE DU QUEBEC | SD (CA)[/COLOR][/B]</title>
 <thumbnail>http://www.ucgranby.org/images/sampledata/home/granbysiteweb/assnatlogo.jpg</thumbnail>
 <link>http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8</link>
@@ -714,104 +696,15 @@
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png</thumbnail>
 </item>
 
-item>
-<title>[B]Big Brother Canada live stream 1[/B][Color red]OffLine[/COLOR]</title>
-<link>$doregex[shaney]|User-Agent=iPad</link>
-<regex>
-<name>shaney</name>
-<expres>m3u8_url":"(http.*?m3u8.*?)."</expres>
-<page>https://livestream.com/accounts/6388794/events/8036524/player?width=960&height=540&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIose_EB007hT3FXbOST--oXEdIb1zye8CosLwc4mWG9WHrvJI</thumbnail>
-</item>
-
-item>
-<title>[B]Big Brother Canada live stream 2[/B][Color red]OffLine[/COLOR]</title>
-<link>$doregex[shaney]|User-Agent=iPad</link>
-<regex>
-<name>shaney</name>
-<expres>m3u8_url":"(http.*?m3u8.*?)."</expres>
-<page>https://livestream.com/accounts/16559084/events/8036531/player?width=960&height=540&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIose_EB007hT3FXbOST--oXEdIb1zye8CosLwc4mWG9WHrvJI</thumbnail>
-</item>
-
-item>
-<title>[B]Big Brother Canada live stream 3[/B][Color red]OffLine[/COLOR]</title>
-<link>$doregex[shaney]|User-Agent=iPad</link>
-<regex>
-<name>shaney</name>
-<expres>m3u8_url":"(http.*?m3u8.*?)."</expres>
-<page>https://livestream.com/accounts/16559088/events/8036532/player?width=960&height=540&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIose_EB007hT3FXbOST--oXEdIb1zye8CosLwc4mWG9WHrvJI</thumbnail>
-</item>
-
-item>
-<title>[B]Big Brother Canada live stream 4[/B][Color red]OffLine[/COLOR]</title>
-<link>$doregex[shaney]|User-Agent=iPad</link>
-<regex>
-<name>shaney</name>
-<expres>m3u8_url":"(http.*?m3u8.*?)."</expres>
-<page>https://livestream.com/accounts/16559095/events/8036537/player?width=960&height=540&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false</page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIose_EB007hT3FXbOST--oXEdIb1zye8CosLwc4mWG9WHrvJI</thumbnail>
-</item>
-
 <item>
 <title>[B][COLOR lime]•[/COLOR]Bloomberg[/B]</title>
 <link>https://liveproduswest.global.ssl.fastly.net/us/Channel-USTV-AWS-oregon-1/Source-USTV-1000-2_live.m3u8</link>
 <thumbnail>https://lh3.googleusercontent.com/hIko3AZ-yB3S4wikWX2Ok9VPeo4qx5L7J29XlhTzcdSbfv-MnXNSx5O_t395ahFp8B8</thumbnail>
 </item>
 
-
-<item>
-<title>[B][COLOR lime]•[/COLOR]Breakfast Television Calgary[/B]</title>
-<link>http://bthls-i.akamaihd.net/hls/live/264153/BTCALHLS/Wifi_Layer_3000.m3u8</link>
-<thumbnail>https://www.btcalgary.ca/wp-content/themes/bt/images/bt-logo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR lime]•[/COLOR]Breakfast Television Montreal[/B]</title>
-<link>https://pubads.g.doubleclick.net/ssai/event/c7QlxTj6TAyr-qlycDZyLQ/master.m3u8</link>
-<thumbnail>https://www.btcalgary.ca/wp-content/themes/bt/images/bt-logo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR lime]•[/COLOR]Breakfast Television Toronto[/B]</title>
-<link>https://pubads.g.doubleclick.net/ssai/event/HSSd9DTjROKppuNM-nlRHA/master.m3u8</link>
-<thumbnail>https://www.btcalgary.ca/wp-content/themes/bt/images/bt-logo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR lime]•[/COLOR]Breakfast Television Toronto[/B]</title>
-<link>https://dai.google.com/linear/hls/p/event/HSSd9DTjROKppuNM-nlRHA/stream/05e3ef59-864b-4ad3-bd15-cd9a49ce6018:DLS/variant/4487a96b8f2caa81248f872d8b2c5661/bandwidth/3974717.m3u8</link>
-<thumbnail>https://www.btcalgary.ca/wp-content/themes/bt/images/bt-logo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR lime]•[/COLOR]Breakfast Television Vancouver[/B]</title>
-<link>http://bthls-i.akamaihd.net/hls/live/264154/BTVANHLS/Wifi_Layer_1000.m3u8</link>
-<thumbnail>https://www.btcalgary.ca/wp-content/themes/bt/images/bt-logo.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Boomerang [COLORred]Offline[/COLOR]</title>
-<link></link>
-<thumbnail>https://raw.githubusercontent.com/Sabbamafia/Logos/master/Boomerang.png</thumbnail>
-</item>
-
 <item>
 <title>[COLOR lime]•[/COLOR] CANADA TAMILS TV | SD (CA)</title>
-<link>
-sublink:LISTSOURCE:http://live.streamjo.com:1935/cctv/live/playlist.m3u8 ::LISTNAME:[COLORorange]Link 1[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://watchmobiletv.com/show_channel.php?cid=719 ::LISTNAME:[COLORorange]Link 2[/COLOR]::#
-</link>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catcher%3dstreams%26url=http://watchmobiletv.com/show_channel.php?cid=719</link>
 <thumbnail>https://yt3.ggpht.com/-Kd5TIHQ7v7A/AAAAAAAAAAI/AAAAAAAAAAA/9sJTtVAj5LQ/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
 </item>
 
@@ -913,7 +806,6 @@ sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catche
     <thumbnail>https://i1.wp.com/www.yourentertainmentcorner.com/wp-content/uploads/2018/07/Discovery-Channel-logo-2018.jpg?resize=360%2C360&ssl=1</thumbnail>
 </item>
 
-
 <item>
 <title>[COLOR lime]•[/COLOR]EET TV TAMIL CANADA | SD (CA)</title>
 <link>http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8</link>
@@ -953,7 +845,7 @@ sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catche
 <item>
     <title>[B][COLOR lime]•[/COLOR]Garage TV[/B]</title>
     <link>http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8?xtreamiptv.m3u8</link>
-    <thumbnail>https://pbs.twimg.com/profile_images/590209545756106752/ckdTiNYI.jpg</thumbnail>
+    <thumbnail>https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png</thumbnail>
 </item>
 
 
@@ -992,12 +884,6 @@ sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catche
     <title>[B][COLOR lime]•[/COLOR] Nickelodeon [/B]</title>
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=69</link>
     <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/1/17/Nickelodeon_logo.png/revision/latest?cb=20101127145116</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] NTV NEWFOUNDLAND | SD (CA)</title>
-<link>http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8</link>
-<thumbnail>https://www.wtccommunications.ca/sites/default/files/img/ntv.png</thumbnail>
 </item>
 
 <item>
@@ -1055,18 +941,6 @@ sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catche
 </item>
 
 <item>
-<title>[B][COLOR lime]•[/COLOR][COLOR blue]TV5 Monde(Asie)SD[/COLOR][/B]</title>
-<link>http://210.210.155.35/qwr9ew/s/s24/01.m3u8</link>
-<thumbnail>https://live-ssl.tv5monde.com/upload/vignettes/e325d88863c5ada5864fb5da9c991300.jpg</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR lime]•[/COLOR][COLOR aqua]TVA[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://www.wtccommunications.ca/sites/default/files/img/tva_0.png</thumbnail>
-</item>
-
-<item>
     <title>[B][COLOR lime]•[/COLOR] Universal Channel[/B]</title>
     <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.arconaitv.us/stream.php?id=58</link>
     <thumbnail>https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/05/Universal-Channel-logo-2013.jpg?fit=640%2C360&ssl=1&resize=350%2C200</thumbnail>
@@ -1084,6 +958,3 @@ sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;amp;item=catche
     <link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WGN_9_logo.svg/1200px-WGN_9_logo.svg.png</thumbnail>
 </item>
-=====================================================================================================================
-m3u8 = 'plugin://plugin.video.f4mTester/?url='+urllib.quote_plus(i.string)+'&amp;streamtype=HLS'
-f4m = 'plugin://plugin.video.f4mTester/?url='+urllib.quote_plus(i.string)+'&amp;streamtype=SIMPLE'
