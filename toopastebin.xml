@@ -169,6 +169,33 @@
 (((((<expres>![CDATA[tvg-name=“(.*?)”.+?FRANCE.*\n(.*)]]</expres>)))))))
      <expres>id="myInput1".+?value="([^"]+)</expres>
 	 
+
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered] Fluxus France IPTV (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[COLOR gold][makelist.param2][/COLOR]</title>
+   <link>[makelist.param3]|user-agent=ipad</link>
+   <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[tvg-logo="(.*?)"\s*group-title="FRANCE",(.*)\n(.*)]]></expres>
+<page>$doregex[iptvLink]</page>
+</regex>
+<regex>
+<name>iptvLink</name>
+<expres>id="myInput1".+?value="([^"]+)</expres>
+<page>https://fluxustv.blogspot.com/p/iptv.html</page>
+</regex>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+
+	 
+	 
 <item>
 <title>[B][COLOR aqua]•[/COLOR][COLOR purple]•[/COLOR][COLORorangered] FLUXUS USA (Regex) [/COLOR][COLOR purple]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
@@ -200,6 +227,7 @@
 <page>http://www.tv-sport-hd.com/widget/tv_mobile.html</page>
 </regex>
 <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
 
 
