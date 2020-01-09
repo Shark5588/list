@@ -18,11 +18,11 @@ http://0.0.0.0:1234
 
 ==============================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
+EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59&name=My+acestream+channel
-#EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1» (Ace stream)[/COLOR][/B]
+EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1» (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da&.mp4
-#EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
+EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://fd931cb7b45614de6ee10eea838098892dd8a5de&name=My+acestream+channel
 EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
@@ -218,8 +218,8 @@ http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",[B][COLORgold]«Eurosport 1»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png",[B][COLORgold]«Eurosport 2»«HD»  (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png",[B][COLORgold]«Eurosport 2»«HD»  (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=30a49eef2476820106c8292374838d03a72f2307&.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/65/f3/7065f3203ee3972aee4e4e175912a0c4.jpg",[B][COLORgold]«Extreme Sports»«HD» (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=3ae4ac520a9a212ea1d9e4abf7a0c6be4fbfda4b&.mp4
