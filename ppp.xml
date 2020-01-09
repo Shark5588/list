@@ -11,22 +11,22 @@ http://127.0.0.1:6878/ace/getstream?id=42410e570ff0e43b42b7c7322ebc468a5825fd25&
 EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bt1kc73cSb8/hqdefault.jpg"  group-title="P2P TV1",Hustler TV (Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=&.mp4
 
-#EXTINF:-1 tvg-logo="http://ethpost.ru/wp-content/uploads/2018/03/28c3433588a839e7b464bed9782c45f5.jpg"  group-title="P2P TV1",Playboy TV(Ace stream)
+EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg"  group-title="P2P TV1",Playboy TV(Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=<793b56ae85af194bd8661f5a17bcfac28eba4453&.mp4
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/349.png"  group-title="P2P TV1",Brazzers TV Europe (Ace stream)
+EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/349.png"  group-title="P2P TV1",Brazzers TV Europe (Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=d035036a8c34608bafbe25d97eeccfa53ad0035b&.mp4
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/11/Marc-Dorcel-logo.jpg"  group-title="P2P TV1",Dorcel HD (Ace stream)
+EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/11/Marc-Dorcel-logo.jpg"  group-title="P2P TV1",Dorcel HD (Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=07ed9d5adcb40560751d6e7d53b36f157f6e2041&.mp4
 
-#EXTINF:-1 tvg-logo="http://j-p-g.net/if/2017/11/20/0861322001511217567.png"  group-title="P2P TV1",Hustler HD Europe (Ace stream)
+EXTINF:-1 tvg-logo="http://j-p-g.net/if/2017/11/20/0861322001511217567.png"  group-title="P2P TV1",Hustler HD Europe (Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=512d21052629e67dbfc6b71306393a24792ccd80&.mp4
 
-#EXTINF:-1 tvg-logo="http://www.demiurg.tv/upload/iblock/8ab/Candy%20TV%20HD.png",Candy HD (Ace stream)
+EXTINF:-1 tvg-logo="http://www.demiurg.tv/upload/iblock/8ab/Candy%20TV%20HD.png",Candy HD (Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=9f4c1e88e5d4298f391b8b5314466406b49970ac&.mp4
 
-#EXTINF:-1 tvg-logo="http://www.sputres.ru/images/2013/08/REDLIGHT_HD.jpg"  group-title="P2P TV1",Redlight HD 
+EXTINF:-1 tvg-logo="http://www.sputres.ru/images/2013/08/REDLIGHT_HD.jpg"  group-title="P2P TV1",Redlight HD 
 http://127.0.0.1:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
 ============================================================================
 
@@ -37,14 +37,14 @@ http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunkl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="Adult TV", BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hustlercareers.com/assets/img/index.png" group-title="Adult TV", HUSTLER HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://extremo.dyndns.ws:25461/live/470077/470077/17762.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hustlercareers.com/assets/img/index.png" group-title="Adult TV", HUSTLER HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rokuguide.com/sites/default/files/logos/jasmintv.png" group-title="Adult TV", Jasmin TV HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stripjointsmusic.com/wp-content/uploads/2017/04/SJ_Logo_Name-Girl-300x231-1-300x231.png" group-title="Adult TV", LIVE STRIP CLUB  - MAIN STAGE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Dish;url=https://56411cca68c27.streamlock.net/2001guest/smil:2001MS_guest.smil/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Shark;url=https://56411cca68c27.streamlock.net/2001guest/smil:2001MS_guest.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://stripjointsmusic.com/wp-content/uploads/2017/04/SJ_Logo_Name-Girl-300x231-1-300x231.png" group-title="Adult TV", LIVE STRIP CLUB - DRESSING  ROOM
 https://56411cca68c27.streamlock.net/2001guest/smil:2001DR_guest.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.giniko.com/logos/190x110/95.png" group-title="Adult TV", Miami TV
@@ -53,11 +53,11 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ae/b6/35/aeb635030bbc5c6d6387ae3b0a7d79ba.png" group-title="Adult TV", MILF HD
 http://live.redtraffic.xyz/milf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="Adult TV", Penthouse Black
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Dish;url=http://extremo.dyndns.ws:25461/live/470077/470077/17789.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="Adult TV", Penthouse Black
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Shark;url=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg" group-title="Adult TV", Playboy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Dish;url=http://extremo.dyndns.ws:25461/live/470077/470077/17775.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg" group-title="Adult TV", Playboy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Shark;url=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per�.png" group-title="Adult TV", RedTraffic 1
 http://live.redtraffic.xyz/blowjob.m3u8
@@ -93,8 +93,8 @@ http://live.redtraffic.xyz/teen.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="Adult TV", Visit-X TV
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.plughitzlive.com/images/news/logos/onetime/vividentertainment.png" group-title="Adult TV", Vivid Red
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Dish;url=http://extremo.dyndns.ws:25461/live/470077/470077/17779.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.plughitzlive.com/images/news/logos/onetime/vividentertainment.png" group-title="Adult TV", Vivid Red
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Shark;url=
 
 
 
@@ -112,186 +112,8 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.bitporno.com/images/logobt.png" group-title="ADULT",[COLOR purple]---Adult - Playlist[/COLOR][COLORsnow] 11/20/2019 ----[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1,Sexy Hot SD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1445
-#EXTINF:-1,Sextreme SD¹
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1446
-#EXTINF:-1,Playboy TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1494
-#EXTINF:-1,XXX BLUE HUSTLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1262
-#EXTINF:-1,XXX BRAZZERS EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1263
-#EXTINF:-1,XXX CANDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1264
-#EXTINF:-1,XXX DORCEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1265
-#EXTINF:-1,XXX CENTOXCENTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1266
-#EXTINF:-1,XXX EROXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1267
-#EXTINF:-1,XXX PASSION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1268
-#EXTINF:-1,XXX PENTHOUSE BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1269
-#EXTINF:-1,XXX PENTHOUSE QUICKIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1270
-#EXTINF:-1,XXX PINK-O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1271
-#EXTINF:-1,XXX PLAYBOY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1272
-#EXTINF:-1,XXX PRIVATE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1273
-#EXTINF:-1,XXX REDLIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1274
-#EXTINF:-1,XXX RUSNOCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1275
-#EXTINF:-1,XXX SCT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1276
-#EXTINF:-1,XXX SEXT6SENSO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1277
-#EXTINF:-1,XXX SHALUN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1278
-#EXTINF:-1,XXX VENUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1279
-#EXTINF:-1,XXX VIVID RED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.91.48.209:25461/Penha10/138460wps/1280
 
 
-#EXTINF:-1,Brasileirinhas: 11 Mulheres E Nenhum Segredo
-http://51.91.48.209:25461/movie/Penha10/138460wps/3223.mp4
-#EXTINF:-1,Brasileirinhas: A Campea Do Anal
-http://51.91.48.209:25461/movie/Penha10/138460wps/3224.mp4
-#EXTINF:-1,Brasileirinhas: Agora E Hora Das Poderosas 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3225.mp4
-#EXTINF:-1,Brasileirinhas: Ai Que Do
-http://51.91.48.209:25461/movie/Penha10/138460wps/3226.mp4
-#EXTINF:-1,Brasileirinhas: Amigas Da Minha Irma 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3227.mp4
-#EXTINF:-1,Brasileirinhas: As Mina Pira Na Pica Dos Meninos 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3228.mp4
-#EXTINF:-1,Brasileirinhas: As Mina Pira Na Pica Dos Meninos 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3229.mp4
-#EXTINF:-1,Brasileirinhas: Assim Voce Me Mata 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3230.mp4
-#EXTINF:-1,Brasileirinhas: Assim Voce Me Mata 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3231.mp4
-#EXTINF:-1,Brasileirinhas: Babando De Tesao
-http://51.91.48.209:25461/movie/Penha10/138460wps/3232.mp4
-#EXTINF:-1,Brasileirinhas: Big Mack 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3233.mp4
-#EXTINF:-1,Brasileirinhas: Big Mack 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3234.mp4
-#EXTINF:-1,Brasileirinhas: Brasibelezas - Vol. 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3235.mp4
-#EXTINF:-1,Brasileirinhas: Cafetao
-http://51.91.48.209:25461/movie/Penha10/138460wps/3236.mp4
-#EXTINF:-1,Brasileirinhas: Carnaval 2008
-http://51.91.48.209:25461/movie/Penha10/138460wps/3237.mp4
-#EXTINF:-1,Brasileirinhas: Carnaval 2013
-http://51.91.48.209:25461/movie/Penha10/138460wps/3238.mp4
-#EXTINF:-1,Brasileirinhas: Carnaval Com Gretchen
-http://51.91.48.209:25461/movie/Penha10/138460wps/3239.mp4
-#EXTINF:-1,Brasileirinhas: Casal No Pau 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3240.mp4
-#EXTINF:-1,Brasileirinhas: Celebridade Em Foco
-http://51.91.48.209:25461/movie/Penha10/138460wps/3241.mp4
-#EXTINF:-1,Brasileirinhas: Clube Prive 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3242.mp4
-#EXTINF:-1,Brasileirinhas: Clube Prive 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3243.mp4
-#EXTINF:-1,Brasileirinhas: Com Vergonha De Dar O Rabo
-http://51.91.48.209:25461/movie/Penha10/138460wps/3244.mp4
-#EXTINF:-1,Brasileirinhas: Como Fazer Uma Mulher Gozar Muito
-http://51.91.48.209:25461/movie/Penha10/138460wps/3245.mp4
-#EXTINF:-1,Brasileirinhas: Confissoes Relatos De Mulheres Fogosas
-http://51.91.48.209:25461/movie/Penha10/138460wps/3246.mp4
-#EXTINF:-1,Brasileirinhas: Debutantes 2008
-http://51.91.48.209:25461/movie/Penha10/138460wps/3247.mp4
-#EXTINF:-1,Brasileirinhas: Depois Dos 40
-http://51.91.48.209:25461/movie/Penha10/138460wps/3248.mp4
-#EXTINF:-1,Brasileirinhas: Depois Dos 40 -2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3249.mp4
-#EXTINF:-1,Brasileirinhas: Estrelas Em Busca De Prazer
-http://51.91.48.209:25461/movie/Penha10/138460wps/3250.mp4
-#EXTINF:-1,Brasileirinhas: Eu Sei Fazer Um Le Le Le!
-http://51.91.48.209:25461/movie/Penha10/138460wps/3251.mp4
-#EXTINF:-1,Brasileirinhas: Familia Incestuosa 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3252.mp4
-#EXTINF:-1,Brasileirinhas: Fazendo Sacanagem
-http://51.91.48.209:25461/movie/Penha10/138460wps/3253.mp4
-#EXTINF:-1,Brasileirinhas: Foda Me 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3254.mp4
-#EXTINF:-1,Brasileirinhas: Foi Daquele Jeito 2013
-http://51.91.48.209:25461/movie/Penha10/138460wps/3255.mp4
-#EXTINF:-1,Brasileirinhas: Fome De Sexo
-http://51.91.48.209:25461/movie/Penha10/138460wps/3256.mp4
-#EXTINF:-1,Brasileirinhas: Forum 27
-http://51.91.48.209:25461/movie/Penha10/138460wps/3257.mp4
-#EXTINF:-1,Brasileirinhas: Historias De Uma Gueixa 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3258.mp4
-#EXTINF:-1,Brasileirinhas: Invasao De Privacidade
-http://51.91.48.209:25461/movie/Penha10/138460wps/3259.mp4
-#EXTINF:-1,Brasileirinhas: Julia Paes Vs Regininha Poltergeist
-http://51.91.48.209:25461/movie/Penha10/138460wps/3260.mp4
-#EXTINF:-1,Brasileirinhas: Louca Pra Dar O Cu
-http://51.91.48.209:25461/movie/Penha10/138460wps/3261.mp4
-#EXTINF:-1,Brasileirinhas: Louquinha 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3262.mp4
-#EXTINF:-1,Brasileirinhas: Louquinha 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3263.mp4
-#EXTINF:-1,Brasileirinhas: Maria Chuteira
-http://51.91.48.209:25461/movie/Penha10/138460wps/3264.mp4
-#EXTINF:-1,Brasileirinhas: Mas Que Beleza
-http://51.91.48.209:25461/movie/Penha10/138460wps/3265.mp4
-#EXTINF:-1,Brasileirinhas: Ninfetas Gulosas 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3266.mp4
-#EXTINF:-1,Brasileirinhas: Novatas Do Porno
-http://51.91.48.209:25461/movie/Penha10/138460wps/3267.mp4
-#EXTINF:-1,Brasileirinhas: O Fenomeno Voltou
-http://51.91.48.209:25461/movie/Penha10/138460wps/3268.mp4
-#EXTINF:-1,Brasileirinhas: O Rei Das Mulheres
-http://51.91.48.209:25461/movie/Penha10/138460wps/3269.mp4
-#EXTINF:-1,Brasileirinhas: O Show De Luanda Boaz
-http://51.91.48.209:25461/movie/Penha10/138460wps/3270.mp4
-#EXTINF:-1,Brasileirinhas: Pecadora
-http://51.91.48.209:25461/movie/Penha10/138460wps/3271.mp4
-#EXTINF:-1,Brasileirinhas: Regininha Poltergeist
-http://51.91.48.209:25461/movie/Penha10/138460wps/3272.mp4
-#EXTINF:-1,Brasileirinhas: Segredos
-http://51.91.48.209:25461/movie/Penha10/138460wps/3273.mp4
-#EXTINF:-1,Brasileirinhas: Show De Bundas 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3274.mp4
-#EXTINF:-1,Brasileirinhas: Show De Bundas Vol. 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3275.mp4
-#EXTINF:-1,Brasileirinhas: Show De Bundas Vol. 4
-http://51.91.48.209:25461/movie/Penha10/138460wps/3276.mp4
-#EXTINF:-1,Brasileirinhas: Show De Orgias
-http://51.91.48.209:25461/movie/Penha10/138460wps/3277.mp4
-#EXTINF:-1,Brasileirinhas: Trepada Interracial
-http://51.91.48.209:25461/movie/Penha10/138460wps/3278.mp4
-#EXTINF:-1,Brasileirinhas: Vizinhas Gostosas 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3279.mp4
-#EXTINF:-1,Brasileirinhas: Yumi Saito Vs. A Nova Fernandinha Fernandez
-http://51.91.48.209:25461/movie/Penha10/138460wps/3280.mp4
-#EXTINF:-1,Brasileirinhas: 5 Vezes Mais Sexo
-http://51.91.48.209:25461/movie/Penha10/138460wps/3281.mp4
-#EXTINF:-1,Brasileirinhas: Triplex Anal 3
-http://51.91.48.209:25461/movie/Penha10/138460wps/3282.mp4
-#EXTINF:-1,Brasileirinhas: Turbinadas
-http://51.91.48.209:25461/movie/Penha10/138460wps/3283.mp4
-#EXTINF:-1,Adulto: Buttman - Carnaval Folia 2005
-http://51.91.48.209:25461/movie/Penha10/138460wps/3284.mp4
-#EXTINF:-1,Adulto: Buttman - Puro Prazer 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3285.mp4
-#EXTINF:-1,Adulto: Buttman - Tour Porto Alegre
-http://51.91.48.209:25461/movie/Penha10/138460wps/3286.mp4
-#EXTINF:-1,Adulto: Festa Da Salsicha
-http://51.91.48.209:25461/movie/Penha10/138460wps/3287.mp4
-#EXTINF:-1,Adulto: Ninfomaniaca Vol. 1
-http://51.91.48.209:25461/movie/Penha10/138460wps/3288.mp4
-#EXTINF:-1,Adulto: Ninfomaniaca Vol. 2
-http://51.91.48.209:25461/movie/Penha10/138460wps/3289.mp4
 
 ########################################################################
 ##################https://www.bitporno.com ##############################
@@ -324,44 +146,6 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://plannersweb.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="ADULT",[COLOR purple]---Adult - Playlist 7/26/2019 ----[/COLOR]
 http://0.0.0.0:1234
 #########################################################################
-#EXTINF:-1,RedTraffic MILF
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1,RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1,RedTraffic Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1,RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1,RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1,RedTraffic Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1,RedTraffic Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1,RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1,RedTraffic POV
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1,RedTraffic Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1,RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1,RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1,RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1,RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1,RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1,RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-
-#########################################################################
-
-
-
-
 
 EXTINF:-1 tvg-logo="http://plannersweb.com/wp-content/uploads/2003/07/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="ADULT",[COLOR purple]---Adult - Playlist 7/26/2019 ----[/COLOR]
 http://0.0.0.0:1234
