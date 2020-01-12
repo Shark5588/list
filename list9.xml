@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/4/2020[/B][/COLOR][COLOR red][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/12/2020[/B][/COLOR][COLOR red][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,3 +17,368 @@ http://0.0.0.0:1234
 ################################################################ LIST 9 ###########################################################################################
 
 
+#EXTM3U
+#EXTINF:-1,|FR| ALTICE STUDIO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13787
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28413
+#EXTINF:-1,|FR| ANIMAUX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13789
+#EXTINF:-1,|FR| ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/14044
+#EXTINF:-1,|FR| ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/28334
+#EXTINF:-1,|FR| BBLACK AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8051
+#EXTINF:-1,|FR| MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8050
+#EXTINF:-1,|FR| BBLACK CLASSIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/8052
+#EXTINF:-1,|FR| BE CURIOUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13814
+#EXTINF:-1,|FR| FRANCE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/1007
+#EXTINF:-1,|FR| IL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13934
+#EXTINF:-1,|FR| INDIES LIVE MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/25058
+#EXTINF:-1,|FR| INFOSPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13729
+#EXTINF:-1,|FR| INFOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/14006
+#EXTINF:-1,|FR| LA CHAINE METEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13783
+#EXTINF:-1,|FR| NATIONAL GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13719
+#EXTINF:-1,|FR| NATIONAL GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13718
+#EXTINF:-1,|FR| OCS MAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13825
+#EXTINF:-1,|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13996
+#EXTINF:-1,|FR| OCS MAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/38198
+#EXTINF:-1,|FR| OL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13842
+#EXTINF:-1,|FR| ONZEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13786
+#EXTINF:-1,|FR| ORANGE CINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13926
+#EXTINF:-1,|FR| ORANGE CINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13925
+#EXTINF:-1,|FR| ORANGE CINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13924
+#EXTINF:-1,|FR| ORANGE CINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13923
+#EXTINF:-1,|FR| ORANGE CINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13922
+#EXTINF:-1,|FR| ORANGE CINE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13921
+#EXTINF:-1,|FR| ORANGE CINE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13920
+#EXTINF:-1,|FR| ORANGE CINE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13919
+#EXTINF:-1,|FR| ORANGE CINE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13918
+#EXTINF:-1,|FR| MONDE DES PETITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13848
+#EXTINF:-1,|FR| J ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13852
+#EXTINF:-1,|FR| J ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24938
+#EXTINF:-1,|FR| LAPIN CRETIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/7258
+#EXTINF:-1,|FR| NICKELODEON+1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/13854
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24957
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/24953
+#EXTINF:-1,BEINS AR 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39590
+#EXTINF:-1,BEINS AR 2FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39591
+#EXTINF:-1,BEINS AR 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39592
+#EXTINF:-1,BEINS AR 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39593
+#EXTINF:-1,BEINS AR 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/40047
+#EXTINF:-1,|FR| ALTICE STUDIO (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39430
+#EXTINF:-1,|FR| ANIMAUX (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39526
+#EXTINF:-1,|FR| ARTE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39469
+#EXTINF:-1,|FR| ACTION (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39420
+#EXTINF:-1,|FR| AB3 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39410
+#EXTINF:-1,|FR| AB1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39411
+#EXTINF:-1,|FR| AUTOMOTO LA CHAINE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39490
+#EXTINF:-1,|FR| BABY TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39517
+#EXTINF:-1,|FR| BEIN SPORT 1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39499
+#EXTINF:-1,|FR| BEIN SPORT 2(SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39498
+#EXTINF:-1,|FR| BEIN SPORT 3 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39497
+#EXTINF:-1,|FR| BFM BUSINESS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39459
+#EXTINF:-1,|FR| BFM PARIS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39460
+#EXTINF:-1,|FR| BFM TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39461
+#EXTINF:-1,|FR| BOOMERANG (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39510
+#EXTINF:-1,|FR| C8 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39468
+#EXTINF:-1,|FR| BOING (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39511
+#EXTINF:-1,|FR| CANAL  (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39442
+#EXTINF:-1,|FR| CANAL  CINEMA (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39441
+#EXTINF:-1,|FR| CANAL  DECALE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39440
+#EXTINF:-1,|FR| CANAL  FAMILY (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39439
+#EXTINF:-1,|FR| CANAL  SERIES (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39438
+#EXTINF:-1,|FR| CANAL  SPORT (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39437
+#EXTINF:-1,|FR| CARTOON NETWORK (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39508
+#EXTINF:-1,|FR| CHERIE 25 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39443
+#EXTINF:-1,|FR| CANAL J (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39518
+#EXTINF:-1,|FR| CINE  CLASSIC (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39431
+#EXTINF:-1,|FR| CINE  CLUB (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39432
+#EXTINF:-1,|FR| CINE  EMOTION (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39435
+#EXTINF:-1,|FR| CINE  FAMIZ (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39434
+#EXTINF:-1,|FR| CINE  FRISSON (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39433
+#EXTINF:-1,|FR| CINE  PREMIER (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39436
+#EXTINF:-1,|FR| CLIQUE TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39484
+#EXTINF:-1,|FR| CNEWS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39455
+#EXTINF:-1,|FR| COMEDY CENTRAL FRANCE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39417
+#EXTINF:-1,|FR| CRIME DISTRICT (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39536
+#EXTINF:-1,|FR| CSTAR (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39448
+#EXTINF:-1,|FR| CSTAR HITS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39447
+#EXTINF:-1,|FR| COMEDIE  (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39418
+#EXTINF:-1,|FR| DISCOVERY CHANNEL (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39535
+#EXTINF:-1,|FR| DISCOVERY FAMILY (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39534
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATIONS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39533
+#EXTINF:-1,|FR| DISCOVERY SCIENCES (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39532
+#EXTINF:-1,|FR| DISNEY CHANNEL (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39525
+#EXTINF:-1,|FR| DISNEY CINEMA (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39524
+#EXTINF:-1,|FR| DISNEY JUNIOR (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39523
+#EXTINF:-1,|FR| DISNEY XD (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39522
+#EXTINF:-1,|FR| E! ENTERTAINMENT (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39545
+#EXTINF:-1,|FR| ELLE GIRLS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39546
+#EXTINF:-1,|FR| EQUIDIA (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39492
+#EXTINF:-1,|FR| EURONEWS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39456
+#EXTINF:-1,|FR| EUROSPORT 1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39494
+#EXTINF:-1,|FR| EUROSPORT 2 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39493
+#EXTINF:-1,|FR| FOOT  24/24 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39491
+#EXTINF:-1,|FR| FRANCE 2 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39474
+#EXTINF:-1,|FR| FRANCE 3 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39473
+#EXTINF:-1,|FR| FRANCE 4 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39472
+#EXTINF:-1,|FR| FRANCE 5 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39471
+#EXTINF:-1,|FR| GAME ONE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39505
+#EXTINF:-1,|FR| FRANCE INFO (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39457
+#EXTINF:-1,|FR| GRAND LILLE TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39453
+#EXTINF:-1,|FR| GULLI (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39516
+#EXTINF:-1,|FR| GOLF  (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39489
+#EXTINF:-1,|FR| IDF (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39451
+#EXTINF:-1,|FR| INFOSPORT  (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39496
+#EXTINF:-1,|FR| J-ONE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39506
+#EXTINF:-1,|FR| L'EQUIPE 21 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39495
+#EXTINF:-1,|FR| LA CHAINE METEO (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39462
+#EXTINF:-1,|FR| LA CHAINE PARLEMENTAIRE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39450
+#EXTINF:-1,|FR| LCI (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39458
+#EXTINF:-1,|FR| HISTOIRE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39527
+#EXTINF:-1,|FR| M6 MUSIC (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39481
+#EXTINF:-1,|FR| MANGAS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39507
+#EXTINF:-1,|FR| M6 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39470
+#EXTINF:-1,|FR| MELODY TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39478
+#EXTINF:-1,|FR| MTV FRANCE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39486
+#EXTINF:-1,|FR| MTV HITS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39485
+#EXTINF:-1,|FR| MY CUISINE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39540
+#EXTINF:-1,|FR| MYZEN TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39487
+#EXTINF:-1,|FR| NATIONAL GEO (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39530
+#EXTINF:-1,|FR| NATIONAL GEO WILD (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39529
+#EXTINF:-1,|FR| NICKELODEON 4 TEEN (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39520
+#EXTINF:-1,|FR| NICKELODEON CHANNEL (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39521
+#EXTINF:-1,|FR| NICKELODEON JUNIOR (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39519
+#EXTINF:-1,|FR| NON STOP PEOPLE TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39543
+#EXTINF:-1,|FR| OCS CHOC (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39423
+#EXTINF:-1,|FR| OCS CITY (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39424
+#EXTINF:-1,|FR| OCS GEANTS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39425
+#EXTINF:-1,|FR| OCS MAX (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39422
+#EXTINF:-1,|FR| 13EME RUE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39419
+#EXTINF:-1,|FR| 6TER (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39446
+#EXTINF:-1,|FR| AEROSTAR.TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39488
+#EXTINF:-1,|FR| BET (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39547
+#EXTINF:-1,|FR| NOVELAS TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39541
+#EXTINF:-1,|FR| NRJ 12 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39463
+#EXTINF:-1,|FR| NRJ HITS TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39479
+#EXTINF:-1,|FR| OKLM TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39480
+#EXTINF:-1,|FR| ONE TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39477
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39427
+#EXTINF:-1,|FR| PARAMOUNT DECALE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39426
+#EXTINF:-1,|FR| PARIS PREMIERE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39416
+#EXTINF:-1,|FR| PLANETE  (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39539
+#EXTINF:-1,|FR| PLANETE+  A&E (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39538
+#EXTINF:-1,|FR| RMC DECOUVERTE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39444
+#EXTINF:-1,|FR| RMC SPORT 1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39503
+#EXTINF:-1,|FR| RMC SPORT 2 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39502
+#EXTINF:-1,|FR| RMC SPORT 3 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39501
+#EXTINF:-1,|FR| RMC SPORT 4 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39500
+#EXTINF:-1,|FR| PLANETE  CI (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39537
+#EXTINF:-1,|FR| POLAR  (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39421
+#EXTINF:-1,|FR| RMC NEWS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39504
+#EXTINF:-1,|FR| RMC STORY (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39445
+#EXTINF:-1,|FR| RTL9 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39415
+#EXTINF:-1,|FR| SCIENCE & VIE TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39528
+#EXTINF:-1,|FR| SERIE CLUB (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39414
+#EXTINF:-1,|FR| SUNDANCE (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39544
+#EXTINF:-1,|FR| SYFY (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39412
+#EXTINF:-1,|FR| TCM CINEMA (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39428
+#EXTINF:-1,|FR| TELETOON  1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39512
+#EXTINF:-1,|FR| TELETOON (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39513
+#EXTINF:-1,|FR| TEVA (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39413
+#EXTINF:-1,|FR| TF1  1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39475
+#EXTINF:-1,|FR| TF1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39476
+#EXTINF:-1,|FR| TF1 SERIES / FILMS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39449
+#EXTINF:-1,|FR| TFX (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39464
+#EXTINF:-1,|FR| TIJI (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39514
+#EXTINF:-1,|FR| TMC  1 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39465
+#EXTINF:-1,|FR| TMC (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39466
+#EXTINF:-1,|FR| TOONAMI (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39509
+#EXTINF:-1,|FR| TRACE TROPICAL (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39483
+#EXTINF:-1,|FR| TRACE URBAN (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39482
+#EXTINF:-1,|FR| TV BREIZH (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39548
+#EXTINF:-1,|FR| USHUAIA TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39531
+#EXTINF:-1,|FR| VIA GRAND PARIS (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39452
+#EXTINF:-1,|FR| VICELAND TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39542
+#EXTINF:-1,|FR| W9 (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39467
+#EXTINF:-1,|FR| WARNER TV (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39429
+#EXTINF:-1,|FR| WEO (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39454
+#EXTINF:-1,|FR| PIWI  (SD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39515
