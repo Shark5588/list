@@ -212,6 +212,8 @@
 <item>
 <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORorangered] FLUXUS USA (Regex) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
+<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -222,8 +224,7 @@
 <expres><![CDATA[logo="([^"]*)"[^"]*"USA[^"]*",(.*)\W(.*)]]></expres>
 <page>https://pastebin.com/raw/ZzGTySZE</page>
 </regex>
-<thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+
 </item>
 
 <item>
