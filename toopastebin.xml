@@ -291,7 +291,7 @@
  <thumbnail></thumbnail>
  ]]></listrepeat>
 <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
-<page>https://iptv213.com/s?max-results=40</page>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
 </regex>
 <regex>
 <name>makelist</name>
@@ -304,10 +304,10 @@
 <page>[makelist2.param1]</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
-</item>http://www.iptvsharing.com
+</item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORorangered]TESTING (Regex) [/COLOR][COLOR yellow]3[/COLOR][COLOR aqua]•[/COLOR][/B]</title></title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORorangered]TESTING (Regex) [/COLOR][COLOR yellow]4[/COLOR][COLOR aqua]•[/COLOR][/B]</title></title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
