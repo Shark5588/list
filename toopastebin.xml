@@ -235,8 +235,8 @@
 <title>[COLORdodgerblue]lists[makelist.param2][/COLOR]</title>
 <link>$doregex[makelist2]</link>
 ]]></listrepeat>
-<expres>(http://(.*)/.*)</expres>
-<page>https://www.dailyiptvlist.com/sports/page/2/</page>
+<expres>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>https://www.dailyiptvlist.com/</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
  
@@ -253,7 +253,7 @@
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
-</item>
+</item>(http://(.*)/.*)
 
 <item>
 <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORorangered]TESTING (Regex) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
