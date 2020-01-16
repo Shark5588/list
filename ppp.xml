@@ -56,8 +56,8 @@ http://live.redtraffic.xyz/milf.m3u8
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="Adult TV", Penthouse Black
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Shark;url=
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg" group-title="Adult TV", Playboy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Shark;url=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg" group-title="Adult TV", Playboy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv02.evolucion03.net:25461/ITV/4RTYUI/79
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per�.png" group-title="Adult TV", RedTraffic 1
 http://live.redtraffic.xyz/blowjob.m3u8
