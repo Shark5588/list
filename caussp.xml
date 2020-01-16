@@ -699,11 +699,11 @@ EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Premier League | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 ##########################################################################################################################################
-EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png",[B][COLORorange]Specturm Sportsnet SD| USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png",[B][COLORorange]Specturm Sportsnet SD| USA[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png",[B][COLORorange]Specturm Sportsnet HD| USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png",[B][COLORorange]Specturm Sportsnet HD| USA[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Sport",Sportal HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Sport",[B][COLORorange]Sportal HD [/COLOR][/B]
 http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d1/b9/1f/d1b91f1b-846e-7e36-1834-0da8a6a3d9dc/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",[B][COLORorange]SPORTSMAX | USA[/B][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
@@ -715,11 +715,11 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61wDZgIu%2BcL.png" group-title="USA/CA Channels",[B][COLORorange]Sports-Net|USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/34389.ts
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329785
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -727,18 +727,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET EAST[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329784
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET EAST[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=55;url=http://209.222.97.118:25461/live/Dave123/dave123/2724.m3u8
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET EAST[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET EAST[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/34388.ts
-
-EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET EAST[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
@@ -747,25 +742,25 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/34390.ts
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329783
+
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR] 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/34385.ts
-
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329782
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -773,18 +768,23 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=55;url=http://209.222.97.118:25461/live/Dave123/dave123/2728.m3u8
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/34387.ts
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329781
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/17094/66im8o2DpJ/34386.ts
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -798,8 +798,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #########################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" ,[B][COLORorange]Stadium | SD[/B][/COLOR]
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" ,[B][COLORorange]SUPER SOCCER TV | USA[/B][/COLOR]
-http://210.210.155.35/uq2663/h/h20/index.m3u8
+EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" ,[B][COLORorange]SUPER SOCCER TV | USA[/B][/COLOR]
+
 ########################################################################################################################################################
 ############################################################ Tennis Channels ############################################################################
 EXTINF:-1 tvg-logo="https://i.imgur.com/tbcqI3o.jpg",US SPORT | Tennis Channel
