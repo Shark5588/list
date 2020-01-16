@@ -1009,7 +1009,7 @@ plugin://plugin.video.f4mTester/?url=►►►►►►►►◄◄◄◄◄◄�
 ?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0 Mobile/10A5376e
 
 
-#EXTINF:-1,Test 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Test;url=https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_3_av-b.m3u8?sd=10&rebase=on
+EXTINF:-1,Test 
+http://m.liveonlinetv247.info/external.php?title=skymoviespremiere&stream=tsn-hq|isHost=true
 
 
