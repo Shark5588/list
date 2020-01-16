@@ -8,651 +8,364 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/15/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/16/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
 
-################################################################ LIST  ###########################################################################################
+################################################################ LIST 5 ###########################################################################################
 
 
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 1 HD
-http://srv02.evolucion03.net:25461/ITV/4RTYUI/79http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26129&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26130&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26131&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26132&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26133&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",New Alquiler 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26143&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",New Alquiler 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26144&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",New Alquiler 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26145&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",New Alquiler 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26146&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",New Alquiler 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26147&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",New Alquiler 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26148&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",New Alquiler 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26149&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas de Ciencia ficcion HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26134&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas de Ciencia ficcion HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26135&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas de Ciencia ficcion HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26136&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas de Ciencia ficcion HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26137&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas de Ciencia ficcion HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26138&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26114&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26115&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26116&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26117&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26118&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26119&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26104&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26105&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26106&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26107&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26108&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26109&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26110&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26111&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26112&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Box  Office 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26113&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26094&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26095&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26096&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26097&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26098&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26099&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26100&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26101&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26102&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Alquiler HD 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26103&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR CINE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26088&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR  CINE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26089&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR  CINE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26090&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR  CINE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26091&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR  CINE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26092&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR  CINE 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26093&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Comedia HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26125&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Comedia HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26126&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Comedia HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26128&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Comedia HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26127&t=live&f=ts
-#EXTINF:0 tvg-id="LA1.es" group-title="MOVISTAR+",LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=355&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",LA 1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26087&t=live&f=ts
-#EXTINF:0 tvg-id="LA1.es" group-title="MOVISTAR+",LA 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3797&t=live&f=ts
-#EXTINF:0 tvg-id="LA2.es" group-title="MOVISTAR+",LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=421&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",LA 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3846&t=live&f=ts
-#EXTINF:0 tvg-id="Antena3.sp" group-title="MOVISTAR+",Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=348&t=live&f=ts
-#EXTINF:0 tvg-id="Antena3.sp" group-title="MOVISTAR+",ANTENA 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3790&t=live&f=ts
-#EXTINF:0 tvg-id="Cuatro.sp" group-title="MOVISTAR+",Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=351&t=live&f=ts
-#EXTINF:0 tvg-id="Cuatro.sp" group-title="MOVISTAR+",CUATRO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3793&t=live&f=ts
-#EXTINF:0 tvg-id="Telecinco.sp" group-title="MOVISTAR+",Telecinco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=374&t=live&f=ts
-#EXTINF:0 tvg-id="Telecinco.sp" group-title="MOVISTAR+",TELECINCO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3814&t=live&f=ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="MOVISTAR+",La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=356&t=live&f=ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="MOVISTAR+",LA SEXTA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3798&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Esrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=364&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.ESTRENOS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3805&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=358&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. ACCIN FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3799&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=363&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.COMEDIA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3804&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=360&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DRAMA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3801&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Cine Espaol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=426&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Cine Espaol FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3847&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Cine Doc & Roll
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=437&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.CineDoc&Roll FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3850&t=live&f=ts
-#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="MOVISTAR+",M. Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=362&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. SERIES FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3803&t=live&f=ts
-#EXTINF:0 tvg-id="Hollywood.sp" group-title="MOVISTAR+",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=354&t=live&f=ts
-#EXTINF:0 tvg-id="Hollywood.sp" group-title="MOVISTAR+",HOLLYWOOD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3796&t=live&f=ts
-#EXTINF:0 tvg-id="Paramount.es" group-title="MOVISTAR+",Paramount Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=454&t=live&f=ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="MOVISTAR+",Paramount FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3855&t=live&f=ts
-#EXTINF:0 tvg-id="TCM.sp" group-title="MOVISTAR+",TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=373&t=live&f=ts
-#EXTINF:0 tvg-id="TCM.sp" group-title="MOVISTAR+",TCM FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3813&t=live&f=ts
-#EXTINF:0 tvg-id="TNT.sp" group-title="MOVISTAR+",TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=375&t=live&f=ts
-#EXTINF:0 tvg-id="TNT.sp" group-title="MOVISTAR+",TNT FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3815&t=live&f=ts
-#EXTINF:0 tvg-id="Sundance.es" group-title="MOVISTAR+",Sundance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=456&t=live&f=ts
-#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="MOVISTAR+",Sundance TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3856&t=live&f=ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="MOVISTAR+",#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=378&t=live&f=ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="MOVISTAR+",#0 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3818&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Series Mania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=368&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Seriesmania FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3809&t=live&f=ts
-#EXTINF:0 tvg-id="Fox.sp" group-title="MOVISTAR+",FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=353&t=live&f=ts
-#EXTINF:0 tvg-id="Fox.sp" group-title="MOVISTAR+",FOX FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3795&t=live&f=ts
-#EXTINF:0 tvg-id="FoxLife.sp" group-title="MOVISTAR+",Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=416&t=live&f=ts
-#EXTINF:0 tvg-id="FoxLife.sp" group-title="MOVISTAR+",Fox Life FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3842&t=live&f=ts
-#EXTINF:0 tvg-id="AMC.es" group-title="MOVISTAR+",AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=347&t=live&f=ts
-#EXTINF:0 tvg-id="AMC.es" group-title="MOVISTAR+",AMC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3789&t=live&f=ts
-#EXTINF:0 tvg-id="AXNhd.sp" group-title="MOVISTAR+",AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=349&t=live&f=ts
-#EXTINF:0 tvg-id="AXNhd.sp" group-title="MOVISTAR+",AXN FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3791&t=live&f=ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="MOVISTAR+",AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=382&t=live&f=ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="MOVISTAR+",AXN WHITE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3821&t=live&f=ts
-#EXTINF:0 tvg-id="Scifi.sp" group-title="MOVISTAR+",Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=372&t=live&f=ts
-#EXTINF:0 tvg-id="Scifi.sp" group-title="MOVISTAR+",SYFY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3812&t=live&f=ts
-#EXTINF:0 tvg-id="Calle13.sp" group-title="MOVISTAR+",Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=350&t=live&f=ts
-#EXTINF:0 tvg-id="Calle13.sp" group-title="MOVISTAR+",CALLE 13 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3792&t=live&f=ts
-#EXTINF:0 tvg-id="ComedyCentral.sp" group-title="MOVISTAR+",Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=405&t=live&f=ts
-#EXTINF:0 tvg-id="ComedyCentral.sp" group-title="MOVISTAR+",Comedy Central FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3833&t=live&f=ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="MOVISTAR+",Cosmo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=406&t=live&f=ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="MOVISTAR+",COSMO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3834&t=live&f=ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="MOVISTAR+",Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=376&t=live&f=ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="MOVISTAR+",TOROS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3816&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26046&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26042&t=live&f=ts
-#EXTINF:0 tvg-id="M.LaLiga.es" group-title="MOVISTAR+",M. LaLiga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=435&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 2K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26141&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26142&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3849&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26047&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26048&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26043&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26045&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26044&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",La Liga TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=357&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Bein Laliga/ beIN Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=386&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24929&t=live&f=ts
-#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="MOVISTAR+",M. LaLiga 2 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=388&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24927&t=live&f=ts
-#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="MOVISTAR+",M. LaLiga 4 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=390&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24926&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24925&t=live&f=ts
-#EXTINF:0 tvg-id="M.LaLiga7.es" group-title="MOVISTAR+",M. LaLiga 7 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=393&t=live&f=ts
-#EXTINF:0 tvg-id="M.LaLiga8.es" group-title="MOVISTAR+",M. LaLiga 8 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=394&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Lcampeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=445&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEONES FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26078&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Lcampeones 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26140&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEONES HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26067&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON1 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=438&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26079&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON2 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=439&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26080&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON3 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=440&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26081&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON4 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=441&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26082&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON5 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=442&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON5 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26083&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON6 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=443&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON6 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26084&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON7 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=444&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON7 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26085&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.LCAMPEON8 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26086&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24924&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. LaLiga 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24928&t=live&f=ts
-#EXTINF:0 tvg-id="Vamos.es" group-title="MOVISTAR+",Vamos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=379&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",#VAMOS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3819&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",#VAMOS BAR 1 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=424&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",#VAMOS BAR2 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=436&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",DAZN 1 ESP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24923&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",DAZN 2 ESP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24922&t=live&f=ts
-#EXTINF:0 tvg-id="LaLigaTVBar1.es" group-title="MOVISTAR+",LALIGA TV BAR 1  (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=423&t=live&f=ts
-#EXTINF:0 tvg-id="LaLigaTVBar2.es" group-title="MOVISTAR+",LALIGA TV BAR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24931&t=live&f=ts
-#EXTINF:0 tvg-id="LaLigaTVBar3.es" group-title="MOVISTAR+",LALIGA TV BAR 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=24930&t=live&f=ts
-#EXTINF:0 tvg-id="LaLigaTVBar4.es" group-title="MOVISTAR+",LALIGA TV BAR 4  (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=422&t=live&f=ts
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="MOVISTAR+",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=352&t=live&f=ts
-#EXTINF:0 tvg-id="Eurosport1.it" group-title="MOVISTAR+",EUROSPORT1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3794&t=live&f=ts
-#EXTINF:0 tvg-id="Eurosport2.es" group-title="MOVISTAR+",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=414&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=359&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3800&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES1 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=427&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES2 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=428&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES3 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=429&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES4 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=430&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES5 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=431&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES6 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=432&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. DEPORTES7 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=433&t=live&f=ts
-#EXTINF:0 tvg-id="Multideporte1.es" group-title="MOVISTAR+",Multideporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=449&t=live&f=ts
-#EXTINF:0 tvg-id="Teledeporte.sp" group-title="MOVISTAR+",Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=457&t=live&f=ts
-#EXTINF:0 tvg-id="Teledeporte.sp" group-title="MOVISTAR+",Teledeporte FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3857&t=live&f=ts
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="MOVISTAR+",Barca tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=384&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Barca tv FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3823&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",R. Madrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=455&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=366&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.MOTOGP FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3807&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.Formula 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=365&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.FORMULA1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3806&t=live&f=ts
-#EXTINF:0 tvg-id="Golf.sp" group-title="MOVISTAR+",M. Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=361&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. GOLF FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3802&t=live&f=ts
-#EXTINF:0 tvg-id="GOL.es" group-title="MOVISTAR+",Gol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=418&t=live&f=ts
-#EXTINF:0 tvg-id="GOL.es" group-title="MOVISTAR+",GOL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3843&t=live&f=ts
-#EXTINF:0 tvg-id="Trece.es" group-title="MOVISTAR+",TRECE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25853&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",PTV MALAGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25852&t=live&f=ts
-#EXTINF:0 tvg-id="Mega.es" group-title="MOVISTAR+",mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25854&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",CanalSurHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25851&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",CanalSur2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25850&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",CANAL TORREVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25849&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",BOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25848&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",AndaluciaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25847&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",7TV ANDALUCIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25846&t=live&f=ts
-#EXTINF:0 tvg-id="NationalGeographic.sp" group-title="MOVISTAR+",National Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=370&t=live&f=ts
-#EXTINF:0 tvg-id="NatGeoHD.sp" group-title="MOVISTAR+",NAT GEO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3810&t=live&f=ts
-#EXTINF:0 tvg-id="natgeowild" group-title="MOVISTAR+",NG Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=371&t=live&f=ts
-#EXTINF:0 tvg-id="wild-hd" group-title="MOVISTAR+",NG WILD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3811&t=live&f=ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="MOVISTAR+",Caza y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=402&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",CAZAyPESCA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3831&t=live&f=ts
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="MOVISTAR+",Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=408&t=live&f=ts
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="MOVISTAR+",Discovery FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3836&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Crimen Invest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=407&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",CRIMEN INVES FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3835&t=live&f=ts
-#EXTINF:0 tvg-id="Viajar.es" group-title="MOVISTAR+",Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=377&t=live&f=ts
-#EXTINF:0 tvg-id="Viajar.sp" group-title="MOVISTAR+",Viajar FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3817&t=live&f=ts
-#EXTINF:0 tvg-id="DisneyChannel.sp" group-title="MOVISTAR+",Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=409&t=live&f=ts
-#EXTINF:0 tvg-id="DisneyChannel.sp" group-title="MOVISTAR+",Disney CH FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3837&t=live&f=ts
-#EXTINF:0 tvg-id="Nickelodeon.sp" group-title="MOVISTAR+",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=452&t=live&f=ts
-#EXTINF:0 tvg-id="Nickelodeon.sp" group-title="MOVISTAR+",Nickelodeon FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3853&t=live&f=ts
-#EXTINF:0 tvg-id="Boing.sp" group-title="MOVISTAR+",Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=396&t=live&f=ts
-#EXTINF:0 tvg-id="Boing.fr" group-title="MOVISTAR+",BOING FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3826&t=live&f=ts
-#EXTINF:0 tvg-id="BabyTV.sp" group-title="MOVISTAR+",Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=383&t=live&f=ts
-#EXTINF:0 tvg-id="BabyTV.fr" group-title="MOVISTAR+",BABY TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3822&t=live&f=ts
-#EXTINF:0 tvg-id="DisneyJr.sp" group-title="MOVISTAR+",Disney Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=410&t=live&f=ts
-#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="MOVISTAR+",Disney JR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3838&t=live&f=ts
-#EXTINF:0 tvg-id="NickJunior.sp" group-title="MOVISTAR+",Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=451&t=live&f=ts
-#EXTINF:0 tvg-id="NickJrHD.us" group-title="MOVISTAR+",Nick Jr FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3852&t=live&f=ts
-#EXTINF:0 tvg-id="DisneyXD.sp" group-title="MOVISTAR+",Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=411&t=live&f=ts
-#EXTINF:0 tvg-id="MovistarDisney.es" group-title="MOVISTAR+",M. Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=434&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M. Disney FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3848&t=live&f=ts
-#EXTINF:0 tvg-id="Panda.es" group-title="MOVISTAR+",Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=401&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Canal Panda FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3830&t=live&f=ts
-#EXTINF:0 tvg-id="24Horas.sp" group-title="MOVISTAR+",24 horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=380&t=live&f=ts
-#EXTINF:0 tvg-id="FoxNews.es" group-title="MOVISTAR+",Fox News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=417&t=live&f=ts
-#EXTINF:0 tvg-id="ClanTVE.sp" group-title="MOVISTAR+",Clan TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=403&t=live&f=ts
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="MOVISTAR+",Aragon TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=381&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ARAGON TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3820&t=live&f=ts
-#EXTINF:0 tvg-id="Blaze.es" group-title="MOVISTAR+",Blaze
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=395&t=live&f=ts
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="MOVISTAR+",BLAZE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3825&t=live&f=ts
-#EXTINF:0 tvg-id="BEMAD.es" group-title="MOVISTAR+",Be Mad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=385&t=live&f=ts
-#EXTINF:0 tvg-id="BEMAD.es" group-title="MOVISTAR+",BE MAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=1607&t=live&f=ts
-#EXTINF:0 tvg-id="BEMAD.es" group-title="MOVISTAR+",BE MAD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3824&t=live&f=ts
-#EXTINF:0 tvg-id="FDF.sp" group-title="MOVISTAR+",FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=415&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",FDF FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3841&t=live&f=ts
-#EXTINF:0 tvg-id="Energy.es" group-title="MOVISTAR+",Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=413&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Energy FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3840&t=live&f=ts
-#EXTINF:0 tvg-id="Divinity.es" group-title="MOVISTAR+",Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=412&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Divinity FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3839&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Clan TVE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3832&t=live&f=ts
-#EXTINF:0 tvg-id="Odisea.sp" group-title="MOVISTAR+",Canal odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=399&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Canal odisea FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3829&t=live&f=ts
-#EXTINF:0 tvg-id="Decasa.sp" group-title="MOVISTAR+",Canal Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=398&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Canal Decasa FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3828&t=live&f=ts
-#EXTINF:0 tvg-id="Cocina.sp" group-title="MOVISTAR+",Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=397&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Canal COCINA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3827&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Canal Orbe21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=400&t=live&f=ts
-#EXTINF:0 tvg-id="Neox.sp" group-title="MOVISTAR+",Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=450&t=live&f=ts
-#EXTINF:0 tvg-id="Neox.sp" group-title="MOVISTAR+",Neox FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3851&t=live&f=ts
-#EXTINF:0 tvg-id="Nova.sp" group-title="MOVISTAR+",Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=453&t=live&f=ts
-#EXTINF:0 tvg-id="Nova.sp" group-title="MOVISTAR+",NOVA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3854&t=live&f=ts
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="MOVISTAR+",Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=420&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",IBERALIA TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3845&t=live&f=ts
-#EXTINF:0 tvg-id="Historia.sp" group-title="MOVISTAR+",Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=419&t=live&f=ts
-#EXTINF:0 tvg-id="Historia.sp" group-title="MOVISTAR+",Historia FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=3844&t=live&f=ts
-#EXTINF:0 tvg-id="Culturasp.br" group-title="MOVISTAR+",CULTURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=465&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",VIDA RTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25856&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",TVCRISTIANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25860&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",TV NACIONAL 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25862&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",TV NACIONAL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25863&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",TV NACIONAL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25864&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",TV NACIONAL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25868&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",TV NACIONAL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25859&t=live&f=ts
-#EXTINF:0 tvg-id="Ten.es" group-title="MOVISTAR+",TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25869&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Realmadrid TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25867&t=live&f=ts
-#EXTINF:0 tvg-id="Paramount.es" group-title="MOVISTAR+",PARAMOUNT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25871&t=live&f=ts
-#EXTINF:0 tvg-id="DMAX.es" group-title="MOVISTAR+",DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25857&t=live&f=ts
-#EXTINF:0 tvg-id="DKISS.es" group-title="MOVISTAR+",DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25866&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",CANAL MÃLAGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25858&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",BeMad tv HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25870&t=live&f=ts
-#EXTINF:0 tvg-id="Atreseries.es" group-title="MOVISTAR+",atreseries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25865&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",101 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=25861&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MUSICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=464&t=live&f=ts
-#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="MOVISTAR+",DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=459&t=live&f=ts
-#EXTINF:0 tvg-id="MezzoLiveHD.sp" group-title="MOVISTAR+",Mezzo Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=369&t=live&f=ts
-#EXTINF:0 tvg-id="Mezzo.sp" group-title="MOVISTAR+",Mezzo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=446&t=live&f=ts
-#EXTINF:0 tvg-id="Classica.es" group-title="MOVISTAR+",Classica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=404&t=live&f=ts
-#EXTINF:0 tvg-id="MTVEsp.sp" group-title="MOVISTAR+",MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=447&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",BEINLALIGA 1 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=425&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",BEINLALIGA1 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=387&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",BEINLALIGA3 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=389&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",BEINLALIGA5 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=391&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",BEINLALIGA6 (SOLO EVENTOS)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=392&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",ENTRETENIMIENTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=461&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",GENERALISTAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=466&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",NIOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=463&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",PELCULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=460&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",INFORMACIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=462&t=live&f=ts
-#EXTINF:0 tvg-id="NovelasTV.fr" group-title="MOVISTAR+",NOVELAS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26077&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",|MX| TELEHIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26074&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",|MX| CLASICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26073&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",|MX| CANAL DE LAS ESTRELLAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26072&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",(MX) TELENOVELAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26075&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",|MX| RITMOSON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26076&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",#VAMOS HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26068&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",TOROS HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26071&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",NATIONAL GEOGRAPHIC HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26070&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",NAT GEO WILD HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26069&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.SERIES HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26063&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.ESTRENOS HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26064&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.DEPORTES HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26066&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.COMEDIA HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26062&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",M.ACCION HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26061&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",LALIGA TV HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26065&t=live&f=ts
-#EXTINF:0 tvg-id="Intereconomia.sp" group-title="MOVISTAR+",INTERECONOMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26060&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",CASTILLA LA MANCHA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26059&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26124&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26123&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26122&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26121&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",Peliculas Action HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26120&t=live&f=ts
+#EXTINF:-1,GLOBAL TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/84
+#EXTINF:-1,OMNI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/82
+#EXTINF:-1,OMNI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/83
+#EXTINF:-1,TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/80
+#EXTINF:-1,TELE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/81
+#EXTINF:-1,CTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/85
+#EXTINF:-1,CITY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/86
+#EXTINF:-1,CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/87
+#EXTINF:-1,CP24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/760
+#EXTINF:-1,CP24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/72
+#EXTINF:-1,CA: CHCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
+#EXTINF:-1,CA: SPORTSNET 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
+#EXTINF:-1,CA: SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
+#EXTINF:-1,CA: SPORTSNET WEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
+#EXTINF:-1,CA: SPORTSNET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
+#EXTINF:-1,CA: TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
+#EXTINF:-1,CA: TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
+#EXTINF:-1,CA: TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
+#EXTINF:-1,CA: TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
+#EXTINF:-1,CA: TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
+#EXTINF:-1,The Weather Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
+#EXTINF:-1,CA: ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
+#EXTINF:-1,CA: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/570
+#EXTINF:-1,CA: BOUNCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/562
+#EXTINF:-1,CA: CBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/575
+#EXTINF:-1,CA: CBC VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/573
+#EXTINF:-1,CA: CBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/572
+#EXTINF:-1,CA: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
+#EXTINF:-1,CA: CTV 2 VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/576
+#EXTINF:-1,CA: CTV VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/577
+#EXTINF:-1,CA: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
+#EXTINF:-1,CA: FOX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/567
+#EXTINF:-1,CA: FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
+#EXTINF:-1,CA: FXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
+#EXTINF:-1,CA: GLOBAL VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
+#EXTINF:-1,CA: HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
+#EXTINF:-1,CA: NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/559
+#EXTINF:-1,CA: PBS KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/560
+#EXTINF:-1,SANTUÁRIO DE FÁTIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/601
+#EXTINF:-1,ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/607
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/606
+#EXTINF:-1,ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/605
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/604
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/603
+#EXTINF:-1,ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/614
+#EXTINF:-1,ELEVEN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/613
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/612
+#EXTINF:-1,ELEVEN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/611
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/610
+#EXTINF:-1,ELEVEN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/609
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/608
+#EXTINF:-1,CA: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
+#EXTINF:-1,CA: ABC SPARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
+#EXTINF:-1,CA: ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/725
+#EXTINF:-1,CA: ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
+#EXTINF:-1,CA: AHC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
+#EXTINF:-1,CA: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
+#EXTINF:-1,CA: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
+#EXTINF:-1,CA: BBC CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
+#EXTINF:-1,CA: BBC KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/719
+#EXTINF:-1,CA: BOOK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/718
+#EXTINF:-1,CA: BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
+#EXTINF:-1,CA: CANAL SAVOIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
+#EXTINF:-1,CA: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/715
+#EXTINF:-1,CA: CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/714
+#EXTINF:-1,CA: CBC MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/713
+#EXTINF:-1,CA: CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
+#EXTINF:-1,CA: CBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
+#EXTINF:-1,CA: CHIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spot-1.spotv.me:8080/live/radios/radios/5542.ts
+#EXTINF:-1,CA: CINÉPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
+#EXTINF:-1,CA: CIRV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spot-1.spotv.me:8080/live/radios/radios/5540.ts
+#EXTINF:-1,CA: CITY MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/709
+#EXTINF:-1,CA: CITY VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/708
+#EXTINF:-1,CA: CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
+#EXTINF:-1,CA: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
+#EXTINF:-1,CA: COMEDY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
+#EXTINF:-1,CA: COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/704
+#EXTINF:-1,CA: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/703
+#EXTINF:-1,CA: CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/702
+#EXTINF:-1,CA: CPAC FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/701
+#EXTINF:-1,CA: CPWA ASAS DO ATLANTICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spot-1.spotv.me:8080/live/radios/radios/5541.ts
+#EXTINF:-1,CA: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
+#EXTINF:-1,CA: CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/699
+#EXTINF:-1,CA: CTV NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
+#EXTINF:-1,CA: CTV OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
+#EXTINF:-1,CA: CTV2 OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
+#EXTINF:-1,CA: CW 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
+#EXTINF:-1,CA: DAYSTAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
+#EXTINF:-1,CA: DISCOVERY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
+#EXTINF:-1,CA: DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
+#EXTINF:-1,CA: DISNEY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
+#EXTINF:-1,CA: DISNEY FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/690
+#EXTINF:-1,CA: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/689
+#EXTINF:-1,CA: DOCUMENTARY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
+#EXTINF:-1,CA: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
+#EXTINF:-1,CA: FAITH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/668
+#EXTINF:-1,CA: FAMILY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
+#EXTINF:-1,CA: FAMILY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
+#EXTINF:-1,CA: FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/678
+#EXTINF:-1,CA: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
+#EXTINF:-1,CA: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
+#EXTINF:-1,CA: FOX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
+#EXTINF:-1,CA: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
+#EXTINF:-1,CA: FYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/677
+#EXTINF:-1,CA: GAME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
+#EXTINF:-1,CA: GINX ESPORTS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
+#EXTINF:-1,CA: GLOBAL HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/674
+#EXTINF:-1,CA: GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
+#EXTINF:-1,CA: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
+#EXTINF:-1,CA: HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
+#EXTINF:-1,CA: HISTORY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
+#EXTINF:-1,CA: HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
+#EXTINF:-1,CA: ICI MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
+#EXTINF:-1,CA: ICI VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/665
+#EXTINF:-1,CA: ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
+#EXTINF:-1,CA: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
+#EXTINF:-1,CA: M ENCORE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
+#EXTINF:-1,CA: M ENCORE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
+#EXTINF:-1,CA: MAKEFUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/662
+#EXTINF:-1,CA: MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
+#EXTINF:-1,CA: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
+#EXTINF:-1,CA: MOI CIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
+#EXTINF:-1,CA: MOVIE TIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
+#EXTINF:-1,CA: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/657
+#EXTINF:-1,CA: MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
+#EXTINF:-1,CA: MUCH MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/655
+#EXTINF:-1,CA: MUSIQUE PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
+#EXTINF:-1,CA: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
+#EXTINF:-1,CA: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
+#EXTINF:-1,CA: NBC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
+#EXTINF:-1,CA: NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
+#EXTINF:-1,CA: OLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
+#EXTINF:-1,CA: OMNI BC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/646
+#EXTINF:-1,CA: OMNI EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/645
+#EXTINF:-1,CA: ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/644
+#EXTINF:-1,CA: OUTTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/643
+#EXTINF:-1,CA: OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
+#EXTINF:-1,CA: RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
+#EXTINF:-1,CA: RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
+#EXTINF:-1,CA: RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
+#EXTINF:-1,CA: SPIKE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
+#EXTINF:-1,CA: SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
+#EXTINF:-1,CA: SUPER ECRAN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
+#EXTINF:-1,CA: SUPER ECRAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
+#EXTINF:-1,CA: SUPER ECRAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
+#EXTINF:-1,CA: SUPER ECRAN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
+#EXTINF:-1,CA: TREEHOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
+#EXTINF:-1,CA: TELETOON FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
+#EXTINF:-1,CA: THE SHOOPING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/638
+#EXTINF:-1,CA: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
+#EXTINF:-1,CA: TMN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/627
+#EXTINF:-1,CA: TMN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/626
+#EXTINF:-1,CA: TMN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
+#EXTINF:-1,CA: TMN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
+#EXTINF:-1,CA: TV5 QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
+#EXTINF:-1,CA: TVA OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
+#EXTINF:-1,CA: TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
+#EXTINF:-1,CA: VRAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/619
+#EXTINF:-1,CA: W NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/618
+#EXTINF:-1,CA: WFN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/617
+#EXTINF:-1,CA: WGN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
+#EXTINF:-1,CA: YES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
+#EXTINF:-1,CA: BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
+#EXTINF:-1,CA: HUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
+#EXTINF:-1,CA: LEAFS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
+#EXTINF:-1,CA: SPACE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
+#EXTINF:-1,CA: TELE LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
+#EXTINF:-1,CA: VISION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
+#EXTINF:-1,CA: WILD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
+#EXTINF:-1,CA: YTV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
+#EXTINF:-1,EWTN CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/755
+#EXTINF:-1,EWTN SPAIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/753
+#EXTINF:-1,EWTN UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/756
+#EXTINF:-1,EWTN USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/754
+#EXTINF:-1,TV MOZAMBIQQUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/774
