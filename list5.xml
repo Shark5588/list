@@ -1,14 +1,14 @@
 <layouttype>-=DONT STEAL MY FUCKIN LINKS=-</layouttype>
 #EXTM3U
 
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
+http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] THEY ARE FREELY AVAILABLE ON THE INTERNET.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
+http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/15/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/15/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -21,7 +21,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:
 
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26129&t=live&f=ts
+http://srv02.evolucion03.net:25461/ITV/4RTYUI/79http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26129&t=live&f=ts
 #EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-french.com/live/sun.php?z=997&u=0xDBZIxqfU&s=7851016067&id=26130&t=live&f=ts
 #EXTINF:0 tvg-id="ext" group-title="MOVISTAR+",MOVISTAR+ MARVEL 3 HD
