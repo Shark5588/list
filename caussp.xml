@@ -1010,6 +1010,6 @@ plugin://plugin.video.f4mTester/?url=►►►►►►►►◄◄◄◄◄◄�
 
 
 #EXTINF:-1,Test 
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_3_av-b.m3u8?sd=10&rebase=on
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Test;url=https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/index_3_av-b.m3u8?sd=10&rebase=on
 
 
