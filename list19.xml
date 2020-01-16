@@ -41,8 +41,6 @@ https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1,COMET
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1,CW
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1,ET LIVE
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
 #EXTINF:-1,Fox 5 News
@@ -577,7 +575,7 @@ http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="http://patv.org/images/PATVtemplateLOGO.gif" tvg-name="PATV"  group-title="USA PUBLIC",PATV
 http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/IZj3H1x.png" tvg-name="PGCPS"  group-title="USA PUBLIC",PGCPS
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/IZj3H1x.png" tvg-name="PGCPS"  group-title="USA PUBLIC",PGCPS
 http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/1iszbIx.jpg" tvg-name="Raleigh Television Network"  group-title="USA PUBLIC",Raleigh Television Network
@@ -692,14 +690,10 @@ http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Komo%2B4%2BNEWS%2Blogo%2BRENDERED2.jpg" tvg-name="KOMO 4 News (Seattle)"  group-title="USA LOCAL",KOMO 4 News (Seattle)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="http://mag-log.com/english/wp-content/uploads/icon-24-7-nagy.png" tvg-name="~ 24/7 TV ~"  group-title="LABEL",~ 24/7 TV ~
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://batterypop-v2-prod.s3.amazonaws.com/images/shows/547/images/large/Super-Geek-Heroes.png" tvg-name="Super Geek Heroes (New!)"  group-title="24/7",Super Geek Heroes (New!)
 https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="http://channelpear.com/images/media/4874.png" tvg-name="Tim and Eric"  group-title="24/7",Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-#EXTINF:1 tvg-id="" tvg-name="ZEE18" tvg-logo="http://i64.tinypic.com/xciu0m.png",DAILY FREE IPTV APP WWW.ZEE18.COM
-http://zee18.com/zee18app.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1280px-USA_Network_logo_%282016%29.svg.png" group-title="ENTERTAINMENT",USA Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1280px-USA_Network_logo_%282016%29.svg.png" group-title="ENTERTAINMENT",USA Network
