@@ -674,28 +674,28 @@ http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Sky Sports   Sky Sports  Sky Sports   Sky Sports   Sky Sports  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Action | HD[/B][/COLOR]
-http://sync1.iptv.bingo/live/1595?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Arena | UHD[/B][/COLOR]
-http://sync1.iptv.bingo/live/1610?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Cricket | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/1592?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports F1 | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/1594?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Action | HD[/B][/COLOR]
+
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Arena | UHD[/B][/COLOR]
+
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Cricket | UK[/B][/COLOR]
+
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports F1 | UK[/B][/COLOR]
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Football | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Football | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/1591?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Football | UK[/B][/COLOR]
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Football | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/Sky-Spo-football-N.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Golf | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/1593?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Main Event | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/1589?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Golf | UK[/B][/COLOR]
+
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Main Event | UK[/B][/COLOR]
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Main Event | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Premier League | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/1590?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Premier League | UK[/B][/COLOR]
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports Premier League | UK[/B][/COLOR]
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 ##########################################################################################################################################
