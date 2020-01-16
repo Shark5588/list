@@ -248,14 +248,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/2551?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
-http://sync1.iptv.bingo/live/2553?u=1869576&s=a54eeb212d548ee959b4139097bd2eee90027ccda90f86c20cc4f024a82c290a
+EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
-https://ul.cdn946.net:8443/hls/fo6djhrc.m3u8?s=7G4xVDVKhkTD5CjfUEStEQ&e=1577236061|Referer=https://wstream.to/embed/fo6djhrc
+EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
+
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 ############################################################### Fight #####################################################################################
@@ -278,8 +276,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 |
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2IAWCc3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2PZIAFn
+EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA | SD[/B][/COLOR]
 |User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
@@ -293,8 +291,8 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2oodiNc
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2K4XeaB
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 http://docs-4.gogleusercontent.host/live/fs2/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-2-fs2/
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[B][COLORorange]FS2 | USA[/B][/COLOR]
@@ -384,10 +382,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA TV | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA TV | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA TV | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2PVLhb4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA TV | USA[/B][/COLOR]
-http://s6.11223344.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
+http://docs-1.gogleusercontent.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA Live | 24/7[/B][/COLOR]
 http://docs-3.gogleusercontent.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
 EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/03/NBA-TNT-2016-e1458452578910.jpg",[B][COLORorange]NBA Live | 24/7[/B][/COLOR]
@@ -399,7 +397,7 @@ https://dannyberg1.s3-accelerate.amazonaws.com/hls/lal.m3u8|Referer=http://crack
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 https://bit.ly/2oodiNc
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 http://s4.11223344.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-nbcsn/
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 http://docs-2.gogleusercontent.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-1/
@@ -417,8 +415,8 @@ EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sp
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports | California[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports | Chicago[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Dish;url=http://209.222.97.118:25461/live/Dave123/dave123/1562.m3u8
+EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports | Chicago[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Dish;url=
 EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports |Chicago Plus[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
