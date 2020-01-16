@@ -146,7 +146,7 @@ EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channe
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" ,[COLOR orange][B]Edge Sport[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Edge Sport;url=https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/JEJ8ZbH.png",[COLOR orange][B]EIR SPORTS 1 | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -160,7 +160,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN  ESPN  ESPN  ESPN  ESPN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2019/03/Top-Rank-ESPN-e1550455255267.png",[COLOR orange][B]TR | ESPN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2019/03/Top-Rank-ESPN-e1550455255267.png",[COLOR orange][B]ESPN | TR[/B][/COLOR]
 http://ott-stream.sevstar.net/1414/video.m3u8?token=8330162968
 EXTINF:-1 tvg-logo="http://vaders.tv/logos/espn%20hd.png",[COLOR orange][B]ESPN | NBA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
@@ -169,7 +169,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
 |Referer=http://123tvnow.com/watch/espn-2/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
-https://bit.ly/34HqM5V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/34HqM5V
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -182,13 +182,13 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | U
 |Referer=http://123tvnow.com/watch/espn2/
 #EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2VxVGKJ
-#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2CniB2K
+EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | SD[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | SD[/B][/COLOR]
 https://peer2.ustv.to/ESPN2/myStream/chunks.m3u8?nimblesessionid=107858828&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjQvMjAxOSA1OjE4OjMyIFBNJmhhc2hfdmFsdWU9VXdqWFhRQThkaHkvMzFuS0tVWmh6UT09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN DEPORTES ESPN DEPORTES ESPN DEPORTES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -267,6 +267,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/fight-sports.png",[COLOR orange][B]Fight Sport 2 HD | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png",[COLOR orange][B]FLOW Sports 1 HD[/B][/COLOR]
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -320,11 +322,11 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Ra
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 ====================================================================== FOX SPORTS =================================================================
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="SPORTS",[B][COLORorange] Fox Sports | USA[/B][/COLOR]
-https://ul.cdn946.net:8443/hls/frzjnx3t9nhujdn.m3u8?s=kLwFNi4GUTTI7v14xIrAGQ&e=1576362334
+
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
 http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
 ====================================================================== FOX 506 ====================================================================
@@ -703,6 +705,8 @@ EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.png",[B][COLORorange]Specturm Sportsnet HD| USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Sport",Sportal HD
+http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d1/b9/1f/d1b91f1b-846e-7e36-1834-0da8a6a3d9dc/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",[B][COLORorange]SPORTSMAX | USA[/B][/COLOR]
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d1/b9/1f/d1b91f1b-846e-7e36-1834-0da8a6a3d9dc/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",[B][COLORorange]SPORTSMAX | USA[/B][/COLOR]
