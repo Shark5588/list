@@ -50,7 +50,7 @@ http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
 #EXTINF:-1,FLOW Sports 1 HD
 http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 #EXTINF:-1,Fox Sports
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Fox Sports;url=https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8
 #EXTINF:-1,MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,MLS
