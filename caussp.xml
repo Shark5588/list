@@ -619,10 +619,10 @@ plugin://plugin.video.f4mTester/?url=http://rdshdulive-lh.akamaihd.net/i/rdshdu1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  RDS Channel  RDS Channel  RDS Channel  RDS Channel  RDS Channel <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/11111111/22222222/306122
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/2404
 
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329802
+EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -631,10 +631,7 @@ EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLO
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/11111111/22222222/306121
-
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329801
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/2405
 
 EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -642,10 +639,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gold.hopto.me:83/11111111/22222222/306120
-#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mxc.tvxweb.net:25461/jina/jina/329800
+EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
@@ -828,20 +828,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/138
 
-EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/139
 
-EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/140
 
-EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/141
 
-EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/142
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 EXTINF:-1  tvg-logo="http://i63.tinypic.com/e8lorb.png" ,TSN 1 HD
@@ -947,22 +947,22 @@ http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  WWE Network WWE Network WWE Network WWE Network WWE Network WWE Network <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
 http://sv6.dailymotion.com.1cdn.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/
-EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
-https://bit.ly/33uSSkX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/168
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/82718
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
+
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD | OPT 1[/B][/COLOR]
 http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD | OPT 2[/B][/COLOR]
 http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
 http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
