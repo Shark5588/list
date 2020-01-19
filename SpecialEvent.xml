@@ -18,10 +18,15 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]https://www.paypal.me/Shark55[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 ===============================================================================================================================================================
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",PPV 1 - UFC 246 - 10PM - 1/18 (EN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/aminp.e@gmail.com/diablohack1/2570.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",PPV 2 - UFC 246 - 10PM - 1/18 (EN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bokkdiom.hopto.org:12000/live/moussa/ECMJ2K956I/669.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",PPV 3 - UFC 246 - 10PM - 1/18 (EN)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Djskills2007@gmail.com/yu0r2nF09S/2570.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",PPV done - UFC 246 - 10PM - 1/18 (EN)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://pc1.paisy.xyz/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (EN)
