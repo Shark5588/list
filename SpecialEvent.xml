@@ -19,36 +19,5 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 ===============================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",PPV  - UFC 246 - 10PM - 1/18 (EN)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://pc1.paisy.xyz/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",PPV 2 - UFC 246 - 10PM - 1/18 (EN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bokkdiom.hopto.org:12000/live/moussa/ECMJ2K956I/669.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (EN)
-http://the.azureegde.net/ufc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (EN)
-http://v1.jksduease.xyz/live/99/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (EN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (EN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/140
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bokkdiom.hopto.org:12000/live/moussa/ECMJ2K956I/669.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/Dylan/dylan123/30612
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-tv.media:8789/francesdclark/MJ5jwjknJA/39500
-
-
-
-
-
-
-
-#EXTINF:-1,UK: BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/Dylan/dylan123/20035
-#EXTINF:-1,UK:BT_SPORT_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv2iptv.com:8000/Dylan/dylan123/20039
 
