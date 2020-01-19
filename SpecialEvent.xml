@@ -22,7 +22,7 @@ http://0.0.0.0:1234
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",PPV 1 - UFC 246 - 10PM - 1/18 (EN)
-http://pc1.paisy.xyz/hls/live.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://pc1.paisy.xyz/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",Pre - UFC 246 (EN)
 http://the.azureegde.net/ufc.m3u8
