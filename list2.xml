@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 12/21/2019[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/22/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -18,3 +18,159 @@ http://0.0.0.0:1234
 
 
 
+
+#EXTINF:-1,FR: BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1026
+#EXTINF:-1,FR: BEIN SPORT 2  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1024
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/802
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/797
+#EXTINF:-1,FR: BEIN SPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6845
+#EXTINF:-1,FR: BEINSPORT MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/102
+#EXTINF:-1,FR: FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6852
+#EXTINF:-1,FR: FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6854
+#EXTINF:-1,FR: FRANCE Ô
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6921
+#EXTINF:-1,FR: FRANCE2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6853
+#EXTINF:-1,FR: FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6855
+#EXTINF:-1,FR: GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6856
+#EXTINF:-1,FR: L'EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6858
+#EXTINF:-1,FR: M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6859
+#EXTINF:-1,FR: RTL 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6860
+#EXTINF:-1,FR: TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6864
+
+#EXTINF:-1,UK:  ITV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1023
+#EXTINF:-1,UK: &TV HD LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1604
+#EXTINF:-1,UK: Bein Sport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1031
+#EXTINF:-1,UK: BEIN SPORT 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1032
+#EXTINF:-1,UK: BT SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/834
+#EXTINF:-1,UK: BT SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/835
+#EXTINF:-1,UK: BT SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/859
+#EXTINF:-1,UK: BT SPORT ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/836
+#EXTINF:-1,UK: EIR SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6842
+#EXTINF:-1,UK: EIR SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/6843
+#EXTINF:-1,UK: HUM EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1606
+#EXTINF:-1,UK: Premier Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/74
+#EXTINF:-1,UK: RISHTEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1605
+#EXTINF:-1,UK: Setanta Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/301
+#EXTINF:-1,UK: SKY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/702
+#EXTINF:-1,UK: SKY CINEMA CRIME THRILLER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/942
+#EXTINF:-1,UK: SKY CINEMA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/943
+#EXTINF:-1,UK: SKY Movies PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/944
+#EXTINF:-1,UK: SKY MOVIES  HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/945
+#EXTINF:-1,UK: SKY MOVIES ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/940
+#EXTINF:-1,UK: SKY MOVIES COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/941
+#EXTINF:-1,UK: SKY MOVIES MODERN GREATS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/948
+#EXTINF:-1,UK: SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/949
+#EXTINF:-1,UK: SKY ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/950
+#EXTINF:-1,UK: SKY SPORTS Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/832
+#EXTINF:-1,UK: SKY SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/655
+#EXTINF:-1,UK: SKY SPORT F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/1022
+#EXTINF:-1,UK: Sky Sports Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/874
+#EXTINF:-1,UK: Sky Sports Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/875
+#EXTINF:-1,UK: SKY SPORTS FHD MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/654
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/426
+#EXTINF:-1,UK: SKY SPORTS Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/873
+#EXTINF:-1,UK: Sky Sports Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/833
+#EXTINF:-1,UK: SKY TWO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/951
+#EXTINF:-1,US: ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/915
+#EXTINF:-1,US: BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/904
+#EXTINF:-1,US: BRAVO HD [OFF]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/914
+#EXTINF:-1,US: CBN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/908
+#EXTINF:-1,US: CINEMAX 5 STARMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/901
+#EXTINF:-1,US: CINEMAX ACTOIN MAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/900
+#EXTINF:-1,US: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/918
+#EXTINF:-1,US: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/902
+#EXTINF:-1,US: ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/921
+#EXTINF:-1,US: FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/913
+#EXTINF:-1,US: FOX SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/931
+#EXTINF:-1,US: FOX SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/930
+#EXTINF:-1,US: DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/893
+#EXTINF:-1,US: NFL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/946
+#EXTINF:-1,US: History Channel 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/907
+#EXTINF:-1,US: NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/848
+#EXTINF:-1,US: SHOWTIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/880
+#EXTINF:-1,US: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/879
+#EXTINF:-1,US: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/878
+#EXTINF:-1,US: Travel-Channe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/883
+#EXTINF:-1,US: TSN 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/939
+#EXTINF:-1,US: TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/938
+#EXTINF:-1,US: TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/936
+#EXTINF:-1,US: TSN 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/935
+#EXTINF:-1,US: TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/849
+#EXTINF:-1,UZ: Kinoteatr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/66
+#EXTINF:-1,UZ: Madaniyat TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.168.157:3456/andris/andris/65
