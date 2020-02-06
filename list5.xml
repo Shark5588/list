@@ -1683,6 +1683,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-lux
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/1212/1212/23292
 #EXTINF:-1,|FR| MELODY TV SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/1212/1212/23315
+#EXTINF:-1,tv_cine_1_HD
+http://flusonic-1.platinum-tv.com:80/tv_cine_1_HD/index.m3u8
 
 #EXTINF:-1,|UK|*****SKY GENERAL*****|UK|
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv-luxe.com:8789/1212/1212/29661
