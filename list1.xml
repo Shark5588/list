@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/6/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/7/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,868 +17,1607 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-#EXTINF:-1,#FR: FRANCE#
+#EXTINF:-1,===== VIP France =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7287
+#EXTINF:-1,VIP FR: BEINSPORT 1HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/14901
+#EXTINF:-1,VIP FR: BEINSPORT 2HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/14902
+#EXTINF:-1,VIP FR: BEINSPORT 3HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/14903
+#EXTINF:-1,VIP FR: BEINSPORT MAX 4HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23106
+#EXTINF:-1,VIP FR: BEINSPORT MAX 5HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23142
+#EXTINF:-1,VIP FR: BEINSPORT MAX 6HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23141
+#EXTINF:-1,VIP FR: BEINSPORT MAX 7HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23140
+#EXTINF:-1,VIP FR: BEINSPORT MAX 8HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23139
+#EXTINF:-1,VIP FR: BEINSPORT MAX 9HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23138
+#EXTINF:-1,VIP FR: BEINSPORT MAX 10HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23137
+#EXTINF:-1,VIP FR: RMC SPORT UHD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/29093
+#EXTINF:-1,VIP FR: RMC SPORT News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19424
+#EXTINF:-1,VIP FR: RMC SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23126
+#EXTINF:-1,VIP FR: RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7285
+#EXTINF:-1,VIP FR: RMC SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23125
+#EXTINF:-1,VIP FR: RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7286
+#EXTINF:-1,VIP FR: RMC SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23124
+#EXTINF:-1,VIP FR: RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7427
+#EXTINF:-1,VIP FR: RMC SPORT 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23123
+#EXTINF:-1,VIP FR: RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7504
+#EXTINF:-1,VIP FR: RMC SPORT Accees 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19425
+#EXTINF:-1,VIP FR: RMC SPORT Accees 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23795
+#EXTINF:-1,VIP FR: RMC SPORT Accees 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23794
+#EXTINF:-1,VIP FR: RMC Sport 5 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19366
+#EXTINF:-1,VIP FR: RMC Sport 6 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19365
+#EXTINF:-1,VIP FR: RMC Sport 7 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19364
+#EXTINF:-1,VIP FR: RMC Sport 8 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19363
+#EXTINF:-1,VIP FR: RMC Sport 9 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19362
+#EXTINF:-1,VIP FR: RMC Sport 10 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19361
+#EXTINF:-1,VIP FR: RMC Sport 11 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19360
+#EXTINF:-1,VIP FR: RMC Sport 12 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/19359
+#EXTINF:-1,VIP FR: RMC Sport 13 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20383
+#EXTINF:-1,VIP FR: RMC Sport 14 HD Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20384
+#EXTINF:-1,VIP FR: MB Live 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/27953
+#EXTINF:-1,VIP FR: TF1 UHD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/29091
+#EXTINF:-1,VIP FR: 13eme Rue FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23177
+#EXTINF:-1,VIP FR: 6ter FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20473
+#EXTINF:-1,VIP FR: A+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16095
+#EXTINF:-1,VIP FR: AB1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20463
+#EXTINF:-1,VIP FR: AB3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20462
+#EXTINF:-1,VIP FR: AB_EXPLORE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23134
+#EXTINF:-1,VIP FR: Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20474
+#EXTINF:-1,VIP FR: Altice Studio FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18643
+#EXTINF:-1,VIP FR: ANIMAUX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20447
+#EXTINF:-1,VIP FR: Arte FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20461
+#EXTINF:-1,VIP FR: BE Curious FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16096
+#EXTINF:-1,VIP FR: BET* FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18638
+#EXTINF:-1,VIP FR: Boing FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23160
+#EXTINF:-1,VIP FR: Boomerang FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20450
+#EXTINF:-1,VIP FR: BRAVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23131
+#EXTINF:-1,VIP FR: C Star FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20471
+#EXTINF:-1,VIP FR: C8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20472
+#EXTINF:-1,VIP FR: CANAL  CINEMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23173
+#EXTINF:-1,VIP FR: CANAL  DECALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23172
+#EXTINF:-1,VIP FR: CANAL  Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23171
+#EXTINF:-1,VIP FR: CANAL+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20470
+#EXTINF:-1,VIP FR: CANAL  SERIES_FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23169
+#EXTINF:-1,VIP FR: CANAL+ SPORT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20469
+#EXTINF:-1,VIP FR: CANAL ALPHA JU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23170
+#EXTINF:-1,VIP FR: CANAL J FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23161
+#EXTINF:-1,VIP FR: Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20452
+#EXTINF:-1,VIP FR: Cherie 25 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20448
+#EXTINF:-1,VIP FR: Cine+ Premier FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20468
+#EXTINF:-1,VIP FR: Cine Classic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23163
+#EXTINF:-1,VIP FR: Cine Club FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23164
+#EXTINF:-1,VIP FR: Cine Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23165
+#EXTINF:-1,VIP FR: Cine Famiz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23166
+#EXTINF:-1,VIP FR: Cine Frisson FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23167
+#EXTINF:-1,VIP FR: Cine POLAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23168
+#EXTINF:-1,VIP FR: Comedie  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20459
+#EXTINF:-1,VIP FR: Crime District FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23157
+#EXTINF:-1,VIP FR: CSTAR Hite France FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23174
+#EXTINF:-1,VIP FR: D24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18656
+#EXTINF:-1,VIP FR: Discovery Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16098
+#EXTINF:-1,VIP FR: DISCOVERY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23148
+#EXTINF:-1,VIP FR: Discovery ID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18639
+#EXTINF:-1,VIP FR: Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23147
+#EXTINF:-1,VIP FR: Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20457
+#EXTINF:-1,VIP FR: Disney Cinema FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20451
+#EXTINF:-1,VIP FR: DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23158
+#EXTINF:-1,VIP FR: Disney XD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23162
+#EXTINF:-1,VIP FR: ELLE GIRL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23151
+#EXTINF:-1,VIP FR: ES1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18662
+#EXTINF:-1,VIP FR: EQUIDIA LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20437
+#EXTINF:-1,VIP FR: FASHION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18649
+#EXTINF:-1,VIP FR: France 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20483
+#EXTINF:-1,VIP FR: France 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20482
+#EXTINF:-1,VIP FR: France 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20481
+#EXTINF:-1,VIP FR: France 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20480
+#EXTINF:-1,VIP FR: France O FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20479
+#EXTINF:-1,VIP FR: GAME ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23153
+#EXTINF:-1,VIP FR: GENERATIONS TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23130
+#EXTINF:-1,VIP FR: Golf Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23145
+#EXTINF:-1,VIP FR: Gulli FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23152
+#EXTINF:-1,VIP FR: INFOSPORT  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20433
+#EXTINF:-1,VIP FR: J-ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20449
+#EXTINF:-1,VIP FR: LEMAN BLEU FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23128
+#EXTINF:-1,VIP FR: LUXE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16100
+#EXTINF:-1,VIP FR: M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20478
+#EXTINF:-1,VIP FR: Manga FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20453
+#EXTINF:-1,VIP FR: MULTISPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18657
+#EXTINF:-1,VIP FR: MEZZO LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23143
+#EXTINF:-1,VIP FR: MOTORSPORT TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23136
+#EXTINF:-1,VIP FR: MOUV TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23132
+#EXTINF:-1,VIP FR: MTV France FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20460
+#EXTINF:-1,VIP FR: MY Cuisine FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16102
+#EXTINF:-1,VIP FR: MY ZEN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16101
+#EXTINF:-1,VIP FR: NATIONA GEO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20441
+#EXTINF:-1,VIP FR: NATIONAL GEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23150
+#EXTINF:-1,VIP FR: Nautical Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23129
+#EXTINF:-1,VIP FR: NOVELAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18663
+#EXTINF:-1,VIP FR: NRJ_12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20434
+#EXTINF:-1,VIP FR: OCS CHOC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20464
+#EXTINF:-1,VIP FR: OCS City FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20465
+#EXTINF:-1,VIP FR: OCS GEANT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20466
+#EXTINF:-1,VIP FR: OCS Max FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20467
+#EXTINF:-1,VIP FR: OL TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23135
+#EXTINF:-1,VIP FR: One TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23159
+#EXTINF:-1,VIP FR: OUATCH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18658
+#EXTINF:-1,VIP FR: PARAMOUNT CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23149
+#EXTINF:-1,VIP FR: PARIS PREMIERE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20439
+#EXTINF:-1,VIP FR: Piwi FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23154
+#EXTINF:-1,VIP FR: PLANETE  A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20442
+#EXTINF:-1,VIP FR: PLANETE  CI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20443
+#EXTINF:-1,VIP FR: Planete  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20444
+#EXTINF:-1,VIP FR: RMC Decouvert FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20445
+#EXTINF:-1,VIP FR: RMC_Story FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20436
+#EXTINF:-1,VIP FR: RTL9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20476
+#EXTINF:-1,VIP FR: Science et Vie FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20438
+#EXTINF:-1,VIP FR: SEASON FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20440
+#EXTINF:-1,VIP FR: SERIE CLUB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20454
+#EXTINF:-1,VIP FR: SUNDANCE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23127
+#EXTINF:-1,VIP FR: Syfy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23175
+#EXTINF:-1,VIP FR: TCM Cinema FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23156
+#EXTINF:-1,VIP FR: TEVA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20475
+#EXTINF:-1,VIP FR: TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/11372
+#EXTINF:-1,VIP FR: TF1 SERIES FILMS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23178
+#EXTINF:-1,VIP FR: TFX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23144
+#EXTINF:-1,VIP FR: TIJI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23155
+#EXTINF:-1,VIP FR: TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20455
+#EXTINF:-1,VIP FR: Toonami FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16105
+#EXTINF:-1,VIP FR: Trace Sport Stars HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16014
+#EXTINF:-1,VIP FR: TREK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23176
+#EXTINF:-1,VIP FR: TV5 MONDE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23146
+#EXTINF:-1,VIP FR: TVBREIZH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20446
+#EXTINF:-1,VIP FR: Ushuaia TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20458
+#EXTINF:-1,VIP FR: VAR AZUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/23133
+#EXTINF:-1,VIP FR: VICELAND FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16103
+#EXTINF:-1,VIP FR: Voyage FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20456
+#EXTINF:-1,VIP FR: W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/20477
+#EXTINF:-1,VIP FR: WARNER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18644
+#EXTINF:-1,VIP FR: Vitrine CanalPlay Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35100
+#EXTINF:-1,VIP FR: CANALPLAY 1 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35101
+#EXTINF:-1,VIP FR: CANALPLAY 2 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35102
+#EXTINF:-1,VIP FR: CANALPLAY 3 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35103
+#EXTINF:-1,VIP FR: CANALPLAY 4 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35104
+#EXTINF:-1,VIP FR: CANALPLAY 5 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35105
+#EXTINF:-1,VIP FR: CANALPLAY 6 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35106
+#EXTINF:-1,VIP FR: CANALPLAY 7 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35107
+#EXTINF:-1,VIP FR: CANALPLAY 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35108
+#EXTINF:-1,VIP FR: CANALPLAY 9 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35109
+#EXTINF:-1,VIP FR: CANALPLAY 10 FHD (Audio-Description)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35110
+#EXTINF:-1,VIP FR: CANALPLAY 11 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35111
+#EXTINF:-1,VIP FR: CANALPLAY 12 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35112
+#EXTINF:-1,VIP FR: CANALPLAY 13 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35113
+#EXTINF:-1,VIP FR: CANALPLAY 14 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35114
+#EXTINF:-1,VIP FR: CANALPLAY 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35115
+#EXTINF:-1,VIP FR: CANALPLAY 16 FHD (MultiAudio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35116
+#EXTINF:-1,VIP FR: CANALPLAY 17 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35117
+#EXTINF:-1,VIP FR: CANALPLAY 18 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35118
+#EXTINF:-1,VIP FR: CANALPLAY MULTIVISION 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35119
+#EXTINF:-1,VIP FR: CANALPLAY MULTIVISION 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35120
+#EXTINF:-1,VIP FR: CANALPLAY MULTIVISION 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35121
+#EXTINF:-1,VIP FR: Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28888
+#EXTINF:-1,VIP FR: Movies 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28887
+#EXTINF:-1,VIP FR: Movies 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28886
+#EXTINF:-1,VIP FR: Movies 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28885
+#EXTINF:-1,VIP FR: Movies 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28884
+#EXTINF:-1,VIP FR: OCS Go Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28883
+#EXTINF:-1,VIP FR: OCS Go Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28882
+#EXTINF:-1,VIP FR: OCS Go Cinema 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28881
+#EXTINF:-1,VIP FR: OCS Go Cinema 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28880
+#EXTINF:-1,VIP FR: OCS Go Cinema 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28879
+#EXTINF:-1,VIP FR: Orange Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28878
+#EXTINF:-1,VIP FR: Orange Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28877
+#EXTINF:-1,VIP FR: Orange Cinema 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28876
+#EXTINF:-1,VIP FR: Orange Cinema 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28875
+#EXTINF:-1,VIP FR: Orange Cinema 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28874
+#EXTINF:-1,VIP FR: Orange Cinema 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28873
+#EXTINF:-1,VIP FR: Orange Cinema Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28872
+#EXTINF:-1,VIP FR: Orange Cinema Aventure HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28871
+#EXTINF:-1,VIP FR: Orange Cinema CEst Fait HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28870
+#EXTINF:-1,VIP FR: Orange Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/28869
 
+#EXTINF:-1,===== VIP SKY IT ======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5679
+#EXTINF:-1,VIP IT: Alice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8271
+#EXTINF:-1,VIP IT: Alpha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18694
+#EXTINF:-1,VIP IT: Sky Cinema Duo+24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8272
+#EXTINF:-1,VIP IT: Automoto TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8298
+#EXTINF:-1,VIP IT: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8286
+#EXTINF:-1,VIP IT: Bike HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18708
+#EXTINF:-1,VIP IT: Blaze HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18693
+#EXTINF:-1,VIP IT: Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8287
+#EXTINF:-1,VIP IT: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18698
+#EXTINF:-1,VIP IT: Telecolor Sicilia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18702
+#EXTINF:-1,VIP IT: Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18700
+#EXTINF:-1,VIP IT: MASHA E ORSO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18705
+#EXTINF:-1,VIP IT: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8288
+#EXTINF:-1,VIP IT: Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8289
+#EXTINF:-1,VIP IT: CALCIO NAPOLI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/30510
+#EXTINF:-1,VIP IT: CI Crime Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18692
+#EXTINF:-1,VIP IT: Cielo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8273
+#EXTINF:-1,VIP IT: Class Horse TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8299
+#EXTINF:-1,VIP IT: Classica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18697
+#EXTINF:-1,VIP IT: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18715
+#EXTINF:-1,VIP IT: Granducato TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18704
+#EXTINF:-1,VIP IT: Dea Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18706
+#EXTINF:-1,VIP IT: Dea Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18707
+#EXTINF:-1,VIP IT: Deejay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8274
+#EXTINF:-1,VIP IT: Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8275
+#EXTINF:-1,VIP IT: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5649
+#EXTINF:-1,VIP IT: Discovery Travel & Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5650
+#EXTINF:-1,VIP IT: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8306
+#EXTINF:-1,VIP IT: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8308
+#EXTINF:-1,VIP IT: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8307
+#EXTINF:-1,VIP IT: Dmax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8277
+#EXTINF:-1,VIP IT: Dove TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18696
+#EXTINF:-1,VIP IT: Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8293
+#EXTINF:-1,VIP IT: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8294
+#EXTINF:-1,VIP IT: Fine living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8280
+#EXTINF:-1,VIP IT: Fishing TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8310
+#EXTINF:-1,VIP IT: Focus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8278
+#EXTINF:-1,VIP IT: Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18690
+#EXTINF:-1,VIP IT: RTL 102.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5653
+#EXTINF:-1,VIP IT: Fox Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5655
+#EXTINF:-1,VIP IT: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5652
+#EXTINF:-1,VIP IT: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5656
+#EXTINF:-1,VIP IT: Frisbee
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8309
+#EXTINF:-1,VIP IT: GAMBERRO ROSSO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8281
+#EXTINF:-1,VIP IT: Giallo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8279
+#EXTINF:-1,VIP IT: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8282
+#EXTINF:-1,VIP IT: Inter Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8321
+#EXTINF:-1,VIP IT: Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8276
+#EXTINF:-1,VIP IT: Iris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8312
+#EXTINF:-1,VIP IT: Italia 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18716
+#EXTINF:-1,VIP IT: Italian Fishing TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8300
+#EXTINF:-1,VIP IT: Juventus Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/29141
+#EXTINF:-1,VIP IT: K2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8291
+#EXTINF:-1,VIP IT: La7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18721
+#EXTINF:-1,VIP IT: La7d HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18722
+#EXTINF:-1,VIP IT: Laeffe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18711
+#EXTINF:-1,VIP IT: Lazio Style Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18710
+#EXTINF:-1,VIP IT: Lei HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18714
+#EXTINF:-1,VIP IT: M2O TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8284
+#EXTINF:-1,VIP IT: MANGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8292
+#EXTINF:-1,VIP IT: M4C
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8283
+#EXTINF:-1,VIP IT: Mediaset 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18688
+#EXTINF:-1,VIP IT: Mediaset 20 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18699
+#EXTINF:-1,VIP IT: Mediaset Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18703
+#EXTINF:-1,VIP IT: Milan Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8323
+#EXTINF:-1,VIP IT: Motor Trend SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18687
+#EXTINF:-1,VIP IT: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18686
+#EXTINF:-1,VIP IT: Nat Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5659
+#EXTINF:-1,VIP IT: NatGeo People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5660
+#EXTINF:-1,VIP IT: NatGeo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5661
+#EXTINF:-1,VIP IT: Nautical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8301
+#EXTINF:-1,VIP IT: Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18695
+#EXTINF:-1,VIP IT: Nove HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18685
+#EXTINF:-1,VIP IT: Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18701
+#EXTINF:-1,VIP IT: Real Time  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8313
+#EXTINF:-1,VIP IT: Real Time HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8285
+#EXTINF:-1,VIP IT: Roma Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8311
+#EXTINF:-1,VIP IT: Sky Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5678
+#EXTINF:-1,VIP IT: Sky Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18713
+#EXTINF:-1,VIP IT: Sky Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5662
+#EXTINF:-1,VIP IT: Sky Cinema Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5663
+#EXTINF:-1,VIP IT: Sky Cinema Due HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5665
+#EXTINF:-1,VIP IT: Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8325
+#EXTINF:-1,VIP IT: Sky Cinema Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5667
+#EXTINF:-1,VIP IT: Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8324
+#EXTINF:-1,VIP IT: Sky Cinema Collection HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5668
+#EXTINF:-1,VIP IT: Sky Cinema Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5669
+#EXTINF:-1,VIP IT: Sky Cinema Suspance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18680
+#EXTINF:-1,VIP IT: Sky Cinema Romance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5670
+#EXTINF:-1,VIP IT: Sky Cinema Uno+24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5664
+#EXTINF:-1,VIP IT: Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5674
+#EXTINF:-1,VIP IT: Sky Sport Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5671
+#EXTINF:-1,VIP IT: Sky Sport Arena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5657
+#EXTINF:-1,VIP IT: Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5675
+#EXTINF:-1,VIP IT: Sky Sport Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5672
+#EXTINF:-1,VIP IT: Sky Sport Collection HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18679
+#EXTINF:-1,VIP IT: Sky Sport MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5676
+#EXTINF:-1,VIP IT: Sky Sport NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5673
+#EXTINF:-1,VIP IT: Sky Sport Seria A FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5677
+#EXTINF:-1,VIP IT: Sky Super Calcio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/26105
+#EXTINF:-1,VIP IT: Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7428
+#EXTINF:-1,VIP IT: Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7429
+#EXTINF:-1,VIP IT: Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7430
+#EXTINF:-1,VIP IT: Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7431
+#EXTINF:-1,VIP IT: Sky Calcio 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7432
+#EXTINF:-1,VIP IT: Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7433
+#EXTINF:-1,VIP IT: Sky Calcio 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/26100
+#EXTINF:-1,VIP IT: Sky Calcio 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/26101
+#EXTINF:-1,VIP IT: Sky Calcio 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/26102
+#EXTINF:-1,VIP IT: Dazn Seria A 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/26103
+#EXTINF:-1,VIP IT: Dazn Seria A 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/26104
+#EXTINF:-1,VIP IT: Dazn 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18760
+#EXTINF:-1,VIP IT: Dazn 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18759
+#EXTINF:-1,VIP IT: Dazn 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18758
+#EXTINF:-1,VIP IT: Dazn 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18757
+#EXTINF:-1,VIP IT: Dazn 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18756
+#EXTINF:-1,VIP IT: Dazn 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18755
+#EXTINF:-1,VIP IT: Dazn 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18754
+#EXTINF:-1,VIP IT: Dazn 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18753
+#EXTINF:-1,VIP IT: Dazn 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18752
+#EXTINF:-1,VIP IT: Dazn 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18751
+#EXTINF:-1,VIP IT: Sky TG 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8304
+#EXTINF:-1,VIP IT: Cine Sony
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18691
+#EXTINF:-1,VIP IT: Sport italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8295
+#EXTINF:-1,VIP IT: Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8290
+#EXTINF:-1,VIP IT: Supertennis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8303
+#EXTINF:-1,VIP IT: TG Norba 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18683
+#EXTINF:-1,VIP IT: TGCOM 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8305
+#EXTINF:-1,VIP IT: Top Calcio 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18682
+#EXTINF:-1,VIP IT: Top Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18712
+#EXTINF:-1,VIP IT: Torino Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18709
+#EXTINF:-1,VIP IT: TV 2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8314
+#EXTINF:-1,VIP IT: TV8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18720
+#EXTINF:-1,VIP IT: Uniresat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18681
+#EXTINF:-1,===== Regional IT =======
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35242
+#EXTINF:-1,VIP IT: AB Channel (Abruzzo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35163
+#EXTINF:-1,VIP IT: Alpa Uno TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35153
+#EXTINF:-1,VIP IT: Alto Adige
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35131
+#EXTINF:-1,VIP IT: Antenna Sicilia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35231
+#EXTINF:-1,VIP IT: Caffe Tv 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35209
+#EXTINF:-1,VIP IT: CAMPANE GOLD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35173
+#EXTINF:-1,VIP IT: Canale 2 (Basilicata)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35152
+#EXTINF:-1,VIP IT: Canale 21 Lazio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35174
+#EXTINF:-1,VIP IT: Canale 7 Ita
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35138
+#EXTINF:-1,VIP IT: Canale 8 (Campania)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35123
+#EXTINF:-1,VIP IT: Canale 85 (Basilicata)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35161
+#EXTINF:-1,VIP IT: Canale10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35196
+#EXTINF:-1,VIP IT: Canale8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35156
+#EXTINF:-1,VIP IT: Carina TV (Basilicata)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35128
+#EXTINF:-1,VIP IT: Cremona 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35223
+#EXTINF:-1,VIP IT: Di TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35143
+#EXTINF:-1,VIP IT: Di.TV 90
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35162
+#EXTINF:-1,VIP IT: Donna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35233
+#EXTINF:-1,VIP IT: Esperia TV (Calabria)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35171
+#EXTINF:-1,VIP IT: eTV Marche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35168
+#EXTINF:-1,VIP IT: Euronews Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35129
+#EXTINF:-1,VIP IT: Fano TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35177
+#EXTINF:-1,VIP IT: GOLD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35228
+#EXTINF:-1,VIP IT: Hunting (Caccia)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35206
+#EXTINF:-1,VIP IT: Il Meteo Italia Domani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35216
+#EXTINF:-1,VIP IT: Il Meteo Italia Dopodomani
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35217
+#EXTINF:-1,VIP IT: Il Meteo Italia Oggi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35215
+#EXTINF:-1,VIP IT: Julie Italia (Campania)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35136
+#EXTINF:-1,VIP IT: La Nuova TV  HD (Basilicata)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35139
+#EXTINF:-1,VIP IT: LAZIO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35229
+#EXTINF:-1,VIP IT: Lucania.TV (Basilicata)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35184
+#EXTINF:-1,VIP IT: Lupin III Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35234
+#EXTINF:-1,VIP IT: m2o (musica)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35190
+#EXTINF:-1,VIP IT: MEDIASPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35237
+#EXTINF:-1,VIP IT: Motor Trend HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35235
+#EXTINF:-1,VIP IT: Napoli Canale 21 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35232
+#EXTINF:-1,VIP IT: Napoli Icaro TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35127
+#EXTINF:-1,VIP IT: Onda TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35135
+#EXTINF:-1,VIP IT: One TV Emilia HD (EmiliaRomagna)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35141
+#EXTINF:-1,VIP IT: Orler TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35169
+#EXTINF:-1,VIP IT: Pesca e Caccia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35204
+#EXTINF:-1,VIP IT: Primocanale TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35151
+#EXTINF:-1,VIP IT: Quarta Rete TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35122
+#EXTINF:-1,VIP IT: QVC Italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35214
+#EXTINF:-1,VIP IT: Radio Bruno TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35219
+#EXTINF:-1,VIP IT: Radio Bruno TV (musica)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35201
+#EXTINF:-1,VIP IT: Radio Italia Vision (EmiliaRomagna)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35221
+#EXTINF:-1,VIP IT: Radio Norba TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35167
+#EXTINF:-1,VIP IT: Radio Radicale Camera TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35193
+#EXTINF:-1,VIP IT: Radio Radicale Senato TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35194
+#EXTINF:-1,VIP IT: Radio Radicale TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35192
+#EXTINF:-1,VIP IT: Radio Taormina TV (musica)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35202
+#EXTINF:-1,VIP IT: Radio Tv Azzura
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35224
+#EXTINF:-1,VIP IT: Radio Universal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35225
+#EXTINF:-1,VIP IT: RadioMonteCarlo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35182
+#EXTINF:-1,VIP IT: Rai Nettuno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35191
+#EXTINF:-1,VIP IT: ReteBiella TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35148
+#EXTINF:-1,VIP IT: ReteSole Lazio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35134
+#EXTINF:-1,VIP IT: ReteSole Umbria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35124
+#EXTINF:-1,VIP IT: Rossini TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35133
+#EXTINF:-1,VIP IT: RTL 102.5 TV (musica)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35197
+#EXTINF:-1,VIP IT: RTV 105
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35181
+#EXTINF:-1,VIP IT: San Marino RTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35205
+#EXTINF:-1,VIP IT: San Marino RTV Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35241
+#EXTINF:-1,VIP IT: Sardegna Uno TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35130
+#EXTINF:-1,VIP IT: Sport Italia Live24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35239
+#EXTINF:-1,VIP IT: Sport Italia Motori
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35240
+#EXTINF:-1,VIP IT: Sport Italia Solo Calcio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35238
+#EXTINF:-1,VIP IT: Studio 100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35137
+#EXTINF:-1,VIP IT: Super J HD (Abruzzo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35159
+#EXTINF:-1,VIP IT: Super TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35203
+#EXTINF:-1,VIP IT: Tele Arena Siena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35132
+#EXTINF:-1,VIP IT: Tele Boario
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35140
+#EXTINF:-1,VIP IT: Tele Chiara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35176
+#EXTINF:-1,VIP IT: Tele Occidente
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35150
+#EXTINF:-1,VIP IT: Tele Padova Telecitt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35144
+#EXTINF:-1,VIP IT: Tele Pordenone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35222
+#EXTINF:-1,VIP IT: Tele Sirio (Abruzzo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35154
+#EXTINF:-1,VIP IT: Tele Video Agrigento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35164
+#EXTINF:-1,VIP IT: TeleBari Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35125
+#EXTINF:-1,VIP IT: Telecentro 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35212
+#EXTINF:-1,VIP IT: TeleColore (Campania)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35155
+#EXTINF:-1,VIP IT: TeleDehonTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35166
+#EXTINF:-1,VIP IT: Teleliguria Sud
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35218
+#EXTINF:-1,VIP IT: TeleMIa (Calabria)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35199
+#EXTINF:-1,VIP IT: TeleMonteNeve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35198
+#EXTINF:-1,VIP IT: TeleMonteNeve3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35210
+#EXTINF:-1,VIP IT: TeleNorba TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35126
+#EXTINF:-1,VIP IT: TelePace Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35145
+#EXTINF:-1,VIP IT: Telepavia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35195
+#EXTINF:-1,VIP IT: TeleRadioSciacca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35165
+#EXTINF:-1,VIP IT: Teleromagna (EmiliaRomagna)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35183
+#EXTINF:-1,VIP IT: TeleSondrio Livigno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35186
+#EXTINF:-1,VIP IT: TeleSondrioNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35185
+#EXTINF:-1,VIP IT: TeleStar1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35211
+#EXTINF:-1,VIP IT: TeleTibur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35213
+#EXTINF:-1,VIP IT: Televaldarno RTV38
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35207
+#EXTINF:-1,VIP IT: TeleVenezia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35146
+#EXTINF:-1,VIP IT: TR Mia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35158
+#EXTINF:-1,VIP IT: TR Mia (EmiliaRomagna)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35175
+#EXTINF:-1,VIP IT: Trentino TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35149
+#EXTINF:-1,VIP IT: TRM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35180
+#EXTINF:-1,VIP IT: TSD TV Arezzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35220
+#EXTINF:-1,VIP IT: Tv 6 (Abruzzo)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35157
+#EXTINF:-1,VIP IT: Tv Avicenza
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35147
+#EXTINF:-1,VIP IT: TV CAMPANE GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35230
+#EXTINF:-1,VIP IT: TV Luna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35172
+#EXTINF:-1,VIP IT: Tv Luna Sport (Campania)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35236
+#EXTINF:-1,VIP IT: TV Qui Modena (EmiliaRomagna)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35142
+#EXTINF:-1,VIP IT: TV2000 qHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35189
+#EXTINF:-1,VIP IT: TVRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35187
+#EXTINF:-1,VIP IT: Umbria TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35208
+#EXTINF:-1,VIP IT: Unire Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35227
+#EXTINF:-1,VIP IT: Vera TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35178
+#EXTINF:-1,VIP IT: Video Brescia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35200
+#EXTINF:-1,VIP IT: Video Calabria (Calabria)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35170
+#EXTINF:-1,VIP IT: Video Star TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35160
+#EXTINF:-1,VIP IT: Video Tolento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35179
+#EXTINF:-1,VIP IT: VideoNola TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35226
+#EXTINF:-1,VIP IT: VisualRadio TV (musica)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35188
+#EXTINF:-1,VIP IT: Video Calabria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/30167
+#EXTINF:-1,VIP IT: Aldo Giovanni e Giacomo Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35058
+#EXTINF:-1,VIP IT: Dragon Ball Z Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35060
+#EXTINF:-1,VIP IT: Fantozzi Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35056
+#EXTINF:-1,VIP IT: Totò Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35057
+#EXTINF:-1,VIP IT: Scuola di Polizia Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35059
+#EXTINF:-1,VIP IT: La Casa di Topolino Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35061
+#EXTINF:-1,VIP IT: EAGLE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35043
+#EXTINF:-1,VIP IT: Eagle American Dad 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35052
+#EXTINF:-1,VIP IT: Eagle Brickleberry FHD 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35051
+#EXTINF:-1,VIP IT: Eagle Cinema 007 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35047
+#EXTINF:-1,VIP IT: Eagle Cinema Animazione FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35028
+#EXTINF:-1,VIP IT: Eagle Cinema Avventura FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35025
+#EXTINF:-1,VIP IT: Eagle Cinema Azione FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35026
+#EXTINF:-1,VIP IT: Eagle Cinema Biografico FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35062
+#EXTINF:-1,VIP IT: Eagle Cinema Bud Spencer HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35048
+#EXTINF:-1,VIP IT: Eagle Cinema Comico Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35021
+#EXTINF:-1,VIP IT: Eagle Cinema Commedia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35023
+#EXTINF:-1,VIP IT: Eagle Cinema Drammatico FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35017
+#EXTINF:-1,VIP IT: Eagle Cinema Famiglia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35063
+#EXTINF:-1,VIP IT: Eagle Cinema Fantascienza FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35064
+#EXTINF:-1,VIP IT: Eagle Cinema Fantastico FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35024
+#EXTINF:-1,VIP IT: Eagle Cinema Film in Sala  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35029
+#EXTINF:-1,VIP IT: Eagle Cinema Horror FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35016
+#EXTINF:-1,VIP IT: Eagle Cinema Mitologia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35030
+#EXTINF:-1,VIP IT: Eagle Cinema Passione FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35018
+#EXTINF:-1,VIP IT: Eagle Cinema Prima Visione FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35027
+#EXTINF:-1,VIP IT: Eagle Cinema Religion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35044
+#EXTINF:-1,VIP IT: Eagle Cinema Sorriso FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35022
+#EXTINF:-1,VIP IT: Eagle Cinema Spaghetti Western FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35046
+#EXTINF:-1,VIP IT: Eagle Cinema Storico FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35019
+#EXTINF:-1,VIP IT: Eagle Cinema Thriller FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35020
+#EXTINF:-1,VIP IT: Eagle Cinema Western FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35045
+#EXTINF:-1,VIP IT: Eagle Cinepanettone HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35055
+#EXTINF:-1,VIP IT: Eagle Disney Topolino Paperino e Pippo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35035
+#EXTINF:-1,VIP IT: Eagle Fiabe Magiche HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35033
+#EXTINF:-1,VIP IT: Eagle Gomorra Stagione 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35039
+#EXTINF:-1,VIP IT: Eagle Gomorra Stagione 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35040
+#EXTINF:-1,VIP IT: Eagle Gomorra Stagione 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35041
+#EXTINF:-1,VIP IT: Eagle Gomorra Stagione 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35042
+#EXTINF:-1,VIP IT: Eagle Le Fiabe Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35031
+#EXTINF:-1,VIP IT: Eagle Looney Toons HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35036
+#EXTINF:-1,VIP IT: Eagle Masha e Orso HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35032
+#EXTINF:-1,VIP IT: Eagle Nature Discovery 4K (double audio)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35049
+#EXTINF:-1,VIP IT: Eagle Nature Explorer FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35050
+#EXTINF:-1,VIP IT: Eagle Peppa Pig FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35034
+#EXTINF:-1,VIP IT: Eagle Peter Griffin 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35053
+#EXTINF:-1,VIP IT: Eagle Super Pigiamini FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35037
+#EXTINF:-1,VIP IT: Eagle The Cleveland Show 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35054
+#EXTINF:-1,VIP IT: Eagle Trono di Spade S08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35038
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34996
+#EXTINF:-1,VIP IT: Vetrina Sky Primafila HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34993
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34992
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34991
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34990
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34989
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34988
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34987
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34986
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35005
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35006
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35007
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 5 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35009
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 6 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35010
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 7 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35011
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 8 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35012
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 9 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35013
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35008
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34985
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34984
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34983
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34995
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34994
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 13 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35000
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 14 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35001
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 15 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35002
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 16 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35003
+#EXTINF:-1,VIP IT: SKY PRIMAFILA 17 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35004
+#EXTINF:-1,VIP IT: SKY PRIMAFILA MULTIVISION 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35014
+#EXTINF:-1,VIP IT: SKY PRIMAFILA MULTIVISION 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/35015
+#EXTINF:-1,VIP IT: SKY PRIMAFILA MULTIVISION 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34998
+#EXTINF:-1,VIP IT: SKY PRIMAFILA MULTIVISION 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34999
+#EXTINF:-1,VIP IT: SKY PRIMAFILA WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34997
+
+#EXTINF:-1,===== USA =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1202
+#EXTINF:-1,CAN: TSN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3046
+#EXTINF:-1,CAN: TSN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3047
+#EXTINF:-1,CAN: TSN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3048
+#EXTINF:-1,CAN: TSN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3049
+#EXTINF:-1,CAN: TSN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3050
+#EXTINF:-1,CAN: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2906
+#EXTINF:-1,US: Sportsnet World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/4279
+#EXTINF:-1,US: FOX Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2860
+#EXTINF:-1,US: FOX Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2861
+#EXTINF:-1,US: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5387
+#EXTINF:-1,US: TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3587
+#EXTINF:-1,US: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5238
+#EXTINF:-1,US: SPIKE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5237
+#EXTINF:-1,US: NICKELODEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5236
+#EXTINF:-1,US: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7932
+#EXTINF:-1,US: Cozi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5225
+#EXTINF:-1,US: STARZ EDGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5397
+#EXTINF:-1,US: Starz Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5396
+#EXTINF:-1,US: Showtime Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5402
+#EXTINF:-1,US: Showtime Next
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5399
+#EXTINF:-1,US: Showtime Extreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5398
+#EXTINF:-1,US: ShowTime 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5401
+#EXTINF:-1,US: ShowTime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5390
+#EXTINF:-1,VIP US: FreeRom HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5234
+#EXTINF:-1,US: CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7800
+#EXTINF:-1,US: National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5404
+#EXTINF:-1,US: Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5410
+#EXTINF:-1,US: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5405
+#EXTINF:-1,US: HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5400
+#EXTINF:-1,US: Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5403
+#EXTINF:-1,US: TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5407
+#EXTINF:-1,US: Discovery Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5409
+#EXTINF:-1,US: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5408
+#EXTINF:-1,US: Cinemax Moremax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5395
+#EXTINF:-1,US: Cinemax East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5393
+#EXTINF:-1,US: Cinemax ActionMax East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5394
+#EXTINF:-1,US: Cinemax 5 StarMax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5392
+#EXTINF:-1,US: Bein Sports USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5391
+#EXTINF:-1,US: Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5406
+#EXTINF:-1,US:  HBO Zone HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5389
+#EXTINF:-1,US:  HBO East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5388
+#EXTINF:-1,US: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5231
+#EXTINF:-1,US: FOX Business HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5233
+#EXTINF:-1,US: ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5227
+#EXTINF:-1,US: CW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5230
+#EXTINF:-1,US: COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5242
+#EXTINF:-1,US: Buzzr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5244
+#EXTINF:-1,US: CBS News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8098
+#EXTINF:-1,US: BRAVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5228
+#EXTINF:-1,US: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5229
+#EXTINF:-1,US: ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5239
+#EXTINF:-1,US: A&E TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5240
+#EXTINF:-1,US: LIFE TIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3588
+#EXTINF:-1,VIP US: HIFI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3589
+#EXTINF:-1,US: Fox 46 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3590
+#EXTINF:-1,US: HBO SIGNATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3591
+#EXTINF:-1,US: MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8000
+#EXTINF:-1,US: HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3592
+#EXTINF:-1,US: HALLMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3593
+#EXTINF:-1,US: H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3594
+#EXTINF:-1,US: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3585
+#EXTINF:-1,US: Bravo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2654
+#EXTINF:-1,US: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/876
+#EXTINF:-1,US: NFL Network HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2863
+#EXTINF:-1,US: NBC SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2864
+#EXTINF:-1,US: USA Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/871
+#EXTINF:-1,US: HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/878
+#EXTINF:-1,US: Starz Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/874
+#EXTINF:-1,US: HBO Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/875
+#EXTINF:-1,US: ABC News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/873
+#EXTINF:-1,US: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/872
+#EXTINF:-1,US: ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5386
+#EXTINF:-1,US: WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5184
+#EXTINF:-1,===== France =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1200
 #EXTINF:-1,FR: TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15697
-#EXTINF:-1,FR: FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15696
-#EXTINF:-1,FR: FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15695
-#EXTINF:-1,FR: FRANCE 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15665
-#EXTINF:-1,FR: FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15668
-#EXTINF:-1,FR: FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15688
-#EXTINF:-1,FR: FRANCE O HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15678
-#EXTINF:-1,FR: TV5 MONDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/31398
-#EXTINF:-1,FR: SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15670
-#EXTINF:-1,FR: TELETOON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15656
-#EXTINF:-1,FR: TEVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15677
-#EXTINF:-1,FR: TF1 SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15666
-#EXTINF:-1,FR: TFX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15682
-#EXTINF:-1,FR: TIJI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15659
-#EXTINF:-1,FR: TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15683
-#EXTINF:-1,FR: TOUTE L' HISTOIRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15646
-#EXTINF:-1,FR: USHUAIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15645
-#EXTINF:-1,FR: W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15684
-#EXTINF:-1,FR: 13 EME RUE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15671
-#EXTINF:-1,FR: AB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15639
-#EXTINF:-1,FR: ANIMAUX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15649
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/363
+#EXTINF:-1,FR: TFX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/17301
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/17300
+#EXTINF:-1,FR: FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/370
+#EXTINF:-1,FR: FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/369
+#EXTINF:-1,FR: CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/361
 #EXTINF:-1,FR: ARTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15686
-#EXTINF:-1,FR: BFM TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15667
-#EXTINF:-1,FR: BMF SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15658
-#EXTINF:-1,FR: C8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15685
-#EXTINF:-1,FR: CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15654
-#EXTINF:-1,FR: CHASSE ET PECHE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15648
-#EXTINF:-1,FR: CINE CLASSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15629
-#EXTINF:-1,FR: CINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15628
-#EXTINF:-1,FR: CINE FAMIZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15627
-#EXTINF:-1,FR: AB3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15626
-#EXTINF:-1,FR: CINE FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15638
-#EXTINF:-1,FR: CINE POLAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15637
-#EXTINF:-1,FR: CINE PREMIER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15625
-#EXTINF:-1,FR: COMEDIE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15624
-#EXTINF:-1,FR: CSTAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15680
-#EXTINF:-1,FR: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15644
-#EXTINF:-1,FR: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15643
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15652
-#EXTINF:-1,FR: TF1 SERIES FILMS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15651
-#EXTINF:-1,FR: DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15653
-#EXTINF:-1,FR: BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15650
-#EXTINF:-1,FR: EQUIDIA LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15609
-#EXTINF:-1,FR: GULLI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15679
-#EXTINF:-1,FR: INFO SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15606
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1072
 #EXTINF:-1,FR: M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15687
-#EXTINF:-1,FR: MANGAS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15662
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/365
+#EXTINF:-1,FR: W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/362
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/9935
+#EXTINF:-1,FR: FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/368
+#EXTINF:-1,FR: FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/367
+#EXTINF:-1,FR: FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/366
+#EXTINF:-1,FR: BEINSPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/14140
+#EXTINF:-1,FR: BEINSPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/347
+#EXTINF:-1,FR: BEINSPORT 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/346
+#EXTINF:-1,FR: BEINSPORT MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2515
+#EXTINF:-1,FR: BEINSPORT MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2516
+#EXTINF:-1,FR: BEINSPORT MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2517
+#EXTINF:-1,FR: BEINSPORT MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2518
+#EXTINF:-1,FR: BEINSPORT MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2519
+#EXTINF:-1,FR: BEINSPORT MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2520
+#EXTINF:-1,FR: BEINSPORT MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2521
+#EXTINF:-1,FR: FOOT+24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1244
+#EXTINF:-1,FR: EUROSPORT 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/345
+#EXTINF:-1,FR: EUROSPORT 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/344
+#EXTINF:-1,FR: L'equipe 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1068
+#EXTINF:-1,FR: CANAL+ DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/359
+#EXTINF:-1,FR: CANAL+ FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/358
+#EXTINF:-1,FR: CANAL+ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/5897
+#EXTINF:-1,FR: CANAL+ SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/357
+#EXTINF:-1,FR: CANAL+ SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/356
+#EXTINF:-1,FR: CINE+ PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/350
+#EXTINF:-1,FR: CINE+ FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/351
+#EXTINF:-1,FR: CINE+ EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/352
+#EXTINF:-1,FR: ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/349
+#EXTINF:-1,FR: Ushuaia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/337
+#EXTINF:-1,FR: Trek HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1065
+#EXTINF:-1,FR: PLANETE CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/353
+#EXTINF:-1,FR: Planete  A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/644
+#EXTINF:-1,FR: Sciences & Vie TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/643
+#EXTINF:-1,FR: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/645
+#EXTINF:-1,FR: Paris Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1066
+#EXTINF:-1,FR: C news SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1069
+#EXTINF:-1,FR: Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/1070
+#EXTINF:-1,FR: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/646
+#EXTINF:-1,FR: Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/9815
+#EXTINF:-1,FR: Animaux HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/642
 #EXTINF:-1,FR: NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15641
-#EXTINF:-1,FR: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15640
-#EXTINF:-1,FR: NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15657
-#EXTINF:-1,FR: NRJ 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15681
-#EXTINF:-1,FR: OCS CHOC UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15636
-#EXTINF:-1,FR: OCS CITY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15631
-#EXTINF:-1,FR: OCS GEANTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15635
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/336
+#EXTINF:-1,FR: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/355
+#EXTINF:-1,FR: 6 TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12013
+#EXTINF:-1,FR: AB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/10356
+#EXTINF:-1,FR: NT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/340
+#EXTINF:-1,FR: NRJ12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/364
+#EXTINF:-1,FR: E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7684
+#EXTINF:-1,FR: C NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16097
+#EXTINF:-1,FR: Elle Girl FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16099
+#EXTINF:-1,FR: GOLF Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16109
+#EXTINF:-1,FR: InfoSport+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/342
+#EXTINF:-1,FR: VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2771
+#EXTINF:-1,FR: Toute l Histoire HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2770
+#EXTINF:-1,FR: TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2769
+#EXTINF:-1,FR: RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2768
+#EXTINF:-1,FR: RTS DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2767
+#EXTINF:-1,FR: HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2766
+#EXTINF:-1,FR: C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2765
+#EXTINF:-1,FR: C star HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2764
+#EXTINF:-1,FR: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7712
+#EXTINF:-1,FR: NICKELODEON JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7713
+#EXTINF:-1,FR: TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3765
+#EXTINF:-1,FR: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3760
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3770
 #EXTINF:-1,FR: OCS MAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15634
-#EXTINF:-1,FR: PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15660
-#EXTINF:-1,FR: PARIS PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15676
-#EXTINF:-1,FR: PIWI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15655
-#EXTINF:-1,FR: PLANET CI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15675
-#EXTINF:-1,FR: RMC DECOUVERTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15672
-#EXTINF:-1,FR: PLANETE A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15669
-#EXTINF:-1,FR: SCIENCE&VIE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15647
-#EXTINF:-1,FR: FOOT 24/24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15663
-#EXTINF:-1,FR: SERIE CLUB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15630
-#EXTINF:-1,FR: beIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15619
-#EXTINF:-1,FR: beIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15618
-#EXTINF:-1,FR: beIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15617
-#EXTINF:-1,FR: beIN SPORTS MAX 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15616
-#EXTINF:-1,FR: beIN SPORTS MAX 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15615
-#EXTINF:-1,FR: RMC SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15605
-#EXTINF:-1,FR: RMC SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15604
-#EXTINF:-1,FR: RMC SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/15603
-#EXTINF:-1,#UK: UNITED KINGDOM#
-
-#EXTINF:-1,UK: 5 STAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26690
-#EXTINF:-1,UK: NICK JR TOO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26784
-#EXTINF:-1,UK: 5 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26691
-#EXTINF:-1,UK: ALJjAZEERA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26783
-#EXTINF:-1,UK: ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26694
-#EXTINF:-1,UK: BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26696
-#EXTINF:-1,UK: BBC SCOTLAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26699
-#EXTINF:-1,UK: BBC PARLIAMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26700
-#EXTINF:-1,UK: BBC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26698
-#EXTINF:-1,UK: BBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26701
-#EXTINF:-1,UK: BBC one HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26782
-#EXTINF:-1,UK: BBC TWO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26780
-#EXTINF:-1,UK: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26779
-#EXTINF:-1,UK: BOXNATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26704
-#EXTINF:-1,UK: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26705
-#EXTINF:-1,UK: CBS Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26706
-#EXTINF:-1,UK: CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26707
-#EXTINF:-1,UK: CBS ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26777
-#EXTINF:-1,UK: EDEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26712
-#EXTINF:-1,UK: CGTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26713
-#EXTINF:-1,UK: Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26714
-#EXTINF:-1,UK: DISCOVERY HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26715
-#EXTINF:-1,UK: DISCOVERY INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26716
-#EXTINF:-1,UK: DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26697
-#EXTINF:-1,UK: DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26717
-#EXTINF:-1,UK: EIR SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26744
-#EXTINF:-1,UK: EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26721
-#EXTINF:-1,UK: Eurosport 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26723
-#EXTINF:-1,UK: Eurosport 2 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26722
-#EXTINF:-1,UK: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26724
-#EXTINF:-1,UK: QUETS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26725
-#EXTINF:-1,UK: ALIBI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26726
-#EXTINF:-1,UK: H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26727
-#EXTINF:-1,UK: HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26728
-#EXTINF:-1,UK: LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26686
-#EXTINF:-1,UK: ITV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26685
-#EXTINF:-1,UK: ITV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26684
-#EXTINF:-1,UK: ITV BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26689
-#EXTINF:-1,UK: ITV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26687
-#EXTINF:-1,UK: DAVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26773
-#EXTINF:-1,UK: INSPIRATION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26774
-#EXTINF:-1,UK: CBBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26730
-#EXTINF:-1,UK: MORE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26731
-#EXTINF:-1,UK: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26673
-#EXTINF:-1,UK: UTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26732
-#EXTINF:-1,UK: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26733
-#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26734
-#EXTINF:-1,UK: NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26735
-#EXTINF:-1,UK: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26736
-#EXTINF:-1,UK: CARTOONITO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26737
-#EXTINF:-1,UK: TBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26738
-#EXTINF:-1,UK: BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26739
-#EXTINF:-1,UK: REALLY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26740
-#EXTINF:-1,UK: EIR SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26741
-#EXTINF:-1,UK: RT DOCUMENTARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26742
-#EXTINF:-1,UK: RTE JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26743
-#EXTINF:-1,UK: UNIVERSAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26745
-#EXTINF:-1,UK: STV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26746
-#EXTINF:-1,UK: 5 SPIKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26747
-#EXTINF:-1,UK: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26749
-#EXTINF:-1,UK: MASSIVE RNB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26750
-#EXTINF:-1,UK: MANCHESTER UNITED TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26751
-#EXTINF:-1,UK: HOME & HEALTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26752
-#EXTINF:-1,UK: DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26748
-#EXTINF:-1,UK: HOME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26753
-#EXTINF:-1,UK: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26754
-#EXTINF:-1,UK: E 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26755
-#EXTINF:-1,UK: GOD CHANNELS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26756
-#EXTINF:-1,UK: E! ENTERTAINMENT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26757
-#EXTINF:-1,UK: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26762
-#EXTINF:-1,UK: 4 SEVEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26763
-#EXTINF:-1,UK: GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26764
-#EXTINF:-1,UK: 5 SELECT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26766
-#EXTINF:-1,UK: COMEDY CENTRAL XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26765
-#EXTINF:-1,UK: FILM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26768
-#EXTINF:-1,UK: FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26775
-#EXTINF:-1,UK: MOVIES 4 MEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/26772
-
-#EXTINF:-1,#USA: United States#
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/19770
-#EXTINF:-1,USA: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28592
-#EXTINF:-1,USA: ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28593
-#EXTINF:-1,USA: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28591
-#EXTINF:-1,USA: AMERICAN HEROES CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28590
-#EXTINF:-1,USA: BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28589
-#EXTINF:-1,USA: BET*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28588
-#EXTINF:-1,USA: LAFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28587
-#EXTINF:-1,USA: COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28586
-#EXTINF:-1,USA: CW 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28585
-#EXTINF:-1,USA: DIY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28584
-#EXTINF:-1,USA: E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28582
-#EXTINF:-1,USA: EL REY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28583
-#EXTINF:-1,USA: ORLANDO FOX 35
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28581
-#EXTINF:-1,USA: NY FOX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28925
-#EXTINF:-1,USA: FUSION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28579
-#EXTINF:-1,USA: FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28578
-#EXTINF:-1,USA: FXM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28577
-#EXTINF:-1,USA: FXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28576
-#EXTINF:-1,USA: ABC MILWAUKEE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28575
-#EXTINF:-1,USA: HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28574
-#EXTINF:-1,USA: HLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28573
-#EXTINF:-1,USA: IFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28572
-#EXTINF:-1,USA: ION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28571
-#EXTINF:-1,USA: MSG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28483
-#EXTINF:-1,USA: MSNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28526
-#EXTINF:-1,USA: NBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28525
-#EXTINF:-1,USA: FOX 6 MILWAUKEE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28480
-#EXTINF:-1,USA: NFL REDZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28479
-#EXTINF:-1,USA: NHL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28481
-#EXTINF:-1,USA: OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28569
-#EXTINF:-1,USA: OXYGEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28568
-#EXTINF:-1,USA: GRIT*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28570
-#EXTINF:-1,USA: SMITHSONIAN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28543
-#EXTINF:-1,USA: NBC SPORT NORTHWEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28567
-#EXTINF:-1,USA: NBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28559
-#EXTINF:-1,USA: SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28566
-#EXTINF:-1,USA: USA NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28561
-#EXTINF:-1,USA: TBS*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28565
-#EXTINF:-1,USA: TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28564
-#EXTINF:-1,USA: TNT*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28563
-#EXTINF:-1,USA: TRU TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28562
-#EXTINF:-1,USA: MC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28558
-#EXTINF:-1,USA: NBC SPORT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28557
-#EXTINF:-1,USA: WE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28560
-#EXTINF:-1,USA: CBS WFOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34641
-#EXTINF:-1,USA: CMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34642
-#EXTINF:-1,USA: DABL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34643
-#EXTINF:-1,USA: ET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34644
-#EXTINF:-1,USA: FREE SPEECH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34645
-#EXTINF:-1,USA: HUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34646
-#EXTINF:-1,USA: KEY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34648
-#EXTINF:-1,USA: KOOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34649
-#EXTINF:-1,USA: LAW & CRIME NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34650
-#EXTINF:-1,USA: NBC WTVJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34651
-#EXTINF:-1,USA: NEWSMAX TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34652
-#EXTINF:-1,USA: NEWSNET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34653
-#EXTINF:-1,USA: SCREAMFEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34657
-#EXTINF:-1,USA: CONNECTICUT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34661
-#EXTINF:-1,USA: DISTRICT COLOMBIA NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34662
-#EXTINF:-1,USA: FOX 25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34671
-#EXTINF:-1,USA: FOX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34670
-#EXTINF:-1,USA: FOX 54
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34672
-#EXTINF:-1,USA: NEWS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34669
-#EXTINF:-1,USA: ORANGE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34664
-#EXTINF:-1,USA: PATV GREAT NECK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34666
-#EXTINF:-1,USA: SOUTHEASTERN CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34667
-#EXTINF:-1,USA: TV W
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34668
-#EXTINF:-1,USA: 30A MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34684
-#EXTINF:-1,USA: ABC 9 NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34676
-#EXTINF:-1,USA: AMERICA'S FUNNIEST VIDEOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34686
-#EXTINF:-1,USA: BUZZR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34687
-#EXTINF:-1,USA: CBS 47
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34680
-#EXTINF:-1,USA: FOLK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34688
-#EXTINF:-1,USA: KIRO 7 SEATTLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34683
-#EXTINF:-1,USA: NBC 5 CHICAGO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34677
-#EXTINF:-1,USA: WBRZ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34675
-#EXTINF:-1,USA: WGN 9 CHICAGO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34678
-#EXTINF:-1,USA: WHIO 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34679
-#EXTINF:-1,USA: WPXI 11 PITSBURGH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34682
-#EXTINF:-1,#### USA NEWS ###
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28619
-#EXTINF:-1,USA: BBC AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28533
-#EXTINF:-1,USA: BOOMERANG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28532
-#EXTINF:-1,USA: CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28530
-#EXTINF:-1,USA: CNBC World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28529
-#EXTINF:-1,USA: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28531
-#EXTINF:-1,USA: CBS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/31200
-#EXTINF:-1,USA: CHICAGO FOX 32
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28527
-#EXTINF:-1,USA: FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28580
-#EXTINF:-1,USA: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28528
-#EXTINF:-1,### USA KIDS ###
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28621
-#EXTINF:-1,USA: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28542
-#EXTINF:-1,USA: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28541
-#EXTINF:-1,USA: DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28540
-#EXTINF:-1,USA: DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28539
-#EXTINF:-1,USA: NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28537
-#EXTINF:-1,USA: NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28538
-#EXTINF:-1,USA: NICKTOONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28536
-#EXTINF:-1,USA: NBC HOUSTON KPRC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28535
-#EXTINF:-1,USA: UNIVERSAL KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28534
-#EXTINF:-1,### USA DOCUMANTARY ###
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28623
-#EXTINF:-1,USA: ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28556
-#EXTINF:-1,USA: COOKING CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28555
-#EXTINF:-1,USA: DISCOVERY FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28553
-#EXTINF:-1,USA: DISCOVERY LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28552
-#EXTINF:-1,USA: DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28551
-#EXTINF:-1,USA: DISCOVERY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28554
-#EXTINF:-1,USA: DISCOVERY FAMILLIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28550
-#EXTINF:-1,USA: FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28549
-#EXTINF:-1,USA: HISTORY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28547
-#EXTINF:-1,USA: HISTORY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28548
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28546
-#EXTINF:-1,USA: NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28545
-#EXTINF:-1,USA: NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28544
-#EXTINF:-1,### USA CINEMA ###
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28622
-#EXTINF:-1,USA: COMET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28922
-#EXTINF:-1,USA: CINE SONY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28524
-#EXTINF:-1,USA: CINEMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28523
-#EXTINF:-1,USA: CINEMAX ACTIONMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28519
-#EXTINF:-1,USA: CINEMAX THRILLERMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28520
-#EXTINF:-1,USA: CINEMAX OUTERMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28521
-#EXTINF:-1,USA: BOUNCE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28522
-#EXTINF:-1,USA: EPIX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28518
-#EXTINF:-1,USA: EPIX HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28517
-#EXTINF:-1,USA: EPIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28516
-#EXTINF:-1,USA: HALLMARK CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28515
-#EXTINF:-1,USA: HALLMARK DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28514
-#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28513
-#EXTINF:-1,USA: HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28512
-#EXTINF:-1,USA: HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28511
-#EXTINF:-1,USA: HBO COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28510
-#EXTINF:-1,USA: HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28509
-#EXTINF:-1,USA: HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28508
-#EXTINF:-1,USA: HBO ZONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28507
-#EXTINF:-1,USA: SHOWTIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28505
-#EXTINF:-1,USA: SHOWTIME 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28504
-#EXTINF:-1,USA: SHOWTIME WOMEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28503
-#EXTINF:-1,USA: SHOWTIME EXTREME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28502
-#EXTINF:-1,USA: SONY MOVIE CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28501
-#EXTINF:-1,USA: STARZ ENCORE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28500
-#EXTINF:-1,USA: STARZ EDGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28499
-#EXTINF:-1,USA: STARZ COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28498
-#EXTINF:-1,USA: STARZ KIDS & FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28497
-#EXTINF:-1,USA: STARZ BLACK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28496
-#EXTINF:-1,USA: STARZ ENCORE WESTERNS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28495
-#EXTINF:-1,USA: AMERICANS HORRORS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/32769
-#EXTINF:-1,USA: THE DETECTIVE FILM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/32768
-#EXTINF:-1,### USA SPORTS ###
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28620
-#EXTINF:-1,USA: BEIN SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28493
-#EXTINF:-1,USA: BEIN SPORTS LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28494
-#EXTINF:-1,USA: BIG TEN NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28492
-#EXTINF:-1,USA: CBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28491
-#EXTINF:-1,USA: ESPN*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28490
-#EXTINF:-1,USA: ESPN 2*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28489
-#EXTINF:-1,USA: ESPNU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28488
-#EXTINF:-1,USA: ESPN DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28487
-#EXTINF:-1,USA: FOX LOS ANGELES FOX 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28486
-#EXTINF:-1,USA: ESPN NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28485
-#EXTINF:-1,USA: NBA TV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28482
-#EXTINF:-1,USA: YES NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/30978
-#EXTINF:-1,USA: UFC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28478
-#EXTINF:-1,USA: WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28475
-#EXTINF:-1,USA: SEC NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28921
-#EXTINF:-1,USA: FOX SPORTS 1*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/31443
-#EXTINF:-1,USA: FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/31444
-#EXTINF:-1,USA: FOX SPORTS DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/31445
-#EXTINF:-1,USA: FOX SOCCER PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28895
-#EXTINF:-1,USA: CSN NEW YORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28899
-#EXTINF:-1,USA: FOX SEATTLE Q13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28896
-#EXTINF:-1,USA: FOX DALLAS FOX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28897
-#EXTINF:-1,USA: FOX HOUSTON MY20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28898
-#EXTINF:-1,USA: GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/29200
-#EXTINF:-1,USA: REDBULL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34654
-#EXTINF:-1,USA: TENNIS CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34656
-#EXTINF:-1,### USA ESPANOL ###
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/17505
-#EXTINF:-1,USA: REELZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28914
-#EXTINF:-1,# USA SPORTS PASSES #
-
-#EXTINF:-1,USA: UFC FIGHT PASS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/30550
-#EXTINF:-1,USA: UFC FIGHT PASS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/30549
-#EXTINF:-1,USA: UFC FIGHT PASS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28476
-#EXTINF:-1,USA: UFC FIGHT PASS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28477
-#EXTINF:-1,USA: UFC FIGHT PASS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33052
-#EXTINF:-1,USA: UFC FIGHT PASS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33053
-#EXTINF:-1,USA: UFC FIGHT PASS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33054
-#EXTINF:-1,USA: UFC FIGHT PASS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33055
-#EXTINF:-1,USA: UFC FIGHT PASS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33056
-#EXTINF:-1,USA: UFC FIGHT PASS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33057
-#EXTINF:-1,USA: NBA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33041
-#EXTINF:-1,USA: NBA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33042
-#EXTINF:-1,USA: NBA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33043
-#EXTINF:-1,USA: NBA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33044
-#EXTINF:-1,USA: NBA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33045
-#EXTINF:-1,USA: NBA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33046
-#EXTINF:-1,USA: NBA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33047
-#EXTINF:-1,USA: NBA 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33048
-#EXTINF:-1,USA: NBA 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33049
-#EXTINF:-1,USA: NBA 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33050
-#EXTINF:-1,USA: ESPN + 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33058
-#EXTINF:-1,USA: ESPN + 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33059
-#EXTINF:-1,USA: ESPN + 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33060
-#EXTINF:-1,USA: ESPN + 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33061
-#EXTINF:-1,USA: ESPN + 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33062
-#EXTINF:-1,USA: ESPN + 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33063
-#EXTINF:-1,USA: ESPN + 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33064
-#EXTINF:-1,USA: ESPN + 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33065
-#EXTINF:-1,USA: ESPN + 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33066
-#EXTINF:-1,USA: ESPN + 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33067
-#EXTINF:-1,USA: LIVE EVENT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/33999
-#EXTINF:-1,USA: LIVE EVENT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34000
-#EXTINF:-1,USA: LIVE EVENT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34001
-#EXTINF:-1,USA: LIVE EVENT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34002
-#EXTINF:-1,USA: LIVE EVENT 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34003
-#EXTINF:-1,USA: LIVE EVENT 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/34004
-#EXTINF:-1,#CANADA#
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/20008
-#EXTINF:-1,CAN: A & E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28474
-#EXTINF:-1,CAN: ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28473
-#EXTINF:-1,CAN: ABC SPARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28472
-#EXTINF:-1,CAN: CINEPOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28471
-#EXTINF:-1,CAN: BBC CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28470
-#EXTINF:-1,CAN: BNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28469
-#EXTINF:-1,CAN: BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28468
-#EXTINF:-1,CAN: CANAL SAVOIR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28467
-#EXTINF:-1,CAN: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28466
-#EXTINF:-1,CAN: CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28465
-#EXTINF:-1,CAN: CTV OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28464
-#EXTINF:-1,CAN: GLOBAL VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28463
-#EXTINF:-1,CAN: CBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28462
-#EXTINF:-1,CAN: CBS NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28461
-#EXTINF:-1,CAN: CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28460
-#EXTINF:-1,CAN: COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28459
-#EXTINF:-1,CAN: COSMO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28920
-#EXTINF:-1,CAN: CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28458
-#EXTINF:-1,CAN: CRIME INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28457
-#EXTINF:-1,CAN: CTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28916
-#EXTINF:-1,CAN: CTV NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28456
-#EXTINF:-1,CAN: CW 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28455
-#EXTINF:-1,CAN: CITY TV EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/32816
-#EXTINF:-1,CAN: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28454
-#EXTINF:-1,CAN: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28453
-#EXTINF:-1,CAN: DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28452
-#EXTINF:-1,CAN: E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28451
-#EXTINF:-1,CAN: FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28450
-#EXTINF:-1,CAN: FOOD NEWTORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28449
-#EXTINF:-1,CAN: FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28448
-#EXTINF:-1,CAN: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28447
-#EXTINF:-1,CAN: FX CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28446
-#EXTINF:-1,CAN: FXX CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28445
-#EXTINF:-1,CAN: GAMESHOW NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28444
-#EXTINF:-1,CAN: GLOBAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28443
-#EXTINF:-1,CAN: HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28442
-#EXTINF:-1,CAN: ICI TELEVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28440
-#EXTINF:-1,CAN: LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28441
-#EXTINF:-1,CAN: OUTDOOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28439
-#EXTINF:-1,CAN: OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28438
-#EXTINF:-1,CAN: OLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28919
-#EXTINF:-1,CAN: OMNI 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28917
-#EXTINF:-1,CAN: OMNI 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28918
-#EXTINF:-1,CAN: PARAMOUNT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28437
-#EXTINF:-1,CAN: PBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28436
-#EXTINF:-1,CAN: PEACH TREE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28435
-#EXTINF:-1,CAN: SHOWCASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28434
-#EXTINF:-1,CAN: SLICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28433
-#EXTINF:-1,CAN: SPACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28432
-#EXTINF:-1,CAN: SPORTSNET 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28416
-#EXTINF:-1,CAN: SPORTSNET ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28415
-#EXTINF:-1,CAN: SPORTSNET ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28414
-#EXTINF:-1,CAN: TELETOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28431
-#EXTINF:-1,CAN: THE FAMILY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28430
-#EXTINF:-1,CAN: TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28429
-#EXTINF:-1,CAN: TMN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28426
-#EXTINF:-1,CAN: TMN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28425
-#EXTINF:-1,CAN: TMN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28424
-#EXTINF:-1,CAN: TMN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28423
-#EXTINF:-1,CAN: TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28421
-#EXTINF:-1,CAN: TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28420
-#EXTINF:-1,CAN: TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28419
-#EXTINF:-1,CAN: TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28418
-#EXTINF:-1,CAN: TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28417
-#EXTINF:-1,CAN: TVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28428
-#EXTINF:-1,CAN: YES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28427
-#EXTINF:-1,CAN: YTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streams.3biptv.co:8880/UKipaR04SU/5KNP1AdYXa/28413
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3767
+#EXTINF:-1,FR: OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3768
+#EXTINF:-1,FR: OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3769
+#EXTINF:-1,FR: EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8255
+#EXTINF:-1,FR: TV 5 Monde HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/8256
+#EXTINF:-1,FR: Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/10594
+#EXTINF:-1,FR: NUMERO 23 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3762
+#EXTINF:-1,FR: MTV Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3774
+#EXTINF:-1,FR: M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3775
+#EXTINF:-1,FR: FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7867
+#EXTINF:-1,FR: LCP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3776
+#EXTINF:-1,FR: KTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3777
+#EXTINF:-1,FR: RMC Decouverte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3766
+#EXTINF:-1,FR: Season HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3773
+#EXTINF:-1,FR: GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/7834
+#EXTINF:-1,FR: EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3771
+#EXTINF:-1,FR: TV5 MONDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3772
+#EXTINF:-1,FR: DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3764
+#EXTINF:-1,FR: DISNEY CINEMAGIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3763
+#EXTINF:-1,FR: CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3761
+#EXTINF:-1,FR: BERBERE TELEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3778
+#EXTINF:-1,FR: BERBERE JEUNESSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16438
+#EXTINF:-1,FR: BERBERE MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16439
+#EXTINF:-1,FR: J-ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3779
+#EXTINF:-1,FR: BFM Paris HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3780
+#EXTINF:-1,FR: AB MOTEUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3758
+#EXTINF:-1,FR: 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3759
+#EXTINF:-1,FR: BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2763
+#EXTINF:-1,FR: MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/341
+#EXTINF:-1,FR: PIWI  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/339
+#EXTINF:-1,FR: BREIZH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2609
+#EXTINF:-1,FR: Game One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/9113
+#EXTINF:-1,FR: LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/9112
+#EXTINF:-1,FR: TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2606
+#EXTINF:-1,FR: Teva HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2602
+#EXTINF:-1,FR: BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2620
+#EXTINF:-1,FR: Serie Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2605
+#EXTINF:-1,FR: Canal Alpha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12528
+#EXTINF:-1,FR: Chasse & Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12522
+#EXTINF:-1,FR: CINE CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12523
+#EXTINF:-1,FR: La Chaine Normande
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12524
+#EXTINF:-1,FR: Clubbing TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12529
+#EXTINF:-1,FR: Gong Base
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12525
+#EXTINF:-1,FR: Baby HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12526
+#EXTINF:-1,FR: MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12530
+#EXTINF:-1,FR: TCM Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/12527
+#EXTINF:-1,FR: RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2601
+#EXTINF:-1,FR: CANAL J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2619
+#EXTINF:-1,FR: Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2622
+#EXTINF:-1,FR: BBLACK AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18641
+#EXTINF:-1,FR: BBLACK Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18642
+#EXTINF:-1,FR: BRAVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18648
+#EXTINF:-1,FR: Extreme Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18655
+#EXTINF:-1,FR: GongMax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18667
+#EXTINF:-1,FR: GRAND LILLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18660
+#EXTINF:-1,FR: IL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18636
+#EXTINF:-1,FR: LA CHAINE METEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18666
+#EXTINF:-1,FR: Leman Bleu TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18659
+#EXTINF:-1,FR: Lucky Jack TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18650
+#EXTINF:-1,FR: TV8 MontBlanc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18651
+#EXTINF:-1,FR: TeleGrenoble Isere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18646
+#EXTINF:-1,FR: OM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18678
+#EXTINF:-1,FR: MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/31445
+#EXTINF:-1,FR: IDF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18640
+#EXTINF:-1,FR: OL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18645
+#EXTINF:-1,FR: ONE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18637
+#EXTINF:-1,FR: TV7 Colmar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18654
+#EXTINF:-1,FR: Rouge TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18664
+#EXTINF:-1,FR: Sundance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18661
+#EXTINF:-1,FR: TV7 Bordeax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18665
+#EXTINF:-1,FR: TVM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18635
+#EXTINF:-1,FR: VOSGUE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/18653
+#EXTINF:-1,FR: 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2608
+#EXTINF:-1,FR: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2623
+#EXTINF:-1,FR: OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2613
+#EXTINF:-1,FR: Gulli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2625
+#EXTINF:-1,FR: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2624
+#EXTINF:-1,FR: BE Curious HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2607
+#EXTINF:-1,FR: Comedie+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2604
+#EXTINF:-1,FR: CINE+ FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2611
+#EXTINF:-1,FR: CINE+ CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2612
+#EXTINF:-1,FR: CINE+ POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2610
+#EXTINF:-1,FR: Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2621
+#EXTINF:-1,FR: i24 News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/9015
+#EXTINF:-1,FR: Canal Play 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2614
+#EXTINF:-1,FR: Canal Play 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2615
+#EXTINF:-1,FR: Canal Play 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2616
+#EXTINF:-1,FR: Canal Play 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2617
+#EXTINF:-1,FR: Canal Play 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/2618
+#EXTINF:-1,FR: A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3345
+#EXTINF:-1,FR: A LA CARTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3346
+#EXTINF:-1,FR: A LA CARTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3347
+#EXTINF:-1,FR: A LA CARTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3348
+#EXTINF:-1,FR: A LA CARTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3349
+#EXTINF:-1,FR: A LA CARTE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3350
+#EXTINF:-1,FR: A LA CARTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3351
+#EXTINF:-1,FR: A LA CARTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3352
+#EXTINF:-1,FR: A LA CARTE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3353
+#EXTINF:-1,FR: A LA CARTE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/3354
+#EXTINF:-1,FR: Alsace TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34926
+#EXTINF:-1,FR: Antenne Reunion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34936
+#EXTINF:-1,FR: Bblack! Caribbean
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34930
+#EXTINF:-1,FR: BIP TV (Berry Issoudun Premiere)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34923
+#EXTINF:-1,FR: CPAC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34929
+#EXTINF:-1,FR: FASHION MIDNITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34928
+#EXTINF:-1,FR: Francophonie 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34932
+#EXTINF:-1,FR: ILTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34937
+#EXTINF:-1,FR: Masha et Michka 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34939
+#EXTINF:-1,FR: MATELE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34925
+#EXTINF:-1,FR: RT France HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34931
+#EXTINF:-1,FR: Tebeo TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34933
+#EXTINF:-1,FR: TVFIL78
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34938
+#EXTINF:-1,FR: TVPi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34935
+#EXTINF:-1,FR: TVR TV Rennes 35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34924
+#EXTINF:-1,FR: VIA MIRABELLE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34927
+#EXTINF:-1,FR: via Occitanie TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/34934
+#EXTINF:-1,FR: NJR Radio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16373
+#EXTINF:-1,FR: Cherie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16377
+#EXTINF:-1,FR: France Inter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16374
+#EXTINF:-1,FR: Rire & Chansons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16376
+#EXTINF:-1,FR: RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/richard/richard/16375
