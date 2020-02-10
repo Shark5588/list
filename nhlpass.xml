@@ -12,7 +12,7 @@
                    EXTINF:-1 tvg-logo=""
                    plugin://plugin.video.f4mTester/?url=-----------------------------------&amp;streamtype=HLS
                    
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png" group-title="Sports",[COLORgold]---- Sports Pass ----1/7/2020[/COLOR][COLORgreen] OnLine[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png" group-title="Sports",[COLORgold]---- Sports Pass ----2/10/2020[/COLOR][COLORgreen] OnLine[/COLOR]
 http://0.0.0.0:1234
 EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/ad/ALZb/nhl-center-ice-a-season-ticket-from-the-comfort-of-your-home-large-6.jpg",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] NHL CENTER ICE [/COLOR][COLORsnow]*****[/COLOR][COLORdeepskyblue] Game Time Only [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
@@ -21,10 +21,9 @@ https://www.youtube.com/watch?v=-owzoUgfAFQ&feature=youtu.be
 
 EXTINF:-1 tvg-logo="",[COLOR blue]Canadiens at Blue Jackets 7:00 PM ET ()[/COLOR] Testing
 http://bestnhl.com/nhl.php?feed=FRENCH&id=69938903&game=2019020296|Referer=http://bestnhl.com/embed.php?feed=FRENCH&id=69938903&game=2019020296
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-769[COLORdeepskyblue] OffLine[/COLOR]
-https://nl2.streamlive.to/freeabr/up4hk7flyud06x3/rtmp/up4hk7flyud06x3/chunks.m3u8?nimblesessionid=1150092&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxOSAxMjo0MTo1MCBBTSZoYXNoX3ZhbHVlPWNrYXAvUDhrVmZOclprL3ZBZFFTVWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJnN0cm1fbGVuPTIzJmlwPTIwNy4xNzkuMTQ4LjYy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-769
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-769[COLORdeepskyblue] ONLine[/COLOR]
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-769[COLORdeepskyblue] ONLine[/COLOR]
 https://nl2.streamlive.to/freeabr/up4hk7flyud06x3/rtmp/up4hk7flyud06x3/chunks.m3u8?nimblesessionid=1970514&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjAgMTI6MzQ6NDEgQU0maGFzaF92YWx1ZT1kQWhwRDJzb3VwalphQnBZZHNxZkxRPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD00Ny41NC4xNjYuMjMy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-769
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-770 [COLORdeepskyblue] OffLine[/COLOR]
 https://nl2.streamlive.to/freeabr/8ug3jaxwfh1q29k/rtmp/8ug3jaxwfh1q29k/chunks.m3u8?nimblesessionid=1150263&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxOSAxMjo1MTowMiBBTSZoYXNoX3ZhbHVlPWFJYVJ0Z1ZLSWVJd2l3NlBGYTBEVkE9PSZ2YWxpZG1pbnV0ZXM9MjQwJnN0cm1fbGVuPTIzJmlwPTIwNy4xNzkuMTQ4LjYy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-770
@@ -32,9 +31,9 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2
 https://nl2.streamlive.to/freeabr/h4o2vypyltg5nuo/rtmp/h4o2vypyltg5nuo/chunks.m3u8?nimblesessionid=1150936&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxOSAxOjIyOjExIEFNJmhhc2hfdmFsdWU9WHFLc1hDclBTRWlVb2N6OWVaVm1SUT09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9MjA3LjE3OS4xNDguNjI=|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-771
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-772 [COLORdeepskyblue] OnLine [/COLOR]
 https://nl2.streamlive.to/freeabr/sm1l9k7xp4tqpx2/rtmp/sm1l9k7xp4tqpx2/chunks.m3u8?nimblesessionid=1970772&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjAgMTI6Mzk6MjYgQU0maGFzaF92YWx1ZT1KRHluSzdnZlpKQjlCYlZBQVh1bXJ3PT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD00Ny41NC4xNjYuMjMy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-772
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-773 [COLORdeepskyblue] OffLine [/COLOR]
-https://nl2.streamlive.to/freeabr/sm1l9k7xp4tqpx2/rtmp/sm1l9k7xp4tqpx2/chunks.m3u8?nimblesessionid=984638&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAxOSAzOjA4OjI5IEFNJmhhc2hfdmFsdWU9eVNUTXpHRXJlOHNuNVFkNE9hcUlEdz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg==|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-773
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-774 [COLORdeepskyblue] OnLine [/COLOR]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-773 [COLORdeepskyblue] OnLine [/COLOR]
+https://nl2.streamlive.to/freeabr/1cxleah1degveo0/rtmp/1cxleah1degveo0/chunks.m3u8?nimblesessionid=5479435&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIwIDEyOjA1OjQzIEFNJmhhc2hfdmFsdWU9QThtWTNVS3J6bnd4ZkhpMDg0Ry8zQT09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg==|Referer=https://www.streamlive.to/view/78007/NHL-Center-Ice-773
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-774 [COLORdeepskyblue] OnLine [/COLOR]
 https://nl2.streamlive.to/freeabr/mz38n4j44qglfse/rtmp/mz38n4j44qglfse/chunks.m3u8?nimblesessionid=1971805&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjAgMTI6NTU6NDcgQU0maGFzaF92YWx1ZT1nTFVEbW9TV0VGdEhPc3lkdXFmeTNBPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD00Ny41NC4xNjYuMjMy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-774
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-775 [COLORdeepskyblue] OnLine NHL Montréal &amp Detroit [/COLOR]
 https://nl2.streamlive.to/freeabr/602xd0j8dg6tt3q/rtmp/602xd0j8dg6tt3q/chunks.m3u8?nimblesessionid=1971061&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjAgMTI6NDE6NDYgQU0maGFzaF92YWx1ZT1rSnNvSjNZaTJ6VURNL20rM2o4Ym5RPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD00Ny41NC4xNjYuMjMy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-775
@@ -42,7 +41,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2
 https://nl2.streamlive.to/freeabr/t70izoyvx9y622t/rtmp/t70izoyvx9y622t/chunks.m3u8?nimblesessionid=1023827&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOSA2OjQ2OjIwIFBNJmhhc2hfdmFsdWU9UG44cDdqSkk3aEJyUUlXekVOV2R4QT09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg=|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-776
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-777[COLORdeepskyblue] OffLine[/COLOR]
 https://nl2.streamlive.to/freeabr/bpijs6hnm8zzumr/rtmp/bpijs6hnm8zzumr/chunks.m3u8?nimblesessionid=1150129&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxOSAxMjo0MzoyNiBBTSZoYXNoX3ZhbHVlPXRIZ2ZPbXN1ZjM3MFdyTVM1MEZPMGc9PSZ2YWxpZG1pbnV0ZXM9MjQwJnN0cm1fbGVuPTIzJmlwPTIwNy4xNzkuMTQ4LjYy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-777
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-778[COLORdeepskyblue] OnLine[/COLOR]
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-778[COLORdeepskyblue] OnLine[/COLOR]
 https://nl2.streamlive.to/freeabr/47oa296ej9tdw2y/rtmp/47oa296ej9tdw2y/chunks.m3u8?nimblesessionid=1970679&wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjAgMTI6Mzc6MzUgQU0maGFzaF92YWx1ZT1tU2ZCM1hPbGtzT0R3WDdJTEVNUFNnPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0yMyZpcD00Ny41NC4xNjYuMjMy|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-778
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-779[COLORdeepskyblue] OffLine[/COLOR]
 https://nl2.streamlive.to/freeabr/vky5uvl9i8hu7cy/rtmp/vky5uvl9i8hu7cy/chunks.m3u8?nimblesessionid=1150739&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxOSAxOjEzOjQxIEFNJmhhc2hfdmFsdWU9Nzd1d0FjMjQ5eGgzaFIvQk9sNVdFUT09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9MjA3LjE3OS4xNDguNjI=|Referer=https://www.streamlive.to/view/78003/NHL-Center-Ice-779
@@ -54,8 +53,8 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2
 https://nl2.streamlive.to/freeabr/xhfvqjjsdtoywv4/rtmp/xhfvqjjsdtoywv4/chunks.m3u8?nimblesessionid=1024263&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOSA2OjU5OjUwIFBNJmhhc2hfdmFsdWU9TCtUbENNd2JCcVNteHdQSDd1TUx3QT09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg==|Referer=https://www.streamlive.to/view/78014/NHL-Center-Ice-782
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-783[COLORdeepskyblue]OffLine[/COLOR]
 https://nl2.streamlive.to/freeabr/tl6d635mn3cwc27/rtmp/tl6d635mn3cwc27/chunks.m3u8?nimblesessionid=1024155&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAxOSA2OjU2OjAyIFBNJmhhc2hfdmFsdWU9WEV3a1ozMm5kV3FlMVc0QUlqZ2Nxdz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg=|Referer=https://www.streamlive.to/view/78014/NHL-Center-Ice-783
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-785[COLORdeepskyblue]OffLine[/COLOR]
-https://nl2.streamlive.to/freeabr/qnmvw0wxmr49hwh/rtmp/qnmvw0wxmr49hwh/chunks.m3u8?nimblesessionid=984790&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAxOSAzOjE3OjE3IEFNJmhhc2hfdmFsdWU9Q05jQXB1VU5ZTlhBR2ZQMFdkZkI4Zz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg==|Referer=https://www.streamlive.to/view/78014/NHL-Center-Ice-785
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-785[COLORdeepskyblue]OnLine[/COLOR]
+https://nl2.streamlive.to/freeabr/qnmvw0wxmr49hwh/rtmp/qnmvw0wxmr49hwh/chunks.m3u8?nimblesessionid=5475310&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIwIDExOjU1OjQ3IFBNJmhhc2hfdmFsdWU9NDBUYmlGcGpjdU1GdnpkOUlTcjdtdz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg==|Referer=https://www.streamlive.to/view/78014/NHL-Center-Ice-785
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-786[COLORdeepskyblue]OffLine[/COLOR]
 https://nl2.streamlive.to/freeabr/yrzrkmtfwxlkpx1/rtmp/yrzrkmtfwxlkpx1/chunks.m3u8?nimblesessionid=984665&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTMvMjAxOSAzOjEwOjI3IEFNJmhhc2hfdmFsdWU9eE10RVlyQldlcC9FdUExZlRDN2F5Zz09JnZhbGlkbWludXRlcz0yNDAmc3RybV9sZW49MjMmaXA9NDcuNTQuMTY2LjIzMg==|Referer=https://www.streamlive.to/view/78014/NHL-Center-Ice-786
 
