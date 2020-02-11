@@ -786,36 +786,36 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1  tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/024041833534/NSEpmevNTKwNoSA/58299
+EXTINF:-1  tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1  tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/024041833534/NSEpmevNTKwNoSA/58300
+EXTINF:-1  tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1  tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png",TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/024041833534/NSEpmevNTKwNoSA/58301
+EXTINF:-1  tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png",TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/024041833534/NSEpmevNTKwNoSA/58302
+EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.sansat.net:25461/024041833534/NSEpmevNTKwNoSA/58303
+EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.111743.1413841492!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tsn-hockey.png" ,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/138
+EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/139
+EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/140
+EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/141
+EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/a71dF7Uwdzm0NwlgW/f950F9Uxvs10DTXqp/142
+EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 EXTINF:-1  tvg-logo="http://i63.tinypic.com/e8lorb.png" ,TSN 1 HD
