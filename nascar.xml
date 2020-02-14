@@ -36,8 +36,8 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Ra
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.22.82:8086/udp/127.0.0.1:56046
-#EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2OJPr5n
+EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
@@ -46,8 +46,8 @@ http://docs-6.gogleusercontent.host/live/fs1/chunks.m3u8|Referer=http://123tvnow
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 EXTINF:-1 tvg-logo="https://www.nbcsports.com/sites/nbcsports.com/files/460x250-nascar-america.jpg",[B][COLORred]******[/COLOR][COLORsnow] Motor Mouths[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://www.nbcsports.com/sites/nbcsports.com/files/460x250-nascar-america.jpg",[B][COLORred]******[/COLOR][COLORsnow] Motor Mouths[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2oodiNc
+EXTINF:-1 tvg-logo="https://www.nbcsports.com/sites/nbcsports.com/files/460x250-nascar-america.jpg",[B][COLORred]******[/COLOR][COLORsnow] Motor Mouths[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]******[/COLOR][COLORsnow] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
 http://docs-2.gogleusercontent.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-1/
 EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]******[/COLOR][COLORsnow] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
@@ -58,8 +58,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 #EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN1»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://66.northerniptv.ca:8000/1556F7UjGqdUsyf51/d35bF9UFHOBSLJvwO/138
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN1»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/312fF7Ui7Edsfc83O/e7efF9U0s6D9uo8xg/138
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN3»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]******[/COLOR][COLOR ff00afaf] Nascar Live stream «TSN3»[/COLOR][/B]
