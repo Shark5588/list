@@ -228,8 +228,8 @@ http://127.0.0.1:6878/ace/getstream?id=3ae4ac520a9a212ea1d9e4abf7a0c6be4fbfda4b&
 EXTINF:-1 tvg-logo="https://www.tvpolsat.info/images/news/fightbox.gif",[B][COLORgold]«FightBox HD» (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png"group-title="",[B][COLORgold]«Fox Sport Racing HD» (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png"group-title="",[B][COLORgold]«Fox Sport Racing HD» (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=fd945ef622d431bdec8ba818d2acc59d771bc9a0&.mp4
 
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509"group-title="",[B][COLORgold]«Fox Sport 506 HD» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://1b1b1327f8ec26e299a1b62f31d288442a0182f2&name=My+acestream+channel
