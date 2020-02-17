@@ -206,8 +206,8 @@ plugin://program.plexus/?mode=1&url=acestream://834b6c9753b8db9a0930929f16d6ee92
 EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png",[COLORgold][B]Eleven Sports 2| LALIGA Live[/B][/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://a4ea31028c1fcd0f495c4222cd0c59c61478a728&name=My+acestream+channel
 
-EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN»«US»«HD»  (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",[B][COLORgold]«ESPN»«US»«HD»  (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=a733fed4a3c21af598f28e1fff166b707fde62ad&.mp4
 EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN»«US»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=&.mp4
 EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN»«US»«HD»  (Ace stream)[/COLOR][/B]
