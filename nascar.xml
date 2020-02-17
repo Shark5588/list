@@ -8,12 +8,6 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]Live Events will be refreshed as they become available[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]back out of the Live Events List & re-enter to update[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
-
 EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR white][B]You cane Buy me Beer or Coffee would be nice for hours and hosting cost @ https://www.paypal.me/Shark55[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
@@ -25,15 +19,10 @@ http://onhockey.tv/acestream.php?channel=45059c50895ff683c1dc9c8a759da74c996abcb
 EXTINF:-1,Testing
 http://127.0.0.1:6878/ace/getstream?id=&.mp4
 ============================================================ NASCAR===================================================================
-
-
-EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_IGLjb9BmBfOZznUTs54unTGc0GQPqYXIoLw=s288-c-k-c0xffffffff-no-rj-mo" ,[B][COLORred]******[/COLOR][COLOR snow]  Auto Club test[/B][/COLOR]
-https://r1---sn-cxaa5ap5ou-tnwe.googlevideo.com/videoplayback?expire=1576144047&ei=T7jxXamIBb6J2LYPoe2t0Aw&ip=207.179.148.62&id=8oUnQIEhHXQ.1&itag=135&aitags=133%2C134%2C135%2C136%2C160%2C298&source=yt_live_broadcast&requiressl=yes&mm=44%2C29&mn=sn-cxaa5ap5ou-tnwe%2Csn-ab5l6nzd&ms=lva%2Crdu&mv=u&mvi=0&pcm2cms=yes&pl=23&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1576121816&fvip=1&keepalive=yes&fexp=23842630&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=ALgxI2wwRgIhAL0FvktG-bQWePHAQESMoeZoBofFU5byU3KBcnXpWD9TAiEAiZSpwf_NTaa_qQQOinO7MxJLd-6yNmANypAch2evrhM%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl&lsig=AHylml4wRgIhAOwt49hpDmzjyXuMtzEnN_3kLB6vOkD7LPHmn_17Gc6UAiEAh6NfeDoxiwvNvUPwGMG91QfLkZ2m-FiKRiKgQVuWjE4%3D&alr=yes&cpn=pzCKlrRHyGAQE0w-&cver=2.20191211.04.00&sq=1720&rn=12&rbuf=15504
-https://www.youtube.com/watch?v=8oUnQIEhHXQ|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
-
-
-EXTINF:-1 tvg-logo="" ,[B][COLORred]******[/COLOR][COLOR snow] Fox Sports Racing[/B][/COLOR]
-
+EXTINF:-1 tvg-logo="http://www.rockstartriplecrown.com/blogimageuploads/fox_sports_racing_us.jpg" ,[B][COLORred]******[/COLOR][COLOR snow] Fox Sports Racing[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]******[/COLOR][COLOR snow] «FS1»[/COLOR][/B]
+https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]******[/COLOR][COLOR snow] «FS1»[/COLOR][/B]
 https://e7.cdn4.us/ingest666/fs-one.m3u8|Referer=https://box-live.stream/stream/59534.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
