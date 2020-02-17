@@ -22,8 +22,8 @@ http://127.0.0.1:6878/ace/getstream?id=&.mp4
 EXTINF:-1 tvg-logo="http://www.rockstartriplecrown.com/blogimageuploads/fox_sports_racing_us.jpg" ,[B][COLORred]******[/COLOR][COLOR snow] Fox Sports Racing[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]******[/COLOR][COLOR snow] «FS1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]******[/COLOR][COLOR snow] «FS1»[/COLOR][/B]
+https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
+#EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow] «FS1»[/COLOR][/B]
 https://e7.cdn4.us/ingest666/fs-one.m3u8|Referer=https://box-live.stream/stream/59534.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.22.82:8086/udp/127.0.0.1:56046
@@ -33,7 +33,7 @@ EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]******[/COLOR][COLOR snow]Race Hub «»«FS1»[/COLOR][/B]
 http://docs-6.gogleusercontent.host/live/fs1/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-1/
-#EXTINF:0 group-title="USA"tvg-logo="",FOX HD
+#EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",FOX HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3520?code=103131497823984&key=38096
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
