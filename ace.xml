@@ -184,6 +184,9 @@ plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 3» HD (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 
+#EXTINF:-1 tvg-logo="https://ia800809.us.archive.org/29/items/BtSportEspnHd/bt%20sport%20espn%20hd.png"group-title="",[B][COLORgold]«BT ESPN» HD (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=04197cd688d0ed1879390c54859771ddac40cbfc&.mp4
+
 EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/864768284121497600/P2PpNiYm_400x400.jpg"group-title="",Bursaspor TV !
 plugin://program.plexus/?mode=1&url=acestream://41496d35636851550c8d7ae57686b06e53e88587&name=My+acestream+channel
 
