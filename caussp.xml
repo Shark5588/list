@@ -64,7 +64,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Netwo
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/djsunny22/HSGEUV775gg/4063.ts
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | SD[/B][/COLOR]
 
@@ -265,7 +265,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=►►►►►
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://bit.ly/2oodiNc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
@@ -379,8 +379,8 @@ EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-lo
 http://s4.11223344.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-nbcsn/
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 http://docs-2.gogleusercontent.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-1/
-EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+http://a1.megatv.live:8080/STREAM_476/mpegts?token=NsbUasbIN0bJXZO81zy1zVmzBymV24
 
 
 EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2017/09/nbcsbos_pri_fc_neg.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
