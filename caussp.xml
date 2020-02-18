@@ -393,8 +393,8 @@ EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sp
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports | California[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports | Chicago[/B][/COLOR]
-http://190.2.154.164/TV3600
+EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports | Chicago[/B][/COLOR]
+
 EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports |Chicago Plus[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -647,15 +647,23 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Setanta Sports   Setanta Sports   Setanta Sports   Setanta Sports     <<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+http://92.46.127.146:8080/SetantaSport/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
 http://178.124.183.14:80/hls/FWHTTL8YXU/variant.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+https://sportbar.biz/lba/123/g8/setantarus.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
+https://sportbar.biz/lba/123/g5/seteurasiaplus.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports +[/B][/COLOR]
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Sky Sports   Sky Sports  Sky Sports   Sky Sports   Sky Sports  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
