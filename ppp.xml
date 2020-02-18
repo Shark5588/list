@@ -29,27 +29,27 @@ http://127.0.0.1:6878/ace/getstream?id=9f4c1e88e5d4298f391b8b5314466406b49970ac&
 EXTINF:-1 tvg-logo="http://www.sputres.ru/images/2013/08/REDLIGHT_HD.jpg"  group-title="P2P TV1",Redlight HD 
 http://127.0.0.1:6878/ace/getstream?id=879adbc189269d07502688abdfe33283962142ff&.mp4
 ============================================================================
-#EXTINF:-1,Brazzers HD
+#EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/83722391150701612/D75C0C6046DC3A5C7BF3758DD35BA208FCF8DF8E/",Brazzers HD
 http://a1.megatv.live:8080/STREAM_335/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Brazzers en Español
+#EXTINF:-1 tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/83722391150701612/D75C0C6046DC3A5C7BF3758DD35BA208FCF8DF8E/",Brazzers en Español
 http://a1.megatv.live:8080/STREAM_334/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Culioneros en Colombia
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ae/b6/35/aeb635030bbc5c6d6387ae3b0a7d79ba.png",Culioneros en Colombia
 http://a1.megatv.live:8080/STREAM_336/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Neko-Chan Hentai
+#EXTINF:-1 tvg-logo="https://is1.sh-cdn.com/images/c/7/0/b/47574/thumb_3cb5d431.jpg",Neko-Chan Hentai
 http://a1.megatv.live:8080/STREAM_337/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Kimochi ii HD
+#EXTINF:-1 tvg-logo="https://f4.bcbits.com/img/a3222628825_16.jpg",Kimochi ii HD
 HD http://a1.megatv.live:8080/STREAM_355/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Playboy HD
+#EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg",Playboy TV(Ace stream)
 http://a1.megatv.live:8080/STREAM_499/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Playboy
+#EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg",Playboy TV(Ace stream)
 http://a1.megatv.live:8080/STREAM_498/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Sextreme
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Sextreme.jpg",Sextreme(Ace stream)
 http://a1.megatv.live:8080/STREAM_497/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Venus
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3b/18/c6/3b18c6c8756dcec653e34087d329ce89.jpg",Venus(Ace stream)
 http://a1.megatv.live:8080/STREAM_496/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Vivid TV 
-http://a1.megatv.live:8080/STREAM_1273/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
-#EXTINF:-1,Penthouse
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2017/12/Vivid-TV.jpg",Vivid Tv(Ace stream) 
+http://a1.megatv.live:8080/STREAM_1273/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png",Penthouse(Ace stream)
 http://a1.megatv.live:8080/STREAM_1307/mpegts?token=JFEWhWgRWWtvngbNQchOQdSUtbP8ZZHXZYZ71lpxB
 =======================================================================================
 #EXTINF:-1,+18: HOUSE 8
@@ -90,12 +90,6 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ae/b6/35/aeb635030bbc5c6d6387ae3b0a7d79ba.png" group-title="Adult TV", MILF HD
 http://live.redtraffic.xyz/milf.m3u8
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7e/Penthouse_hd.png" group-title="Adult TV", Penthouse Black
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=Shark;url=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg" group-title="Adult TV", Playboy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://srv02.evolucion03.net:25461/ITV/4RTYUI/79
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_Red_TV_Per�.png" group-title="Adult TV", RedTraffic 1
 http://live.redtraffic.xyz/blowjob.m3u8
