@@ -16,7 +16,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COL
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 2/17/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 2/19/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
@@ -374,13 +374,13 @@ https://dannyberg1.s3-accelerate.amazonaws.com/hls/lal.m3u8|Referer=http://crack
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN NBCSN   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-prime.tv:8080/o2QiLZ1ps9/xneqrrPm3l/2026
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/57b3F7UibBhjtuytv/202cF9U7E6AmPPAc6/170
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 http://s4.11223344.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-nbcsn/
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 http://docs-2.gogleusercontent.host/live/nbcsn/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sport-network-1/
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-http://190.2.154.164/TV3603
+EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+
 
 
 EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2017/09/nbcsbos_pri_fc_neg.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
@@ -603,8 +603,8 @@ plugin://plugin.video.f4mTester/?url=http://rdshdulive-lh.akamaihd.net/i/rdshdu1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  RDS Channel  RDS Channel  RDS Channel  RDS Channel  RDS Channel <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/deb2F7U5a1YAvFLKj/6d19F9UVcF5chCrmZ/2404
 
 #EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://n1.viptvclub.com:25443/VcwuDsNFUlE/SvZF1rz331/50082
@@ -615,8 +615,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/deb2F7U5a1YAvFLKj/6d19F9UVcF5chCrmZ/2405
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://n1.viptvclub.com:25443/VcwuDsNFUlE/SvZF1rz331/50081
@@ -839,20 +839,20 @@ EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-EXTINF:-1  tvg-logo="https://i.ibb.co/kmQhdbG/3522.png" ,TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1  tvg-logo="https://i.ibb.co/kmQhdbG/3522.png" ,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/deb2F7U5a1YAvFLKj/6d19F9UVcF5chCrmZ/138
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/dtD0WNy/3523.png" ,TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dtD0WNy/3523.png" ,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/deb2F7U5a1YAvFLKj/6d19F9UVcF5chCrmZ/139
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/BjKpQGR/3524.png",TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1  tvg-logo="https://i.ibb.co/BjKpQGR/3524.png",TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/deb2F7U5a1YAvFLKj/6d19F9UVcF5chCrmZ/140
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/W3Z0nBq/3525.png" ,TSN 4 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W3Z0nBq/3525.png" ,TSN 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/deb2F7U5a1YAvFLKj/6d19F9UVcF5chCrmZ/141
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/vDPbfsQ/3526.png" ,TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDPbfsQ/3526.png" ,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/deb2F7U5a1YAvFLKj/6d19F9UVcF5chCrmZ/142
 
 plugin://plugin.video.f4mTester/?url=--------------------------&amp;streamtype=HLS
 ================================================================================================================
