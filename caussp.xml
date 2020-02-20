@@ -333,7 +333,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  MSG  MSG  MSG  MSG  MSG  MSG MSG MSG MSG MSG MSG MSG  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-prime.tv:8080/o2QiLZ1ps9/xneqrrPm3l/22142
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/57b3F7UibBhjtuytv/202cF9U7E6AmPPAc6/10052
 EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
@@ -341,8 +341,8 @@ EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_
 EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | (match time)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG + | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-prime.tv:8080/o2QiLZ1ps9/xneqrrPm3l/22143
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG + | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG + | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -350,11 +350,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG 2+| USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-prime.tv:8080/o2QiLZ1ps9/xneqrrPm3l/22144
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG 2+| USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG 3+| USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-prime.tv:8080/o2QiLZ1ps9/xneqrrPm3l/22145
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG 3+| USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NBA TV  NBA TV  NBA TV  NBA TV  NBA TV  NBA TV   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -415,8 +415,8 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-prime.tv:8080/o2QiLZ1ps9/xneqrrPm3l/2029
+EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
@@ -429,17 +429,17 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | MAIN
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN MAINE Plus | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN Plus | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv-prime.tv:8080/o2QiLZ1ps9/xneqrrPm3l/2028
 EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN Plus | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN Plus | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
 http://190.2.154.164/TV3916
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
 http://190.2.154.164/TV3917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
 http://190.2.154.164/TV3918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN [Not 24/7 Online][/B][/COLOR]
 http://190.2.154.164/TV3920
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NFL Network  NFL Network  NFL Network  NFL Network  NFL Network <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
