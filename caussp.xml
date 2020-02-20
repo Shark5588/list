@@ -367,7 +367,7 @@ http://docs-1.gogleusercontent.host/live/nbatv/chunks.m3u8|Referer=http://123tvn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA Live | 24/7[/B][/COLOR]
 http://docs-3.gogleusercontent.host/live/nbatv/chunks.m3u8|Referer=http://123tvnow.com/watch/nba-tv/
 #EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/03/NBA-TNT-2016-e1458452578910.jpg",[B][COLORorange]NBA Live | 24/7[/B][/COLOR]
-http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
 EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/03/NBA-TNT-2016-e1458452578910.jpg",[B][COLORorange]NBA Live | 24/7[/B][/COLOR]
 https://dannyberg1.s3-accelerate.amazonaws.com/hls/lal.m3u8|Referer=http://crackstreams.ga/nba/tnt/1.php
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
