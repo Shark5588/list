@@ -12,10 +12,10 @@ EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png"
 http://0.0.0.0:1234
 
 EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]https://www.paypal.me/Shark55[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
+http://0.0.0.0:1234  https://www.pscp.tv/NASCAR/1YpKkQPNXnPJj?t=1m43s
 ===============================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORblue] Nascar Live stream (Replay)[/COLOR][/B]
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/7lo_BhTXyhIVyoBpjkciSTfjA3vePIeX8gSGyYbfVJkYKYx9hbe1dm46ssqP95hp9cvXDz0zEaKbz3bEHf7hQQ/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJIZWlnaHQiOjQ4MCwiS2JwcyI6MTAwMCwiV2lkdGgiOjg0OH0.RFzmPpRYVt-M5xPGoWoifZwAR5Wj0QbokQ2FVsxVt9c/playlist_16864773364502330550.m3u8?type=replay
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/VIvsC_rdKyXdRaBtLcx2ez3zfvpj5W9OcvB4FtIvCoojO3VL39E1MBu5u_g6dykE31Jj3b1AUrgHC_IUWaDA3A/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/chunk_1582482162297887967_75_a.ts
 ============================================================ NASCAR===================================================================
 EXTINF:-1 tvg-logo="http://www.rockstartriplecrown.com/blogimageuploads/fox_sports_racing_us.jpg" ,[B][COLORred]•[/COLOR][COLORsnow] Fox Sports Racing[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
