@@ -89,8 +89,8 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | SD[/B][/COLOR]
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/djsunny22/HSGEUV775gg/4068.ts
+EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
 https://sportbar.biz/lba/123/g7/btse.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
@@ -100,8 +100,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORoran
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/4902784975/4855820847/55798.ts
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/cbsshq.m3u8|Referer=https://box-live.stream/stream/53069.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 
@@ -190,8 +190,8 @@ http://hls.123tv.live/ch/ail-rxuZ9fIQ5lZDi_nypA/1581198251/lghn.m3u8|Referer=htt
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 http://hls.123tv.live/ch/fM56BiOMzpOKONADAJc6FA/1581197685/sec.m3u8|Referer=http://123tvnow.com/watch/sec-network/
-#EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtiptv.xyz:25461/live/4902784975/4855820847/55684.ts
+EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://box-live.stream/stream/46070.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
