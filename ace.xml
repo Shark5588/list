@@ -320,8 +320,8 @@ plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 EXTINF:-1,TEST
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 http://127.0.0.1:6878/ace/getstream?url=
-EXTINF:-1,TEST
-plugin://program.plexus/?mode=1&url=acestream://d9a23c3aaa4898b67ed6f160e4ef2f306b82b0af&name=My+acestream+channel
+#EXTINF:-1,TEST
+plugin://program.plexus/?mode=1&url=acestream://793b56ae85af194bd8661f5a17bcfac28eba4453&name=My+acestream+channel
 EXTINF:-1,TEST
 plugin://program.plexus/?mode=1&url=acestream://1ca225381e0c66492603dba30ecc3f730aeb9da9&name=My+acestream+channel
 
