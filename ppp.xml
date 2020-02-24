@@ -11,8 +11,8 @@ http://127.0.0.1:6878/ace/getstream?id=42410e570ff0e43b42b7c7322ebc468a5825fd25&
 EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bt1kc73cSb8/hqdefault.jpg"  group-title="P2P TV1",Hustler TV (Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=&.mp4
 
-EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg"  group-title="P2P TV1",Playboy TV(Ace stream)
-http://127.0.0.1:6878/ace/getstream?id=<793b56ae85af194bd8661f5a17bcfac28eba4453&.mp4
+#EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg"  group-title="P2P TV1",Playboy TV(Ace stream)
+http://127.0.0.1:6878/ace/getstream?id=793b56ae85af194bd8661f5a17bcfac28eba4453&.mp4&.mp4
 
 EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/349.png"  group-title="P2P TV1",Brazzers TV Europe (Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=d035036a8c34608bafbe25d97eeccfa53ad0035b&.mp4
