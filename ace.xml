@@ -284,8 +284,8 @@ plugin://program.plexus/?mode=1&url=acestream://================================
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQtK_VMTXnx3ylG7eAWEQdubzSPyLCKTlSHb76S_U57yfgddT"group-title="",[B][COLORgold]«Setanta Live» (Spanish)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=7054a00576c93804dc07e2e3dc8f429b8f2cc276&.mp4
 
-EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/839_300.png"group-title="",[B][COLORgold]«Setanta Sports+» (Ace stream) «Rus»[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=3655f56f4c8d1b12b8320ecf7a9df5daaf23c7a9&.mp4
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/839_300.png"group-title="",[B][COLORgold]«Setanta Sports+» (Ace stream) «Rus»[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=b919b8b349c177783f63c4ed0e6ee72848c5bb59&.mp4
 
 EXTINF:-1 tvg-logo="http://gen-tec.co/gentecwiz/OTTtv/logo/uk%20sports%20and%20movies%20/SKY%20SPORT%20MAIN%20EVENT%20HD.png"group-title="",[B][COLORgold]«SKY SPORT MAINEVENT» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://81d81a9a25b02de06467fea6a145b76651a790dc&name=My+acestream+channel
