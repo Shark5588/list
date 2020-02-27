@@ -957,23 +957,18 @@ EXTINF:-1,ACETest
 plugin://program.plexus/?mode=1&url=acestream://43b513e2cdc2eaa73fc4dc0da15888da9e60a358&name=My+acestream+channel
 EXTINF:-1,ACETest
 http://127.0.0.1:6878/ace/getstream?id=a91bba0ef1de17520dc10966c0c866cd&.mp4
-
-plugin://plugin.video.live.streamspro/?url=
-plugin://plugin.video.live.streamspro/?mode=1&url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 plugin://plugin.video.f4mTester/?url=►►►►►►►►◄◄◄◄◄◄◄◄&amp;streamtype=HLSRETRY&amp;name=Link
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=►►►►►►►►◄◄◄◄◄◄◄◄&amp;name=Link
 plugin://plugin.video.f4mTester/?url=►►►►►►►►◄◄◄◄◄◄◄◄&amp;streamtype=TSDOWNLOADER
 |User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e
-|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0 Mobile/10A5376e
-|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
-|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e 
+|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0 Mobile/10A5376e
 ?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0 Mobile/10A5376e
 
 
-#EXTINF:-1,Test 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/02.m3u8
+EXTINF:-1,Test 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 
 
