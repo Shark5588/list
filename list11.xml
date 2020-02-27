@@ -7,10 +7,196 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/16/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/26/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 ################################################################ LIST 11 ###########################################################################################
 
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: KURDI
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: EL ARABIA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TURK:TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_650_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-Star Tv-
+http://195.142.1.211:4002/udp/224.2.2.1:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-NTV-
+http://195.142.1.211:4002/udp/224.2.2.2:10001
+#EXTINF:0 tvg-id="DMAX.it" group-title="TURKEY",DMAX HD
+http://195.142.1.211:4002/udp/224.2.2.3:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-TV8 HD-
+http://195.142.1.211:4002/udp/224.2.2.9:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-Tv8-5 HD-
+http://195.142.1.211:4002/udp/224.2.2.10:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-a HBR-
+http://195.142.1.211:4002/udp/224.2.2.17:10001
+#EXTINF:0 tvg-id="ASpor.tr" group-title="TURKEY",a sport
+http://195.142.1.211:4002/udp/224.2.2.18:10001
+#EXTINF:0 tvg-id="fox-hd" group-title="TURKEY",FOX HD
+http://195.142.1.211:4002/udp/224.2.2.33:10001
+#EXTINF:0 tvg-id="disney" group-title="TURKEY",Disney Channel
+http://195.142.1.211:4002/udp/224.2.2.41:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-FBTV-
+http://195.142.1.211:4002/udp/224.2.2.49:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Beyaz HD
+http://195.142.1.211:4002/udp/224.2.2.57:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Dyanet TV HD
+http://195.142.1.211:4002/udp/224.2.2.58:10001
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="TURKEY",TGRT Haber
+http://195.142.1.211:4002/udp/224.2.2.73:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-
+http://195.142.1.211:4002/udp/224.2.2.105:10001
+#EXTINF:0 tvg-id="UlkeTV.tr" group-title="TURKEY",ULKE HD
+http://195.142.1.211:4002/udp/224.2.3.2:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-Kanal 7 HD-
+http://195.142.1.211:4002/udp/224.2.3.1:10001
+#EXTINF:0 tvg-id="ATV.am" group-title="TURKEY",atv HD
+http://195.142.1.211:4002/udp/224.2.3.9:10001
+#EXTINF:0 tvg-id="TV2.tr" group-title="TURKEY",teve2 HD
+http://195.142.1.211:4002/udp/224.2.3.19:10001
+#EXTINF:0 tvg-id="cnn" group-title="TURKEY",CNN HD
+http://195.142.1.211:4002/udp/224.2.3.18:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-Kanal D-
+http://195.142.1.211:4002/udp/224.2.3.17:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",HABER HD
+http://195.142.1.211:4002/udp/224.2.3.21:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",CANLI HD
+http://195.142.1.211:4002/udp/224.2.3.22:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR-SHOW TV-
+http://195.142.1.211:4002/udp/224.2.3.33:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SHOW TURK-
+http://195.142.1.211:4002/udp/224.2.3.65:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",Radio
+http://195.142.1.211:4002/udp/224.2.3.78:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",SPORTS TV-
+http://195.142.1.211:4002/udp/224.2.3.82:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",halk
+http://195.142.1.211:4002/udp/224.2.3.89:10001
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="TURKEY",TRT COCUK HD
+http://195.142.1.211:4002/udp/224.2.3.105:10001
+#EXTINF:0 tvg-id="TRT1.tu" group-title="TURKEY",TRT1
+http://195.142.1.211:4002/udp/224.2.3.106:10001
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="TURKEY",TRT TURK HD
+http://195.142.1.211:4002/udp/224.2.3.111:10001
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",EUROSTAR
+http://195.142.1.211:4002/udp/224.2.3.114:10001
+#EXTINF:0 tvg-id="FXHD.mx" group-title="TURKEY",FX HD
+http://195.142.1.211:4002/udp/224.2.4.1:10005
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="TURKEY",CNN TURK SD
+https://srvc.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: ROMAN TV
+http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: AILE TV
+http://ms.n1.tvkur.noccdn.com:80/cdn/558d0f34918a2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv -2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="TURKEY",atv
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",atv -4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",ATV HD (AZ)
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+
+
+#EXTINF:0 tvg-id="avi" group-title="USA=",▁▂▃▅▆▇★☀二【« USA= »】二☀★▇▆▅▃▂▁
+https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+#EXTINF:0 tvg-id="ext" group-title="USA=",EN: HOLLYWOOD MOVIES 3
+http://aldirect.hls.huya.com:80/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA=",EN: DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="USA=",EN: CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA=",EN: SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA=",EN: BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+
+
+#EXTINF:0 tvg-id="avi" group-title="HOLLAND",▁▂▃▅▆▇★☀二【« HOLLAND»】二☀★▇▆▅▃▂▁
+https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL: HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL: Norderney192
+http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:OMAROEB ML5
+http://stream.ml5.nl:8081/3ml/livetv/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:OMAROEB WEST
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:omropfryslan
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:omropfryslan+
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/3e8fe3c1-0868-49b0-b2f3-7dd6eb30651f/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="HOLLAND",NL:RTV Oost
+https://mediacdn.rtvoost.nl/live/rtvoost/tv-oost/46ce631a-6155-4fcc-ac24-2b2e252f4f94/index.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-id="avi" group-title="SWEDEN»",▁▂▃▅▆▇★☀二【« SWEDEN»»】二☀★▇▆▅▃▂▁
+https://ia601508.us.archive.org/3/items/xiaoyingvideo1566726043720hd/XiaoYing_Video_1566726043720_HD.mp4
+#EXTINF:0 tvg-id="ext" group-title="SWEDEN»",SW:NORWAY
+http://bgo1.cdn.s3m.no/fs/live/live/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SWEDEN»",SW:kanal10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SWEDEN»",SW:kkr
+http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SWEDEN»",SW: OPPNA KANALEN
+http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SWEDEN»",SW:STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TV 5+
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",tv monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="FRANCE",FR: TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 tvg-id="VosgesTV.fr" group-title="FRANCE",FR: VOSGES TV
+http://vosgestv.hdr-tv.com/live/vosgestv/livestream/chunklist_w1024246816.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TRACE MZIKI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:IL TV
+http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8
+#EXTINF:0 tvg-id="France24.fr" group-title="FRANCE",FR:france 24
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:KTO TV
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:BIP TV
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:DIEU TV
+http://wzahighwinds.katapy.com/DIEUTVLIVE/smil:dieutv.smil/chunklist_w158654035_b2256000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:LA CHAINE NORMANDE
+http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR:GONG TV LOCAL
+http://ec.playmedia.fr/gong-base/live/chunklist_w33486847.m3u8
 
