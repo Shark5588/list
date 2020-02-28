@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/26/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/28/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -18,741 +18,847 @@ http://0.0.0.0:1234
 
 
 #EXTM3U
-#EXTINF:-1,UNICABLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/10
-#EXTINF:-1,FOX SPORTS 2 MEXICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/12
-#EXTINF:-1,FOX SPORTS 3 MEXICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/13
-#EXTINF:-1,DIRECTV SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/14
-#EXTINF:-1,DIRECTV SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/15
-#EXTINF:-1,TUDN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/17
-#EXTINF:-1,LATINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/18
-#EXTINF:-1,AMERICA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/19
-#EXTINF:-1,BEIN LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/20
-#EXTINF:-1,GOL PERU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/21
-#EXTINF:-1,TNT SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/22
-#EXTINF:-1,FOX SPORTS PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/23
-#EXTINF:-1,TYC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/24
-#EXTINF:-1,AZTECA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/25
-#EXTINF:-1,CANAL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/26
-#EXTINF:-1,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/27
-#EXTINF:-1,HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/28
-#EXTINF:-1,HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/29
-#EXTINF:-1,FOX PREMIUM ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/31
-#EXTINF:-1,FOX PREMIUM SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/32
-#EXTINF:-1,WARNER BROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/34
-#EXTINF:-1,TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/35
-#EXTINF:-1,FOX CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/40
-#EXTINF:-1,TELEMUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/45
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/46
-#EXTINF:-1,HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/47
-#EXTINF:-1,PASIONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/48
-#EXTINF:-1,AZ MUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/49
-#EXTINF:-1,GALAVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/50
-#EXTINF:-1,TLNOVELAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/51
-#EXTINF:-1,LAS ESTRELLAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/52
-#EXTINF:-1,FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/53
-#EXTINF:-1,FXM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/54
-#EXTINF:-1,FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/55
-#EXTINF:-1,GOLDEN PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/56
-#EXTINF:-1,GOLDEN EDGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/57
-#EXTINF:-1,GOLDEN PREMIER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/58
-#EXTINF:-1,CANAL SONY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/59
-#EXTINF:-1,AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/60
-#EXTINF:-1,MAXPRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/61
-#EXTINF:-1,GOLDEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/62
-#EXTINF:-1,UNIVERSAL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/63
-#EXTINF:-1,MULTIPREMIER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/65
-#EXTINF:-1,AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/66
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/67
-#EXTINF:-1,COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/68
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/69
-#EXTINF:-1,NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/70
-#EXTINF:-1,ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/71
-#EXTINF:-1,DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/73
-#EXTINF:-1,DISCOVERY HYH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/74
-#EXTINF:-1,ID INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/75
-#EXTINF:-1,DISCOVERY A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/76
-#EXTINF:-1,EVERYTHING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/77
-#EXTINF:-1,DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/79
-#EXTINF:-1,NICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/81
-#EXTINF:-1,NICK 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/82
-#EXTINF:-1,NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/83
-#EXTINF:-1,NICKTOONS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/84
-#EXTINF:-1,CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/85
-#EXTINF:-1,BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/86
-#EXTINF:-1,TOONCAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/87
-#EXTINF:-1,DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/88
-#EXTINF:-1,VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/89
-#EXTINF:-1,VH1 CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/90
-#EXTINF:-1,TERROR 24/7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/91
-#EXTINF:-1,SOUTH PARK 24/7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/92
-#EXTINF:-1,ALF 24/7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/93
-#EXTINF:-1,DRAGON BALL SUPER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/94
-#EXTINF:-1,DISCOVERY TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/95
-#EXTINF:-1,ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/96
-#EXTINF:-1,ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/97
-#EXTINF:-1,ESPN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/98
-#EXTINF:-1,ESPN PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/99
-#EXTINF:-1,FOX SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/100
-#EXTINF:-1,FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/101
-#EXTINF:-1,FOX SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/102
-#EXTINF:-1,FOX SPORTS MEXICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/103
-#EXTINF:-1,ESPN MEXICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/104
-#EXTINF:-1,ESPN 2 MEXICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/105
-#EXTINF:-1,ESPN 3 MEXICO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/106
-#EXTINF:-1,Teleantillas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/107
-#EXTINF:-1,TeleMicro 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/108
-#EXTINF:-1,Antena 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/109
-#EXTINF:-1,Color Visión Canal 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/110
-#EXTINF:-1,MAIMON TV CANAL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/111
-#EXTINF:-1,Yuna  Vision 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/392
-#EXTINF:-1,El Gourmet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/396
-#EXTINF:-1,ESPN DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/397
-#EXTINF:-1,GOL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/398
-#EXTINF:-1,TELEFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/399
-#EXTINF:-1,AFIZZIONADOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/400
-#EXTINF:-1,CDF PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/401
-#EXTINF:-1,EL TRECE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/403
-#EXTINF:-1,HISTORY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/404
-#EXTINF:-1,UNIVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/412
-#EXTINF:-1,FOX PREMIUM MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/415
-#EXTINF:-1,FOX PREMIUM FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/416
-#EXTINF:-1,Imagen TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/423
-#EXTINF:-1,Azteca uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/424
-#EXTINF:-1,Unimas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/425
-#EXTINF:-1,CNN ESPAÑOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/426
-#EXTINF:-1,TELEHIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/427
-#EXTINF:-1,TeleUniverso
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/428
-#EXTINF:-1,Telesistema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/438
-#EXTINF:-1,Dpelicula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/439
-#EXTINF:-1,WWE NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/441
-#EXTINF:-1,Cine latino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/440
-#EXTINF:-1,Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/442
-#EXTINF:-1,ISAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/444
-#EXTINF:-1,TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/445
-#EXTINF:-1,AZ CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/446
-#EXTINF:-1,AZTECA MAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/447
-#EXTINF:-1,RT NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/448
-#EXTINF:-1,TVC DEPORTES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/449
-#EXTINF:-1,DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/450
-#EXTINF:-1,DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/451
-#EXTINF:-1,PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/454
-#EXTINF:-1,NAT GEO KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/455
-#EXTINF:-1,BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/456
-#EXTINF:-1,LOCOMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/457
-#EXTINF:-1,MTV HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/458
-#EXTINF:-1,BANDAMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/459
-#EXTINF:-1,HTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.0.58:25461/prueba/prueba/461
-#EXTINF:-1,Los Boxtrolls - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/37.mp4
-#EXTINF:-1,Khumba - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/38.mp4
-#EXTINF:-1,Batman: El asalto de Arkham - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/39.mp4
-#EXTINF:-1,Toy Story, el tiempo perdido - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/112.mp4
-#EXTINF:-1,Los Minions - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/113.mp4
-#EXTINF:-1,Del revés - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/114.mp4
-#EXTINF:-1,Río 2 - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/115.mp4
-#EXTINF:-1,Dragon Nest: Warriors' Dawn - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/116.mp4
-#EXTINF:-1,Las aventuras de Peabody y Sherman - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/117.mp4
-#EXTINF:-1,Aviones: Equipo de rescate - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/118.mp4
-#EXTINF:-1,Guardianes de Oz - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/122.mp4
-#EXTINF:-1,Barbie y Sus Hermanas: Perritos en Busca del Tesoro - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/123.mp4
-#EXTINF:-1,Los Picapiedra & WWE: Stone Age Smackdown! - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/124.mp4
-#EXTINF:-1,Hotel Transilvania 2 - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/125.mp4
-#EXTINF:-1,El libro de la vida - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/126.mp4
-#EXTINF:-1,Carlitos y Snoopy: La película de Peanuts - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/127.mp4
-#EXTINF:-1,El viaje de Arlo - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/128.mp4
-#EXTINF:-1,LEGO DC Comics Super Heroes: La liga de la justicia - La invasión de Brainiac - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/132.mp4
-#EXTINF:-1,Los Caballeros del Zodiaco: La Leyenda del Santuario - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/135.mp4
-#EXTINF:-1,Barbie: Equipo de Espías - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/138.mp4
-#EXTINF:-1,Kung Fu Panda 3 - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/140.mp4
-#EXTINF:-1,Los Pingüinos de Madagascar - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/141.mp4
-#EXTINF:-1,Zootrópolis - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/142.mp4
-#EXTINF:-1,La Liga de la Justicia contra la Liga de Bizarro - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/143.mp4
-#EXTINF:-1,Enredados - 2010
-http://23.237.0.58:25461/movie/prueba/prueba/146.mp4
-#EXTINF:-1,Ice Age 4: La formación de los continentes - 2012
-http://23.237.0.58:25461/movie/prueba/prueba/148.mp4
-#EXTINF:-1,Frozen: el reino del hielo - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/149.mp4
-#EXTINF:-1,La Liga de la Justicia: Guerra - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/150.mp4
-#EXTINF:-1,Lluvia de albóndigas 2 - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/151.mp4
-#EXTINF:-1,Batman vs Robin - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/152.mp4
-#EXTINF:-1,Bob Esponja: Un héroe fuera del agua - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/153.mp4
-#EXTINF:-1,Los Increíbles - 2004
-http://23.237.0.58:25461/movie/prueba/prueba/154.mp4
-#EXTINF:-1,Marianne y la pócima del amor (Strange Magic) - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/156.mp4
-#EXTINF:-1,Batman: La broma asesina - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/159.mp4
-#EXTINF:-1,¡Scooby Doo! conoce a Kiss: Misterio a ritmo de Rock and Roll - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/164.mp4
-#EXTINF:-1,¡Canta! - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/182.mp4
-#EXTINF:-1,Capitán Calzoncillos: Su primer peliculón - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/187.mp4
-#EXTINF:-1,My Little Pony: La película - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/196.mp4
-#EXTINF:-1,Gantz: O - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/198.mp4
-#EXTINF:-1,Escuadron Suicida: Deuda infernal - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/202.mp4
-#EXTINF:-1,Joker - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/203.mp4
-#EXTINF:-1,John Wick: Capítulo 3 - Parabellum - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/206.mp4
-#EXTINF:-1,Rambo: Last Blood - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/207.mp4
-#EXTINF:-1,Los ángeles de Charlie - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/208.mp4
-#EXTINF:-1,No Game No Life: Zero - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/209.mp4
-#EXTINF:-1,La villana - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/210.mp4
-#EXTINF:-1,El extranjero - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/212.mp4
-#EXTINF:-1,Manou - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/213.mp4
-#EXTINF:-1,Noche de venganza - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/214.mp4
-#EXTINF:-1,Revolt - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/215.mp4
-#EXTINF:-1,Cars - 2006
-http://23.237.0.58:25461/movie/prueba/prueba/216.mp4
-#EXTINF:-1,Cars 2 - 2011
-http://23.237.0.58:25461/movie/prueba/prueba/217.mp4
-#EXTINF:-1,Fullmetal Alchemist - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/219.mp4
-#EXTINF:-1,Boku no Hero Academia: Dos héroes - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/220.mp4
-#EXTINF:-1,Triple 9 - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/221.mp4
-#EXTINF:-1,La oveja Shaun: La película - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/222.mp4
-#EXTINF:-1,El señor de los anillos II: Las dos torres - 2002
-http://23.237.0.58:25461/movie/prueba/prueba/223.mp4
-#EXTINF:-1,El señor de los anillos III: El retorno del Rey - 2003
-http://23.237.0.58:25461/movie/prueba/prueba/224.mp4
-#EXTINF:-1,Marvel Rising: Heart of Iron - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/225.mp4
-#EXTINF:-1,Rocko's Modern Life: Static Cling - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/226.mp4
-#EXTINF:-1,Hércules - 1997
-http://23.237.0.58:25461/movie/prueba/prueba/227.mp4
-#EXTINF:-1,National Geographic - Beyond the Movie: The Fellowship of the Ring - 2001
-http://23.237.0.58:25461/movie/prueba/prueba/228.mp4
-#EXTINF:-1,Agente 00-Gato - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/229.mp4
-#EXTINF:-1,'71 - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/230.mp4
-#EXTINF:-1,Ruben Brandt, coleccionista - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/231.mp4
-#EXTINF:-1,Astérix - El secreto de la poción mágica - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/232.mp4
-#EXTINF:-1,211 - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/233.mp4
-#EXTINF:-1,Caminando entre dinosaurios - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/234.mp4
-#EXTINF:-1,La LEGO película - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/235.mp4
-#EXTINF:-1,Tarzán - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/236.mp4
-#EXTINF:-1,Jugada salvaje - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/237.mp4
-#EXTINF:-1,Rango - 2011
-http://23.237.0.58:25461/movie/prueba/prueba/238.mp4
-#EXTINF:-1,Dragon Ball Z: La batalla de los dioses - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/239.mp4
-#EXTINF:-1,Aladdin (Aladino) - 1992
-http://23.237.0.58:25461/movie/prueba/prueba/240.mp4
-#EXTINF:-1,Up - 2009
-http://23.237.0.58:25461/movie/prueba/prueba/241.mp4
-#EXTINF:-1,Toy Story 2 - 1999
-http://23.237.0.58:25461/movie/prueba/prueba/242.mp4
-#EXTINF:-1,Toy Story - 1995
-http://23.237.0.58:25461/movie/prueba/prueba/243.mp4
-#EXTINF:-1,El rey león - 1994
-http://23.237.0.58:25461/movie/prueba/prueba/244.mp4
-#EXTINF:-1,Toy Story 3 - 2010
-http://23.237.0.58:25461/movie/prueba/prueba/245.mp4
-#EXTINF:-1,Resident Evil: Venganza - 2012
-http://23.237.0.58:25461/movie/prueba/prueba/246.mp4
-#EXTINF:-1,Point Break - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/247.mp4
-#EXTINF:-1,Cómo entrenar a tu dragón - 2010
-http://23.237.0.58:25461/movie/prueba/prueba/248.mp4
-#EXTINF:-1,Buscando a Nemo - 2003
-http://23.237.0.58:25461/movie/prueba/prueba/249.mp4
-#EXTINF:-1,Día de patriotas - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/250.mp4
-#EXTINF:-1,El golpe del siglo - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/251.mp4
-#EXTINF:-1,Los pitufos 2 - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/252.mp4
-#EXTINF:-1,Aviones - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/253.mp4
-#EXTINF:-1,Invicto - 2002
-http://23.237.0.58:25461/movie/prueba/prueba/254.mp4
-#EXTINF:-1,La leyenda de Klaus - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/255.mp4
-#EXTINF:-1,Invicto 3: Redención - 2010
-http://23.237.0.58:25461/movie/prueba/prueba/256.mp4
-#EXTINF:-1,Tinkerbell Pirate Shorts - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/257.mp4
-#EXTINF:-1,Angry Birds 2: La Película - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/258.mp4
-#EXTINF:-1,Dragon Ball Super: Broly - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/259.mp4
-#EXTINF:-1,Dragon Ball Z: La resurrección de Freezer - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/260.mp4
-#EXTINF:-1,Hermosas criaturas - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/261.mp4
-#EXTINF:-1,Batman: La LEGO película - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/262.mp4
-#EXTINF:-1,La vida secreta de Walter Mitty - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/263.mp4
-#EXTINF:-1,Dioses de Egipto - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/264.mp4
-#EXTINF:-1,Incoming - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/265.mp4
-#EXTINF:-1,Bad Samaritan - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/266.mp4
-#EXTINF:-1,La bella y la bestia - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/267.mp4
-#EXTINF:-1,Insidious: la última llave - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/268.mp4
-#EXTINF:-1,Dredd - 2012
-http://23.237.0.58:25461/movie/prueba/prueba/270.mp4
-#EXTINF:-1,Gangster Squad: Brigada de élite - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/272.mp4
-#EXTINF:-1,La jungla: un buen día para morir - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/273.mp4
-#EXTINF:-1,Los forajidos de Baytown - 2012
-http://23.237.0.58:25461/movie/prueba/prueba/274.mp4
-#EXTINF:-1,El último desafío - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/275.mp4
-#EXTINF:-1,Objetivo: La Casa Blanca - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/276.mp4
-#EXTINF:-1,Oblivion - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/277.mp4
-#EXTINF:-1,Una bala en la cabeza - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/278.mp4
-#EXTINF:-1,Guerra mundial Z - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/279.mp4
-#EXTINF:-1,Escuadrón rojo - 2012
-http://23.237.0.58:25461/movie/prueba/prueba/282.mp4
-#EXTINF:-1,Dolor y dinero - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/283.mp4
-#EXTINF:-1,Iron Man 3 - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/284.mp4
-#EXTINF:-1,Hansel & Gretel: Cazadores de brujas - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/285.mp4
-#EXTINF:-1,Fast & Furious 6 - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/286.mp4
-#EXTINF:-1,After Earth - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/287.mp4
-#EXTINF:-1,Lobezno inmortal - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/288.mp4
-#EXTINF:-1,RED 2 - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/289.mp4
-#EXTINF:-1,Elysium - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/290.mp4
-#EXTINF:-1,Bienvenidos al fin del mundo - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/291.mp4
-#EXTINF:-1,Caza humana - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/292.mp4
-#EXTINF:-1,El juego de Ender - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/293.mp4
-#EXTINF:-1,2 Guns - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/294.mp4
-#EXTINF:-1,Transformers: El lado oscuro de la Luna - 2011
-http://23.237.0.58:25461/movie/prueba/prueba/295.mp4
-#EXTINF:-1,Thor: El mundo oscuro - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/296.mp4
-#EXTINF:-1,Thor - 2011
-http://23.237.0.58:25461/movie/prueba/prueba/297.mp4
-#EXTINF:-1,Los juegos del hambre: En llamas - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/298.mp4
-#EXTINF:-1,Las crónicas de Riddick - 2004
-http://23.237.0.58:25461/movie/prueba/prueba/299.mp4
-#EXTINF:-1,Plan de escape - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/300.mp4
-#EXTINF:-1,Objetivo: Washington D.C. - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/301.mp4
-#EXTINF:-1,La leyenda del samurái: 47 Ronin - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/302.mp4
-#EXTINF:-1,X-Men: Días del futuro pasado - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/303.mp4
-#EXTINF:-1,TRON: Legacy - 2010
-http://23.237.0.58:25461/movie/prueba/prueba/304.mp4
-#EXTINF:-1,Transformers: La era de la extinción - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/305.mp4
-#EXTINF:-1,The Amazing Spider-Man 2: El poder de Electro - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/306.mp4
-#EXTINF:-1,Redada asesina 2 - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/307.mp4
-#EXTINF:-1,Monuments Men - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/308.mp4
-#EXTINF:-1,El Hobbit: La desolación de Smaug - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/309.mp4
-#EXTINF:-1,Malavita - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/310.mp4
-#EXTINF:-1,Fast & Furious: Hobbs & Shaw - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/311.mp4
-#EXTINF:-1,La momia - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/312.mp4
-#EXTINF:-1,Jumanji: Bienvenidos a la jungla - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/313.mp4
-#EXTINF:-1,Creed II: la leyenda de Rocky - 2018
-http://23.237.0.58:25461/movie/prueba/prueba/314.mp4
-#EXTINF:-1,Piratas del Caribe. La maldición de la Perla Negra - 2003
-http://23.237.0.58:25461/movie/prueba/prueba/315.mp4
-#EXTINF:-1,Into the Woods - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/316.mp4
-#EXTINF:-1,Scott Pilgrim contra el mundo - 2010
-http://23.237.0.58:25461/movie/prueba/prueba/317.mp4
-#EXTINF:-1,Non-Stop (Sin escalas) - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/318.mp4
-#EXTINF:-1,Need for Speed - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/319.mp4
-#EXTINF:-1,El poder del Tai Chi - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/320.mp4
-#EXTINF:-1,Maléfica - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/321.mp4
-#EXTINF:-1,El único superviviente - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/322.mp4
-#EXTINF:-1,Jarhead 2: Tormenta de Fuego - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/323.mp4
-#EXTINF:-1,Godzilla - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/324.mp4
-#EXTINF:-1,Capitán América: El soldado de invierno - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/325.mp4
-#EXTINF:-1,300: El origen de un imperio - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/326.mp4
-#EXTINF:-1,John Wick - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/327.mp4
-#EXTINF:-1,Código de defensa - 2013
-http://23.237.0.58:25461/movie/prueba/prueba/328.mp4
-#EXTINF:-1,El corredor del laberinto - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/329.mp4
-#EXTINF:-1,Ninja Turtles - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/330.mp4
-#EXTINF:-1,Sin City 2: Una dama por la que matar - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/331.mp4
-#EXTINF:-1,Sabotage - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/332.mp4
-#EXTINF:-1,Lucy - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/333.mp4
-#EXTINF:-1,En el ojo de la tormenta - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/334.mp4
-#EXTINF:-1,Hércules - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/335.mp4
-#EXTINF:-1,Guardianes de la galaxia - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/336.mp4
-#EXTINF:-1,El amanecer del planeta de los simios - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/337.mp4
-#EXTINF:-1,Infiltrados en la universidad - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/338.mp4
-#EXTINF:-1,Tokarev - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/339.mp4
-#EXTINF:-1,El Hobbit: La batalla de los cinco ejércitos - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/340.mp4
-#EXTINF:-1,Cielo rojo - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/341.mp4
-#EXTINF:-1,Apocalypse Pompeii - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/342.mp4
-#EXTINF:-1,Corazones de acero - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/343.mp4
-#EXTINF:-1,Exodus: Dioses y reyes - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/344.mp4
-#EXTINF:-1,Dragonheart 3: La maldición del brujo - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/345.mp4
-#EXTINF:-1,Brick Mansions (La fortaleza) - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/347.mp4
-#EXTINF:-1,El hombre de los puños de hierro 2 - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/348.mp4
-#EXTINF:-1,Anomalia - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/349.mp4
-#EXTINF:-1,V3nganza (Venganza 3) - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/350.mp4
-#EXTINF:-1,Desaparecidos sin rastro - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/351.mp4
-#EXTINF:-1,Una noche para sobrevivir - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/352.mp4
-#EXTINF:-1,Redentor - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/353.mp4
-#EXTINF:-1,Estado crítico - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/354.mp4
-#EXTINF:-1,Mad Max: Furia en la carretera - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/355.mp4
-#EXTINF:-1,Kingsman: Servicio secreto - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/356.mp4
-#EXTINF:-1,¡Pisándonos los tacones! - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/357.mp4
-#EXTINF:-1,Fast & Furious 7 - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/358.mp4
-#EXTINF:-1,Batman Unlimited: Monstermania - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/359.mp4
-#EXTINF:-1,Zombeavers (Castores zombies) - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/360.mp4
-#EXTINF:-1,Campamento alienígena - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/361.mp4
-#EXTINF:-1,Asesinos anónimos - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/362.mp4
-#EXTINF:-1,Una decisión peligrosa - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/363.mp4
-#EXTINF:-1,Capitana Marvel - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/364.mp4
-#EXTINF:-1,Los Vengadores: La era de Ultrón - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/365.mp4
-#EXTINF:-1,Temblores 5: el legado - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/366.mp4
-#EXTINF:-1,Terminator Génesis - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/367.mp4
-#EXTINF:-1,Redención (Southpaw) - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/368.mp4
-#EXTINF:-1,San Andrés - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/369.mp4
-#EXTINF:-1,Pixels - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/370.mp4
-#EXTINF:-1,Los últimos caballeros - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/371.mp4
-#EXTINF:-1,Jurassic World - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/372.mp4
-#EXTINF:-1,Los descendientes - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/373.mp4
-#EXTINF:-1,Operación U.N.C.L.E. - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/374.mp4
-#EXTINF:-1,The Lovers - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/375.mp4
-#EXTINF:-1,Caza al asesino - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/376.mp4
-#EXTINF:-1,Misión imposible: Nación secreta - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/377.mp4
-#EXTINF:-1,Cuatro fantásticos - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/378.mp4
-#EXTINF:-1,Ant-Man - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/379.mp4
-#EXTINF:-1,American Ultra - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/380.mp4
-#EXTINF:-1,Transporter Legacy - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/381.mp4
-#EXTINF:-1,Asalto final - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/382.mp4
-#EXTINF:-1,El corredor del laberinto: Las pruebas - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/383.mp4
-#EXTINF:-1,Hitman: Agente 47 - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/384.mp4
-#EXTINF:-1,Everest - 2015
-http://23.237.0.58:25461/movie/prueba/prueba/385.mp4
-#EXTINF:-1,Caza mayor - 2014
-http://23.237.0.58:25461/movie/prueba/prueba/386.mp4
-#EXTINF:-1,Los dos papas - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/390.mp4
-#EXTINF:-1,Midsommar - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/391.mp4
-#EXTINF:-1,El camino: una película de Breaking Bad - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/394.mp4
-#EXTINF:-1,Frozen 2 - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/395.mp4
-#EXTINF:-1,Roman Rapido - 1983
-http://23.237.0.58:25461/movie/prueba/prueba/406.mp4
-#EXTINF:-1,Her Smell - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/407.mp4
-#EXTINF:-1,Le Mans '66 - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/411.mp4
-#EXTINF:-1,Togo - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/417.mp4
-#EXTINF:-1,Fast & Furious 8 - 2017
-http://23.237.0.58:25461/movie/prueba/prueba/419.mp4
-#EXTINF:-1,Jumanji - 1995
-http://23.237.0.58:25461/movie/prueba/prueba/420.mp4
-#EXTINF:-1,Warcraft: El origen - 2016
-http://23.237.0.58:25461/movie/prueba/prueba/421.mp4
-#EXTINF:-1,Titanic - 1997
-http://23.237.0.58:25461/movie/prueba/prueba/422.mp4
-#EXTINF:-1,A 47 metros 2: El terror emerge - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/435.mp4
-#EXTINF:-1,Terminator: destino oscuro - 2019
-http://23.237.0.58:25461/movie/prueba/prueba/437.mp4
-#EXTINF:-1,Emoji: La película (2017)
-http://23.237.0.58:25461/movie/prueba/prueba/460.mp4
-#EXTINF:-1,El barco S01 E01
-http://23.237.0.58:25461/series/prueba/prueba/205.mp4
-#EXTINF:-1,Rosario Tijeras S01 E01
-http://23.237.0.58:25461/series/prueba/prueba/405.mp4
-#EXTINF:-1,The Good Doctor S03 E01
-http://23.237.0.58:25461/series/prueba/prueba/408.mp4
-#EXTINF:-1,The Good Doctor S03 E02
-http://23.237.0.58:25461/series/prueba/prueba/409.mp4
-#EXTINF:-1,The Good Doctor S03 E03
-http://23.237.0.58:25461/series/prueba/prueba/410.mp4
-#EXTINF:-1,La casa de las flores S01 E01
-http://23.237.0.58:25461/series/prueba/prueba/413.mp4
-#EXTINF:-1,La casa de las flores S01 E02
-http://23.237.0.58:25461/series/prueba/prueba/414.mp4
-#EXTINF:-1,Sex Education S02 E01
-http://23.237.0.58:25461/series/prueba/prueba/418.mp4
-#EXTINF:-1,The Goop Lab S01 E01
-http://23.237.0.58:25461/series/prueba/prueba/429.mp4
-#EXTINF:-1,The Goop Lab S01 E02
-http://23.237.0.58:25461/series/prueba/prueba/430.mp4
-#EXTINF:-1,The Goop Lab S01 E03
-http://23.237.0.58:25461/series/prueba/prueba/431.mp4
-#EXTINF:-1,The Goop Lab S01 E04
-http://23.237.0.58:25461/series/prueba/prueba/432.mp4
-#EXTINF:-1,The Goop Lab S01 E05
-http://23.237.0.58:25461/series/prueba/prueba/433.mp4
-#EXTINF:-1,The Goop Lab S01 E06
-http://23.237.0.58:25461/series/prueba/prueba/434.mp4
-#EXTINF:-1,Marianne S01 E01
-http://23.237.0.58:25461/series/prueba/prueba/436.mp4
+#EXTINF:-1 ,Bein Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch110?code=138137164006399&key=44880
+#EXTINF:-1 ,Bein Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch400?code=138137164006399&key=63718
+#EXTINF:-1 ,BeInSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch111?code=138137164006399&key=54576
+#EXTINF:-1 ,BeInSport 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8111?code=138137164006399&key=33281
+#EXTINF:-1 ,BeInSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch112?code=138137164006399&key=46098
+#EXTINF:-1 ,BeInSport 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8112?code=138137164006399&key=12334
+#EXTINF:-1 ,BeInSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch113?code=138137164006399&key=39255
+#EXTINF:-1 ,BeInSport 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8113?code=138137164006399&key=46519
+#EXTINF:-1 ,BeInSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch114?code=138137164006399&key=46165
+#EXTINF:-1 ,BeInSport 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8114?code=138137164006399&key=40487
+#EXTINF:-1 ,BeInSport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch115?code=138137164006399&key=45992
+#EXTINF:-1 ,BeInSport 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8115?code=138137164006399&key=26611
+#EXTINF:-1 ,BeInSport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch116?code=138137164006399&key=57392
+#EXTINF:-1 ,BeInSport 6 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8116?code=138137164006399&key=29929
+#EXTINF:-1 ,BeInSport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch117?code=138137164006399&key=58844
+#EXTINF:-1 ,BeInSport 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8117?code=138137164006399&key=24135
+#EXTINF:-1 ,BeInSport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch118?code=138137164006399&key=43336
+#EXTINF:-1 ,BeInSport 8 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8118?code=138137164006399&key=39883
+#EXTINF:-1 ,BeInSport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch510?code=138137164006399&key=27398
+#EXTINF:-1 ,BeInSport 9 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8510?code=138137164006399&key=20158
+#EXTINF:-1 ,BeInSport 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch511?code=138137164006399&key=51278
+#EXTINF:-1 ,BeInSport 10 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8511?code=138137164006399&key=15103
+#EXTINF:-1 ,BeInSport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch512?code=138137164006399&key=55556
+#EXTINF:-1 ,BeInSport 11 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/c8h512?code=138137164006399&key=56447
+#EXTINF:-1 ,BeInSport 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch513?code=138137164006399&key=55186
+#EXTINF:-1 ,BeInSport 12 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8513?code=138137164006399&key=38848
+#EXTINF:-1 ,BeInSport 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch514?code=138137164006399&key=40006
+#EXTINF:-1 ,BeInSport 13 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8514?code=138137164006399&key=11556
+#EXTINF:-1 ,BeInSport 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch515?code=138137164006399&key=18634
+#EXTINF:-1 ,BeInSport 14 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8515?code=138137164006399&key=16020
+#EXTINF:-1 ,BeInSport 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch516?code=138137164006399&key=27664
+#EXTINF:-1 ,BeInSport 15 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8516?code=138137164006399&key=21599
+#EXTINF:-1 ,BeInSport 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch517?code=138137164006399&key=27619
+#EXTINF:-1 ,BeInSport NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch522?code=138137164006399&key=52241
+#EXTINF:-1 ,Canal+ Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch202?code=138137164006399&key=22881
+#EXTINF:-1 ,Equidia Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch269?code=138137164006399&key=51917
+#EXTINF:-1 ,AB Moteur
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch268?code=138137164006399&key=34426
+#EXTINF:-1 ,Golf Plus FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1299?code=138137164006399&key=28405
+#EXTINF:-1 ,Golf Channel FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch290?code=138137164006399&key=43121
+#EXTINF:-1 ,EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch743?code=138137164006399&key=45912
+#EXTINF:-1 ,EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch744?code=138137164006399&key=23667
+#EXTINF:-1 ,Foot Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch266?code=138137164006399&key=35881
+#EXTINF:-1 ,Infosport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch250?code=138137164006399&key=11032
+#EXTINF:-1 ,RMC News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch244?code=138137164006399&key=24950
+#EXTINF:-1 ,Eleven Sport 1 Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1648?code=138137164006399&key=46306
+#EXTINF:-1 ,Eleven Sport 2 Fr.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1649?code=138137164006399&key=42751
+#EXTINF:-1 ,RMC Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch255?code=138137164006399&key=43852
+#EXTINF:-1 ,RMC Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch253?code=138137164006399&key=43971
+#EXTINF:-1 ,RMC Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch254?code=138137164006399&key=13496
+#EXTINF:-1 ,RMC Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch243?code=138137164006399&key=62334
+#EXTINF:-1 ,BeInSport 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch119?code=138137164006399&key=62807
+#EXTINF:-1 ,BeInSport 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch120?code=138137164006399&key=38010
+#EXTINF:-1 ,BeInSport 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch206?code=138137164006399&key=26341
+#EXTINF:-1 ,BeInSport Max 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch340?code=138137164006399&key=46196
+#EXTINF:-1 ,BeInSport Max 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch341?code=138137164006399&key=45618
+#EXTINF:-1 ,BeInSport Max 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch342?code=138137164006399&key=61413
+#EXTINF:-1 ,BeInSport Max 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch343?code=138137164006399&key=52352
+#EXTINF:-1 ,BeInSport Max 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch344?code=138137164006399&key=31483
+#EXTINF:-1 ,BeInSport Max 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch345?code=138137164006399&key=28076
+#EXTINF:-1 ,BeInSport Max 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch346?code=138137164006399&key=22468
+#EXTINF:-1 ,SKY Sport news UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1053?code=138137164006399&key=62639
+#EXTINF:-1 ,SKY Sport Football UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch922?code=138137164006399&key=22520
+#EXTINF:-1 ,Sky Sport Premium UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch937?code=138137164006399&key=57619
+#EXTINF:-1 ,SKY Sport Golf UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch914?code=138137164006399&key=36946
+#EXTINF:-1 ,SKY Sport Action UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch915?code=138137164006399&key=26032
+#EXTINF:-1 ,SKY Sport Criket UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch916?code=138137164006399&key=19074
+#EXTINF:-1 ,Sport Mix UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch931?code=138137164006399&key=47032
+#EXTINF:-1 ,BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1828?code=138137164006399&key=45498
+#EXTINF:-1 ,BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1829?code=138137164006399&key=57494
+#EXTINF:-1 ,BT Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1830?code=138137164006399&key=30373
+#EXTINF:-1 ,BT Sport Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1831?code=138137164006399&key=34703
+#EXTINF:-1 ,Setana Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1832?code=138137164006399&key=59826
+#EXTINF:-1 ,ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1833?code=138137164006399&key=52699
+#EXTINF:-1 ,Premiere Sport UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1834?code=138137164006399&key=50740
+#EXTINF:-1 ,Sky Sport F1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch930?code=138137164006399&key=27502
+#EXTINF:-1 ,Eurosport 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch929?code=138137164006399&key=56546
+#EXTINF:-1 ,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch918?code=138137164006399&key=57382
+#EXTINF:-1 ,Front Runner UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1858?code=138137164006399&key=51144
+#EXTINF:-1 ,Front runner 2 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1944?code=138137164006399&key=57589
+#EXTINF:-1 ,Free Sport UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1852?code=138137164006399&key=35550
+#EXTINF:-1 ,Rai Sport 1 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1315?code=138137164006399&key=56931
+#EXTINF:-1 ,SKY Sport 24 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch955?code=138137164006399&key=24673
+#EXTINF:-1 ,SKY Sport Uno IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch953?code=138137164006399&key=55431
+#EXTINF:-1 ,SKY Sport Serie A IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch954?code=138137164006399&key=16382
+#EXTINF:-1 ,Sky Sport Football IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1910?code=138137164006399&key=18976
+#EXTINF:-1 ,Sky Sport Arena IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1927?code=138137164006399&key=21268
+#EXTINF:-1 ,Sky Sport Collection IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1990?code=138137164006399&key=47371
+#EXTINF:-1 ,Sky Sport NBA IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1991?code=138137164006399&key=60458
+#EXTINF:-1 ,Sky Sport MotoGp IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1992?code=138137164006399&key=14641
+#EXTINF:-1 ,Sky Sport F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1325?code=138137164006399&key=47635
+#EXTINF:-1 ,Sky Calcio 1 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1306?code=138137164006399&key=32667
+#EXTINF:-1 ,Sky Calcio 2 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1307?code=138137164006399&key=19936
+#EXTINF:-1 ,Sky Calcio 3 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1308?code=138137164006399&key=33016
+#EXTINF:-1 ,Sky Calcio 4 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1926?code=138137164006399&key=45587
+#EXTINF:-1 ,Sky Calcio 5 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1911?code=138137164006399&key=14269
+#EXTINF:-1 ,Sky Calcio 6 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1912?code=138137164006399&key=32977
+#EXTINF:-1 ,Sky Calcio 7 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1913?code=138137164006399&key=32275
+#EXTINF:-1 ,Sky Calcio 8 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1914?code=138137164006399&key=37191
+#EXTINF:-1 ,Sky Calcio 9 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1915?code=138137164006399&key=49030
+#EXTINF:-1 ,Sport Italia IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1933?code=138137164006399&key=32845
+#EXTINF:-1 ,Eurosport 1 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1924?code=138137164006399&key=26015
+#EXTINF:-1 ,Eurosport 2 IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1925?code=138137164006399&key=43501
+#EXTINF:-1 ,Inter Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1989?code=138137164006399&key=48278
+#EXTINF:-1 ,Lazio Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1988?code=138137164006399&key=30241
+#EXTINF:-1 ,Milan Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1987?code=138137164006399&key=21246
+#EXTINF:-1 ,Roma Ch. IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1986?code=138137164006399&key=27938
+#EXTINF:-1 ,Motor Trend IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch993?code=138137164006399&key=42448
+#EXTINF:-1 ,Zelig Sport IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch994?code=138137164006399&key=13779
+#EXTINF:-1 ,Super Tennis IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1544?code=138137164006399&key=33560
+#EXTINF:-1 ,Eleven Sport 1 Cy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6520?code=138137164006399&key=28928
+#EXTINF:-1 ,Eleven Sport 2 Cy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6521?code=138137164006399&key=45470
+#EXTINF:-1 ,Eleven Sport 3 Cy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6522?code=138137164006399&key=35335
+#EXTINF:-1 ,Eleven Sport 4 Cy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6523?code=138137164006399&key=23500
+#EXTINF:-1 ,Canal+ Sport Cy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch4527?code=138137164006399&key=39502
+#EXTINF:-1 ,Canal+ Sport 2 Cy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6528?code=138137164006399&key=64382
+#EXTINF:-1 ,LaLiga TV Bar 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1203?code=138137164006399&key=10016
+#EXTINF:-1 ,M.L. Campeones HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1281?code=138137164006399&key=32884
+#EXTINF:-1 ,La Liga 123 HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1282?code=138137164006399&key=35537
+#EXTINF:-1 ,LaLiga TV Bar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1286?code=138137164006399&key=21942
+#EXTINF:-1 ,Bein Sport SPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1220?code=138137164006399&key=25450
+#EXTINF:-1 ,Movistar LaLiga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1221?code=138137164006399&key=63488
+#EXTINF:-1 ,Movistar Seriesmania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1222?code=138137164006399&key=24888
+#EXTINF:-1 ,Movistar LaLiga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1224?code=138137164006399&key=17683
+#EXTINF:-1 ,Real Madrid CH.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1223?code=138137164006399&key=47675
+#EXTINF:-1 ,Barca Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1225?code=138137164006399&key=64018
+#EXTINF:-1 ,Movistar Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1226?code=138137164006399&key=15504
+#EXTINF:-1 ,Movistar Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1227?code=138137164006399&key=60143
+#EXTINF:-1 ,TELE DEPORTE SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1208?code=138137164006399&key=60635
+#EXTINF:-1 ,Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1202?code=138137164006399&key=17418
+#EXTINF:-1 ,Canal Panda SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1228?code=138137164006399&key=33487
+#EXTINF:-1 ,Neox SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1229?code=138137164006399&key=58268
+#EXTINF:-1 ,Moto GP HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&key=11345
+#EXTINF:-1 ,Formula1 HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&key=47444
+#EXTINF:-1 ,Beinsports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3529?code=138137164006399&key=22106
+#EXTINF:-1 ,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3522?code=138137164006399&key=12157
+#EXTINF:-1 ,TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3525?code=138137164006399&key=51646
+#EXTINF:-1 ,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3523?code=138137164006399&key=54617
+#EXTINF:-1 ,TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3524?code=138137164006399&key=24582
+#EXTINF:-1 ,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3526?code=138137164006399&key=38701
+#EXTINF:-1 ,NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3521?code=138137164006399&key=61270
+#EXTINF:-1 ,WWE net.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3518?code=138137164006399&key=21916
+#EXTINF:-1 ,NHL net. HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3517?code=138137164006399&key=50778
+#EXTINF:-1 ,NBC Sports net.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3516?code=138137164006399&key=50917
+#EXTINF:-1 ,NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3515?code=138137164006399&key=40035
+#EXTINF:-1 ,Fox Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3513?code=138137164006399&key=30356
+#EXTINF:-1 ,Fox Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3514?code=138137164006399&key=23881
+#EXTINF:-1 ,ESPN2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3512?code=138137164006399&key=16615
+#EXTINF:-1 ,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3511?code=138137164006399&key=54244
+#EXTINF:-1 ,ESPN News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3510?code=138137164006399&key=60519
+#EXTINF:-1 ,Fox sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch867?code=138137164006399&key=62019
+#EXTINF:-1 ,Fox sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch891?code=138137164006399&key=30161
+#EXTINF:-1 ,Fox sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch880?code=138137164006399&key=48133
+#EXTINF:-1 ,Fox Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1861?code=138137164006399&key=50684
+#EXTINF:-1 ,Fox Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1862?code=138137164006399&key=33238
+#EXTINF:-1 ,Fox Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1863?code=138137164006399&key=59444
+#EXTINF:-1 ,Ziggo NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3586?code=138137164006399&key=35409
+#EXTINF:-1 ,Ziggo Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1864?code=138137164006399&key=44795
+#EXTINF:-1 ,Ziggo Sport Voetball
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch878?code=138137164006399&key=53667
+#EXTINF:-1 ,Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1879?code=138137164006399&key=14362
+#EXTINF:-1 ,Ziggo Sport Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1867?code=138137164006399&key=50232
+#EXTINF:-1 ,Ziggo Sport Doc.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1866?code=138137164006399&key=31666
+#EXTINF:-1 ,Ziggo Sport Racing NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3585?code=138137164006399&key=57561
+#EXTINF:-1 ,Ziggo Sport Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch860?code=138137164006399&key=24851
+#EXTINF:-1 ,Eurosport 1 NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1969?code=138137164006399&key=38198
+#EXTINF:-1 ,Eurosport 2 NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3549?code=138137164006399&key=17867
+#EXTINF:-1 ,Sport TV 1 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2123?code=138137164006399&key=48317
+#EXTINF:-1 ,Sport TV 2 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2124?code=138137164006399&key=23461
+#EXTINF:-1 ,Sport TV 3 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2125?code=138137164006399&key=54310
+#EXTINF:-1 ,Sport TV 4 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2126?code=138137164006399&key=18673
+#EXTINF:-1 ,Sport TV 5 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2127?code=138137164006399&key=49822
+#EXTINF:-1 ,Eurosport 1 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2128?code=138137164006399&key=16696
+#EXTINF:-1 ,Eurosport 2 PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2129?code=138137164006399&key=46866
+#EXTINF:-1 ,TRT Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1363?code=138137164006399&key=44118
+#EXTINF:-1 ,Sport Tv TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2366?code=138137164006399&key=29705
+#EXTINF:-1 ,BeinSport 1 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1353?code=138137164006399&key=31156
+#EXTINF:-1 ,BeinSport 2 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2355?code=138137164006399&key=15735
+#EXTINF:-1 ,BeinSport 3 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2356?code=138137164006399&key=44129
+#EXTINF:-1 ,BeinSport 4 TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2360?code=138137164006399&key=19535
+#EXTINF:-1 ,BeinSport Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2358?code=138137164006399&key=41059
+#EXTINF:-1 ,BeinSport Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2359?code=138137164006399&key=29388
+#EXTINF:-1 ,Tivibu Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2361?code=138137164006399&key=18337
+#EXTINF:-1 ,Tivibu Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2362?code=138137164006399&key=10226
+#EXTINF:-1 ,Tivibu Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1356?code=138137164006399&key=18724
+#EXTINF:-1 ,Smart Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1355?code=138137164006399&key=20046
+#EXTINF:-1 ,Fight Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1100?code=138137164006399&key=43972
+#EXTINF:-1 ,KSA SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch823?code=138137164006399&key=44583
+#EXTINF:-1 ,KSA SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch824?code=138137164006399&key=38478
+#EXTINF:-1 ,KSA SPORT +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch825?code=138137164006399&key=17779
+#EXTINF:-1 ,KSA SPORT +2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch826?code=138137164006399&key=42093
+#EXTINF:-1 ,AD Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch122?code=138137164006399&key=21973
+#EXTINF:-1 ,AD Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch603?code=138137164006399&key=53427
+#EXTINF:-1 ,AD Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch5519?code=138137164006399&key=18357
+#EXTINF:-1 ,AD Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch5520?code=138137164006399&key=41241
+#EXTINF:-1 ,AD Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch5521?code=138137164006399&key=12619
+#EXTINF:-1 ,Gear One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch753?code=138137164006399&key=49212
+#EXTINF:-1 ,Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch183?code=138137164006399&key=23703
+#EXTINF:-1 ,Kuwait Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch792?code=138137164006399&key=56429
+#EXTINF:-1 ,Jordan Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch773?code=138137164006399&key=27444
+#EXTINF:-1 ,Al Kaas 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch497?code=138137164006399&key=32539
+#EXTINF:-1 ,Al Kaas 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch442?code=138137164006399&key=27203
+#EXTINF:-1 ,Al Kaas 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch545?code=138137164006399&key=49809
+#EXTINF:-1 ,Yas Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch629?code=138137164006399&key=11373
+#EXTINF:-1 ,Ahly Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch783?code=138137164006399&key=59553
+#EXTINF:-1 ,Nahar Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch179?code=138137164006399&key=33730
+#EXTINF:-1 ,Dubai Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch154?code=138137164006399&key=28938
+#EXTINF:-1 ,Dubai Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch155?code=138137164006399&key=22583
+#EXTINF:-1 ,Dubai Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1533?code=138137164006399&key=48799
+#EXTINF:-1 ,Dubai Racing 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1531?code=138137164006399&key=38695
+#EXTINF:-1 ,Dubai Racing 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1031?code=138137164006399&key=15238
+#EXTINF:-1 ,Dubai Racing 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1532?code=138137164006399&key=31381
+#EXTINF:-1 ,Saudie Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch747?code=138137164006399&key=20096
+#EXTINF:-1 ,Al Iraqya Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch841?code=138137164006399&key=64008
+#EXTINF:-1 ,24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1042
+#EXTINF:-1 ,LA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/110
+#EXTINF:-1 ,LA 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/489
+#EXTINF:-1 ,LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/109
+#EXTINF:-1 ,La 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7540
+#EXTINF:-1 ,ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/111
+#EXTINF:-1 ,ANTENA 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1209
+#EXTINF:-1 ,CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/88
+#EXTINF:-1 ,CUATRO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/497
+#EXTINF:-1 ,TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/496
+#EXTINF:-1 ,TELECINCO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/79
+#EXTINF:-1 ,LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/81
+#EXTINF:-1 ,LA SEXTA  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1016
+#EXTINF:-1 ,***** CINE *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9183
+#EXTINF:-1 ,#
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1
+#EXTINF:-1 ,# FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1172
+#EXTINF:-1 ,MOVISTAR ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/17
+#EXTINF:-1 ,MOVISTAR ESTRENOS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/482
+#EXTINF:-1 ,MOVISTAR  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/21
+#EXTINF:-1 ,MOVISTAR ACCION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1180
+#EXTINF:-1 ,MOVISTAR COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/22
+#EXTINF:-1 ,MOVISTAR COMEDIA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1181
+#EXTINF:-1 ,MOVISTAR DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/14
+#EXTINF:-1 ,MOVISTAR DRAMA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1182
+#EXTINF:-1 ,MOVISTAR DCINE  Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/48
+#EXTINF:-1 ,MOVISTAR CINEDOC&ROLL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/13
+#EXTINF:-1 ,MOVISTAR CINEDOC&ROLL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1184
+#EXTINF:-1 ,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/23
+#EXTINF:-1 ,HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1195
+#EXTINF:-1 ,TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/45
+#EXTINF:-1 ,TCM FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/652
+#EXTINF:-1 ,SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1305
+#EXTINF:-1 ,SUNDANCE Fullhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/8735
+#EXTINF:-1 ,DARK FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/628
+#EXTINF:-1 ,XTREM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/13465
+#EXTINF:-1 ,XTREM FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1191
+#EXTINF:-1 ,SOMOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7876
+#EXTINF:-1 ,PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/86
+#EXTINF:-1 ,********** Series *********
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7245
+#EXTINF:-1 ,MOVISTAR SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/32
+#EXTINF:-1 ,MOVISTAR SERIES FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1185
+#EXTINF:-1 ,MOVISTAR SERIESMANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/33
+#EXTINF:-1 ,MOVISTAR SERIESMANIA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1183
+#EXTINF:-1 ,CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/24
+#EXTINF:-1 ,CALLE 13 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1210
+#EXTINF:-1 ,FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/28
+#EXTINF:-1 ,FOX FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1186
+#EXTINF:-1 ,FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/20
+#EXTINF:-1 ,FOX LIFE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1187
+#EXTINF:-1 ,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18
+#EXTINF:-1 ,AXN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1189
+#EXTINF:-1 ,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/19
+#EXTINF:-1 ,AXN  WHITE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1190
+#EXTINF:-1 ,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/29
+#EXTINF:-1 ,AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1188
+#EXTINF:-1 ,TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/30
+#EXTINF:-1 ,TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1194
+#EXTINF:-1 ,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/15
+#EXTINF:-1 ,SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/638
+#EXTINF:-1 ,COSMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/629
+#EXTINF:-1 ,COSMOPOLITAN  FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/2
+#EXTINF:-1 ,COMEDY  CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/26
+#EXTINF:-1 ,COMEDY CENTRAL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5502
+#EXTINF:-1 ,MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7
+#EXTINF:-1 ,FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/46
+#EXTINF:-1 ,DKISS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1192
+#EXTINF:-1 ,A3SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/82
+#EXTINF:-1 ,***** ESTILO DE VIDA *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9184
+#EXTINF:-1 ,MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/43
+#EXTINF:-1 ,ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/72
+#EXTINF:-1 ,DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/80
+#EXTINF:-1 ,CRIMEN  + INVESTIGACION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/40
+#EXTINF:-1 ,DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/449
+#EXTINF:-1 ,DECASA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9703
+#EXTINF:-1 ,CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/117
+#EXTINF:-1 ,CANAL COCINA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/8734
+#EXTINF:-1 ,BE MAD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9100
+#EXTINF:-1 ,BE MAD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/546
+#EXTINF:-1 ,NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/41
+#EXTINF:-1 ,NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/42
+#EXTINF:-1 ,***** INFANTIL *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9185
+#EXTINF:-1 ,MOVISTAR DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/2774
+#EXTINF:-1 ,DISNEY  XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/44
+#EXTINF:-1 ,DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/8
+#EXTINF:-1 ,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/6
+#EXTINF:-1 ,DISNEY CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/661
+#EXTINF:-1 ,CLAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/4
+#EXTINF:-1 ,CLAN FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7874
+#EXTINF:-1 ,BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/36
+#EXTINF:-1 ,CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/55
+#EXTINF:-1 ,BABY  TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5
+#EXTINF:-1 ,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/70
+#EXTINF:-1 ,NICKELODEON FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/627
+#EXTINF:-1 ,NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/481
+#EXTINF:-1 ,***** DOCUMENTALES *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9186
+#EXTINF:-1 ,HISTORIA PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9091
+#EXTINF:-1 ,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/52
+#EXTINF:-1 ,HISTORIA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7873
+#EXTINF:-1 ,DISCOVERY  CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9
+#EXTINF:-1 ,ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/31
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/37
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/6694
+#EXTINF:-1 ,NATIONAL GEOGRAFIC WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/34
+#EXTINF:-1 ,NATIONAL GEOGRAFIC WILD FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/651
+#EXTINF:-1 ,DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1171
+#EXTINF:-1 ,TEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1014
+#EXTINF:-1 ,BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7539
+#EXTINF:-1 ,Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/56
+#EXTINF:-1 ,VIAJAR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/632
+#EXTINF:-1 ,CAZA  Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/11
+#EXTINF:-1 ,CAZA Y PESCA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/499
+#EXTINF:-1 ,IBERALIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1108
+#EXTINF:-1 ,***** DEPORTES *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/179
+#EXTINF:-1 ,#VAMOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/39
+#EXTINF:-1 ,MOVISTAR VAMOS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1173
+#EXTINF:-1 ,LIGA TV BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7204
+#EXTINF:-1 ,LIGATV BAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1003
+#EXTINF:-1 ,LIGA TV 1 BAR  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9086
+#EXTINF:-1 ,LIGA TV BAR 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9088
+#EXTINF:-1 ,MOVISTAR LA LIGA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/15916
+#EXTINF:-1 ,MOVISTAR LA LIGA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/245
+#EXTINF:-1 ,MOVISTAR LA LIGA 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5500
+#EXTINF:-1 ,MOVISTAR  LA LIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/246
+#EXTINF:-1 ,MOVISTAR LA LIGA 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5501
+#EXTINF:-1 ,MOVISTAR  LA LIGA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/247
+#EXTINF:-1 ,MOVISTAR LA LIGA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/248
+#EXTINF:-1 ,MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/249
+#EXTINF:-1 ,MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/251
+#EXTINF:-1 ,MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1309
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/256
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1303
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/252
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/267
+#EXTINF:-1 ,MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/253
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5499
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/254
+#EXTINF:-1 ,MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/255
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/257
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/258
+#EXTINF:-1 ,MOVISTAR DEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/77
+#EXTINF:-1 ,MOVISTAR DEPORTE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1177
+#EXTINF:-1 ,MULTIDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/2911
+#EXTINF:-1 ,MOVISTAR DEPORTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/262
+#EXTINF:-1 ,MOVISTAR DEPORTE 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/263
+#EXTINF:-1 ,MOVISTAR DEPORTE 3  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/264
+#EXTINF:-1 ,MOVISTAR DEPORTE 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/265
+#EXTINF:-1 ,MOVISTAR DEPORTE 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/266
+#EXTINF:-1 ,EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/83
+#EXTINF:-1 ,EUROSPORT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/936
+#EXTINF:-1 ,Eurosport  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/47
+#EXTINF:-1 ,MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/53
+#EXTINF:-1 ,MOVISTAR F1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/630
+#EXTINF:-1 ,MOVISTAR GOLF PARA MOVILES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9092
+#EXTINF:-1 ,MOVISTAR  GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/16
+#EXTINF:-1 ,MOVISTAR GOLF FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1176
+#EXTINF:-1 ,BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/25
+#EXTINF:-1 ,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/545
+#EXTINF:-1 ,GOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/76
+#EXTINF:-1 ,TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/451
+#EXTINF:-1 ,TELEDEPORTE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7878
+#EXTINF:-1 ,MOVISTAR  TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/35
+#EXTINF:-1 ,MOVISTAR TOROS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/582
+#EXTINF:-1 ,ESPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7879
+#EXTINF:-1 ,TV 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/2771
+#EXTINF:-1 ,HIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7882
+
+#EXTINF:-1 ,ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1041
+#EXTINF:-1 ,ARAGON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1045
+#EXTINF:-1 ,SOL Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1193
+#EXTINF:-1 ,MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1111
+#EXTINF:-1 ,MEZZO LIVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/5497
+#EXTINF:-1 ,***** AUTONÓMICOS *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9188
+#EXTINF:-1 ,13 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7870
+#EXTINF:-1 ,7RM FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7877
+#EXTINF:-1 ,CANAL SUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/9702
+#EXTINF:-1 ,CANAL SUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7869
+#EXTINF:-1 ,CMM FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7871
+#EXTINF:-1 ,ETB 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7867
+#EXTINF:-1 ,EXTREMADURA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7881
+#EXTINF:-1 ,LA OTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7868
+#EXTINF:-1 ,INTERECONOMIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7872
+#EXTINF:-1 ,TELEMADRID FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/7866
+#EXTINF:-1 ,CANAL ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/1311
+#EXTINF:-1 ,FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/8246
+
+#EXTINF:-1 ,33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/13496
+#EXTINF:-1 ,Lebrija TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/13478
+
+
+#EXTINF:-1 ,Alternativa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/13488
+#EXTINF:-1 ,CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/8245
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18888
+#EXTINF:-1 ,MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18889
+#EXTINF:-1 ,MOVISTAR LA LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18893
+#EXTINF:-1 ,LIGA TV BAR 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18894
+#EXTINF:-1 ,MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18895
+#EXTINF:-1 ,MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18896
+#EXTINF:-1 ,MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18897
+#EXTINF:-1 ,INTERALMERIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18908
+#EXTINF:-1 ,MOVISTAR DEPORTE 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18899
+#EXTINF:-1 ,MOVISTAR DEPORTE 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18900
+#EXTINF:-1 ,TV 3 CAMERES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18903
+#EXTINF:-1 ,PTV Malaga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18906
+#EXTINF:-1 ,InterAlmeria TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18907
+#EXTINF:-1 ,TV Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/21574
+#EXTINF:-1 ,# VAMOS BAR 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18892
+#EXTINF:-1 ,# VAMOS BAR 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18891
+#EXTINF:-1 ,MOVISTAR DEPORTE 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18887
+#EXTINF:-1 ,DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/16326
+#EXTINF:-1 ,ODISEA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18890
+#EXTINF:-1 ,MOVISTAR DEPORTE 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18901
+#EXTINF:-1 ,CONDAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://listaloca.com:8080/iptvmex/gEWOtpzXbE/18905
