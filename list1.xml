@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/27/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/28/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,3 +17,794 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
+#EXTM3U
+#EXTINF:-1,Ultra Ultra Luna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/122
+#EXTINF:-1,Ultra Ultra Cine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/123
+#EXTINF:-1,Ultra Ultra Mex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/124
+#EXTINF:-1,Ultra Ultra Fiesta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/125
+#EXTINF:-1,Ultra Ultra Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/126
+#EXTINF:-1,Ultra Ultra Macho
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/127
+#EXTINF:-1,Ultra Ultra Clasico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/128
+#EXTINF:-1,Ultra Ultra Familia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/129
+#EXTINF:-1,INTER ultra docu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/148
+#EXTINF:-1,INTER ultra banda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/149
+#EXTINF:-1,IFN USA MLB-NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/164
+#EXTINF:-1,JuanR USA TENNIS CHANEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/165
+#EXTINF:-1,DEPORTES UFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/166
+#EXTINF:-1,INF TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/307
+#EXTINF:-1,Ultra | ultrat ainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/308
+#EXTINF:-1,INF Cinecanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/357
+#EXTINF:-1,IFN Telemundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/358
+#EXTINF:-1,RAFA Telemundo Chicago
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/359
+#EXTINF:-1,JuanR Telemundo Miami
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/361
+#EXTINF:-1,JuanR Telemundo Texas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/362
+#EXTINF:-1,JuanR USA NBC Universo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/364
+#EXTINF:-1,IFN PR | Mega TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/365
+#EXTINF:-1,JuanR PR | Punto 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/366
+#EXTINF:-1,JuanR PR | WIPR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/367
+#EXTINF:-1,IFN PR | WAPA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/368
+#EXTINF:-1,IFN PR | Telemundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/369
+#EXTINF:-1,RAFA PR | Univision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/370
+#EXTINF:-1,INF PR | Wapa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/371
+#EXTINF:-1,ES Torostv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/377
+#EXTINF:-1,JuanR usa outdoor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/380
+#EXTINF:-1,rafa arg espn 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/387
+#EXTINF:-1,IFN unimas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/391
+#EXTINF:-1,JuanR deportes fox dep
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/392
+#EXTINF:-1,rafa mx animal planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/394
+#EXTINF:-1,JuanR MX golf channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/397
+#EXTINF:-1,INF usa espn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/399
+#EXTINF:-1,INF usa espn sec
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/400
+#EXTINF:-1,JuanR usa FS2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/401
+#EXTINF:-1,JuanR USA  FS1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/402
+#EXTINF:-1,JuanR USA ESPN DEP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/417
+#EXTINF:-1,JuanR ARG ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/418
+#EXTINF:-1,IFN USA ESTRELLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/421
+#EXTINF:-1,TOTALPLAY SD | 52 MX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/428
+#EXTINF:-1,TOTALPLAY SD | A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/429
+#EXTINF:-1,TOTALPLAY SD | A+ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/430
+#EXTINF:-1,TOTALPLAY SD | A3 SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/431
+#EXTINF:-1,TOTALPLAY SD | ADN 40 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/432
+#EXTINF:-1,TOTALPLAY SD | AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/433
+#EXTINF:-1,TOTALPLAY SD | ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/434
+#EXTINF:-1,TOTALPLAY SD | ANTENA 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/435
+#EXTINF:-1,TOTALPLAY SD | AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/436
+#EXTINF:-1,TOTALPLAY SD | AYM SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/437
+#EXTINF:-1,TOTALPLAY SD | AZ CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/438
+#EXTINF:-1,TOTALPLAY SD | AZ CLIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/439
+#EXTINF:-1,TOTALPLAY SD | AZ CORAZÓN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/440
+#EXTINF:-1,TOTALPLAY SD | AZ MUNDO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/441
+#EXTINF:-1,TOTALPLAY SD | AZTECA 7 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/442
+#EXTINF:-1,TOTALPLAY SD | AZTECA UNO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/443
+#EXTINF:-1,TOTALPLAY SD | BABY FIRST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/444
+#EXTINF:-1,TOTALPLAY SD | BANDAMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/445
+#EXTINF:-1,TOTALPLAY SD | BLOOMBERG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/446
+#EXTINF:-1,TOTALPLAY SD | BOOMERANG SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/447
+#EXTINF:-1,TOTALPLAY SD | CANAL 5 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/448
+#EXTINF:-1,TOTALPLAY SD | CANAL 50 JUAREZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/449
+#EXTINF:-1,TOTALPLAY SD | CANAL JUDICIAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/450
+#EXTINF:-1,TOTALPLAY SD | CANAL ONCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/451
+#EXTINF:-1,TOTALPLAY SD | CARACOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/452
+#EXTINF:-1,TOTALPLAY SD | CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/453
+#EXTINF:-1,TOTALPLAY SD | CINECANAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/454
+#EXTINF:-1,TOTALPLAY SD | CINELATINO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/455
+#EXTINF:-1,TOTALPLAY SD | CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/456
+#EXTINF:-1,TOTALPLAY SD | CNN EN ESPAÑOL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/457
+#EXTINF:-1,TOTALPLAY SD | CNN INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/458
+#EXTINF:-1,TOTALPLAY SD | CNN USA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/459
+#EXTINF:-1,TOTALPLAY SD | COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/460
+#EXTINF:-1,TOTALPLAY SD | CONGRESO DE LA UNIÓN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/461
+#EXTINF:-1,TOTALPLAY SD | DE PELÍCULA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/462
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/463
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY CIVILIZATION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/464
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/465
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/466
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/467
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/468
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY TLC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/469
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/470
+#EXTINF:-1,TOTALPLAY SD | DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/471
+#EXTINF:-1,TOTALPLAY SD | DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/472
+#EXTINF:-1,TOTALPLAY SD | DISNEY JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/473
+#EXTINF:-1,TOTALPLAY SD | DISNEY XD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/474
+#EXTINF:-1,TOTALPLAY SD | DISTRITO COMEDIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/475
+#EXTINF:-1,TOTALPLAY SD | DW SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/476
+#EXTINF:-1,TOTALPLAY SD | E! SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/477
+#EXTINF:-1,TOTALPLAY SD | EL GOURMET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/478
+#EXTINF:-1,TOTALPLAY SD | ESPN 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/479
+#EXTINF:-1,TOTALPLAY SD | ESPN 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/480
+#EXTINF:-1,TOTALPLAY SD | ESPN 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/481
+#EXTINF:-1,TOTALPLAY SD | ESPN PLUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/482
+#EXTINF:-1,TOTALPLAY SD | ESPN SEC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/483
+#EXTINF:-1,TOTALPLAY SD | ESPN U SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/484
+#EXTINF:-1,TOTALPLAY SD | ESTRELLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/485
+#EXTINF:-1,TOTALPLAY SD | FILM & ARTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/486
+#EXTINF:-1,TOTALPLAY SD | FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/487
+#EXTINF:-1,TOTALPLAY SD | FORO TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/488
+#EXTINF:-1,TOTALPLAY SD | FOX LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/489
+#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/490
+#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM CINEMA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/491
+#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM CLASSICS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/492
+#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM MOVIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/493
+#EXTINF:-1,TOTALPLAY SD | FOX PREMIUM SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/494
+#EXTINF:-1,TOTALPLAY SD | FOX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/495
+#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/496
+#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/497
+#EXTINF:-1,TOTALPLAY SD | FOX SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/498
+#EXTINF:-1,TOTALPLAY SD | FRANCE 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/499
+#EXTINF:-1,TOTALPLAY SD | FX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/500
+#EXTINF:-1,TOTALPLAY SD | FXM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/501
+#EXTINF:-1,TOTALPLAY SD | GALA TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/502
+#EXTINF:-1,TOTALPLAY SD | GARAGE TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/503
+#EXTINF:-1,TOTALPLAY SD | GLITZ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/504
+#EXTINF:-1,TOTALPLAY SD | GOLDEN EDGE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/505
+#EXTINF:-1,TOTALPLAY SD | GOLDEN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/506
+#EXTINF:-1,TOTALPLAY SD | GOLF LATINOAMERICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/507
+#EXTINF:-1,TOTALPLAY SD | H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/508
+#EXTINF:-1,TOTALPLAY SD | HAVOC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/509
+#EXTINF:-1,TOTALPLAY SD | HBO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/510
+#EXTINF:-1,TOTALPLAY SD | HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/511
+#EXTINF:-1,TOTALPLAY SD | HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/512
+#EXTINF:-1,TOTALPLAY SD | HBO SIGNATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/513
+#EXTINF:-1,INF | HISTORY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/514
+#EXTINF:-1,TOTALPLAY SD | HOLA TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/515
+#EXTINF:-1,TOTALPLAY SD | IMAGEN TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/516
+#EXTINF:-1,TOTALPLAY SD | INGENIO TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/517
+#EXTINF:-1,TOTALPLAY SD | INVESTIGATION DISCOVERY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/518
+#EXTINF:-1,TOTALPLAY SD | ISAT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/519
+#EXTINF:-1,TOTALPLAY SD | LAS ESTRELLAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/520
+#EXTINF:-1,TOTALPLAY SD | LATIN AMERICA SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/521
+#EXTINF:-1,TOTALPLAY SD | LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/522
+#EXTINF:-1,TOTALPLAY SD | MAS CHIC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/523
+#EXTINF:-1,TOTALPLAY SD | MAX PRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/524
+#EXTINF:-1,TOTALPLAY SD | MAX UP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/525
+#EXTINF:-1,TOTALPLAY SD | MEXIQUENSE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/526
+#EXTINF:-1,TOTALPLAY SD | MILENIO TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/527
+#EXTINF:-1,TOTALPLAY SD | MORBIDO TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/528
+#EXTINF:-1,TOTALPLAY SD | MTV HITS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/529
+#EXTINF:-1,TOTALPLAY SD | MTV LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/530
+#EXTINF:-1,TOTALPLAY SD | MTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/531
+#EXTINF:-1,TOTALPLAY SD | MULTIMEDIOS MTY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/532
+#EXTINF:-1,TOTALPLAY SD | MULTIMEDIOS PLUS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/533
+#EXTINF:-1,TOTALPLAY SD | NATGEO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/534
+#EXTINF:-1,TOTALPLAY SD | NATGEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/535
+#EXTINF:-1,TOTALPLAY SD | NATGEO KIDS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/536
+#EXTINF:-1,TOTALPLAY SD | NICK 2 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/537
+#EXTINF:-1,TOTALPLAY SD | NICK JR SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/538
+#EXTINF:-1,TOTALPLAY SD | NICK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/539
+#EXTINF:-1,TOTALPLAY SD | NICKTOONS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/540
+#EXTINF:-1,TOTALPLAY SD | NTN 24 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/541
+#EXTINF:-1,TOTALPLAY SD | PARAMOUNT CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/542
+#EXTINF:-1,TOTALPLAY SD | PASIONES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/543
+#EXTINF:-1,TOTALPLAY SD | PX SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/544
+#EXTINF:-1,TOTALPLAY SD | RCN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/545
+#EXTINF:-1,TOTALPLAY SD | RITMOSON SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/546
+#EXTINF:-1,TOTALPLAY SD | RT DOCUMENTALES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/547
+#EXTINF:-1,TOTALPLAY SD | RT ESPAÑOL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/548
+#EXTINF:-1,TOTALPLAY SD | RT NOTICIAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/549
+#EXTINF:-1,TOTALPLAY SD | SHE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/550
+#EXTINF:-1,TOTALPLAY SD | SONY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/551
+#EXTINF:-1,TOTALPLAY SD | SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/552
+#EXTINF:-1,TOTALPLAY SD | STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/553
+#EXTINF:-1,TOTALPLAY SD | SUNDANCE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/554
+#EXTINF:-1,TOTALPLAY SD | SURES TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/555
+#EXTINF:-1,TOTALPLAY SD | SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/556
+#EXTINF:-1,TOTALPLAY SD | TBS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/557
+#EXTINF:-1,TOTALPLAY SD | TCM SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/558
+#EXTINF:-1,TOTALPLAY SD | TELEFORMULA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/559
+#EXTINF:-1,TOTALPLAY SD | TELEHIT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/560
+#EXTINF:-1,TOTALPLAY SD | TELERITMO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/561
+#EXTINF:-1,TOTALPLAY SD | TELEVISA MONTERREY SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/562
+#EXTINF:-1,TOTALPLAY SD | TELEVISA PUEBLA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/563
+#EXTINF:-1,TOTALPLAY SD | TELEVISA TIJUANA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/564
+#EXTINF:-1,TOTALPLAY SD | TLNOVELAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/566
+#EXTINF:-1,TOTALPLAY SD | TNT SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/567
+#EXTINF:-1,TOTALPLAY SD | TNT SERIES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/568
+#EXTINF:-1,TOTALPLAY SD | TOONCAST SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/569
+#EXTINF:-1,TOTALPLAY SD | TRUTV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/570
+#EXTINF:-1,TOTALPLAY SD | TV4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/571
+#EXTINF:-1,TOTALPLAY SD | TVC DEPORTES SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/572
+#EXTINF:-1,TOTALPLAY SD | TVC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/573
+#EXTINF:-1,TOTALPLAY SD | TVE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/574
+#EXTINF:-1,TOTALPLAY SD | TV MAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/575
+#EXTINF:-1,TOTALPLAY SD | UNICABLE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/576
+#EXTINF:-1,TOTALPLAY SD | UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/577
+#EXTINF:-1,TOTALPLAY SD | VH1 CLASSICS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/578
+#EXTINF:-1,TOTALPLAY SD | VH1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/579
+#EXTINF:-1,TOTALPLAY SD | WARNER SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/580
+#EXTINF:-1,TOTALPLAY SD | WINSPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/581
+#EXTINF:-1,TOTALPLAY SD | WOBI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/582
+#EXTINF:-1,TOTALPLAY SD | ULTRA CINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/583
+#EXTINF:-1,TOTALPLAY SD I ULTRA CLÁSICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/584
+#EXTINF:-1,TOTALPLAY SD I ULTRA DOCU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/585
+#EXTINF:-1,TOTALPLAY SD I ULTRA FAMILIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/586
+#EXTINF:-1,TOTALPLAY SD I ULTRA FIESTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/587
+#EXTINF:-1,TOTALPLAY SD I ULTRA FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/588
+#EXTINF:-1,TOTALPLAY SD I ULTRA MACHO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/589
+#EXTINF:-1,TOTALPLAY SD I ULTRA MEX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/590
+#EXTINF:-1,TOTALPLAY SD I ULTRA TAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/591
+#EXTINF:-1,TOTALPLAY SD | CLARO SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/592
+#EXTINF:-1,IFN inter GOLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/593
+#EXTINF:-1,rafa usa lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/595
+#EXTINF:-1,JuanR mx hbo plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/597
+#EXTINF:-1,INF usa tudn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/598
+#EXTINF:-1,INF AXN Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/639
+#EXTINF:-1,INF AXN White
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/640
+#EXTINF:-1,INF Starz Encore Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/641
+#EXTINF:-1,INF Starz Encore Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/642
+#EXTINF:-1,INF Starz Encore Suspense
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/643
+#EXTINF:-1,INF Starz Encore Western
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/644
+#EXTINF:-1,INF Starz West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/645
+#EXTINF:-1,INF Starz Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/646
+#EXTINF:-1,INF Starz Kids & Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/647
+#EXTINF:-1,INF Starz In Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/648
+#EXTINF:-1,INF Starz Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/649
+#EXTINF:-1,INF Starz East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/650
+#EXTINF:-1,INF Starz Comedy East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/651
+#EXTINF:-1,INF STARZ CINEMA EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/652
+#EXTINF:-1,INF SHOWTIME WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/653
+#EXTINF:-1,INF SHOWTIME SHOWCASE EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/654
+#EXTINF:-1,INF SHOWTIME NEXT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/655
+#EXTINF:-1,INF SHOWTIME LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/656
+#EXTINF:-1,INF SHOWTIME EXTREME EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/657
+#EXTINF:-1,INF SHOWTIME EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/658
+#EXTINF:-1,INF SHOWTIME 2 EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/659
+#EXTINF:-1,INF HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/660
+#EXTINF:-1,INF The Movie Channel Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/661
+#EXTINF:-1,INF The Movie Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/662
+#EXTINF:-1,INF STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/663
+#EXTINF:-1,INF SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/664
+#EXTINF:-1,INF SONY MOVIE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/665
+#EXTINF:-1,INF MULTIPREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/666
+#EXTINF:-1,INF HBO FAMILY ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/667
+#EXTINF:-1,INF HBO Comedy East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/668
+#EXTINF:-1,INF HALLMARK MOVIES & MYSTERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/669
+#EXTINF:-1,INF HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/670
+#EXTINF:-1,INF HALLMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/671
+#EXTINF:-1,INF GOLDEN PREMIER 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/672
+#EXTINF:-1,INF GOLDEN HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/673
+#EXTINF:-1,INF FXM ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/674
+#EXTINF:-1,INF FX ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/675
+#EXTINF:-1,INF FREE FORM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/676
+#EXTINF:-1,INF USA TV Land
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/677
+#EXTINF:-1,INF CINEMAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/678
+#EXTINF:-1,INF 24/7 Los locos Addams
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/679
+#EXTINF:-1,INF 24/7 el patrón del mal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/680
+#EXTINF:-1,INF 24/7 xmen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/681
+#EXTINF:-1,INF 24/7 twd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/682
+#EXTINF:-1,INF 24/7 thundercats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/683
+#EXTINF:-1,INF 24/7 terror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/684
+#EXTINF:-1,INF 24/7 super campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/685
+#EXTINF:-1,INF 24/7 strangerthings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/686
+#EXTINF:-1,INF 24/7 spiderman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/687
+#EXTINF:-1,INF 24/7 south Park
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/688
+#EXTINF:-1,INF 24/7 smallville
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/689
+#EXTINF:-1,INF 24/7 simpsons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/690
+#EXTINF:-1,INF 24/7 shera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/691
+#EXTINF:-1,INF 24/7 sailor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/692
+#EXTINF:-1,INF 24/7 robotech
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/693
+#EXTINF:-1,INF 24/7 powerangers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/694
+#EXTINF:-1,INF 24/7 pokemon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/695
+#EXTINF:-1,INF 24/7 pinky
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/696
+#EXTINF:-1,INF 24/7 naruto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/697
+#EXTINF:-1,INF 24/7 mazingerz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/698
+#EXTINF:-1,INF 24/7 maravillosos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/699
+#EXTINF:-1,INF 24/7 malcolm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/700
+#EXTINF:-1,INF 24/7 luis miguel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/701
+#EXTINF:-1,INF 24/7 he man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/702
+#EXTINF:-1,INF 24/7 El señor de los cielos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/703
+#EXTINF:-1,INF 24/7 El Chema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/704
+#EXTINF:-1,INF 24/7 El Chavo del 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/705
+#EXTINF:-1,INF 24/7 El Chapulín Colorado
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/706
+#EXTINF:-1,INF 24/7 Dragon Ball Z
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/707
+#EXTINF:-1,INF 24/7 Dragon Ball Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/708
+#EXTINF:-1,INF 24/7 Dragon Ball GT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/709
+#EXTINF:-1,INF 24/7 Dinosaurios
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/710
+#EXTINF:-1,INF 24/7 DESAFIO SOBRE FUGO LATINAMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/711
+#EXTINF:-1,INF 24/7 casapapel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/712
+#EXTINF:-1,INF 24/7 caballeros del zodiaco
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/713
+#EXTINF:-1,INF 24/7 Alf 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/714
+#EXTINF:-1,INF NBA | Philadelphia 76ers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/715
+#EXTINF:-1,INF NBA | Toronto Raptors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/716
+#EXTINF:-1,NBA | Charlotte Hornets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/717
+#EXTINF:-1,NBA | Sacramento Kings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/718
+#EXTINF:-1,INF WWE NET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/719
+#EXTINF:-1,INF TUDN USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/720
+#EXTINF:-1,inf cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/721
+#EXTINF:-1,TOTALPLAY HD | A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/722
+#EXTINF:-1,TOTALPLAY HD | A3 SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/724
+#EXTINF:-1,TOTALPLAY HD | ADN 40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/725
+#EXTINF:-1,TOTALPLAY HD | AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/728
+#EXTINF:-1,TOTALPLAY HD | ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/729
+#EXTINF:-1,TOTALPLAY HD | ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/730
+#EXTINF:-1,TOTALPLAY HD | AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/731
+#EXTINF:-1,TOTALPLAY HD | AZTECA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/732
+#EXTINF:-1,TOTALPLAY HD | AZTECA UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/733
+#EXTINF:-1,TOTALPLAY HD | AZ CLIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/734
+#EXTINF:-1,TOTALPLAY HD | AZ MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/736
+#EXTINF:-1,TOTALPLAY HD | BABY FIRST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/737
+#EXTINF:-1,TOTALPLAY HD | BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/741
+#EXTINF:-1,TOTALPLAY HD | BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/742
+#EXTINF:-1,TOTALPLAY HD | CANAL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/743
+#EXTINF:-1,TOTALPLAY HD | CANAL DEL CONGRESO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/744
+#EXTINF:-1,TOTALPLAY HD | CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/745
+#EXTINF:-1,TOTALPLAY HD | CINECANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/747
+#EXTINF:-1,TOTALPLAY HD | CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/748
+#EXTINF:-1,TOTALPLAY HD | CNN USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/750
+#EXTINF:-1,TOTALPLAY HD | COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/753
+#EXTINF:-1,TOTALPLAY HD | DE PELICULA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/754
+#EXTINF:-1,TOTALPLAY HD | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/755
+#EXTINF:-1,TOTALPLAY HD | DISCOVERY HOME & HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/757
+#EXTINF:-1,TOTALPLAY HD | DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/758
+#EXTINF:-1,TOTALPLAY HD | DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/760
+#EXTINF:-1,TOTALPLAY HD | DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/761
+#EXTINF:-1,TOTALPLAY HD | DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/764
+#EXTINF:-1,TOTALPLAY HD | E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/766
+#EXTINF:-1,TOTALPLAY HD | EL FINANCIERO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/767
+#EXTINF:-1,TOTALPLAY HD | ESPN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/768
+#EXTINF:-1,TOTALPLAY HD | ESPN+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/769
+#EXTINF:-1,TOTALPLAY HD | El GOURMET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/774
+#EXTINF:-1,TOTALPLAY HD | FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/776
+#EXTINF:-1,TOTALPLAY HD | FORO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/777
+#EXTINF:-1,TOTALPLAY HD | FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/778
+#EXTINF:-1,TOTALPLAY HD | FOX PREMIUM ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/779
+#EXTINF:-1,TOTALPLAY HD | FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/780
+#EXTINF:-1,TOTALPLAY HD | FOX PREMIUM MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/781
+#EXTINF:-1,TOTALPLAY HD | FOX PREMIUM SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/783
+#EXTINF:-1,TOTALPLAY HD | FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/784
+#EXTINF:-1,TOTALPLAY HD | FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/785
+#EXTINF:-1,TOTALPLAY HD | FOX SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/786
+#EXTINF:-1,TOTALPLAY HD | FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/787
+#EXTINF:-1,TOTALPLAY HD | FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/789
+#EXTINF:-1,TOTALPLAY HD | FX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/790
+#EXTINF:-1,TOTALPLAY HD | GALA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/791
+#EXTINF:-1,TOTALPLAY HD | GOLDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/793
+#EXTINF:-1,TOTALPLAY HD | GOLDEN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/795
+#EXTINF:-1,TOTALPLAY HD | HAVOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/798
+#EXTINF:-1,TOTALPLAY HD | HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/799
+#EXTINF:-1,TOTALPLAY HD | HOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/801
+#EXTINF:-1,TOTALPLAY HD | IMAGEN TELEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/803
+#EXTINF:-1,TOTALPLAY HD | INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/805
+#EXTINF:-1,TOTALPLAY HD | LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/807
+#EXTINF:-1,TOTALPLAY HD | LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/808
+#EXTINF:-1,TOTALPLAY HD | MEXIQUENSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/809
+#EXTINF:-1,TOTALPLAY HD | MILENIO TV ****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/810
+#EXTINF:-1,TOTALPLAY HD | MORBIDO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/811
+#EXTINF:-1,TOTALPLAY HD | MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/812
+#EXTINF:-1,TOTALPLAY HD | MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/814
+#EXTINF:-1,TOTALPLAY HD | MULTIMEDIOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/815
+#EXTINF:-1,TOTALPLAY HD | MULTIMEDIOS PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/816
+#EXTINF:-1,TOTALPLAY HD | NATGEO KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/817
+#EXTINF:-1,TOTALPLAY HD | NATGEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/818
+#EXTINF:-1,TOTALPLAY HD | NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/820
+#EXTINF:-1,TOTALPLAY HD | NICK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/821
+#EXTINF:-1,TOTALPLAY HD | ONCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/825
+#EXTINF:-1,TOTALPLAY HD | PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/826
+#EXTINF:-1,TOTALPLAY HD | RT ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/832
+#EXTINF:-1,TOTALPLAY HD | SONY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/834
+#EXTINF:-1,TOTALPLAY HD | SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/835
+#EXTINF:-1,TOTALPLAY HD | STAR TVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/836
+#EXTINF:-1,TOTALPLAY HD | STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/837
+#EXTINF:-1,TOTALPLAY HD | SUNDANCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/838
+#EXTINF:-1,TOTALPLAY HD | SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/839
+#EXTINF:-1,TOTALPLAY HD | TELEFORMULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/842
+#EXTINF:-1,TOTALPLAY HD | TELEHIT PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/843
+#EXTINF:-1,TOTALPLAY HD | TELEVISA MONTERREY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/845
+#EXTINF:-1,TOTALPLAY HD | TELEVISA PUEBLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/846
+#EXTINF:-1,TOTALPLAY HD | TLC DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/847
+#EXTINF:-1,TOTALPLAY HD | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/850
+#EXTINF:-1,TOTALPLAY HD | TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/851
+#EXTINF:-1,TOTALPLAY HD | TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/853
+#EXTINF:-1,TOTALPLAY HD | TV4 GUANAJUATO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/855
+#EXTINF:-1,TOTALPLAY HD | TVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/856
+#EXTINF:-1,TOTALPLAY HD | TVC DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/857
+#EXTINF:-1,TOTALPLAY HD | TV MAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/859
+#EXTINF:-1,TOTALPLAY HD | UNICABLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/860
+#EXTINF:-1,TOTALPLAY HD | UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/861
+#EXTINF:-1,TOTALPLAY HD | VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/863
+#EXTINF:-1,TOTALPLAY HD | WARNER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/865
+#EXTINF:-1,TOTALPLAY HD | WOBI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/866
+#EXTINF:-1,TOTALPLAY HD | DISCOVERY WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/867
+#EXTINF:-1,TOTALPLAY HD | CANAL JUDICIAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/868
+#EXTINF:-1,TOTALPLAY HD | ESPN SEC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/871
+#EXTINF:-1,TOTALPLAY HD | MAS CHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/872
+#EXTINF:-1,TOTALPLAY HD | RT NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/873
+#EXTINF:-1,TOTALPLAY HD | SURESTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/874
+#EXTINF:-1,TOTALPLAY HD | GOLF CHANNEL LATINOAMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/875
+#EXTINF:-1,AZ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/876
+#EXTINF:-1,ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/877
