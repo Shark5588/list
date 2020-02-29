@@ -73,8 +73,10 @@
   <item>
     <title>[B]Boston Bruins Stream[/B]</title>
     <link>
-    sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.nhlstream.net/boston-bruins-live-stream/::LISTNAME:[COLORorange]NHLstream[/COLOR]::#
-    sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://livestreamz.net/boston-bruins-live-stream/::LISTNAME:[COLORorange]Livestreamz[/COLOR]::#
+	    sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://nhl247.net/boston-bruins-live-stream/::LISTNAME:[COLORorange]NHLL247.net[/COLOR]::#
+        sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.nhlstream.net/boston-bruins-live-stream/::LISTNAME:[COLORorange]NHLstream[/COLOR]::#
+        sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://livestreamz.net/boston-bruins-live-stream/::LISTNAME:[COLORorange]Livestreamz[/COLOR]::#
+	    sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://shub23.net/nhl247.php?team=Bruins::LISTNAME:[COLORorange]shub23.net[/COLOR]::#
     </link>
     <referer></referer>
     <thumbnail>https://assets.pinshape.com/uploads/image/file/43622/container_boston-bruins-logo-on-hockey-puck-3d-printing-43622.png</thumbnail>
@@ -84,7 +86,7 @@
     <item>
 	<title>[B]Buffalo Sabres[/B]</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.nhlstream.net/buffalo-sabres-live-stream/::LISTNAME:[COLORorange]Nhlstream[/COLOR]::#
+	    sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.nhlstream.net/buffalo-sabres-live-stream/::LISTNAME:[COLORorange]Nhlstream[/COLOR]::#
         sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nhl247.net/buffalo-sabres-live-stream::LISTNAME:[COLORorange]Nhl247[/COLOR]::#
         sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://streamsgate.com/825d2aa6-9a8b-4068-8e00-416cce3d0334::LISTNAME:[COLORorange]Streamsgate[/COLOR]::#
         sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.720pstream.me/buffalo-sabres-stream::LISTNAME:[COLORorange]720pStream[/COLOR]::#
