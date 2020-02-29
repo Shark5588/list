@@ -295,9 +295,10 @@
     <item>
 	<title>[B]New York Islanders[/B]</title>
 	<link>
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.nhlstream.net/new-york-islanders-live-stream::LISTNAME:[COLORorange]720pStream[/COLOR]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nhl247.net/new-york-islanders-live-stream::LISTNAME:[COLORorange]720pStream[/COLOR]::#
-	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.bilasport.com/p/islanders.html::LISTNAME:[COLORorange]720pStream[/COLOR]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.nhlstream.net/new-york-islanders-live-stream::LISTNAME:[COLORorange]nhlstream.net[/COLOR]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://nhl247.net/new-york-islanders-live-stream/::LISTNAME:[COLORorange]nhl247.net[/COLOR]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.bilasport.com/p/islanders.html::LISTNAME:[COLORorange]bilasport[/COLOR]::#
+	sublink:LISTSOURCE:plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://shub23.net/nhl247.php?team=Islanders::LISTNAME:[COLORorange]shub23.net[/COLOR]::#
 	</link>
 	<referer></referer>
         <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/islanders-150x150.png</thumbnail>
