@@ -51,15 +51,15 @@ EXTINF:-1 tvg-logo="https://www.boxnation.com/images/boxnation-logo.png" group-t
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3516?code=103131497823984&key=50917
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch3516?code=103131497823984&key=40569
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://box-live.stream/stream/45629.htm|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -190,8 +190,8 @@ http://hls.123tv.live/ch/ail-rxuZ9fIQ5lZDi_nypA/1581198251/lghn.m3u8|Referer=htt
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 http://hls.123tv.live/ch/fM56BiOMzpOKONADAJc6FA/1581197685/sec.m3u8|Referer=http://123tvnow.com/watch/sec-network/
-EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/871
 #EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://box-live.stream/stream/46070.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -827,35 +827,35 @@ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 EXTINF:-1  tvg-logo="https://i.ibb.co/kmQhdbG/3522.png" ,TSN 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/dtD0WNy/3523.png" ,TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/532fF7U9pQdoIVNzd/8027F9UplpdQFrhfo/139
+EXTINF:-1  tvg-logo="https://i.ibb.co/dtD0WNy/3523.png" ,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/BjKpQGR/3524.png",TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/532fF7U9pQdoIVNzd/8027F9UplpdQFrhfo/140
+EXTINF:-1  tvg-logo="https://i.ibb.co/BjKpQGR/3524.png",TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W3Z0nBq/3525.png" ,TSN 4 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/532fF7U9pQdoIVNzd/8027F9UplpdQFrhfo/141
+EXTINF:-1 tvg-logo="https://i.ibb.co/W3Z0nBq/3525.png" ,TSN 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDPbfsQ/3526.png" ,TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/532fF7U9pQdoIVNzd/8027F9UplpdQFrhfo/142
+EXTINF:-1 tvg-logo="https://i.ibb.co/vDPbfsQ/3526.png" ,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 plugin://plugin.video.f4mTester/?url=--------------------------&amp;streamtype=HLS
 ================================================================================================================
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/ahmed/1234/40796
+EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest?cb=20150906015918" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest?cb=20150709183134" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/ahmed/1234/40795
+EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest?cb=20150709183134" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png/revision/latest?cb=20150906015754" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/ahmed/1234/40797
+EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png/revision/latest?cb=20150906015754" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest?cb=20150709183505" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/ahmed/1234/40798
+EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest?cb=20150709183505" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 ===============================================================================================================
 EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 1 HD
@@ -871,10 +871,10 @@ EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.c
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/ahmed/1234/40802
-#EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.premium-itv.com:8789/ahmed/1234/40801
+EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
