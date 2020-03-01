@@ -32,7 +32,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch3520?code=103131497823984&key=44672
-EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
+#EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://lb.kstream.org/aovivo/HD_FOX_SPORTS_1/video.m3u8?token=d7ea28f2336562ffc9ed5f2b3ea08276
 #EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://lb.kstream.org/aovivo/SD_FOX_SPORTS/video.m3u8?token=d7ea28f2336562ffc9ed5f2b3ea08276
