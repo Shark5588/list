@@ -19,8 +19,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://prod-fast
 ============================================================ NASCAR===================================================================
 EXTINF:-1 tvg-logo="http://www.rockstartriplecrown.com/blogimageuploads/fox_sports_racing_us.jpg" ,[B][COLORred]•[/COLOR][COLORsnow] Fox Sports Racing[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow] «FS1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3513?code=103131497823984&key=30356
+EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow] «FS1»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]•[/COLOR][COLORsnow]«FS1»[/COLOR][/B]
 http://docs-6.gogleusercontent.host/live/fs1/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-1/
 EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]•[/COLOR][COLORblue]Race Hub «FS1»[/COLOR][/B]
