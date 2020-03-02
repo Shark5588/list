@@ -18,10 +18,10 @@ http://0.0.0.0:1234
 
 ==============================================================================================================================
 
-EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://38d2c3762a9fbcb18031b18e7dba3a20bdbbaf59&name=My+acestream+channel
-EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1» (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=38fd1372406c976bb926eb5f14d2e6a8f9e3a6da&.mp4
+#EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://e144851c0780e19970a33c0555624301cb101209&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1» (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=a80ed0069d84e5aaf19a10884f12bc00eea081a1&.mp4
 EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://fd931cb7b45614de6ee10eea838098892dd8a5de&name=My+acestream+channel
 EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
