@@ -65,15 +65,15 @@ https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://box-live.stream/stream/456
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/djsunny22/HSGEUV775gg/4063.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1828?code=590138456678768&key=45498
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | SD[/B][/COLOR]
 
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://vvn.neoredi.com/iptv/ch1829?code=590138456678768&key=57494
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | UHD[/B][/COLOR]
 
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | UK[/B][/COLOR]
@@ -82,8 +82,8 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | SD[/B][/COLOR]
 
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | UHD[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | UHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch1830?code=590138456678768&key=30373
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | SD[/B][/COLOR]
