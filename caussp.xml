@@ -134,11 +134,11 @@ http://ott-stream.sevstar.net/1414/video.m3u8?token=8330162968
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | NBA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
-http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
+
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | SD[/B][/COLOR]
@@ -163,7 +163,7 @@ https://peer2.ustv.to/ESPN2/myStream/chunks.m3u8?nimblesessionid=107858828&wmsAu
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN DEPORTES ESPN DEPORTES ESPN DEPORTES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cJRb260.png",[COLOR orange][B]ESPN DEPORTES[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.imgur.com/cJRb260.png",[COLOR orange][B]ESPN DEPORTES[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn_dep.m3u8|Referer=https://sportsbay.org/stream/45628.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 EXTINF:-1 tvg-logo="https://i.imgur.com/cJRb260.png",[COLOR orange][B]ESPN DEPORTES[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
@@ -190,8 +190,8 @@ http://hls.123tv.live/ch/ail-rxuZ9fIQ5lZDi_nypA/1581198251/lghn.m3u8|Referer=htt
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 http://hls.123tv.live/ch/fM56BiOMzpOKONADAJc6FA/1581197685/sec.m3u8|Referer=http://123tvnow.com/watch/sec-network/
-#EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/871
+EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://box-live.stream/stream/46070.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -206,8 +206,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://23.237.122.154:2999/Bud$Tv2801/Web$$20/877
+EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
 http://hls.123tv.live/ch/9RPPV4eLUjUfs6WNHc96Dg/1577222694/espnu.m3u8|Referer=http://123tvnow.com/watch/espn-u-espnu/
 #EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
