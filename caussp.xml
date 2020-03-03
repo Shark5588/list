@@ -133,6 +133,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 http://ott-stream.sevstar.net/1414/video.m3u8?token=8330162968
 #EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 https://gma2.blab.email/acc.m3u8
+#EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN Goal Line;url=http://nitro.ltd:25461/live/ebravo29/DlTIByswBl/19850.m3u8
+#EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line HD[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN Goal Line HD;url=http://cdn.miptv.ws:8880/live/787980/787980/5825.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | NBA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
@@ -190,6 +194,8 @@ http://hls.123tv.live/ch/ail-rxuZ9fIQ5lZDi_nypA/1581198251/lghn.m3u8|Referer=htt
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN SEC Network ESPN SEC Network ESPN SEC Network <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
+#EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
+https://gma2.blab.email/sec.m3u8
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 http://hls.123tv.live/ch/fM56BiOMzpOKONADAJc6FA/1581197685/sec.m3u8|Referer=http://123tvnow.com/watch/sec-network/
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
@@ -208,6 +214,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
+#EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
+https://gma2.blab.email/espnews.m3u8
 EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
@@ -246,6 +254,8 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Prk0WhP/3513.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
+https://gma2.blab.email/fs1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Prk0WhP/3513.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 http://docs-6.gogleusercontent.host/live/fs1/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 http://docs-4.gogleusercontent.host/live/fs1/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-1/
@@ -260,8 +270,8 @@ https://e7.cdn4.us/ingest666/fs-one.m3u8|Referer=https://box-live.stream/stream/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/292
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/2496
-EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 http://docs-4.gogleusercontent.host/live/fs2/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-2-fs2/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
