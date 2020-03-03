@@ -135,8 +135,6 @@ http://ott-stream.sevstar.net/1414/video.m3u8?token=8330162968
 https://gma2.blab.email/acc.m3u8
 #EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN Goal Line;url=http://nitro.ltd:25461/live/ebravo29/DlTIByswBl/19850.m3u8
-#EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line HD[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=ESPN Goal Line HD;url=http://cdn.miptv.ws:8880/live/787980/787980/5825.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | NBA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
