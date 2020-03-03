@@ -23,8 +23,8 @@ http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
-https://bit.ly/2OJPr5n
+EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
+
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
@@ -72,8 +72,8 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://vvn.neoredi.com/iptv/ch1829?code=590138456678768&key=57494
+EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | UHD[/B][/COLOR]
 
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | UK[/B][/COLOR]
@@ -91,8 +91,8 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
-https://sportbar.biz/lba/123/g7/btse.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
+
 EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -215,16 +215,16 @@ https://e7.cdn4.us/ingest666/espn_u.m3u8|Referer=https://box-live.stream/stream/
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  EUROSPORT EUROSPORT EUROSPORT EUROSPORT EUROSPORT EUROSPORT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 1 | FR [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 1 | FR [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tinyurl.com/yxlortze
 
-EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://tinyurl.com/y6jd6joe
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
+http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/141/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
+http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
 EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
