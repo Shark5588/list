@@ -12,7 +12,7 @@
                    EXTINF:-1 tvg-logo=""
                    plugin://plugin.video.f4mTester/?url=-----------------------------------&amp;streamtype=HLS
                    
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png" group-title="Sports",[COLORgold]---- Sports Pass ----2/29/2020[/COLOR][COLORgreen] OnLine[/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png" group-title="Sports",[COLORgold]---- Sports Pass ----3/3/2020[/COLOR][COLORgreen] OnLine[/COLOR]
 http://0.0.0.0:1234
 EXTINF:-1 tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/ad/ALZb/nhl-center-ice-a-season-ticket-from-the-comfort-of-your-home-large-6.jpg",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] NHL CENTER ICE [/COLOR][COLORsnow]*****[/COLOR][COLORdeepskyblue] Game Time Only [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
@@ -61,8 +61,73 @@ EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",[COLORdeepskyblue][
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",[COLORdeepskyblue]Pittsburgh Penguins @ Anaheim Ducks[/COLOR]
 |Cookie=Authorization=eyJhbGciOiJIUzI1NiJ9.eyJpcGlkIjoibmhsR2F0ZXdheUlkOjU5MTU5NDYiLCJjbGllbnRJZCI6ImFjdGl2YXRpb25fbmhsLXYxLjAuMCIsInBjX21heF9yYXRpbmdfbW92aWUiOiIiLCJjb250ZXh0Ijp7fSwidmVyaWZpY2F0aW9uTGV2ZWwiOjIsImV4cCI6MTU2ODg2MjQ5NSwidHlwZSI6IlVzZXIiLCJpYXQiOjE1MzczMjY0OTUsInVzZXJpZCI6ImVlODYwYjNlLWViZTEtNDk1OS1iNWY5LTM0ODk4ODg1NTI1OC0yOTk0LTc3N2JiZTVhZDFkODNiOGY0YjBhOTMzZTM0ZjJjZjkyZmE3MTlkMzgiLCJ2ZXJzaW9uIjoidjEuMCIsInBjX21heF9yYXRpbmdfdHYiOiIiLCJlbWFpbCI6ImpvZS5jb2RhQGdtYWlsLmNvbSJ9.PqAX-4sK7C0_Jm79hEJXdzyojMRl-aBBLqmCIEAD7nU; s_sq=%5B%5BB%5D%5D; mediaAuth_v2=6455209108eaa22507b1b305ff7466270d11c4e1da95b0732e9c6559a42e28e76946bccd107763f4150101d8978533a85dd24b20db4acab25d7c35e782d52b3187b767a47a3a795d4fde523d82b2fce8602b84308d34158ec6db1add561288f282c6f0e3d1aa86e448c9140fcc9dbb37d9c9a71b4b210971f24374a5f9eaca17456deddfa29a0302c810d235abcb5e315fe51a8a2670f012c26fad272245e7e5fd532b8831c33c87358b1dd60d4a5d4a5b06bbd000faa4178dacb6c27dcae801f00441d2d3ba6fdb85ab812ac956a3d07ccae201b13bf9a3551ccc6cdebe8b114139813b05b5f6f1485cb804637a9256d2d7504e40bb23a0eccf234032152d89ad4cb1db608442485a71b11f974e08e5d8276605e659fa198e5d10c3c206fc19ae107fa3cbb75f8e0f73cf19980fb64063f0ad1128c713e168a87d2cb518dc521b2ebabe3829465a56089dcdbd299374e9d01aca53c653af86d20f77df2e3298a23a7ca2d2708d3d529cd3408d6005f72dc359192b7149e988911908cd218e93d27f6996fee35db3ea3e4612b6bdb0ff6d2e9528738ff5d1d80aebb6cf1581e0caaa291abec07e40
 
+======================================================================================================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png" group-title="Sports",[COLORgold]---- Sports Pass ----3/3/2020[/COLOR][COLORgreen] OnLine[/COLOR]
+http://0.0.0.0:1234
 
-
+#EXTINF:-1,NHL 00 - NHL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/166
+#EXTINF:-1,NHL 01* - Flyers @ Rangers 12pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7803
+#EXTINF:-1,NHL 02* - Flames @ Panthers 4pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7804
+#EXTINF:-1,NHL 03* - Canucks @ Jackets 7pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7805
+#EXTINF:-1,NHL 04* - Devils @ Ducks 8pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7806
+#EXTINF:-1,NHL 05* - Capitals @ Wild 8pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7807
+#EXTINF:-1,NHL 06* - Kings @ Knights 10:30pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7808
+#EXTINF:-1,NHL 07* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7809
+#EXTINF:-1,NHL 08* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7810
+#EXTINF:-1,NHL 09* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7811
+#EXTINF:-1,NHL 10* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7812
+#EXTINF:-1,NHL 11* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7813
+#EXTINF:-1,NHL 12* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7814
+#EXTINF:-1,NHL 13* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7815
+#EXTINF:-1,NHL 14* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7816
+#EXTINF:-1,NHL 15*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7817
+#EXTINF:-1,NHL 01 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/150
+#EXTINF:-1,NHL 02 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/151
+#EXTINF:-1,NHL 03 -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/152
+#EXTINF:-1,NHL 04 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/153
+#EXTINF:-1,NHL 05 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/154
+#EXTINF:-1,NHL 06 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/155
+#EXTINF:-1,NHL 07 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/156
+#EXTINF:-1,NHL 08 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/157
+#EXTINF:-1,NHL 09 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/158
+#EXTINF:-1,NHL 10 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/159
+#EXTINF:-1,NHL 11 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/160
+#EXTINF:-1,NHL 12 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/161
+#EXTINF:-1,NHL 13 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/162
+#EXTINF:-1,NHL 14 -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/163
+#EXTINF:-1,NHL 15 - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/164
+======================================================================================================================
 
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/NHL_Network_2009.png",NHL-Center-Ice-769[COLORdeepskyblue] ONLine[/COLOR]
@@ -114,8 +179,100 @@ https://nl2.streamlive.to/freeabr/uvpekcko43pt9p5/rtmp/uvpekcko43pt9p5/chunks.m3
 |Referer=http://sports24.club/nhl/player?src=aHR0cHM6Ly9obHNsaXZlLWFrYy5tZWQyLm1lZC5uaGwuY29tL2hkbnRzPWV4cD0xNTczMDg5NzQ4fmFjbD0vKn5pZD1uaGxHYXRld2F5SWQ6NTg4NDI0NH5kYXRhPTY5ODM4NjAzfmhtYWM9YjkzNWUzMDFmMzAwMTQwMWMwOGQyNGNiZDJmNGFmNmE0YjhkMjM2MWFiOWQ2YjliMDRkMWU1ODU5YTA4Yjk2NC8zM2I4NWQ5NDQ3NWVlMmQwZTM3OTk0OTMxZTRmOTM3Ny9sczAzL25obC8yMDE5LzExLzA2L05ITF9HQU1FX1ZJREVPX0JPU01UTF9NMl9GUkVOQ0hfMjAxOTExMDZfMTU3MTkzMDgzMTMwMy9tYXN0ZXJfd2lyZWQ2MC5tM3U4&a=bruins
 
 ============================================== NBA ========================= NBA =================================
-EXTINF:-1 tvg-logo="https://www.everplans.com/sites/default/files/styles/article_header_image/public/nba-tv-logo-750.jpg?itok=KKeb9aF_" group-title="Canada",[COLORgold]---- NFL Sports Pass ----11/13/2019[/COLOR][COLORgreen] OnLine[/COLOR]
+#EXTINF:-1 tvg-logo="https://www.everplans.com/sites/default/files/styles/article_header_image/public/nba-tv-logo-750.jpg?itok=KKeb9aF_" group-title="Canada",[COLORgold]---- NFL Sports Pass ----3/3/2020[/COLOR][COLORgreen] OnLine[/COLOR]
 http://0.0.0.0:1234
+#EXTINF:-1,NBA 00 - NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/170
+#EXTINF:-1,NBA 01*  - Hornets @ Bucks 1pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7818
+#EXTINF:-1,NBA 02* - Timberwolves @ Mavs 3:30pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7819
+#EXTINF:-1,NBA 03* - Clippers @ 76ers 3:30pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7820
+#EXTINF:-1,NBA 04* - Kings @ Pistons 6pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7821
+#EXTINF:-1,NBA 05* - Nuggets @ Raptors 6pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7822
+#EXTINF:-1,NBA 06* - Pelicans @ Lakers 8pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7823
+#EXTINF:-1,NBA 07* - Warriors @ Wizards 8:30pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7824
+#EXTINF:-1,NBA 08* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7825
+#EXTINF:-1,NBA 09* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7826
+#EXTINF:-1,NBA 10* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7827
+#EXTINF:-1,NBA 11* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7828
+#EXTINF:-1,NBA 12* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7829
+#EXTINF:-1,NBA 13* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7830
+#EXTINF:-1,NBA 14* - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7831
+#EXTINF:-1,NBA 15* -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7832
+#EXTINF:-1,NBA | Atlanta Hawks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8063
+#EXTINF:-1,NBA | Boston Celtics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8064
+#EXTINF:-1,NBA | Brooklyn Nets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8065
+#EXTINF:-1,NBA | Charlotte Hornets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8066
+#EXTINF:-1,NBA | Chicago Bulls
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8067
+#EXTINF:-1,NBA | Cleveland Cavaliers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8068
+#EXTINF:-1,NBA | Dallas Mavericks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8069
+#EXTINF:-1,NBA | Denver Nuggets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8070
+#EXTINF:-1,NBA | Detroit Pistons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8071
+#EXTINF:-1,NBA | Golden State Warriors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8072
+#EXTINF:-1,NBA | Houston Rockets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8073
+#EXTINF:-1,NBA | Indiana Pacers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8074
+#EXTINF:-1,NBA | Los Angeles Clippers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8075
+#EXTINF:-1,NBA | Los Angeles Lakers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8076
+#EXTINF:-1,NBA | Memphis Grizzlies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8077
+#EXTINF:-1,NBA | Miami Heat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8078
+#EXTINF:-1,NBA | Milwaukee Bucks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8079
+#EXTINF:-1,NBA | Minnesota Timberwolves
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8080
+#EXTINF:-1,NBA | New Orleans Pelicans
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8127
+#EXTINF:-1,NBA | New York Knicks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8128
+#EXTINF:-1,NBA | Oklahoma City Thunder
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8081
+#EXTINF:-1,NBA | Orlando Magic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8082
+#EXTINF:-1,NBA | Philadelphia 76ers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8083
+#EXTINF:-1,NBA | Phoenix Suns
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8084
+#EXTINF:-1,NBA | Portland Trail Blazers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8085
+#EXTINF:-1,NBA | Sacramento Kings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8086
+#EXTINF:-1,NBA | San Antonio Spurs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8087
+#EXTINF:-1,NBA | Toronto Raptors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8088
+#EXTINF:-1,NBA | Utah Jazz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8089
+#EXTINF:-1,NBA | Washington Wizards
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8090
 ============================================== NBA ========================= NBA =================================
 
 ==================================================================================================================
@@ -144,8 +301,113 @@ http://0.0.0.0:1234
 ============================================== NFL ========================= NFL =================================
 
 ============================================== MLB ========================= MLB =================================
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO17q75lusQtBeKupEONEJOdFXEZ-LGfbsS-V2n_zY84Umvri" group-title="Sports",[COLORgold]---- MLB Sports Pass ----12/2/2019[/COLOR][COLORgreen] OnLine[/COLOR]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO17q75lusQtBeKupEONEJOdFXEZ-LGfbsS-V2n_zY84Umvri" group-title="Sports",[COLORgold]---- MLB Sports Pass ----3/3/2020[/COLOR][COLORgreen] OnLine[/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1,MLB 00 - MLB Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8278
+#EXTINF:-1,MLB 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8873
+#EXTINF:-1,MLB 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8874
+#EXTINF:-1,MLB 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8875
+#EXTINF:-1,MLB 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8876
+#EXTINF:-1,MLB 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8877
+#EXTINF:-1,MLB 06 - Mariners @ Cubs 3:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8878
+#EXTINF:-1,MLB 07 - Rangers @ Dodgers 3:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8879
+#EXTINF:-1,MLB 08 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8880
+#EXTINF:-1,MLB 09 - Giants @ Padres 3:10pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8881
+#EXTINF:-1,MLB 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8882
+#EXTINF:-1,MLB 11 - Indians @ Athletics 4:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8883
+#EXTINF:-1,MLB 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8884
+#EXTINF:-1,MLB 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8885
+#EXTINF:-1,MLB 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8886
+#EXTINF:-1,MLB 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8887
+#EXTINF:-1,MLB 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8888
+#EXTINF:-1,MLB 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8889
+#EXTINF:-1,MLB 01 (Home) - Cardinals @ Astros 1:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8510
+#EXTINF:-1,MLB 01 (Away)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8509
+#EXTINF:-1,MLB 02 (Home) - Braves @ Red Sox 1:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8512
+#EXTINF:-1,MLB 02 (Away)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8511
+#EXTINF:-1,MLB 03 (Home) - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8514
+#EXTINF:-1,MLB 03 (Away)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8513
+#EXTINF:-1,MLB 04 (Home) - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8516
+#EXTINF:-1,MLB 04 (Away)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8515
+#EXTINF:-1,MLB 05 (Home) - Twins @ Rays  1:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8518
+#EXTINF:-1,MLB 05 (Away)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8517
+#EXTINF:-1,MLB 06 (Home) - Jays @ Pirates 1:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8520
+#EXTINF:-1,MLB 06 (Away)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8519
+#EXTINF:-1,MLB 07 (Home)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8522
+#EXTINF:-1,MLB 07 (Away) - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8521
+#EXTINF:-1,MLB 08 (Home) - National @ Mets 1:10pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8524
+#EXTINF:-1,MLB 08 (Away)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8523
+#EXTINF:-1,MLB 09 (HOME) - Mariners @ Cubs 3:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8526
+#EXTINF:-1,MLB 09 (AWAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8525
+#EXTINF:-1,MLB 10 (HOME) - Rangers @ Dodgers 3:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8528
+#EXTINF:-1,MLB 10 (AWAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8527
+#EXTINF:-1,MLB 11 (HOME) - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8530
+#EXTINF:-1,MLB 11 (AWAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8529
+#EXTINF:-1,MLB 12 (HOME) -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8532
+#EXTINF:-1,MLB 12 (AWAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8531
+#EXTINF:-1,MLB 13 (HOME) - Reds @ Brewers 3:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8534
+#EXTINF:-1,MLB 13 (AWAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8533
+#EXTINF:-1,MLB 14 (HOME) - Giants @ padres 3:10pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8536
+#EXTINF:-1,MLB 14 (AWAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8535
+#EXTINF:-1,MLB 15 (HOME) - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8538
+#EXTINF:-1,MLB 15 (AWAY) -
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8537
+#EXTINF:-1,MLB 16 (HOME) - White Sox @ Angels 3:10pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8540
+#EXTINF:-1,MLB 16 (AWAY)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8539
+#EXTINF:-1,MLB 17 (HOME) - Indians @ Athletics 4:05pm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8871
+#EXTINF:-1,MLB 17 (AWAY) - 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8872
 
 ============================================== MLB ========================= MLB =================================
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO17q75lusQtBeKupEONEJOdFXEZ-LGfbsS-V2n_zY84Umvri" group-title="Sports",[COLORgold]---- MLB Sports Pass ----11/8/2019[/COLOR][COLORgreen] Home[/COLOR]
@@ -171,8 +433,110 @@ http://0.0.0.0:1234
 ==================================================== NBC GOLD =====================================================
 
 ==================================================== ESPN (PLUS)===================================================
-EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/53aadc2ae4b09e753af34203/1519145275364-RN1OCRYSC795I5DNGTST/ESPN-Plus-Logo.png?content-type=image%2Fpng" group-title="Canada",[COLORgold]---- ESPN (PLUS) ----11/8/2019[/COLOR][COLORdeepskyblue][B] Online [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/53aadc2ae4b09e753af34203/1519145275364-RN1OCRYSC795I5DNGTST/ESPN-Plus-Logo.png?content-type=image%2Fpng" group-title="Canada",[COLORgold]---- ESPN (PLUS) ----3/3/2020[/COLOR][COLORdeepskyblue][B] Online [/B][/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1,ESPN Plus 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/259
+#EXTINF:-1,ESPN Plus 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/260
+#EXTINF:-1,ESPN Plus 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/261
+#EXTINF:-1,ESPN Plus 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/262
+#EXTINF:-1,ESPN Plus 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/263
+#EXTINF:-1,ESPN Plus 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/264
+#EXTINF:-1,ESPN Plus 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/265
+#EXTINF:-1,ESPN Plus 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/266
+#EXTINF:-1,ESPN Plus 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/267
+#EXTINF:-1,ESPN Plus 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/268
+#EXTINF:-1,ESPN Plus 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/269
+#EXTINF:-1,ESPN Plus 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/270
+#EXTINF:-1,ESPN Plus 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/271
+#EXTINF:-1,ESPN Plus 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/272
+#EXTINF:-1,ESPN Plus 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/273
+#EXTINF:-1,ESPN Plus 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/274
+#EXTINF:-1,ESPN Plus 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/275
+#EXTINF:-1,ESPN Plus 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/276
+#EXTINF:-1,ESPN Plus 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/277
+#EXTINF:-1,ESPN Plus 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/278
+#EXTINF:-1,ESPN Plus 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7903
+#EXTINF:-1,ESPN Plus 22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7904
+#EXTINF:-1,ESPN Plus 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7905
+#EXTINF:-1,ESPN Plus 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7906
+#EXTINF:-1,ESPN Plus 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7907
+#EXTINF:-1,ESPN Plus 26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7908
+#EXTINF:-1,ESPN Plus 27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7909
+#EXTINF:-1,ESPN Plus 28
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7910
+#EXTINF:-1,ESPN Plus 29
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7911
+#EXTINF:-1,ESPN Plus 30
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7912
+#EXTINF:-1,ESPN Plus 31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7913
+#EXTINF:-1,ESPN Plus 32
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7914
+#EXTINF:-1,ESPN Plus 33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7915
+#EXTINF:-1,ESPN Plus 34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7916
+#EXTINF:-1,ESPN Plus 35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7917
+#EXTINF:-1,ESPN Plus 36
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7918
+#EXTINF:-1,ESPN Plus 37
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7919
+#EXTINF:-1,ESPN Plus 38
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7920
+#EXTINF:-1,ESPN Plus 39
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7921
+#EXTINF:-1,ESPN Plus 40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7922
+#EXTINF:-1,ESPN Plus 41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7923
+#EXTINF:-1,ESPN Plus 42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7924
+#EXTINF:-1,ESPN Plus 43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7925
+#EXTINF:-1,ESPN Plus 44
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7926
+#EXTINF:-1,ESPN Plus 45
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7927
+#EXTINF:-1,ESPN Plus 46
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7928
+#EXTINF:-1,ESPN Plus 47
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7929
+#EXTINF:-1,ESPN Plus 48
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7930
+#EXTINF:-1,ESPN Plus 49
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7931
+#EXTINF:-1,ESPN Plus 50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/7932
+
 ==================================================== ESPN (PLUS)===================================================
 
 ===================================================================================================================
