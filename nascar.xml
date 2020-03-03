@@ -32,10 +32,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch3520?code=590138456678768&key=38096
-EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
+#EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s.tvmaster.net:80/p2p/17/1178
+#EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://s.tvmaster.net:80/p2p/17/1177
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 EXTINF:-1 tvg-logo="https://www.nbcsports.com/sites/nbcsports.com/files/460x250-nascar-america.jpg",[B][COLORred]•[/COLOR][COLORblue] Motor Mouths[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
