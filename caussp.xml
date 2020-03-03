@@ -152,8 +152,8 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | U
 |Referer=http://123tvnow.com/watch/espn2/
 #EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn2.m3u8|Referer=https://box-live.stream/stream/45351.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
-EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
+http://s.tvmaster.net:80/p2p/17/28452
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
@@ -221,10 +221,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
-https://tinyurl.com/yxlortze
-#EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
-https://tinyurl.com/y6jd6joe
+EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
+
 EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
