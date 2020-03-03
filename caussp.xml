@@ -335,7 +335,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhostin
 #EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/8255
 #EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
-http://live.highstream.club/live/MSG/chunks.m3u8
+http://live.highstream.club/live/MSG/chunks.m3u8|Referer=http://imkmedia.com/watch/msg/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | (match time)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
