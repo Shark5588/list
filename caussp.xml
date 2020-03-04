@@ -16,7 +16,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COL
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 3/2/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 3/4/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
@@ -35,12 +35,12 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/BeinLaLi
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) <<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",[COLOR orange][B]Bein Sports 1 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",[COLOR orange][B]Bein Sports 2 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",[COLOR orange][B]Bein Sports 3 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",[COLOR orange][B]Bein Sports 1 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch119?code=103131497823984&key=19209
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",[COLOR orange][B]Bein Sports 2 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch120?code=103131497823984&key=59032
+#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",[COLOR orange][B]Bein Sports 3 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch206?code=103131497823984&key=48265
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BoxNation BoxNation BoxNation BoxNation BoxNation <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -223,11 +223,10 @@ https://e7.cdn4.us/ingest666/espn_u.m3u8|Referer=https://box-live.stream/stream/
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  EUROSPORT EUROSPORT EUROSPORT EUROSPORT EUROSPORT EUROSPORT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 1 | FR [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-u8AbbNnOUR8/Us6IEy-BuGI/AAAAAAAAKmQ/ed1hnYzdnJU/s1600/364px-Eurosport_HD_Logo.svg.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png",[COLOR orange][B]EUROSPORT 1 | FR [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch743?code=103131497823984&key=52114
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vvn.neoredi.com/iptv/ch744?code=103131497823984&key=55070
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
 
@@ -894,10 +893,10 @@ EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.c
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/619
 #EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS 2| CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/623
-EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39821
+#EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS 2| CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39819
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS 1| CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
