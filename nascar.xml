@@ -17,8 +17,8 @@ http://0.0.0.0:1234  https://www.pscp.tv/NASCAR/1YpKkQPNXnPJj?t=1m43s
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORblue] Nascar Live stream (Replay)[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/VIvsC_rdKyXdRaBtLcx2ez3zfvpj5W9OcvB4FtIvCoojO3VL39E1MBu5u_g6dykE31Jj3b1AUrgHC_IUWaDA3A/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/chunk_1582482162297887967_75_a.ts
 ============================================================ NASCAR===================================================================
-EXTINF:-1 tvg-logo="http://www.rockstartriplecrown.com/blogimageuploads/fox_sports_racing_us.jpg" ,[B][COLORred]•[/COLOR][COLORsnow] Fox Sports Racing[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
+#EXTINF:-1 tvg-logo="http://www.rockstartriplecrown.com/blogimageuploads/fox_sports_racing_us.jpg" ,[B][COLORred]•[/COLOR][COLORsnow] Fox Sports Racing[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39835
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow] «FS1»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bvhosting.xyz:8080/lewisriverafsu/e5s2mz7z/291
 #EXTINF:-1 tvg-logo="https://fleetservicesint.com/wp-content/uploads/2017/02/fox-race-hub.jpg",[B][COLORred]•[/COLOR][COLORsnow]«FS1»[/COLOR][/B]
@@ -52,24 +52,24 @@ EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.p
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+#EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN1»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39836
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN1»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN2»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39834
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN2»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN2»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN3»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39833
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN3»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN3»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN4»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39832
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN4»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN4»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN5»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN5»[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://snaptv.watch:80/mag00:1A:79:D6:63:44/PC53IeA5aj/39831
 EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN5»[/COLOR][/B]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 ################################################################################################################################################################
