@@ -140,7 +140,7 @@
 
 <item>
 <title>[B][COLOR blue]Arizona Coyotes Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl2.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1563,132 +1563,6 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]San Jose Sharks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>$doregex[get_sxstream2]</page>
-<referer>$doregex[get_sxstream2]</referer>
-</regex>
-<regex>
-<name>get_sxstream2</name>
-<expres>src=.*[",'](.*.Sharks.*?)[",']</expres>
-<page>http://www.nhlstream.net/san-jose-sharks-live-stream</page>
-<referer>http://www.nhlstream.net/san-jose-sharks-live-stream</referer>
-</regex>
- <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/sharks-150x150.png</thumbnail>
-  <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]San Jose Sharks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx2.php?team=sharks</page>
-<referer>http://footystreams.net/nhl/nhlx.php?team=sharks</referer>
-</regex>
- <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/sharks-150x150.png</thumbnail>
-  <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]San Jose Sharks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-3 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://givemereddit.stream/nhl.php?g=sharks</page>
-<referer>http://givemereddit.stream/nhl.php?g=sharks</referer>
-</regex>
-<thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/sharks-150x150.png</thumbnail>
-<fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]St Louis Blues Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>$doregex[get_sxstream2]</page>
-<referer>$doregex[get_sxstream2]</referer>
-</regex>
-<regex>
-<name>get_sxstream2</name>
-<expres>src=.*[",'](.*.Blues.*?)[",']</expres>
-<page>http://www.nhlstream.net/st-louis-blues-live-stream</page>
-<referer>http://www.nhlstream.net/st-louis-blues-live-stream</referer>
-</regex>
- <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/blues-150x150.png</thumbnail>
-  <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]San Jose Sharks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx2.php?team=blues</page>
-<referer>http://footystreams.net/nhl/nhlx.php?team=blues</referer>
-</regex>
- <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/blues-150x150.png</thumbnail>
-  <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR blue]San Jose Sharks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-3 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://givemereddit.stream/nhl.php?g=blues</page>
-<referer>http://givemereddit.stream/nhl.php?g=blues</referer>
-</regex>
-<thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/blues-150x150.png</thumbnail>
-<fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-</item>
-
-<item>
 <title>[B][COLOR blue]Tampa Bay Lightning Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
@@ -1714,7 +1588,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]San Jose Sharks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
+<title>[B][COLOR blue]Tampa Bay Lightning Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1733,7 +1607,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]San Jose Sharks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-3 [/COLOR][COLOR red])[/COLOR][/B]</title>
+<title>[B][COLOR blue]Tampa Bay Lightning Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-3 [/COLOR][COLOR red])[/COLOR][/B]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
