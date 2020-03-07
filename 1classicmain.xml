@@ -47,7 +47,8 @@ channel>
     <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
 		<item>
 		  <title>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow]NHL Streams[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]</title>
-			<link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/NHLbyteam.xml</link>
+			<link>ignore</link>
+			<externallink>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/NHLbyteam.xml</externallink>
 		</item>
 </channel>
 
