@@ -106,8 +106,8 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>https://nhl-stream.com/live/anaheim-ducks-live-stream/channel-1/</page>
-<referer>https://nhl-stream.com/live/anaheim-ducks-live-stream/channel-1/</referer>
+<page>https://live-sports-stream.net/embed/video.php?channel=17</page>
+<referer>https://box-live.stream</referer>
 </regex>
 <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/ducks-150x150.png</thumbnail>
 <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
