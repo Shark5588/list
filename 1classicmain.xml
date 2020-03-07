@@ -40,21 +40,17 @@ channel>
         <externallink></externallink>
         <fanart></fanart>
 
-    <channels>
-      <channels_info>
-    <title>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]InTesting</title>
+<channel>
+    <name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]InTesting</name>
     <thumbnail>https://www.seekpng.com/png/full/141-1414099_national-hockey-league-logo-1917-1938-nhl-logo.png</thumbnail>
     <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-        </channels_info>
-          <channel>
-           <name>NHL</name>
-            <thumbnail>http://logo.ddnb.tn/logochanel/3517.png</thumbnail>
-            <fanart></fanart>
-            </item>
-                <title>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow]NHL Streams[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]InTesting</title>
-                <link>plugin://plugin.video.live.streamspro/?mode=1&url=&amp;output=https://raw.githubusercontent.com/Shark5588/list/master/NHLbyteam.xml</link>
-            </item>
-       </channel>
+		<item>
+		  <title>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow]NHL Streams[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]InTesting</title>
+			<link>ignorme</link>
+			<jsonrpc>plugin://plugin.video.live.streamspro/?mode=1&url=&amp;output=https://raw.githubusercontent.com/Shark5588/list/master/NHLbyteam.xml</jsonrpc>
+		</item>
+</channel>
+
 <channel>
         <name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC[/COLOR][COLORff00afaf][I] PASS[/COLOR][/B][/I]</name>
         <thumbnail>https://www.multichannel.com/.image/t_share/MTU0MDY5NTIzOTkxNzAxMjQz/article.png</thumbnail>
