@@ -1788,7 +1788,7 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx2.php?team=leafs</page>
+<page>http://footystreams.net/nhl/nhlx4.php?team=leafs</page>
 <referer>http://footystreams.net/nhl/nhlx.php?team=leafs</referer>
 </regex>
  <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/leafs-150x150.png</thumbnail>
