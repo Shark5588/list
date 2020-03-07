@@ -40,19 +40,19 @@ channel>
         <externallink></externallink>
         <fanart></fanart>
 
-    <channel>
-    <name>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]InTesting</name>
+    <channels>
+      <channels_info>
+    <title>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow] SPORTS CLASSIC[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]InTesting</title>
     <thumbnail>https://www.seekpng.com/png/full/141-1414099_national-hockey-league-logo-1917-1938-nhl-logo.png</thumbnail>
     <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
-        <items>
-            <item>
+        </channels_info>
+          <channel>
+           <name>NHL</name>
+            <thumbnail>http://logo.ddnb.tn/logochanel/3517.png</thumbnail>
+            <fanart></fanart>
+            </item>
                 <title>[B][COLOR snow]•[/COLOR][COLORorange]•[/COLOR][COLORyellow]NHL Streams[/COLOR][COLORff00afaf][I] NHL[/COLOR][/B][/I]InTesting</title>
                 <link>plugin://plugin.video.live.streamspro/?mode=1&url=&amp;output=https://raw.githubusercontent.com/Shark5588/list/master/NHLbyteam.xml</link>
-                <thumbnail>http://logo.ddnb.tn/logochanel/3517.png</thumbnail>
-                <genre>Sports</genre>
-                <info></info>
-                <date>03.06.2020</date>
-                <fanart></fanart>
             </item>
        </channel>
 <channel>
