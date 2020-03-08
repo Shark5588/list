@@ -1041,7 +1041,7 @@
 
 <item>
 <title>[B][COLOR blue]Montreal Canadiens Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-3 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://footystreams.net/nhl/nhlx3.php?team=canadiens&french$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
