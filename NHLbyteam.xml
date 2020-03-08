@@ -997,7 +997,7 @@
 
 <item>
 <title>[B][COLOR blue]Montreal Canadiens Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl3.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1022,7 +1022,7 @@
 
 <item>
 <title>[B][COLOR blue]Montreal Canadiens Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl3.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1041,7 +1041,7 @@
 
 <item>
 <title>[B][COLOR blue]Montreal Canadiens Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-3 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl3.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1051,8 +1051,8 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://www.720pstream.me/florida-panthers-french-live-stream</page>
-<referer>http://www.720pstream.me/florida-panthers-french-live-stream</referer>
+<page>http://footystreams.net/nhl/nhlx3.php?team=canadiens&french</page>
+<referer>http://footystreams.net/nhl/nhlx3.php?team=canadiens&french</referer>
 </regex>
 <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/canadiens-150x150.png</thumbnail>
 <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
