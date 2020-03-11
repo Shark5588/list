@@ -1535,7 +1535,7 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx2.php?team=sharks</page>
+<page>http://footystreams.net/nhl/nhlx.php?team=sharks</page>
 <referer>http://footystreams.net/nhl/nhlx.php?team=sharks</referer>
 </regex>
  <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/sharks-150x150.png</thumbnail>
