@@ -1032,7 +1032,7 @@
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
 <page>http://footystreams.net/nhl/nhlx3.php?team=canadiens&french</page>
-<referer>http://footystreams.net/nhl/nhlx3.php?team=canadiens&french</referer>
+<referer>http://nhl3.nbabostonx.xyz/nhl.php?title=c1e3408415ca58759f74f5d0ffc31d50m</referer>
 </regex>
  <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/canadiens-150x150.png</thumbnail>
   <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
@@ -1050,8 +1050,8 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://givemereddit.stream/nhl.php?g=Canadiens</page>
-<referer>http://givemereddit.stream/nhl.php?g=Canadiens</referer>
+<page>http://www.nhlstream.net/montreal-canadiens-live-stream</page>
+<referer>http://www.nhlstream.net/montreal-canadiens-live-stream</referer>
 </regex>
 <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/canadiens-150x150.png</thumbnail>
 <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
