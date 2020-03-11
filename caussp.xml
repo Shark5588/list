@@ -16,7 +16,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COL
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 3/4/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 3/11/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
@@ -309,8 +309,8 @@ http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
 #EXTINF:-1 tvg-logo="https://dscxx9mer61ho.cloudfront.net/wp-content/uploads/TV-Fox506.png" ,[B][COLORorange]Fox Sports 506 HD | USA[/B][/COLOR]
 http://45.58.62.92:8080
 ====================================================================== Fox Soccer Plus ============================================================
-EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58799
 EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 ====================================================================== FTF NEXT ===================================================================
@@ -335,8 +335,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  MSG  MSG  MSG  MSG  MSG  MSG MSG MSG MSG MSG MSG MSG  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58791
 EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | USA[/B][/COLOR]
@@ -344,8 +344,8 @@ http://live.highstream.club/live/MSG/chunks.m3u8|Referer=http://imkmedia.com/wat
 EXTINF:-1 tvg-logo="https://clydesofly.files.wordpress.com/2018/02/msg_networks_logo_color.png?w=800",[B][COLORorange]MSG | (match time)[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG + | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG + | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58790
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Msg_plus_hd.png",[B][COLORorange]MSG + | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -391,8 +391,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2017/09/nbcsbos_pri_fc_neg.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.zalhd.vip:20002/waled54/7755677/17516
-EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2017/09/nbcsbos_pri_fc_neg.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2017/09/nbcsbos_pri_fc_neg.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58785
 EXTINF:-1 tvg-logo="https://nbcsportsgrouppressbox.files.wordpress.com/2017/09/nbcsbos_pri_fc_neg.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png",[B][COLORorange]NBC Sports | Bay Area[/B][/COLOR]
@@ -422,7 +422,8 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58779
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.zalhd.vip:20002/waled54/7755677/17513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYnSlf4.png",[B][COLORorange]NESN | USA[/B][/COLOR]
@@ -906,8 +907,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  UFC_FIGHTPASS UFC_FIGHTPASS UFC_FIGHTPASS UFC_FIGHTPASS UFC_FIGHTPASS <<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sansat.net:25461/12Xaman07124/FBrssgdJD3/58763
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
