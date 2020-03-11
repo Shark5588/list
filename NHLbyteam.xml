@@ -1040,7 +1040,7 @@
 
 <item>
 <title>[B][COLOR blue]Montreal Canadiens Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-3 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>https://hockey.shub23.net$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1050,8 +1050,8 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://www.nhlstream.net/montreal-canadiens-live-stream</page>
-<referer>http://www.nhlstream.net/montreal-canadiens-live-stream</referer>
+<page>https://nhl247.net/montreal-canadiens-live-stream</page>
+<referer>https://hockey.shub23.net/nhl.php?title=c1e3408415ca58759f74f5d0ffc31d50</referer>
 </regex>
 <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/canadiens-150x150.png</thumbnail>
 <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
