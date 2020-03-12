@@ -428,7 +428,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]Chicago Blackhawks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
+<title>[B][COLOR blue]Chicago Blackhawks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR]*[/B]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -453,7 +453,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]Chicago Blackhawks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
+<title>[B][COLOR blue]Chicago Blackhawks Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR]*[/B]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
@@ -1563,7 +1563,7 @@
 
 <item>
 <title>[B][COLOR blue]St-Louis Blues Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl3.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1588,7 +1588,7 @@
 
 <item>
 <title>[B][COLOR blue]St-Louis Blues Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl3.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1598,7 +1598,7 @@
 <regex>
 <name>get_sxstream1</name>
 <expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx3.php?team=Blues</page>
+<page>http://footystreams.net/nhl/nhlx.php?team=Blues</page>
 <referer>http://footystreams.net</referer>
 </regex>
  <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/blues-150x150.png</thumbnail>
