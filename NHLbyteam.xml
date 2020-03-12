@@ -2505,6 +2505,18 @@
 </item>
 
 <item>
+<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 6 AR</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<regex>
+<name>get_sxstream</name>
+<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
+<page>http://footystreams.net/nhl/nhlx.php?team=Kings</page>
+<referer>http://nhl.nbabostonx.xyz</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR blue]Los Angeles Kings Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
 <link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
