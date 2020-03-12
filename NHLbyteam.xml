@@ -2478,61 +2478,17 @@
 
 =====================================================New Section=====================================
 
+
 <item>
-<title>beIN Sports 4</title>
-<link>$doregex[select_Url]</link>
+<title>[COLOR darkgreen]Offline[/COLOR]</title>
+<link>$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
 <page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>http://www.nhlstream.net/los-angeles-kings-live-stream</page>
-<referer>http://nhl.nbabostonx.xyz</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://www.nhlstream.net/los-angeles-kings-live-stream</page>
-<referer>http://nhl.nbabostonx.xyz</referer>
-<agent></agent>
+<referer></referer>
 </regex>
 <thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR darkgreen]Online[/COLOR] BEIN SPORTS 6 AR</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx.php?team=Kings</page>
-<referer>http://nhl.nbabostonx.xyz</referer>
-</regex>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]Los Angeles Kings Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
-<regex>
-<name>get_sxstream</name>
-<expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
-<page>$doregex[get_sxstream1]</page>
-<referer>$doregex[get_sxstream1]</referer>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*.title.*?)[",']</expres>
-<page>http://footystreams.net/nhl/nhlx.php?team=Kings</page>
-<referer>http://footystreams.net/nhl/nhlx.php?team=Kings</referer>
-</regex>
- <thumbnail>http://www.nhlstream.net/wp-content/uploads/2016/10/kings-150x150.png</thumbnail>
-  <fanart>https://live.staticflickr.com/4082/4773466014_0b8901e0e2_b.jpg</fanart>
 </item>
 
 
