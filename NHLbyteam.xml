@@ -744,7 +744,7 @@
 
 <item>
 <title>[B][COLOR blue]Edmonton Oilers Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl2.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -769,7 +769,7 @@
 
 <item>
 <title>[B][COLOR blue]Edmonton Oilers Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl2.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1878,7 +1878,7 @@
 
 <item>
 <title>[B][COLOR blue]Winnipeg Jets Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-1 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl2.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
@@ -1903,7 +1903,7 @@
 
 <item>
 <title>[B][COLOR blue]Winnipeg Jets Live Stream[/COLOR][COLOR red] ([/COLOR][COLORlightslategray] Opt-2 [/COLOR][COLOR red])[/COLOR][/B]</title>
-<link>http://nhl.nbabostonx.xyz$doregex[get_sxstream]</link>
+<link>http://nhl2.nbabostonx.xyz$doregex[get_sxstream]</link>
 <regex>
 <name>get_sxstream</name>
 <expres>source:.*[",'](.*/nhl/.*?)[",']</expres>
