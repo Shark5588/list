@@ -213,9 +213,9 @@ http://185.176.192.14/vids/red_line_7000_1965___5a3bbe6141461.mp4
 <item>
   <title>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] The Last American Hero (1973)[/COLOR][/B]</title>
   <link>
-  <sublink>https://www.youtube.com/watch?v=VcCjU3fZTis(The Last American Hero TRAILER)</sublink>
-  <sublink>https://www.youtube.com/watch?v=3jYrVdd3xzU(LINK 1 YouTube)</sublink>
-  <sublink>https://www.youtube.com/watch?v=7-qpGGBXuyo(LINK 2 YouTube)</sublink>
+  <sublink>https://www.youtube.com/watch?v=VcCjU3fZTis(</sublink>
+  <sublink>https://www.youtube.com/watch?v=3jYrVdd3xzU</sublink>
+  <sublink>https://www.youtube.com/watch?v=7-qpGGBXuyo</sublink>
   </link>
   <thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/8196/p8196_v_v8_aa.jpg</thumbnail>
 </item>
@@ -228,7 +228,7 @@ http://185.176.192.14/vids/red_line_7000_1965___5a3bbe6141461.mp4
     
     <item>
         <title>[COLOR gold]The Last American Hero (1973)[/COLOR]</title>
-        <utube>https://www.youtube.com/watch?v=3jYrVdd3xzU</utube>
+        <link>plugin://plugin.video.youtube/play/?video_id=3jYrVdd3xzU</link>
         <thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/8196/p8196_v_v8_aa.jpg</thumbnail>
         <genre></genre>
         <info></info>
@@ -239,13 +239,13 @@ http://185.176.192.14/vids/red_line_7000_1965___5a3bbe6141461.mp4
     
 	<item>
         <title>[COLOR gold]The Last American Hero (1973)[/COLOR]</title>         
-        <utube>https://www.youtube.com/watch?v=7-qpGGBXuyo</utube>
+        <link>plugin://plugin.video.youtube/play/?video_id=7-qpGGBXuyo</link>
         <thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/8196/p8196_v_v8_aa.jpg</thumbnail>
     </item>
 	
     <item>
         <title>[COLOR cadetblue]The Last American Hero TRAILER[/COLOR]</title>         
-        <utube>https://www.youtube.com/watch?v=VcCjU3fZTis</utube>
+        <link>plugin://plugin.video.youtube/play/?video_id=VcCjU3fZTis</link>
         <thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/8196/p8196_v_v8_aa.jpg</thumbnail>	
   </items>
 </channel>
