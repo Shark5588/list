@@ -328,21 +328,31 @@ channel>
             </items>	
         </channel>
 
-<channel>
-<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Dirt Every Day Episodes[/COLOR][/B]</name>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLGvTvFzdMg_Mlk222V60pPCj_uohycX_P/</jsonrpc>
-<thumbnail>https://pbs.twimg.com/profile_images/942851913095176192/xh8M9Zxf_400x400.jpg</thumbnail>
-</channel>
+  <channel>
+    <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Dirt Every Day Episodes[/COLOR][/B]</name>
+    <thumbnail>https://pbs.twimg.com/profile_images/942851913095176192/xh8M9Zxf_400x400.jpg</thumbnail>
+    <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+            <item>
+                <title>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Dirt Every Day Episodes[/COLOR][/B]</title> 
+                <link>ignorme</link>
+                <jsonrpc>Plugin://plugin.video.youtube/playlist/PLGvTvFzdMg_Mlk222V60pPCj_uohycX_P/?page=0</jsonrpc>
+                <thumbnail>https://pbs.twimg.com/profile_images/942851913095176192/xh8M9Zxf_400x400.jpg</thumbnail>
+            </item>
+    </channel>
 
-<channel>
-<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Wrecks To Riches - Season 1[/COLOR][/B]</name>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL6Qe3ninV3ViUJ-cI57JXVlx3oODZ1RcV/</jsonrpc>
-<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
-</channel>
+  <channel>
+    <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Wrecks To Riches - Season 1[/COLOR][/B]</name>
+    <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
+    <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+            <item>
+                <title>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Wrecks To Riches - Season 1[/COLOR][/B]</title> 
+                <link>ignorme</link>
+                <jsonrpc>Plugin://plugin.video.youtube/playlist/PL6Qe3ninV3ViUJ-cI57JXVlx3oODZ1RcV/?page=0</jsonrpc>
+                <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
+            </item>
+    </channel>
 
-    <channel>
+  <channel>
     <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Wrecks To Riches - Season 2[/COLOR][/B]</name>
     <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
     <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
