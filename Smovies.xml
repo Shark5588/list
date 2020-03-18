@@ -342,11 +342,15 @@ channel>
 <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
 </channel>
 
-<channel>
-<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Wrecks To Riches - Season 2[/COLOR][/B]</name>
-<link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL6Qe3ninV3Viwx5sPGkDNKShCbgKdyl93/</jsonrpc>
-<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
-</channel>
+    <channel>
+    <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Wrecks To Riches - Season 2[/COLOR][/B]</name>
+    <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
+    <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+            <item>
+                <title>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime]Wrecks To Riches - Season 2[/COLOR][/B]</title>         
+                <link>Plugin://plugin.video.youtube/playlist/PL6Qe3ninV3Viwx5sPGkDNKShCbgKdyl93/</link>
+                <thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/185526/p185526_b_v8_ab.jpg</thumbnail>
+            </item>
+    </channel>
 
 </channels>
