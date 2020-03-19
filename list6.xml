@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 2/15/2019[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 3/18/2019[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,427 +17,435 @@ http://0.0.0.0:1234
 ################################################################ LIST  ############################################################
 
 #EXTM3U
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/400.png",Bein Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8112?code=103131497823984&key=12334
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch113?code=103131497823984&key=39255
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8114?code=103131497823984&key=40487
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8115?code=103131497823984&key=26611
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8116?code=103131497823984&key=29929
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8117?code=103131497823984&key=24135
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8118?code=103131497823984&key=39883
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8510.png",BeInSport 9 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8510?code=103131497823984&key=20158
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/511.png",BeInSport 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch511?code=103131497823984&key=51278
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8511.png",BeInSport 10 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8511?code=103131497823984&key=15103
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/512.png",BeInSport 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch512?code=103131497823984&key=55556
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/c8h512.png",BeInSport 11 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/c8h512?code=103131497823984&key=56447
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/513.png",BeInSport 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch513?code=103131497823984&key=55186
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8513.png",BeInSport 12 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8513?code=103131497823984&key=38848
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/514.png",BeInSport 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch514?code=103131497823984&key=40006
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8514.png",BeInSport 13 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8514?code=103131497823984&key=11556
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/515.png",BeInSport 14 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch515?code=103131497823984&key=18634
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8515.png",BeInSport 14 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8515?code=103131497823984&key=16020
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/516.png",BeInSport 15 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch516?code=103131497823984&key=27664
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/8516.png",BeInSport 15 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch8516?code=103131497823984&key=21599
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/517.png",BeInSport 16 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch517?code=103131497823984&key=27619
-#EXTINF:0 group-title="BeInSport"tvg-logo="http://logo.ddnb.tn/logochanel/522.png",BeInSport NBA HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch522?code=103131497823984&key=52241
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/1100.png",Fight Box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1100?code=103131497823984&key=43972
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/823.png",KSA SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch823?code=103131497823984&key=44583
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/824.png",KSA SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch824?code=103131497823984&key=38478
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/825.png",KSA SPORT +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch825?code=103131497823984&key=17779
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/826.png",KSA SPORT +2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch826?code=103131497823984&key=42093
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/122.png",AD Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch122?code=103131497823984&key=21973
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/603.png",AD Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch603?code=103131497823984&key=53427
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/5519.png",AD Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch5519?code=103131497823984&key=18357
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/5520.png",AD Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch5520?code=103131497823984&key=41241
-#EXTINF:0 group-title="Arabic Premium"tvg-logo="http://logo.ddnb.tn/logochanel/5521.png",AD Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch5521?code=103131497823984&key=12619
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/753.png",Gear One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch753?code=103131497823984&key=49212
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/183.png",Nile Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch183?code=103131497823984&key=23703
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/792.png",Kuwait Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch792?code=103131497823984&key=56429
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/773.png",Jordan Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch773?code=103131497823984&key=27444
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/497.png",Al Kaas 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch497?code=103131497823984&key=32539
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/442.png",Al Kaas 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch442?code=103131497823984&key=27203
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/545.png",Al Kaas 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch545?code=103131497823984&key=49809
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/629.png",Yas Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch629?code=103131497823984&key=11373
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/783.png",Ahly Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch783?code=103131497823984&key=59553
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/179.png",Nahar Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch179?code=103131497823984&key=33730
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/154.png",Dubai Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch154?code=103131497823984&key=28938
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/155.png",Dubai Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch155?code=103131497823984&key=22583
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1533.png",Dubai Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1533?code=103131497823984&key=48799
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1531.png",Dubai Racing 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1531?code=103131497823984&key=38695
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1031.png",Dubai Racing 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1031?code=103131497823984&key=15238
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/1532.png",Dubai Racing 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1532?code=103131497823984&key=31381
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/747.png",Saudie Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch747?code=103131497823984&key=20096
-#EXTINF:0 group-title="Arabic Sport"tvg-logo="http://logo.ddnb.tn/logochanel/841.png",Al Iraqya Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch841?code=103131497823984&key=64008
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",Canal+ Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch202?code=103131497823984&key=22881
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/269.png",Equidia Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch269?code=103131497823984&key=51917
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/268.png",AB Moteur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch268?code=103131497823984&key=34426
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1299.png",Golf Plus FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1299?code=103131497823984&key=28405
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/290.png",Golf Channel FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch290?code=103131497823984&key=43121
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/743.png",EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch743?code=103131497823984&key=45912
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/744.png",EuroSport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch744?code=103131497823984&key=23667
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/266.png",Foot Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch266?code=103131497823984&key=35881
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/250.png",Infosport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch250?code=103131497823984&key=11032
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/244.png",RMC News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch244?code=103131497823984&key=24950
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1648.png",Eleven Sport 1 Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1648?code=103131497823984&key=46306
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/1649.png",Eleven Sport 2 Fr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1649?code=103131497823984&key=42751
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",RMC Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch255?code=103131497823984&key=43852
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",RMC Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch253?code=103131497823984&key=43971
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",RMC Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch254?code=103131497823984&key=13496
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",RMC Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch243?code=103131497823984&key=62334
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/119.png",BeInSport 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch119?code=103131497823984&key=62807
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/120.png",BeInSport 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch120?code=103131497823984&key=38010
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/206.png",BeInSport 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch206?code=103131497823984&key=26341
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/340.png",BeInSport Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch340?code=103131497823984&key=46196
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/341.png",BeInSport Max 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch341?code=103131497823984&key=45618
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/342.png",BeInSport Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch342?code=103131497823984&key=61413
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/343.png",BeInSport Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch343?code=103131497823984&key=52352
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/344.png",BeInSport Max 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch344?code=103131497823984&key=31483
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/345.png",BeInSport Max 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch345?code=103131497823984&key=28076
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/346.png",BeInSport Max 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch346?code=103131497823984&key=22468
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1053.png",SKY Sport news UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1053?code=103131497823984&key=62639
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/922.png",SKY Sport Football UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch922?code=103131497823984&key=22520
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/937.png",Sky Sport Premium UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch937?code=103131497823984&key=57619
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/914.png",SKY Sport Golf UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch914?code=103131497823984&key=36946
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/915.png",SKY Sport Action UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch915?code=103131497823984&key=26032
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/916.png",SKY Sport Criket UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch916?code=103131497823984&key=19074
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/931.png",Sport Mix UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch931?code=103131497823984&key=47032
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1828?code=103131497823984&key=45498
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1829?code=103131497823984&key=57494
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1830.png",BT Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1830?code=103131497823984&key=30373
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1831.png",BT Sport Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1831?code=103131497823984&key=34703
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1832.png",Setana Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1832?code=103131497823984&key=59826
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1833.png",ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1833?code=103131497823984&key=52699
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1834.png",Premiere Sport UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1834?code=103131497823984&key=50740
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/930.png",Sky Sport F1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch930?code=103131497823984&key=27502
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/929.png",Eurosport 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch929?code=103131497823984&key=56546
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/918.png",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch918?code=103131497823984&key=57382
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1858.png",Front Runner UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1858?code=103131497823984&key=51144
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1944.png",Front runner 2 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1944?code=103131497823984&key=57589
-#EXTINF:0 group-title="SKY UK"tvg-logo="http://logo.ddnb.tn/logochanel/1852.png",Free Sport UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1852?code=103131497823984&key=35550
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1315.png",Rai Sport 1 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1315?code=103131497823984&key=56931
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/955.png",SKY Sport 24 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch955?code=103131497823984&key=24673
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/953.png",SKY Sport Uno IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch953?code=103131497823984&key=55431
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/954.png",SKY Sport Serie A IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch954?code=103131497823984&key=16382
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1910.png",Sky Sport Football IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1910?code=103131497823984&key=18976
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1927.png",Sky Sport Arena IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1927?code=103131497823984&key=21268
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1990.png",Sky Sport Collection IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1990?code=103131497823984&key=47371
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1991.png",Sky Sport NBA IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1991?code=103131497823984&key=60458
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1992.png",Sky Sport MotoGp IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1992?code=103131497823984&key=14641
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1325.png",Sky Sport F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1325?code=103131497823984&key=47635
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1306.png",Sky Calcio 1 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1306?code=103131497823984&key=32667
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1307.png",Sky Calcio 2 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1307?code=103131497823984&key=19936
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1308.png",Sky Calcio 3 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1308?code=103131497823984&key=33016
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1926.png",Sky Calcio 4 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1926?code=103131497823984&key=45587
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1911.png",Sky Calcio 5 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1911?code=103131497823984&key=14269
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1912.png",Sky Calcio 6 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1912?code=103131497823984&key=32977
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1913.png",Sky Calcio 7 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1913?code=103131497823984&key=32275
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1914.png",Sky Calcio 8 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1914?code=103131497823984&key=37191
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1915.png",Sky Calcio 9 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1915?code=103131497823984&key=49030
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1933.png",Sport Italia IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1933?code=103131497823984&key=32845
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1924.png",Eurosport 1 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1924?code=103131497823984&key=26015
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1925.png",Eurosport 2 IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1925?code=103131497823984&key=43501
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1989.png",Inter Ch. IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1989?code=103131497823984&key=48278
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1988.png",Lazio Ch. IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1988?code=103131497823984&key=30241
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1987.png",Milan Ch. IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1987?code=103131497823984&key=21246
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1986.png",Roma Ch. IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1986?code=103131497823984&key=27938
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/993.png",Motor Trend IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch993?code=103131497823984&key=42448
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/994.png",Zelig Sport IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch994?code=103131497823984&key=13779
-#EXTINF:0 group-title="SKY IT"tvg-logo="http://logo.ddnb.tn/logochanel/1544.png",Super Tennis IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1544?code=103131497823984&key=33560
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6520.png",Eleven Sport 1 Cy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6520?code=103131497823984&key=28928
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6521.png",Eleven Sport 2 Cy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6521?code=103131497823984&key=45470
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6522.png",Eleven Sport 3 Cy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6522?code=103131497823984&key=35335
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6523.png",Eleven Sport 4 Cy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6523?code=103131497823984&key=23500
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/4527.png",Canal+ Sport Cy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch4527?code=103131497823984&key=39502
-#EXTINF:0 group-title="Cyfra+"tvg-logo="http://logo.ddnb.tn/logochanel/6528.png",Canal+ Sport 2 Cy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch6528?code=103131497823984&key=64382
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1203.png",LaLiga TV Bar 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1203?code=103131497823984&key=10016
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1281.png",M.L. Campeones HD SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1281?code=103131497823984&key=32884
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1282.png",La Liga 123 HD SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1282?code=103131497823984&key=35537
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1286.png",LaLiga TV Bar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1286?code=103131497823984&key=21942
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1220.png",Bein Sport SPANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1220?code=103131497823984&key=25450
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1221.png",Movistar LaLiga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1221?code=103131497823984&key=63488
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1222.png",Movistar Seriesmania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1222?code=103131497823984&key=24888
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1224.png",Movistar LaLiga 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1224?code=103131497823984&key=17683
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1223.png",Real Madrid CH.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1223?code=103131497823984&key=47675
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1225.png",Barca Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1225?code=103131497823984&key=64018
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1226.png",Movistar Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1226?code=103131497823984&key=15504
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1227.png",Movistar Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1227?code=103131497823984&key=60143
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1208.png",TELE DEPORTE SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1208?code=103131497823984&key=60635
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1202.png",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1202?code=103131497823984&key=17418
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1228.png",Canal Panda SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1228?code=103131497823984&key=33487
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1229.png",Neox SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1229?code=103131497823984&key=58268
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1284.png",Moto GP HD SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1284?code=103131497823984&key=11345
-#EXTINF:0 group-title="Digital Spain"tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1285?code=103131497823984&key=47444
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3529?code=103131497823984&key=22106
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3522?code=103131497823984&key=12157
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3525.png",TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3525?code=103131497823984&key=51646
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3523.png",TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3523?code=103131497823984&key=54617
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3524.png",TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3524?code=103131497823984&key=24582
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3526.png",TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3526?code=103131497823984&key=38701
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3521.png",NBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3521?code=103131497823984&key=61270
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3518.png",WWE net.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3518?code=103131497823984&key=21916
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3517.png",NHL net. HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3517?code=103131497823984&key=50778
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3516.png",NBC Sports net.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3516?code=103131497823984&key=50917
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3515?code=103131497823984&key=40035
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",Fox Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3513?code=103131497823984&key=30356
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3514.png",Fox Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3514?code=103131497823984&key=23881
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",ESPN2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3512?code=103131497823984&key=16615
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3511?code=103131497823984&key=54244
-#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3510.png",ESPN News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3510?code=103131497823984&key=60519
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/867.png",Fox sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch867?code=103131497823984&key=62019
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/891.png",Fox sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch891?code=103131497823984&key=30161
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/880.png",Fox sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch880?code=103131497823984&key=48133
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1861.png",Fox Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1861?code=103131497823984&key=50684
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1862.png",Fox Sport 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1862?code=103131497823984&key=33238
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1863.png",Fox Sport 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1863?code=103131497823984&key=59444
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/3586.png",Ziggo NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3586?code=103131497823984&key=35409
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1864.png",Ziggo Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1864?code=103131497823984&key=44795
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/878.png",Ziggo Sport Voetball
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch878?code=103131497823984&key=53667
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1879.png",Ziggo Sport Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1879?code=103131497823984&key=14362
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1867.png",Ziggo Sport Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1867?code=103131497823984&key=50232
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1866.png",Ziggo Sport Doc.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1866?code=103131497823984&key=31666
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/3585.png",Ziggo Sport Racing NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3585?code=103131497823984&key=57561
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/860.png",Ziggo Sport Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch860?code=103131497823984&key=24851
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/1969.png",Eurosport 1 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1969?code=103131497823984&key=38198
-#EXTINF:0 group-title="Benelux"tvg-logo="http://logo.ddnb.tn/logochanel/3549.png",Eurosport 2 NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch3549?code=103131497823984&key=17867
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2123?code=103131497823984&key=48317
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2124?code=103131497823984&key=23461
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2125?code=103131497823984&key=54310
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2126?code=103131497823984&key=18673
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2127?code=103131497823984&key=49822
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2128.png",Eurosport 1 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2128?code=103131497823984&key=16696
-#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2129.png",Eurosport 2 PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2129?code=103131497823984&key=46866
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1363.png",TRT Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1363?code=103131497823984&key=44118
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2366.png",Sport Tv TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2366?code=103131497823984&key=29705
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1353.png",BeinSport 1 TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1353?code=103131497823984&key=31156
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2355.png",BeinSport 2 TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2355?code=103131497823984&key=15735
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2356.png",BeinSport 3 TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2356?code=103131497823984&key=44129
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2360.png",BeinSport 4 TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2360?code=103131497823984&key=19535
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2358.png",BeinSport Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2358?code=103131497823984&key=41059
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2359.png",BeinSport Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2359?code=103131497823984&key=29388
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2361.png",Tivibu Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2361?code=103131497823984&key=18337
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/2362.png",Tivibu Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch2362?code=103131497823984&key=10226
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1356.png",Tivibu Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1356?code=103131497823984&key=18724
-#EXTINF:0 group-title="Turkish"tvg-logo="http://logo.ddnb.tn/logochanel/1355.png",Smart Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://skdn.redi-vo.com/iptv/ch1355?code=103131497823984&key=20046
+#EXTINF:-1,USA: HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58589
+#EXTINF:-1,USA: HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58590
+#EXTINF:-1,USA: HBO ZONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58591
+#EXTINF:-1,USA: HBO SIGNATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58592
+#EXTINF:-1,USA: HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58593
+#EXTINF:-1,USA: HBO COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58594
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58595
+#EXTINF:-1,USA: HALLMARK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58596
+#EXTINF:-1,USA: HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58597
+#EXTINF:-1,USA: STARZ IN BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58599
+#EXTINF:-1,USA: STARZ ENCORE WESTERNS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58600
+#EXTINF:-1,USA: STARZ ENCORE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58601
+#EXTINF:-1,USA: STARZ EDGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58602
+#EXTINF:-1,USA: STARZ COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58603
+#EXTINF:-1,USA: EPIX HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58604
+#EXTINF:-1,USA: EPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58605
+#EXTINF:-1,USA: EPIX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58606
+#EXTINF:-1,USA: CINEMAXX MORE MAXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58607
+#EXTINF:-1,USA: CINEMAX THRILLERMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58608
+#EXTINF:-1,USA: CINEMAX OUTER MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58609
+#EXTINF:-1,USA: CINEMAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58611
+#EXTINF:-1,USA: CINEMAX ACTION MAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58612
+#EXTINF:-1,USA: WGN AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58613
+#EXTINF:-1,USA: WE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58614
+#EXTINF:-1,USA: VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58615
+#EXTINF:-1,USA: USA NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58616
+#EXTINF:-1,USA: UNIVISION TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58617
+#EXTINF:-1,USA: UNIVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58618
+#EXTINF:-1,USA: UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58619
+#EXTINF:-1,USA: UNIMAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58620
+#EXTINF:-1,USA: TVONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58621
+#EXTINF:-1,USA: TV LAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58622
+#EXTINF:-1,USA: TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58623
+#EXTINF:-1,USA: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58624
+#EXTINF:-1,USA: TLC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58625
+#EXTINF:-1,USA: THE CW HD CHICAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58626
+#EXTINF:-1,USA: THE CW PIX 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58627
+#EXTINF:-1,USA: TELEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58628
+#EXTINF:-1,USA: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58629
+#EXTINF:-1,USA: TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58630
+#EXTINF:-1,USA: TBN TRINITY BROADCASTING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58631
+#EXTINF:-1,USA: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58632
+#EXTINF:-1,USA: SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58633
+#EXTINF:-1,USA: SPIKE/PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58634
+#EXTINF:-1,USA: SMITHSONIAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58635
+#EXTINF:-1,USA: SHOWTIME SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58636
+#EXTINF:-1,USA: SHOWTIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58637
+#EXTINF:-1,USA: SHOWTIME EXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58638
+#EXTINF:-1,USA: SHOWTIME 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58639
+#EXTINF:-1,USA: REVOLT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58640
+#EXTINF:-1,USA: REELZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58641
+#EXTINF:-1,USA: RED BULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58642
+#EXTINF:-1,USA: QVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58643
+#EXTINF:-1,USA: PURSUIT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58644
+#EXTINF:-1,USA: POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58645
+#EXTINF:-1,USA: OXYGEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58646
+#EXTINF:-1,USA: OWN NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58647
+#EXTINF:-1,USA: OVATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58648
+#EXTINF:-1,USA: NBC UNIVERSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58649
+#EXTINF:-1,USA: NBC 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58650
+#EXTINF:-1,USA: NBC 4 NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58651
+#EXTINF:-1,USA: MY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58652
+#EXTINF:-1,USA: MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58653
+#EXTINF:-1,USA: ME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58654
+#EXTINF:-1,USA: MAV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58655
+#EXTINF:-1,USA: LIFETIME MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58656
+#EXTINF:-1,USA: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58657
+#EXTINF:-1,USA: LAFF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58658
+#EXTINF:-1,USA: ION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58659
+#EXTINF:-1,USA: INFOWARS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58660
+#EXTINF:-1,USA: IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58661
+#EXTINF:-1,USA: HSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58662
+#EXTINF:-1,USA: HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58663
+#EXTINF:-1,USA: HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58664
+#EXTINF:-1,USA: HGTV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58665
+#EXTINF:-1,USA: HEROS & ICONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58666
+#EXTINF:-1,USA: GRIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58667
+#EXTINF:-1,USA: GALAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58668
+#EXTINF:-1,USA: FYI NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58669
+#EXTINF:-1,USA: FXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58670
+#EXTINF:-1,USA: FXM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58671
+#EXTINF:-1,USA: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58672
+#EXTINF:-1,USA: FUSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58673
+#EXTINF:-1,USA: FUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58674
+#EXTINF:-1,USA: FREEFORM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58675
+#EXTINF:-1,USA: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58676
+#EXTINF:-1,USA: EL REY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58677
+#EXTINF:-1,USA: EL REY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58678
+#EXTINF:-1,USA: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58679
+#EXTINF:-1,USA: DOG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58680
+#EXTINF:-1,USA: DIY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58681
+#EXTINF:-1,USA: DESTINATION AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58682
+#EXTINF:-1,USA: COZI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58683
+#EXTINF:-1,USA: COUNTRY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58684
+#EXTINF:-1,USA: COOKING CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58685
+#EXTINF:-1,USA: COMET TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58686
+#EXTINF:-1,USA: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58687
+#EXTINF:-1,USA: CMT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58688
+#EXTINF:-1,USA: CBS NY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58689
+#EXTINF:-1,USA: CBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58690
+#EXTINF:-1,USA: BUZZER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58691
+#EXTINF:-1,USA: BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58692
+#EXTINF:-1,USA: BOUNCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58693
+#EXTINF:-1,USA: BLAZE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58694
+#EXTINF:-1,USA: BET HER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58695
+#EXTINF:-1,USA: BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58696
+#EXTINF:-1,USA: BBC AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58697
+#EXTINF:-1,USA: AXS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58698
+#EXTINF:-1,USA: AWE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58699
+#EXTINF:-1,USA: ANTENNA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58700
+#EXTINF:-1,USA: AMERICAN HEROES CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58701
+#EXTINF:-1,USA: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58702
+#EXTINF:-1,USA: ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58703
+#EXTINF:-1,USA: ABC NY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58704
+#EXTINF:-1,USA: ABC EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58705
+#EXTINF:-1,USA: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58706
+#EXTINF:-1,USA: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58708
+#EXTINF:-1,USA: UNIVERSAL KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58709
+#EXTINF:-1,USA: TEEN NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58710
+#EXTINF:-1,USA: STARZ KIDS & FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58711
+#EXTINF:-1,USA: NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58712
+#EXTINF:-1,USA: NICK JR. TOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58713
+#EXTINF:-1,USA: NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58714
+#EXTINF:-1,USA: NICK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58715
+#EXTINF:-1,USA: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58716
+#EXTINF:-1,USA: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58717
+#EXTINF:-1,USA: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58718
+#EXTINF:-1,USA: PBS WLIW 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58719
+#EXTINF:-1,USA: PBS KIDS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58720
+#EXTINF:-1,USA: PBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58721
+#EXTINF:-1,USA: CARTOONITO ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58722
+#EXTINF:-1,USA: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58724
+#EXTINF:-1,USA: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58726
+#EXTINF:-1,USA: NAT GEO WILD HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58727
+#EXTINF:-1,USA: NAT GEO USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58728
+#EXTINF:-1,USA: INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58729
+#EXTINF:-1,USA: HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58730
+#EXTINF:-1,USA: HISTORY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58731
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58732
+#EXTINF:-1,USA: DISCOVERY LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58733
+#EXTINF:-1,USA: DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58734
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58735
+#EXTINF:-1,USA: CRIME AND INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58736
+#EXTINF:-1,USA: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58737
+#EXTINF:-1,USA: WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58738
+#EXTINF:-1,USA: OUTSIDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58739
+#EXTINF:-1,USA: OUTDOOR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58740
+#EXTINF:-1,USA: BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58742
+#EXTINF:-1,USA: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58743
+#EXTINF:-1,USA: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58744
+#EXTINF:-1,USA: RT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58745
+#EXTINF:-1,USA: ONE AMERICA NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58746
+#EXTINF:-1,USA: NEWS 12 NEW JERSEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58747
+#EXTINF:-1,USA: NEWS 12 LONG ISLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58748
+#EXTINF:-1,USA: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58749
+#EXTINF:-1,USA: ESPN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58750
+#EXTINF:-1,USA: ABC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58751
+#EXTINF:-1,USA: THE WEATHER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58752
+#EXTINF:-1,USA: FOX BUSINESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58753
+#EXTINF:-1,USA: FOX 50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58754
+#EXTINF:-1,USA: FOX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58755
+#EXTINF:-1,USA: MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58757
+#EXTINF:-1,USA: MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58758
+#EXTINF:-1,USA: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58759
+#EXTINF:-1,USA: VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58760
+#EXTINF:-1,USA: WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58762
+#EXTINF:-1,USA: UFC 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58763
+#EXTINF:-1,USA: TVG HORSE RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58764
+#EXTINF:-1,USA: TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58765
+#EXTINF:-1,USA: SPORTSNET NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58766
+#EXTINF:-1,USA: SPORTSNET LA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58767
+#EXTINF:-1,USA: SPORTSMAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58768
+#EXTINF:-1,USA: SEC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58769
+#EXTINF:-1,USA: PAC-12 OREGON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58770
+#EXTINF:-1,USA: PAC-12 MOUNTAIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58771
+#EXTINF:-1,USA: PAC-12 BAY AREA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58772
+#EXTINF:-1,USA: PAC-12 ARIZONA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58773
+#EXTINF:-1,USA: PAC 12 NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58774
+#EXTINF:-1,USA: PAC 12 LOS ANGELES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58775
+#EXTINF:-1,USA: NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58776
+#EXTINF:-1,USA: NFL RED ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58777
+#EXTINF:-1,USA: NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58778
+#EXTINF:-1,USA: NESN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58779
+#EXTINF:-1,USA: NBC SPORTS PHILADELPHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58780
+#EXTINF:-1,USA: NBC SPORTS NORTHWEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58781
+#EXTINF:-1,USA: NBC SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58782
+#EXTINF:-1,USA: NBC SPORTS CHICAGO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58783
+#EXTINF:-1,USA: NBC SPORTS CALIFORNIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58784
+#EXTINF:-1,USA: NBC SPORTS BOSTON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58785
+#EXTINF:-1,USA: NBC SPORTS BAY AREA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58786
+#EXTINF:-1,USA: NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58787
+#EXTINF:-1,USA: NBC 10 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58788
+#EXTINF:-1,USA: NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58789
+#EXTINF:-1,USA: MSG +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58790
+#EXTINF:-1,USA: MSG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58791
+#EXTINF:-1,USA: MOTOR TREND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58792
+#EXTINF:-1,USA: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58793
+#EXTINF:-1,USA: LONGHORN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58794
+#EXTINF:-1,USA: GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58795
+#EXTINF:-1,USA: GAME SHOW NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58796
+#EXTINF:-1,USA: FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58797
+#EXTINF:-1,USA: FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58798
+#EXTINF:-1,USA: FOX SOCCER PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58799
+#EXTINF:-1,USA: FOX DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58800
+#EXTINF:-1,USA: FOX COLLEGE PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58801
+#EXTINF:-1,USA: FOX COLLEGE CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58802
+#EXTINF:-1,USA: FOX COLLEGE ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58803
+#EXTINF:-1,USA: FANTASY SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58804
+#EXTINF:-1,USA: ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58805
+#EXTINF:-1,USA: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58806
+#EXTINF:-1,USA: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58807
+#EXTINF:-1,USA: ELEVEN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58808
+#EXTINF:-1,USA: CBSN SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58809
+#EXTINF:-1,USA: CBS SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58810
+#EXTINF:-1,USA: BIG TEN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58811
+#EXTINF:-1,USA: BEIN SPORT USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.pandar.tv:25461/4UPkYR7Y6KAv6E0/0vsIuHfrqDA1Boy/58812
