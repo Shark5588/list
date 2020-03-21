@@ -257,6 +257,42 @@ Shark55
         <link>plugin://plugin.video.youtube/play/?video_id=UJzGE00wncU</link>
         <thumbnail>https://www.gstatic.com/tv/thumb/v22vodart/18001186/p18001186_v_v8_aa.jpg</thumbnail>
    </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]M.O.M. (Mothers of Monsters) | Thriller[/COLOR][COLOR red] 1h 38min[/COLOR][/B]</name>
+    <thumbnail>https://www.gstatic.com/tv/thumb/movieposters/17978346/p17978346_p_v8_aa.jpg</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
+
+    <item>
+        <title>[B][COLOR silver]1080p.WEBRip.x264[/COLOR][COLOR red] 1.88 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:383930be66826f4663e5ada5a751b205c249b45e</link>
+        <thumbnail>https://www.gstatic.com/tv/thumb/movieposters/17978346/p17978346_p_v8_aa.jpg</thumbnail>
+        <genre>Thriller</genre>
+        <info></info>
+        <date>13.03.2020</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.WEB.h264[/COLOR][COLOR red] 6.71 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64264587e45e916893ed7697533215ad009aefc7</link>
+        <thumbnail>https://www.gstatic.com/tv/thumb/movieposters/17978346/p17978346_p_v8_aa.jpg</thumbnail>
+    </item>
+    
+    <item>
+        <title>[B][COLOR silver]720p.web.h264[/COLOR][COLOR red] 3.86 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d41cde8979bcaeca7e0dd9d234e192cd9f7d67d</link>
+        <thumbnail>https://www.gstatic.com/tv/thumb/movieposters/17978346/p17978346_p_v8_aa.jpg</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=K-DLQ6wzg5A</link>
+        <thumbnail>https://www.gstatic.com/tv/thumb/movieposters/17978346/p17978346_p_v8_aa.jpg</thumbnail>
+   </items>
   </channel>  
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
