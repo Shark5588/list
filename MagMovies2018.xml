@@ -586,18 +586,42 @@ sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLORwhite]Replicas | Thriller/Fantasy | 1h 47m[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25e895a70849dbba683e6e8b97a9aa72567b32bf&dn=Replicas.2018.1080p.HC.WEBRip.x264.AAC2.0-STUTTERSHIT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold]1080p.HC.WEBRip.x264.AAC2.0 | MaG Link[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cef04c92022ad30a5c69ffe31d190b5f191e1bc&dn=Replicas.2018.720p.HC.WEBRip.XviD.MP3-STUTTERSHIT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold]720p.HC.WEBRip.XviD.MP3 | MaG Link[/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]MaGNone | :-( [/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]Francais | :-( [/COLOR]::#
-</link>
-<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSnXodo9PBaOgysFuzN0UtTBq4XgL9oWFy32_wu2NRmx6YJSAyg</thumbnail>
-<fanart></fanart>
-</item>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Replicas | Thriller•Fantasy[/COLOR][COLOR red] 1h 47m[/COLOR][/B]</name>
+    <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSnXodo9PBaOgysFuzN0UtTBq4XgL9oWFy32_wu2NRmx6YJSAyg</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
+    <item>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 2.06 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85b888df16c4355b149b5d8f594ea839e431d882</link>
+        <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSnXodo9PBaOgysFuzN0UtTBq4XgL9oWFy32_wu2NRmx6YJSAyg</thumbnail>
+        <genre>Thriller•Fantasy</genre>
+        <info>	A scientist becomes obsessed with bringing back his family members who died in a traffic accident.</info>
+        <date>08.04.2019</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.x264[/COLOR][COLOR red] 7.64 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c84200dc7ac5167a16e1facaf57d39643114ac4</link>
+        <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSnXodo9PBaOgysFuzN0UtTBq4XgL9oWFy32_wu2NRmx6YJSAyg</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]BDRip 1080p [HEVC]Eng,Ru[/COLOR][COLOR red] 5.8 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A24AD18E09073DDD78CA857C9F89BE1FF54E2B2</link>
+        <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSnXodo9PBaOgysFuzN0UtTBq4XgL9oWFy32_wu2NRmx6YJSAyg</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=aaV36wYA8WU</link>
+        <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSnXodo9PBaOgysFuzN0UtTBq4XgL9oWFy32_wu2NRmx6YJSAyg</thumbnail>
+   </items>
+  </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
     <name>[B][COLOR silver]River Runs Red | Thriller•Mystery[/COLOR][COLOR red] 1h 35m[/COLOR][/B]</name>
