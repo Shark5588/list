@@ -346,7 +346,7 @@ sublink:LISTSOURCE:::LISTNAME:[COLORgold]Francais | :-( [/COLOR]::#
 </item>
 
 <item>
-<title>[COLORwhite]Frenzy |  1h 25min | Action, Adventure, Drama[/COLOR]</title>
+<title>[COLORwhite] |   | [/COLOR]</title>
 <link>
 sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a89c533933b9af4f505fd59024853fcafccd61b5&dn=Frenzy.2018.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold]1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1 | MaG Link[/COLOR]::#
 sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ab8988cbb3becc40d910cbd0ed495f2ed05db5f&dn=Frenzy.2018.1080p.WEB-DL.DD5.1.H264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold]1080p.WEB-DL.DD5.1.H264 | MaG Link[/COLOR]::#
@@ -356,90 +356,223 @@ sublink:LISTSOURCE:::LISTNAME:[COLORgold]Francais | :-( [/COLOR]::#
 <thumbnail>https://dyncdn.me/mimages/332499/poster_opt.jpg</thumbnail>
 <fanart></fanart>
 </item>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Frenzy | Action•Adventure•Drama[/COLOR][COLOR red] 1h 25min[/COLOR][/B]</name>
+    <thumbnail>https://dyncdn.me/mimages/332499/poster_opt.jpg</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
-<item>
-<title>[COLORsnow]Green Book | Drama/Comedy-drama ‧ 2h 10m[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CE35923FA57CF03B602F3E13905940E88CDB48FB&dn=%5Bzooqle.com%5D%20Green%20Book%202018%201080p%20WEB-DL%20DD5%201%20H264-FGT&tr=udp://tracker.coppersurfer.tk:6969&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://www.megatorrents.kg/announce.php&xl=5428086388&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969::LISTNAME:[COLORgold]1080p WEB-DL DD5 1 H264-FGT | MagLink[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7220FFA5AB04725BDE94AC9F9C1C14C70686D71&dn=%5Bzooqle.com%5D%20Green%20Book%20%282018%29%20%5BWEBRip%5D%20%5B720p%5D%20%5BYTS.AM%5D&tr=udp://tracker.coppersurfer.tk:6969&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://www.megatorrents.kg/announce.php&xl=1145658652&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce::LISTNAME:[COLORgold]WEBRip 720p YTS AM | MagLink[/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]MaGNone |:-( [/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]Francais | :-( [/COLOR]::#
-</link>
-<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQzrg924mYtB2IPrhtpOe-5ynGP40fv07yG2ZqfqsJhrsg1l8s4</thumbnail>
-<fanart></fanart>
-</item>
+    <item>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 1.62 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c68c3d8a035cba57193dfbc88a4941815fc402f</link>
+        <thumbnail>https://dyncdn.me/mimages/332499/poster_opt.jpg</thumbnail>
+        <genre>Action•Adventure•Drama</genre>
+        <info>In the aftermath of a plane crash, two sisters try to get away from a school of killer sharks.</info>
+        <date>29.12.2018</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.AVC.DTS-HD.MA.5.1[/COLOR][COLOR red] 20.62 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd15360f5ae9eb4012f98ee3da2bed4fd09eafd9</link>
+        <thumbnail>https://dyncdn.me/mimages/332499/poster_opt.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1[/COLOR][COLOR red] 21.04 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a89c533933b9af4f505fd59024853fcafccd61b5</link>
+        <thumbnail>https://dyncdn.me/mimages/332499/poster_opt.jpg</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=zHMT4nAXhJw</link>
+        <thumbnail>https://dyncdn.me/mimages/332499/poster_opt.jpg</thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Green Book | Drama•Comedy-drama[/COLOR][COLOR red] 2h 10m[/COLOR][/B]</name>
+    <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQzrg924mYtB2IPrhtpOe-5ynGP40fv07yG2ZqfqsJhrsg1l8s4</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
-<item>
-<title>[COLORwhite]Halloween | Slasher/Thriller ‧ 1h 44m[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:http://www.allserv.fr/torrents/Halloween%20-%202018%20-%20BluRay%204K%20x265%202160p%2010Bit%20HDR%20MULTi%20%28VFQ%29%20DTS-X%207.1%20-%20PARISTOCAT/Halloween%20-%202018%20-%20x265%20HDR%202160p%20-%20PARISTOCAT.mkv::LISTNAME:[COLORgold]BluRay 4K x265 2160p 10Bit HDR MULTi (VFQ) DTS-X 7.1 | Link[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17CB9BF88755AD15EDDAE43F9658446F06686E00&dn=%5Bzooqle.com%5D%20Halloween%202018%20UHD%202160p%20BluRay%20x265%20HDR%20DTS-X%207%201-DTOne&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://bt.artvid.ru:6969/announce&xl=10178139076&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fbt.artvid.ru%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce::LISTNAME:[COLORgold]2160p BluRay x265 HDR DTS-X 7 1-DTOne | MaGLink[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7374ADA0411CA839C68965C59EBF33E817953818&dn=%5Bzooqle.com%5D%20Halloween%20%282018%29%20%5BWEBRip%5D%20%281080p%29&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://bt.artvid.ru:6969/announce&xl=1811610553&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce::LISTNAME:[COLORgold][WEBRip] (1080p) | MaGLink[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F1E589885C3B77A419B92FA9493DAF641C010E8&dn=%5Bzooqle.com%5D%20Halloween%20%282018%29%20%5BWEBRip%5D%20%5B720p%5D&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://bt.artvid.ru:6969/announce&xl=938965444&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce::LISTNAME:[COLORgold][WEBRip] [720p] | MaGLink[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBDE4BAC0970C2CF080E9649FD8A183395B5A04A&dn=%5Bzooqle.com%5D%20Halloween%202018%20HC%20HDRip%20XviD%20AC3-EVO%5BEtMovies%5D&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://bt.artvid.ru:6969/announce&xl=1507657135&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce::LISTNAME:[COLORgold]HDRip XviD AC3 | MaGLink[/COLOR]::#
-sublink:LISTSOURCE:http://ns502618.ip-192-99-8.net/library/movieland/Halloween.2018.HC.1080p.HDRip.X264.AC3-EVO.mkv::LISTNAME:[COLORgold]HC.1080p.HDRip.X264.AC3-EVO.mkv[/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]MaGNone[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1BDE77EEAD9F8F3D9C45ED133B321C46CBEB643E&dn=%5Bzooqle.com%5D%20Halloween%202018%20FRENCH%20BDRip%20XviD&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://bt.artvid.ru:6969/announce&xl=728298495&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Fbt.artvid.ru%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce::LISTNAME:[COLORgold]Francais | BDRip XviD | MaGLink[/COLOR]::#
-</link>
-<thumbnail>http://www.movienewsletters.net/photos/246098R1.jpg</thumbnail>
-<fanart></fanart>
-</item>
+    <item>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 2.48 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fb265387d01c58c6f50fdef69ddaa02bac49b79</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQzrg924mYtB2IPrhtpOe-5ynGP40fv07yG2ZqfqsJhrsg1l8s4</thumbnail>
+        <genre>Drama•Comedy-drama</genre>
+        <info>Green Book takes audiences on a surprisingly smooth ride through potentially bumpy subject matter, fueled by Peter Farrelly's deft touch and a pair of
+well-matched leads.</info>
+        <date>27.02.2019</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.x265[/COLOR][COLOR red] 2.03 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bbd527b8d610cb040ec2c6156fa18de7edfe0b5</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQzrg924mYtB2IPrhtpOe-5ynGP40fv07yG2ZqfqsJhrsg1l8s4</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]1080p.WEB-DL.DD5.1.H264[/COLOR][COLOR red] 5.06 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce35923fa57cf03b602f3e13905940e88cdb48fb</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQzrg924mYtB2IPrhtpOe-5ynGP40fv07yG2ZqfqsJhrsg1l8s4</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=WeDbXTsQnJM</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQzrg924mYtB2IPrhtpOe-5ynGP40fv07yG2ZqfqsJhrsg1l8s4</thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Halloween | Slasher•Thriller[/COLOR][COLOR red] 1h 44m[/COLOR][/B]</name>
+    <thumbnail>http://www.movienewsletters.net/photos/246098R1.jpg</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
-<item>
-<title>[COLORwhite]Here Comes the Grump[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bb2161d4ee318cf9368ba1986fedfa8a4e2a5c3&dn=Here.Comes.the.Grump.2018.WEBRip.x264-ION10&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold] WEBRip x264-ION10 | MaG Link[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1bbe5aae3d62c927d54985066a301489e71db1f3&dn=Here.Comes.the.Grump.2018.1080p.AMZN.WEBRip.DDP5.1.x264-CM&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold]1080p.3.19 GB.WEBRip.DDP5.1.x264-CM | MaG Link[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6b32508e589cee3ee966ffefc56c8f133d4d0e8&tr=udp://tracker.coppersurfer.tk:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://9.rarbg.me:2750/announce&tr=udp://tracker.pirateparty.gr:6969/announce&tr=udp://public.popcorn-tracker.org:6969/announce&tr=udp://tracker.internetwarriors.net:1337/announce&tr=udp://tracker.vanitycore.co:6969/announce&tr=udp://tracker.zer0day.to:1337/announce&tr=udp://open.stealth.si:80/announce&tr=http://mgtracker.org:2710/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://p4p.arenabg.com:1337&tr=udp://shadowshq.yi.org:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://eddie4.nl:6969/announce&tr=http://torrentsmd.me:8080/announce&tr=http://tracker.torrentyorg.pl/announce&tr=http://omg.wtftrackr.pw:1337/announce&tr=udp://z.crazyhd.com:2710/announce::LISTNAME:[COLORgold]Francais | MaG Link[/COLOR]::#
-</link>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjQ1NjBhNmEtZmM2OS00NDM0LTg3YjctZWU4NjcxODMxYzVmXkEyXkFqcGdeQXVyMjgzNjA3Mw@@._V1_.jpg</thumbnail>
-<fanart></fanart>
-</item>
+    <item>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 2.03 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fc5f6f5d9b8aef11c803921200a318c76338d82</link>
+        <thumbnail>http://www.movienewsletters.net/photos/246098R1.jpg</thumbnail>
+        <genre>Slasher•Thriller</genre>
+        <info>After a narrow escape over four decades ago, Laurie Strode comes face-to-face with Michael Myers after he escapes from captivity. She must confront her worst fears and put an end to his killing spree.</info>
+        <date>16.10.2019</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]720p.BluRay.H264.AAC[/COLOR][COLOR red] 1.29 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0ba6345877a210309e0a82e36493535ac10cb28</link>
+        <thumbnail>http://www.movienewsletters.net/photos/246098R1.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.x264.DTS-X.7.1[/COLOR][COLOR red] 10.60 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a7738d76ff41b565e6b2d71cef3ff718e5a7410</link>
+        <thumbnail>http://www.movienewsletters.net/photos/246098R1.jpg</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=x2A8ds2NpNI</link>
+        <thumbnail>http://www.movienewsletters.net/photos/246098R1.jpg</thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Holmes & Watson | Mystery•Crime[/COLOR][COLOR red] 1h 30m[/COLOR][/B]</name>
+    <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTOvxcyJoC-xWdldutwNmBjbySDyGXXj0SVgcyyuK8uN8I0p66p</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
-<item>
-<title>[COLORsnow]Holmes & Watson | Mystery/Crime - 1h 30m[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:780a8c294e867b684bda2932ab14d2563d1b8ba1&dn=Holmes.and.Watson.2018.1080p.WEB-DL.DD5.1.H264-FGT&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold]1080p.WEB-DL.DD5.1.H264-FGT | 3.10 GB[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01D23A866E13FD372B9DFC33FE6B93FD0F7322F9&dn=%5Bzooqle.com%5D%20Holmes%20and%20Watson%202019%201080p%20WEB-DL%20H264%20AC3-EVO&tr=udp://tracker.coppersurfer.tk:6969&tr=http://tracker1.itzmx.com:8080/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://sub4all.org:2710/announce&tr=http://www.megatorrents.kg/announce.php&xl=3327468062&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce::LISTNAME:[COLORgold]1080p WEB-DL H264 AC3-EVO | 3.10 GB[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=::LISTNAME:[COLORgold]MaGNone | :-( [/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=::LISTNAME:[COLORgold]MaGNone | :-( [/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=::LISTNAME:[COLORgold]MaGNone | :-( [/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]MaGNone | :-( [/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]MaGNone | :-( [/COLOR]::#
-sublink:LISTSOURCE:::LISTNAME:[COLORgold]Francais | :-( [/COLOR]::#
-</link>
-<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTOvxcyJoC-xWdldutwNmBjbySDyGXXj0SVgcyyuK8uN8I0p66p</thumbnail>
-<fanart></fanart>
-</item>
+    <item>
+        <title>[B][COLOR silver]1080p.WEB-DL.DD5.1.H264[/COLOR][COLOR red] 3.10 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:780a8c294e867b684bda2932ab14d2563d1b8ba1</link>
+        <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTOvxcyJoC-xWdldutwNmBjbySDyGXXj0SVgcyyuK8uN8I0p66p</thumbnail>
+        <genre>Mystery•Crime</genre>
+        <info>At the Buckingham Palace, Detective Holmes and Doctor Watson stumble upon a murder scene and receive a note which says that they have four days to solve the crime or the Queen will die.</info>
+        <date>11.03.2019</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 1.73 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c007a79108a0bd3acc14440f8c1ea593c986285</link>
+        <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTOvxcyJoC-xWdldutwNmBjbySDyGXXj0SVgcyyuK8uN8I0p66p</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=QJjOxhyKppA</link>
+        <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTOvxcyJoC-xWdldutwNmBjbySDyGXXj0SVgcyyuK8uN8I0p66p</thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Hunter Killer | Drama•Thriller[/COLOR][COLOR red] 2h 3m[/COLOR][/B]</name>
+    <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQ6htgVfO3ystwiLdG6Y1P8VLo--VV3gUGa-sMqiJwEUsk7uR7A</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
-<item>
-<title>[COLORwhite]Hunter Killer | Drama/Thriller ‧ 2h 3m[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DBCCF1E2479EE15F652C6D4D63ADC036DB30287&dn=Hunter.Killer.2018.Proper.1080p.WEB-DL.DD5.1.H264-CMRG%5BTGx%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fbt.xxx-tracker.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce::LISTNAME:[COLORgold]1080p.WEB-DL.DD5.1.H264 | MaG Link[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1cdab280ae2806d23d3f68a5efcd14c84e0c935&dn=Hunter.Killer.2018.720p.BluRay.x264-DRONES&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710::LISTNAME:[COLORgold]720p.BluRay.x264 | MaG Link[/COLOR]::#
-sublink:LISTSOURCE:http://79.127.127.112/sr1/mari/97/9/Hunter.Killer.2018.720p.HC.HDRip.MkvCage.Tehmovies.mkv::LISTNAME:[COLORgold]HDRip | Link [/COLOR]::#
-sublink:LISTSOURCE:http://ns1.osirisland.org/Action/Hunter.Killer.2018.FRENCH.BDRip.x264-EXTREME.mkv::LISTNAME:[COLORgold]Francais | Link [/COLOR]::#
-</link>
-<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQ6htgVfO3ystwiLdG6Y1P8VLo--VV3gUGa-sMqiJwEUsk7uR7A</thumbnail>
-<fanart></fanart>
-</item>
+    <item>
+        <title>[B][COLOR silver]1080p.BluRay.x265[/COLOR][COLOR red] 1.89 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7635a114ed6b73ae9cce53b608a51f1c9b1fc4bf</link>
+        <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQ6htgVfO3ystwiLdG6Y1P8VLo--VV3gUGa-sMqiJwEUsk7uR7A</thumbnail>
+        <genre>Drama•Thriller</genre>
+        <info>An untested American submarine captain teams with U.S. Navy Seals to rescue the Russian president| who has been kidnapped by a rogue general.</info>
+        <date>29.03.2020</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 2.33 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33203b07f2a1184bc109499a970ad59f44c77279</link>
+        <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQ6htgVfO3ystwiLdG6Y1P8VLo--VV3gUGa-sMqiJwEUsk7uR7A</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.x264[/COLOR][COLOR red] 7.95 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25e813653723aca1f4d469ae4efaf29f33dc8d3</link>
+        <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQ6htgVfO3ystwiLdG6Y1P8VLo--VV3gUGa-sMqiJwEUsk7uR7A</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=Q1_TYDkGP-w</link>
+        <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQ6htgVfO3ystwiLdG6Y1P8VLo--VV3gUGa-sMqiJwEUsk7uR7A</thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Incredibles 2 | Science Fiction•Action[/COLOR][COLOR red] 2h 5m[/COLOR][/B]</name>
+    <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQj3ReuWplyf7Pu-y8UP42IBhbKj_9OAL1zxliSfMwrRSJc_70Q</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
-<item>
-<title>[COLORwhite]Incredibles 2 | Science Fiction/Action - 2h 5m[/COLOR]</title>
-<link>
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96B020B98A890BD2D505AB7B8130B7F5A7B1B85D&dn=%5Bzooqle.com%5D%20Incredibles%202%202018%20Multi%20UHD%202160p%20BluRay%20Remux%20HEVC%20HDR%20Atmos%207%201-DTOne&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker.etree.org:6969/announce&tr=http://nethd.org/announce.php&xl=45207237206&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce::LISTNAME:[COLORgold]Multi UHD 2160p BluRay Remux HEVC HDR Atmos 7 1-DTOne | 42.1 GB | English, French, Spanish[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A12CA4AE9777AAD35FADFC8B5521EF2B8A99312&dn=%5Bzooqle.com%5D%20Incredibles%202%202018%20Multi%20UHD%202160p%20BluRay%20x265%20HDR%20DDP%207%201-DTOne&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker.etree.org:6969/announce&tr=http://nethd.org/announce.php&xl=5318128991&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce::LISTNAME:[COLORgold]Multi UHD 2160p BluRay x265 HDR DDP 7 1-DTOne | 5.0 GB | 7.1 English, French, Spanish[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B7469C830B624321F843A95D0BD162AAF2ABFF4&dn=%5Bzooqle.com%5D%20Incredibles%202%20%282018%29%20%5BWEBRip%5D%20%5B1080p%5D%20%5BYTS.AM%5D&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker.etree.org:6969/announce&tr=http://nethd.org/announce.php&xl=2012062370&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce::LISTNAME:[COLORgold] WEBRip 1080p YTS.AM | 1.9 GB[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23FCDD2D194D479DE2C38E1DD1BEFE6D8B28AF9B&dn=%5Bzooqle.com%5D%20Incredibles%202%20%282018%29%20%5BWEBRip%5D%20%5B720p%5D%20%5BYTS.AM%5D&tr=http://explodie.org:6969/announce&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://tracker.etree.org:6969/announce&tr=http://nethd.org/announce.php&xl=1040863893&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce::LISTNAME:[COLORgold] WEBRip 720p YTS.AM | 992 MB[/COLOR]::#
-sublink:LISTSOURCE:plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:732032B20512D58CF0624FBBEA3BB963F58FC70B&dn=%5Bzooqle.com%5D%20Torrent9%20PH%20---%3E%20Incredibles%202%202018%20TRUEFRENCH%20BDRip%20XviD&tr=http://announce.xxx-tracker.com:2710/announce&tr=http://tracker1.wasabii.com.tw:6969/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=http://open.acgtracker.com:1096/announce&tr=http://bt.artvid.ru:6969/announce&xl=728018814&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Fannounce.xxx-tracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Fbt.artvid.ru%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce::LISTNAME:[COLORgold]TRUEFRENCH BDRip XviD | MaGLink[/COLOR]::#
-sublink:LISTSOURCE:http://ace-net.net/stream/Movies/PublicMovies/Incredibles%202.mp4::LISTNAME:[COLORgold]Link[/COLOR]::#
-sublink:LISTSOURCE:http://www.funkyz-animation.fr/vod/Incredibles.2.2018.TRUEFRENCH.BDRip.XviD.avi::LISTNAME:[COLORgold]Francais | Link [/COLOR]::#
-sublink:LISTSOURCE:https://www.youtube.com/watch?v=i5qOzqD9Rms::LISTNAME:[COLORff00afaf]Trailer[/COLOR]::#
-</link>
-<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQj3ReuWplyf7Pu-y8UP42IBhbKj_9OAL1zxliSfMwrRSJc_70Q</thumbnail>
-<fanart></fanart>
-</item>
-
+    <item>
+        <title>[B][COLOR silver]1080p.WEB-DL.DD5.1.H264[/COLOR][COLOR red] 4.02 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e18c1e89cd46b666542335dfadadbf8610021755</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQj3ReuWplyf7Pu-y8UP42IBhbKj_9OAL1zxliSfMwrRSJc_70Q</thumbnail>
+        <genre>Science Fiction•Action</genre>
+        <info>Entrusted with a task to restore public faith in superheroes, Helen sets off on a mission to catch a supervillain, while Bob faces the challenges of stay-at-home parenting.</info>
+        <date>22.10.2018</date>2
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 2.26 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7b3f408c1785a8eabf10224508994e89caf9887</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQj3ReuWplyf7Pu-y8UP42IBhbKj_9OAL1zxliSfMwrRSJc_70Q</thumbnail>
+    </item>
+    
+    	<item>
+        <title>[B][COLOR silver]2160p.UHD.BluRay.X265.10bit.HDR.TrueHD.7.1.Atmos[/COLOR][COLOR red] 13.73 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e091ae51e2bed8b67801f741ca228c2225ff8ca</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQj3ReuWplyf7Pu-y8UP42IBhbKj_9OAL1zxliSfMwrRSJc_70Q</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]Multi.UHD.2160p.BluRay.x265.HDR.DDP 7.1 Eng,Fr,Spanish[/COLOR][COLOR red] 5.0 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A12CA4AE9777AAD35FADFC8B5521EF2B8A99312</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQj3ReuWplyf7Pu-y8UP42IBhbKj_9OAL1zxliSfMwrRSJc_70Q</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=jhd9fqS8ZgA</link>
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQj3ReuWplyf7Pu-y8UP42IBhbKj_9OAL1zxliSfMwrRSJc_70Q</thumbnail>
+   </items>
+  </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
     <name>[B][COLOR silver]Instant Family | Drama•Comedy-drama[/COLOR][COLOR red] 2 hours[/COLOR][/B]</name>
