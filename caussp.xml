@@ -281,15 +281,15 @@ https://e7.cdn4.us/ingest666/fstwo.m3u8|Referer=https://box-live.stream/stream/4
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://210.210.155.35/uq2663/h/h21/index1.m3u8
+http://210.210.155.35/uq2663/h/h21/index1.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" ,[B][COLORorange]Fox Sports Racing | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" ,[B][COLORorange]Fox Sports Racing | USA[/B][/COLOR]
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" ,[B][COLORorange]Fox Sports Racing | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" ,[B][COLORorange]Fox Sports Racing | USA[/B][/COLOR]
