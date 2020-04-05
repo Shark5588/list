@@ -115,7 +115,11 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   </channel>
 
 
-
+  <channel>
+    <name>[B][COLOR silver] «NBCSN» [/COLOR][/B]</name>
+    <thumbnail>https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png</thumbnail>
+    <fanart></fanart>
+    <items>
 <item>
 <title>Test live</title>
 <link>$doregex[makelist]</link>
@@ -131,6 +135,6 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 <page>https://www.youtube.com/watch?v=e42OFbdVbPE</page>
 <cookieJar></cookieJar>
 </regex>
-</item>
-
+   </items>
+  </channel>
 
