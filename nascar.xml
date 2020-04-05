@@ -116,25 +116,26 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 
   <channel>
-    <name>[B][COLOR silver] «NBCSN» [/COLOR][/B]</name>
+    <name>[B][COLOR silver] «Test» [/COLOR][/B]</name>
     <thumbnail>https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png</thumbnail>
     <fanart></fanart>
     <items>
-<item>
-<title>Test live</title>
-<link>$doregex[makelist]</link>
+    
+     <item>
+      <title>Test live</title>
+      <link>$doregex[makelist]</link>
 
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1] ([makelist.param3])</title>
-<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-<thumbnail>NA</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
-<page>https://www.youtube.com/watch?v=e42OFbdVbPE</page>
-<cookieJar></cookieJar>
-</regex>
+       <regex>
+       <name>makelist</name>
+       <listrepeat><![CDATA[
+       <title>[makelist.param1] ([makelist.param3])</title>
+      <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+      <thumbnail>NA</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
+     <page>https://www.youtube.com/watch?v=e42OFbdVbPE</page>
+     <cookieJar></cookieJar>
+    </regex>
    </items>
   </channel>
 
