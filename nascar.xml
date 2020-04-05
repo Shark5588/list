@@ -129,11 +129,11 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[makelist.param1] [COLORGOLD]([makelist.param3])[/COLOR]</title>
+          <title>[B][COLOR gold][makelist.param1] ([makelist.param3])[/COLOR][/B]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
+          <expres><(?:https?:\/\/)?(?:www\.)?youtu\.?be(?:\.com)?\/?\S*(?:watch|embed)?(?:(?:(?=\/[^&\s\?]+(?!\S))\/)|(?:\S*v=|v\/))([^&\s\?]+)></expres>
         <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
        <cookieJar></cookieJar>
      </regex>
