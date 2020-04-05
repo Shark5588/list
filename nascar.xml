@@ -129,11 +129,11 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[B][COLOR gold][makelist.param1] ([makelist.param3])[/COLOR][/B]</title>
+          <title>[makelist.param1]  [COLOR gold]([makelist.param3])[/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres><(?:https?:\/\/)?(?:www\.)?youtu\.?be(?:\.com)?\/?\S*(?:watch|embed)?(?:(?:(?=\/[^&\s\?]+(?!\S))\/)|(?:\S*v=|v\/))([^&\s\?]+)></expres>
+          <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
         <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
        <cookieJar></cookieJar>
      </regex>
@@ -150,8 +150,8 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
       <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
       <thumbnail>NA</thumbnail>
       ]]></listrepeat>
-      <expres><(?:https?:\/\/)?(?:www\.)?youtu\.?be(?:\.com)?\/?\S*(?:watch|embed)?(?:(?:(?=\/[^&\s\?]+(?!\S))\/)|(?:\S*v=|v\/))([^&\s\?]+)></expres>
-     <page>https://www.youtube.com/embed/DEXJoXrwIdw</page>
+      <expres>(?:https?:\/\/)?(?:www\.)?youtu\.?be(?:\.com)?\/?\S*(?:watch|embed)?(?:(?:(?=\/[^&\s\?]+(?!\S))\/)|(?:\S*v=|v\/))([^&\s\?]+)</expres>
+     <page>https://www.youtube.com/playlist?list=PLtc57NTUizP7gALQUtOZuc0pvokwvCCRj</page>
      <cookieJar></cookieJar>
     </regex>
    </items>
