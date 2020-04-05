@@ -121,6 +121,24 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <fanart></fanart>
     <items>
     
+     
+      <item>
+       <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][/B]</title>
+        <link>$doregex[makelist]</link>
+
+         <regex>
+          <name>makelist</name>
+          <listrepeat><![CDATA[
+          <title>[makelist.param1] [COLORGOLD]([makelist.param3])[/COLOR]</title>
+          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+          <thumbnail>NA</thumbnail>
+          ]]></listrepeat>
+          <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
+        <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
+       <cookieJar></cookieJar>
+     </regex>
+    </item>
+    
      <item>
       <title>Test live</title>
       <link>$doregex[makelist]</link>
