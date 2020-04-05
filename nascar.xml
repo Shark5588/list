@@ -1,94 +1,124 @@
-#EXTM3U
-<layouttype>-=DONT STEAL MY FUCKIN LINKS=-</layouttype>
+<channels>
+<channel>
+<name>[COLOR white][B]****[/B][/COLOR][COLOR orange][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</name>
+<link>http://ignore.me</link>
+<thumbnail>https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png</thumbnail>
+ </channel>
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]<< I DO NOT OWN OR HOST THESE STREAMING LINKS.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] THEY ARE FREELY AVAILABLE ON THE INTERNET.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://www.jayski.com/wp-content/uploads/sites/31/2020/03/20/proinvitation-iracing-scaled.jpg",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234
+<channel>
+<name>[COLOR white][B]****[/B][/COLOR][COLOR orange][B] THEY ARE FREELY AVAILABLE ON THE INTERNET.[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</name>
+<link>http://ignore.me</link>
+<thumbnail>https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png</thumbnail>
+</channel>
+
+<channel>
+<name>[COLOR white][B]****[/B][/COLOR][COLOR orange][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</name>
+<link>http://ignore.me</link>
+<thumbnail>https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png</thumbnail>
+</channel>
  
-EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR white][B]You cane Buy me Beer or Coffee would be nice for hours and hosting cost @ https://www.paypal.me/Shark55[/B][/COLOR][COLORred][B]****[/B][/COLOR]
-http://0.0.0.0:1234
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B]https://www.paypal.me/Shark55[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
-http://0.0.0.0:1234  https://www.pscp.tv/NASCAR/1YpKkQPNXnPJj?t=1m43s
 ===============================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BaoEykfrQt0/hqdefault.jpg",[B][COLORred]•[/COLOR][COLORgold] Full Race Replay | Saturday Night Thunder | iRacing from Bristol Motor Speedway[/COLOR][/B]
-plugin://plugin.video.youtube/play/?video_id=BaoEykfrQt0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[B][COLORred] LIVE CORONA VIRUS STATS[/B][/COLOR]
-https://bit.ly/2QVLRoI
+  <channel>
+    <name>[B][COLORred]•[/COLOR][COLORgold]iRacing from Bristol Motor Speedway[/COLOR][/B]</name>
+    <thumbnail>https://i.ytimg.com/vi/BaoEykfrQt0/hqdefault.jpg</thumbnail>
+    <fanart></fanart>
+    <items>
 
+    <item>
+        <title>[B][COLOR silver]FS1[/COLOR][COLOR red] iRacing from Bristol Motor Speedway[/COLOR][/B]</title>
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10769</link>
+        <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
+        <genre>NASCAR</genre>
+        <info></info>
+        <date></date>
+        <epg></epg>
+        <fanart></fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]FS1[/COLOR][COLOR red] iRacing from Bristol Motor Speedway[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254406</link>
+        <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]FS1[/COLOR][COLOR red] iRacing from Bristol Motor Speedway[/COLOR][/B]</title>         
+        <link>http://docs-1.gogleusercontent.host/live/uzbc50lo/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-1/</link>
+        <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
+    </item>
+    
+    	<item>
+        <title>[B][COLOR silver]Fox Sports 506[/COLOR][COLOR red] iRacing from Bristol Motor Speedway[/COLOR][/B]</title>         
+        <link>http://45.58.62.92:8080</link>
+        <thumbnail>https://dscxx9mer61ho.cloudfront.net/wp-content/uploads/TV-Fox506.png</thumbnail>
+    </item>
+    
+    	<item>
+        <title>[B][COLOR silver]TSN 2[/COLOR][COLOR red] iRacing from Bristol Motor Speedway[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/375854</link>
+        <thumbnail>https://i.ibb.co/dtD0WNy/3523.png</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Jimmie Johnson | Bristol iRacing In Car Stream[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs</link>
+        <thumbnail>https://usatftw.files.wordpress.com/2019/02/usp-nascar_-advance-auto-parts-clash-e1550115502624.jpg?w=1000&h=600&crop=1</thumbnail>
+   </items>
+   
+       <item>
+        <title>[B][COLOR cadetblue]Chase Elliott | Bristol iRacing In Car Stream[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=R228yPrwqTo</link>
+        <thumbnail>https://cdn-1.motorsport.com/images/amp/2wB4kg80/s6/chase-elliott-hendrick-motorsp.jpg</thumbnail>
+   </items>
+  </channel>
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxuY7XVD2VLbMiDyCEB9W63jmQVCIupRDuw7Q=s48-c-k-c0xffffffff-no-rj-mo",[B][COLORred]•[/COLOR][COLORgold] Jimmie Johnson | Bristol iRacing In Car Stream[/COLOR][/B]
-plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs
-#EXTINF:-1 tvg-logo="https://cdn-1.motorsport.com/images/amp/2wB4kg80/s6/chase-elliott-hendrick-motorsp.jpg",[B][COLORred]•[/COLOR][COLORgold] Chase Elliott | Bristol iRacing In Car Stream[/COLOR][/B]
-plugin://plugin.video.youtube/play/?video_id=PIt_U7fPHzg
-============================================================ NASCAR===================================================================https://www.youtube.com/watch?v=BaoEykfrQt0
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow] FS1»[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10769
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow]  FS1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/254406
-EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow]  FS1»[/COLOR][/B]
-https://bit.ly/3dTh8CP
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow] FS1»[/COLOR][/B]
-http://docs-1.gogleusercontent.host/live/uzbc50lo/chunks.m3u8|Referer=http://123tvnow.com/watch/fox-sports-1/
-EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow] FS1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://ul.cdn946.net:8443/hls/ftypoplj0tr0hw.m3u8?s=DAc3I4blRYOsblH5xF9Wjw&e=1586046977
-EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3513.png",[B][COLORred]•[/COLOR][COLORsnow] FS1»[/COLOR][/B]
-
-EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:0 group-title="USA"tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2013/08/foxlogo.jpg",[B][COLORred]•[/COLOR][COLORblue]Race «FOX HD»[/COLOR][/B]
-#EXTINF:-1 tvg-logo="https://dscxx9mer61ho.cloudfront.net/wp-content/uploads/TV-Fox506.png" ,[B][COLORorange]Fox Sports 506 HD | USA[/B][/COLOR]
-http://45.58.62.92:8080
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-
-0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN1»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN2»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/375854
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN2»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN3»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN3»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN4»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN4»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN5»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.nascar.media/wp-content/uploads/sites/7/2018/08/Monster_240x120.png",[B][COLORred]•[/COLOR][COLORlime] Nascar Live stream «TSN5»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver] MAVTV |  • [/COLOR][COLOR red] MOTORTREND[/COLOR][/B]</name>
+    <thumbnail>https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
+    
+	<item>
+        <title>[B][COLORsnow]•[/COLOR][COLORred]« MAVTV »[/COLOR][/B]</title>         
+        <link>http://79hafkca.otttv.pw/iptv/4ENSP3KRWCE6CT/1074/index.m3u8</link>
+        <thumbnail>https://www.mavtv.com/assets/images/socialmedia/generic_collage_mavtv_1200x630.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLORsnow]•[/COLOR][COLORred] « MOTORTREND»[/COLOR][/B]</title>         
+        <link>http://79hafkca.otttv.pw/iptv/4ENSP3KRWCE6CT/1091/index.m3u8</link>
+        <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/9/96/Motor-trend-od-logo.png/revision/latest?cb=20180719072150</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=</link>
+        <thumbnail></thumbnail>
+   </items>
+  </channel>
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
-#EXTINF:-1 tvg-logo="https://www.nbcsports.com/sites/nbcsports.com/files/460x250-nascar-america.jpg",[B][COLORred]•[/COLOR][COLORblue] Motor Mouths[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
-http://docs-8.gogleusercontent.host/live/wjjda20u/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sports-network-nbcsn|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORred]•[/COLOR][COLORblue] Motor Mouths[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/353545
-#EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]•[/COLOR][COLORblue] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
-http://docs-3.gogleusercontent.host/live/wjjda20u/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sports-network-nbcsn/
-EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]•[/COLOR][COLORblue] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="http://www.dalejr.com/static/themes/dalejr/images/dmr/logo.png",[B][COLORred]•[/COLOR][COLORblue] Dirty Mo[/COLOR][COLORred] «NBCSN»[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-################################################################################################################################################################
-################################################################################################################################################################
-EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/images/socialmedia/generic_collage_mavtv_1200x630.jpg",[B][COLORred]•[/COLOR][COLORgold] « MAVTV »[/COLOR][/B]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://www.mavtv.com/assets/images/socialmedia/generic_collage_mavtv_1200x630.jpg",[B][COLORred]•[/COLOR][COLORgold] « MAVTV »[/COLOR][/B]
-http://79hafkca.otttv.pw/iptv/4ENSP3KRWCE6CT/1074/index.m3u8
+  <channel>
+    <name>[B][COLOR silver] «NBCSN» [/COLOR][/B]</name>
+    <thumbnail>https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
+    
+	<item>
+        <title>[B][COLOR silver] «NBCSN»[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/353545</link>
+        <thumbnail>https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver] «NBCSN»[/COLOR][/B]</title>         
+        <link>http://docs-8.gogleusercontent.host/live/wjjda20u/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sports-network-nbcsn|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0</link>
+        <thumbnail>https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png</thumbnail>	
+   </items>
+  </channel>
 
-#EXTINF:0#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Motor-trend-od-logo.png/revision/latest?cb=20180719072150",[B][COLORred]•[/COLOR][COLORred] « MOTORTREND»[/COLOR][/B]
-http://79hafkca.otttv.pw/iptv/4ENSP3KRWCE6CT/1091/index.m3u8
-################################################################################################################################################################
-#############https://api.vpnmate.com/play/?vlc=1&channel=3009584&token=5gZJiWm1Vxhv:YjU4NjU0YjMxNjJiZjUxODU5YTg2ZTZlMmJhNTllYmYwYWE1NjZkOQ==####################
-################################################################################################################################################################
+
+
+
+
