@@ -61,32 +61,32 @@
 	
     <item>
         <title>[B][COLOR cadetblue]Jimmie Johnson | Bristol iRacing In Car Stream[/COLOR][/B]</title>         
-        <ytdash>plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs</ytdash>
+        <jsonrpc>plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs</jsonrpc>
         <thumbnail>https://usatftw.files.wordpress.com/2019/02/usp-nascar_-advance-auto-parts-clash-e1550115502624.jpg?w=1000&h=600&crop=1</thumbnail>
    </items>
    
        <item>
         <title>[B][COLOR cadetblue]Chase Elliott | Bristol iRacing In Car Stream[/COLOR][/B]</title>         
-        <ytdash>plugin://plugin.video.youtube/play/?video_id=R228yPrwqTo</ytdash>
+        <jsonrpc>plugin://plugin.video.youtube/play/?video_id=R228yPrwqTo</jsonrpc>
         <thumbnail>https://cdn-1.motorsport.com/images/amp/2wB4kg80/s6/chase-elliott-hendrick-motorsp.jpg</thumbnail>
    </items>
   </channel>
 
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
-    <name>[B][COLOR silver] MAVTV |  • [/COLOR][COLOR red] MOTORTREND[/COLOR][/B]</name>
+    <name>[B][COLOR silver] MAVTV | [/COLOR][COLOR red] MOTORTREND[/COLOR][/B]</name>
     <thumbnail>https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png</thumbnail>
     <fanart></fanart>
     <items>
     
 	<item>
-        <title>[B][COLORsnow]•[/COLOR][COLORred]« MAVTV »[/COLOR][/B]</title>         
+        <title>[B][COLORsnow]•[/COLOR][COLORred]  « MAVTV »[/COLOR][/B]</title>         
         <link>http://79hafkca.otttv.pw/iptv/4ENSP3KRWCE6CT/1074/index.m3u8</link>
         <thumbnail>https://www.mavtv.com/assets/images/socialmedia/generic_collage_mavtv_1200x630.jpg</thumbnail>
     </item>
 	
 	<item>
-        <title>[B][COLORsnow]•[/COLOR][COLORred] « MOTORTREND»[/COLOR][/B]</title>         
+        <title>[B][COLORsnow]•[/COLOR][COLORred]  « MOTORTREND»[/COLOR][/B]</title>         
         <link>http://79hafkca.otttv.pw/iptv/4ENSP3KRWCE6CT/1091/index.m3u8</link>
         <thumbnail>https://vignette.wikia.nocookie.net/logopedia/images/9/96/Motor-trend-od-logo.png/revision/latest?cb=20180719072150</thumbnail>
    </items>
