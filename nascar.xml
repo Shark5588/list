@@ -125,7 +125,6 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
       <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
-
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
@@ -147,12 +146,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
          <name>makelist</name>
          <listrepeat><![CDATA[
-        <title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+        <title>[COLOR lightgreen][makelist.param1][/COLOR]    [makelist.param2]</title>
+        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
        <thumbnail></thumbnail>
        <fanart></fanart>
        ]]></listrepeat>
-       <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
+       <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
       <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
       <cookieJar></cookieJar>
     </regex>
