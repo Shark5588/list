@@ -151,7 +151,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <thumbnail></thumbnail>
        <fanart></fanart>
        ]]></listrepeat>
-       <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+       <expres><![CDATA[data-title="\s?.data-video-id="(.*?)".*data-title="(.*?)"]]></expres>
       <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
       <cookieJar></cookieJar>
     </regex>
