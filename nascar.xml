@@ -186,7 +186,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <listrepeat><![CDATA[
         <title> [makelist.param2]</title>
         <link>IgnoreMe</link>
-         <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+         <jsonrpc>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</jsonrpc>
          <thumbnail></thumbnail>
         <fanart></fanart>
         ]]></listrepeat>
