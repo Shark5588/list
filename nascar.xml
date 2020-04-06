@@ -172,7 +172,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres>https:\/\/(?:www\.)?youtube.com\/watch\/[A-z0-9]+</expres>
+          <expres>((http(s)?\:\/\/)?(www\.)?(youtube|youtu)((\.com|\.be)\/)(watch\?v=)?([0-z]{11}|[0-z]{4}(\-|\_)[0-z]{4}|.(\-|\_)[0-z]{9}))</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
