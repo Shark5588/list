@@ -61,7 +61,13 @@
     
     <item>
         <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title>  
-        <utube>https://www.youtube.com/watch?v=3SUDJTuSCfc</utube>
+        <utube>https://www.youtube.com/watch?v=yAgmqYVnUZA</utube>
+        <thumbnail></thumbnail>
+    </item>
+    
+    <item>
+        <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title>  
+        <link>plugin://plugin.video.youtube/play/?video_id=yAgmqYVnUZA</link>
         <thumbnail></thumbnail>
     </item>
 
