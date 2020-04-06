@@ -138,6 +138,25 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      </regex>
     </item>
     
+    <item>
+<title>[B][COLOR gold]???????????????????????? [COLOR white]??????????????[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <thumbnail></thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres>/https?:\/\/(?:youtu\.be\/|(?:[a-z]{2,3}\.)?youtube\.com\/watch(?:\?|#\!)v=)([\w-]{11}).*/gi</expres>
+<page>https://www.youtube.com/watch?v=fDwzQxiYBG8</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+    
   <item>
      <title>[B][COLOR lime]???????????????????????? [COLOR white]??????????????[/COLOR][/B]</title>
       <thumbnail></thumbnail>
