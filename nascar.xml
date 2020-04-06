@@ -129,7 +129,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[makelist.param1]  [COLOR gold]([makelist.param3])[/COLOR]</title>
+          <title>[COLOR cyan][makelist.param1]  [/COLOR][COLOR gold]([makelist.param3])[/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
@@ -139,20 +139,22 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      </regex>
     </item>
     
-     <item>
-      <title>Test live</title>
-      <link>$doregex[makelist]</link>
-
-       <regex>
-       <name>makelist</name>
-       <listrepeat><![CDATA[
-       <title>[makelist.param1] ([makelist.param3])</title>
-      <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-      <thumbnail>NA</thumbnail>
-      ]]></listrepeat>
-      <expres>(?:https?:\/\/)?(?:www\.)?youtu\.?be(?:\.com)?\/?\S*(?:watch|embed)?(?:(?:(?=\/[^&\s\?]+(?!\S))\/)|(?:\S*v=|v\/))([^&\s\?]+)</expres>
-     <page>https://www.youtube.com/playlist?list=PLtc57NTUizP7gALQUtOZuc0pvokwvCCRj</page>
-     <cookieJar></cookieJar>
+  <item>
+     <title>[B][COLOR lime]???????????????????????? [COLOR white]??????????????[/COLOR][/B]</title>
+      <thumbnail></thumbnail>
+       <fanart></fanart>
+        <link>$doregex[makelist]</link>
+         <regex>
+         <name>makelist</name>
+         <listrepeat><![CDATA[
+        <title>[COLOR lightgreen]- [/COLOR]    [makelist.param2]</title>
+        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+       <thumbnail></thumbnail>
+       <fanart></fanart>
+       ]]></listrepeat>
+       <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+      <page>https://www.youtube.com/playlist?list=PLntzDJ6b9e2HodT2b7JLgibB1sI0-Hw0X</page>
+      <cookieJar></cookieJar>
     </regex>
    </items>
   </channel>
