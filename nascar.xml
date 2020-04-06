@@ -19,8 +19,8 @@
  
 ===============================================================================================================================================================
   <channel>
-    <name>[B][COLORred]•[/COLOR][COLORlime] FS1[/B]</name>
-    <thumbnail>https://www.racingrafix.com/forum/index.php?action=media;sa=media;in=339;preview</thumbnail>
+    <name>[B][COLORred]•[/COLOR][COLORlime] FS1[/COLOR][/B]</name>
+    <thumbnail>https://cdn.dribbble.com/users/594488/screenshots/4701191/monster.jpg</thumbnail>
     <fanart></fanart>
     <items>
 
@@ -116,8 +116,8 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   <channel>
-    <name>[B][COLOR silver] «Test» [/COLOR][/B]</name>
-    <thumbnail>https://www.racingrafix.com/forum/index.php?action=media;sa=media;in=339;preview</thumbnail>
+    <name>[B][COLOR silver]NASCAR Replays[/COLOR][/B]</name>
+    <thumbnail>https://cdn.dribbble.com/users/594488/screenshots/4701191/monster.jpg</thumbnail>
     <fanart></fanart>
     <items>
     
@@ -128,7 +128,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[COLOR cyan][makelist.param1]  [/COLOR][COLOR gold]([makelist.param2])[/COLOR]</title>
+          <title>[COLOR cyan]- [/COLOR][COLOR gold]([makelist.param2])[/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
@@ -155,6 +155,105 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
 <cookieJar></cookieJar>
 </regex>
+</item>
+
+<item>
+    <title>https://www.youtube.com/user/yorubahood/playlists</title>
+    <link>$doregex[makelist]</link>
+    <regex>
+        <name>makelist</name>
+        <listrepeat>
+            <![CDATA[
+           <title>[makelist.param2]</title><link>$doregex[makelist2]</link><referer></referer><thumbnail></thumbnail>
+           ]]>
+        </listrepeat>
+        <expres>aria-describedby=.*?href="(.*?)"&gt;(.*?)&lt;</expres>
+        <page>https://www.youtube.com/user/TheOfficialNASCAR/playlists</page>/featured
+        <cookieJar></cookieJar>
+    </regex>
+    <regex>
+        <name>makelist2</name>
+        <listrepeat>
+            <![CDATA[
+           <title>page [makelist2.param1]</title><link>$doregex[makelist3]</link><referer></referer><thumbnail></thumbnail>
+           ]]>
+        </listrepeat>
+        <expres> (.*?),</expres>
+        <page>$doregex[get-number]</page>
+        <cookieJar></cookieJar>
+    </regex>
+    <regex>
+        <name>makelist3</name>
+        <listrepeat>
+            <![CDATA[
+           <title>[makelist3.param2]</title><link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
+           ]]>
+        </listrepeat>
+        <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
+        <page>$doregex[get-source-page]</page>
+        <cookieJar></cookieJar>
+    </regex>
+    <regex>
+        <name>get-number</name>
+        <expres>
+            <![CDATA[#$pyFunction
+           def GetLSProData(page_data,Cookie_Jar,m,lists='[makelist.param1]'):
+
+            import requests
+            import re
+            lists = lists.replace('[', '').replace(']', '')
+            url='https://www.youtube.com' + str(lists)
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Accept-Language': 'en-US'}
+
+            rr = requests.get(url, headers=headers)
+            number = re.findall('</a></li><li>(.*?) vid', rr.text)[0]
+            #number = number.encode('unicode-escape')
+            number = number.replace(',', '')
+            real = int(float(number)) / 100
+            real2 = real + 3
+
+            liste = list(range(real2))
+            return liste
+           ]]>
+        </expres>
+        <page></page>
+    </regex>
+    <regex>
+        <name>get-source-page</name>
+        <expres>
+            <![CDATA[#$pyFunction
+           def GetLSProData(page_data,Cookie_Jar,m,lists='[makelist.param1]'):
+
+            import requests
+            import re
+            import json
+            lists = lists.replace('[', '').replace(']', '')
+            pageUrl='https://www.youtube.com' + str(lists)
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+            r1 = requests.get(pageUrl, headers = headers)
+            source = r1.text
+            page = [makelist2.param1]
+            N = int(float(page))
+            pre = 'https://www.youtube.com'
+            if (N > 1):
+
+              for itr in range (1,N):
+               continuex = re.findall('data-uix-load-more-href="(.*?)"', source)[0]
+               continuationx = pre + continuex
+               r = requests.get(continuationx, headers = headers)
+               source = r.text
+               jdata = json.loads(source)
+               source = jdata["load_more_widget_html"]
+               page = jdata["content_html"]
+              return page
+
+            else:
+
+             return source
+           ]]>
+        </expres>
+        <page></page>
+    </regex>
 </item>
     
   <item>
