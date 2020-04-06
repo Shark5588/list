@@ -136,22 +136,31 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      </regex>
     </item>
     
-    <item>
-<title>[B][COLOR gold]???????????????????????? [COLOR white]??????????????[/COLOR][/B]</title>
+  <item>
+     <title>[B][COLOR gold]???????????????????????? [COLOR white]??????????????[/COLOR][/B]</title>
     <thumbnail></thumbnail>
-  <fanart></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lightgreen]- [/COLOR]   [COLOR gold] [makelist.param2][/COLOR]</title>
+    <fanart></fanart>
+    <link>$doregex[makelist]</link>
+    <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+    <title>[COLOR lightgreen]- [/COLOR]   [COLOR gold] [makelist.param2][/COLOR]</title>
     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
     <thumbnail></thumbnail>
-  <fanart></fanart>
-]]></listrepeat>
-<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-<page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
-<cookieJar></cookieJar>
-</regex>
-</item>
+    <fanart></fanart>
+     ]]></listrepeat>
+     <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+     <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
+     <cookieJar></cookieJar>
+     </regex>
+   </items>
+  </channel>
+  
+<channel>
+<name>Test</name>
+<thumbnail></thumbnail>
+<externallink>https://www.youtube.com/watch?v=3SUDJTuSCfc</externallink>
+<fanart>http://avante.biz/wp-content/uploads/Boxing-Wallpaper/Boxing-Wallpaper-049.jpg</fanart>
+<info>Live NBA</info>
+</channel>
 
