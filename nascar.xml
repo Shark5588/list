@@ -132,7 +132,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <name>makelist</name>
           <listrepeat><![CDATA[
           <title>[COLOR cyan]- [/COLOR][COLOR lightgreen] [makelist.param1][/COLOR]  [COLOR lightgreen][makelist.param2][/COLOR]</title>
-          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
           <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
