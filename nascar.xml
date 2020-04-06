@@ -62,14 +62,14 @@
     <item>
         <title>[B][COLOR cadetblue]Jimmie Johnson | Bristol iRacing In Car Stream[/COLOR][/B]</title>  
         <link>ignorme</link>
-        <jsonrpc>plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs</jsonrpc>
+        <jsonrpc>https://www.youtube.com/watch?v=6APqKBhstjs</jsonrpc>
         <thumbnail>https://usatftw.files.wordpress.com/2019/02/usp-nascar_-advance-auto-parts-clash-e1550115502624.jpg?w=1000&h=600&crop=1</thumbnail>
    </items>
    
        <item>
         <title>[B][COLOR cadetblue]Chase Elliott | Bristol iRacing In Car Stream[/COLOR][/B]</title>
         <link>ignorme</link>
-        <ytdash>plugin://plugin.video.youtube/play/?video_id=R228yPrwqTo</ytdash>
+        <ytdash>https://www.youtube.com/watch?v=R228yPrwqTo</ytdash>
         <thumbnail>https://cdn-1.motorsport.com/images/amp/2wB4kg80/s6/chase-elliott-hendrick-motorsp.jpg</thumbnail>
    </items>
   </channel>
