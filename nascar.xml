@@ -146,7 +146,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      </regex>
     </item>
     
-          <item>
+     <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
          <regex>
@@ -157,7 +157,23 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
           <expres>^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$</expres>
-        <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
+        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
+       <cookieJar></cookieJar>
+     </regex>
+    </item>
+    
+    <item>
+       <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
+        <link>$doregex[makelist]</link>
+         <regex>
+          <name>makelist</name>
+          <listrepeat><![CDATA[
+          <title>[COLOR cyan]- [/COLOR][COLOR lightgreen] [makelist.param1][/COLOR]  [COLOR lightgreen][makelist.param2][/COLOR]</title>
+          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+          <thumbnail>NA</thumbnail>
+          ]]></listrepeat>
+          <expres>^(https?\:\/\/)?(www\.)?(youtube\.com|youtu\.?be)(\/)?(watch\?v=|\?v=)?(.*)$</expres>
+        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
     </item>
@@ -175,7 +191,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <thumbnail></thumbnail>
     <fanart></fanart>
      ]]></listrepeat>
-     <expres>(?:youtube(?:-nocookie)?\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})</expres>
+     <expres>(?:youtube(?:-nocookie)?\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/</expres>
      <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
      <cookieJar></cookieJar>
      </regex>
