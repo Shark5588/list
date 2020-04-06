@@ -128,7 +128,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR][COLOR gold]([makelist.param2])[/COLOR]</title>
+          <title>[COLOR cyan]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][COLOR gold]([makelist.param2])[/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
@@ -164,18 +164,18 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <name>makelist</name>
         <listrepeat>
             <![CDATA[
-           <title>[makelist.param2]</title><link>$doregex[makelist2]</link><referer></referer><thumbnail></thumbnail>
+           <title>[makelist.param2]</title><link>$doregex[makelist2]</link>
            ]]>
         </listrepeat>
         <expres>aria-describedby=.*?href="(.*?)"&gt;(.*?)&lt;</expres>
-        <page>https://www.youtube.com/user/TheOfficialNASCAR/playlists</page>/featured
+        <page>https://www.youtube.com/user/TheOfficialNASCAR/featured</page>
         <cookieJar></cookieJar>
     </regex>
     <regex>
         <name>makelist2</name>
         <listrepeat>
             <![CDATA[
-           <title>page [makelist2.param1]</title><link>$doregex[makelist3]</link><referer></referer><thumbnail></thumbnail>
+           <title>page [makelist2.param1]</title><link>$doregex[makelist3]</link>
            ]]>
         </listrepeat>
         <expres> (.*?),</expres>
@@ -186,7 +186,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <name>makelist3</name>
         <listrepeat>
             <![CDATA[
-           <title>[makelist3.param2]</title><link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
+           <title>[makelist3.param2]</title><link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link> <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
            ]]>
         </listrepeat>
         <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
