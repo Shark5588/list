@@ -60,8 +60,20 @@
     </item>
     
     <item>
-        <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title>  
-        <utube>https://www.youtube.com/watch?v=yAgmqYVnUZA</utube>
+        <title>[B][COLOR cadetblue]Jimmie Johnson | iRacing In Car Stream[/COLOR][/B]</title>  
+        <link>plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs</link>
+        <thumbnail>https://usatftw.files.wordpress.com/2019/02/usp-nascar_-advance-auto-parts-clash-e1550115502624.jpg?w=1000&h=600&crop=1</thumbnail>
+   </item>
+   
+    <item>
+        <title>[B][COLOR cadetblue]Chase Elliott | iRacing In Car Stream[/COLOR][/B]</title>
+        <link>plugin://plugin.video.youtube/play/?video_id=R228yPrwqTo</link>
+        <thumbnail>https://cdn-1.motorsport.com/images/amp/2wB4kg80/s6/chase-elliott-hendrick-motorsp.jpg</thumbnail>
+    </item>   
+        
+    <item>
+        <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title> 
+        <utube>https://www.youtube.com/play/?video_id=gOp7rdEm5X4</utube>
         <thumbnail></thumbnail>
     </item>
     
@@ -69,24 +81,11 @@
         <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title>  
         <link>plugin://plugin.video.youtube/play/?video_id=yAgmqYVnUZA</link>
         <thumbnail></thumbnail>
-    </item>
-
-    <item>
-        <title>[B][COLOR cadetblue]Jimmie Johnson | iRacing In Car Stream[/COLOR][/B]</title>  
-        <link>plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs</link>
-        <thumbnail>https://usatftw.files.wordpress.com/2019/02/usp-nascar_-advance-auto-parts-clash-e1550115502624.jpg?w=1000&h=600&crop=1</thumbnail>
-   </item>
-   
-       <item>
-        <title>[B][COLOR cadetblue]Chase Elliott | iRacing In Car Stream[/COLOR][/B]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=R228yPrwqTo</link>
-        <thumbnail>https://cdn-1.motorsport.com/images/amp/2wB4kg80/s6/chase-elliott-hendrick-motorsp.jpg</thumbnail>
    </items>
   </channel>
-
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
-    <name>[B][COLOR silver] MAVTV | MOTORTREND[/COLOR][/B]</name>
+    <name>[B][COLOR silver]MAVTV | MOTORTREND[/COLOR][/B]</name>
     <thumbnail>https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png</thumbnail>
     <fanart></fanart>
     <items>
@@ -118,7 +117,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     </item>
 	
 	<item>
-     <title>[B][COLORsnow]•[/COLOR][COLOR silver] NBCSN[/COLOR][/B]</title>         
+     <title>[B][COLORred]•[/COLOR][COLOR silver] NBCSN[/COLOR][/B]</title>         
      <link>http://docs-8.gogleusercontent.host/live/wjjda20u/chunks.m3u8|Referer=http://123tvnow.com/watch/nbc-sports-network-nbcsn|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0</link>
      <thumbnail>https://i.ibb.co/m8Pt5d9/3516.png</thumbnail>	
    </items>
