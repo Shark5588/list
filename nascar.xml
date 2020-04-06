@@ -20,7 +20,7 @@
 ===============================================================================================================================================================
   <channel>
     <name>[B][COLORred]•[/COLOR][COLORlime] FS1[/B]</name>
-    <thumbnail>https://i.pinimg.com/originals/02/a9/76/02a97639655ceb107c8f8ef42b8ecb6b.jpg</thumbnail>
+    <thumbnail>https://www.racingrafix.com/forum/index.php?action=media;sa=media;in=339;preview</thumbnail>
     <fanart></fanart>
     <items>
 
@@ -113,11 +113,11 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <thumbnail>https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png</thumbnail>	
    </items>
   </channel>
-
-
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   <channel>
     <name>[B][COLOR silver] «Test» [/COLOR][/B]</name>
-    <thumbnail>https://i.pinimg.com/originals/02/a9/76/02a97639655ceb107c8f8ef42b8ecb6b.jpg</thumbnail>
+    <thumbnail>https://www.racingrafix.com/forum/index.php?action=media;sa=media;in=339;preview</thumbnail>
     <fanart></fanart>
     <items>
     
@@ -166,7 +166,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <name>makelist</name>
          <listrepeat><![CDATA[
         <title>[COLOR lightgreen][makelist.param1][/COLOR]    [makelist.param2]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+        <link>plugin://plugin.video.youtube/watch?v=[makelist.param1]</link>
        <thumbnail></thumbnail>
        <fanart></fanart>
        ]]></listrepeat>
