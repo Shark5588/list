@@ -191,7 +191,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <thumbnail></thumbnail>
     <fanart></fanart>
      ]]></listrepeat>
-     <expres>^.*(youtu.be\/|list=)([^#\&\?]*).*</expres>
+     <expres><![CDATA[data-title=".*(youtu.be\/|list=)([^#\&\?]*).*]]></expres>
      <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
      <cookieJar></cookieJar>
      </regex>
