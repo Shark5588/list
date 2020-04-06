@@ -190,7 +190,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <thumbnail></thumbnail>
         <fanart></fanart>
         ]]></listrepeat>
-        <expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+        <expres><![CDATA[playlist\watch?v=(.*?)".*?>(.*?)<]]></expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        </regex>
       <thumbnail></thumbnail>
