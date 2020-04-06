@@ -170,7 +170,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <regex>
     <name>makelist</name>
     <listrepeat><![CDATA[
-    <title>[COLOR lightgreen]- [/COLOR]   [COLOR gold] [makelist.param2][/COLOR]</title>
+    <title>[COLOR cyan]- [/COLOR][COLOR lightgreen] [makelist.param1][/COLOR]   [COLOR gold] [makelist.param2][/COLOR]</title>
     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -182,3 +182,4 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
    </items>
   </channel>http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?‌​[\w\?‌​=]*)?
             #\s?.data-video-id="(.*?)".*data-title="(.*?)"
+            ^(https?\:\/\/)?(www\.)?(youtube\.com|youtu\.?be)(\/)?(watch\?v=|\?v=)?(.*)$
