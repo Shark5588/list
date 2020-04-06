@@ -167,7 +167,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
            <title>[makelist.param2]</title><link>$doregex[makelist2]</link>
            ]]>
         </listrepeat>
-        <expres>aria-describedby=.*?href="(.*?)"&gt;(.*?)&lt;</expres>
+        <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
         <page>https://www.youtube.com/user/TheOfficialNASCAR/featured</page>
         <cookieJar></cookieJar>
     </regex>
