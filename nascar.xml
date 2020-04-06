@@ -170,7 +170,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <thumbnail></thumbnail>
        <fanart></fanart>
        ]]></listrepeat>
-       <expres><![CDATA[data-title="\s?.data-video-id="(.*?)".*data-title="(.*?)"]]></expres>
+       <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&amp;.*?\n(.*)</expres>
       <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
       <cookieJar></cookieJar>
     </regex>
