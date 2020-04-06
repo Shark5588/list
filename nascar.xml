@@ -73,7 +73,7 @@
         
     <item>
         <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title> 
-        <utube>https://www.youtube.com/play/?video_id=gOp7rdEm5X4</utube>
+        <link>https://www.youtube.com/play/?video_id=gOp7rdEm5X4</link>
         <thumbnail></thumbnail>
     </item>
     
@@ -176,7 +176,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <fanart></fanart>
      ]]></listrepeat>
      <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-     <page>https://www.youtube.com/playlist?list=PLFUhDMhE1U5QMD8oE3vmoSJOfQh8vyIx_</page>
+     <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
      <cookieJar></cookieJar>
      </regex>
    </items>
