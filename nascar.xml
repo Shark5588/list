@@ -168,7 +168,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0][/COLOR][COLOR lightslategray][makelist.param1][/COLOR]</title>
+          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0]  [/COLOR][COLOR lightslategray][makelist.param1][/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
@@ -186,12 +186,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <regex>
     <name>makelist</name>
     <listrepeat><![CDATA[
-    <title>[COLOR cyan]- [/COLOR]   [COLOR gold] [makelist.param1][/COLOR]</title>
-    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+    <title>[COLOR cyan]- [/COLOR]   </title>
+    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
      ]]></listrepeat>
-     <expres>(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
+     <expres>(?:.+?)?(?:\\(?:..)|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
      <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
      <cookieJar></cookieJar>
      </regex>
