@@ -152,7 +152,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   <fanart></fanart>
 ]]></listrepeat>
 <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-<page>https://www.youtube.com/playlist?list=PLntzDJ6b9e2HodT2b7JLgibB1sI0-Hw0X</page>
+<page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -166,7 +166,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <name>makelist</name>
          <listrepeat><![CDATA[
         <title>[COLOR lightgreen][makelist.param1][/COLOR]    [makelist.param2]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
        <thumbnail></thumbnail>
        <fanart></fanart>
        ]]></listrepeat>
