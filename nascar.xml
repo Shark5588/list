@@ -186,12 +186,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <regex>
     <name>makelist</name>
     <listrepeat><![CDATA[
-    <title>[COLOR cyan]- [/COLOR]   </title>
+    <title>[COLOR cyan]- [/COLOR]   [makelist.param4]</title>
     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
     <thumbnail></thumbnail>
     <fanart></fanart>
      ]]></listrepeat>
-     <expres>(?:.+?)?(?:\\(?:..)|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
+     <expres>(?:.+?)?(|watch\\/|\\?v=|\\&v=/|\\/v=|/)([a-zA-Z0-9_-]{11})</expres>
      <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
      <cookieJar></cookieJar>
      </regex>
