@@ -175,9 +175,10 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <thumbnail></thumbnail>
     <fanart></fanart>
      ]]></listrepeat>
-     <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+     <expres>(?:youtube(?:-nocookie)?\.com\/(?:[^\/\n\s]+\/\S+\/|(?:v|e(?:mbed)?)\/|\S*?[?&]v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})\W</expres>
      <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
      <cookieJar></cookieJar>
      </regex>
    </items>
   </channel>http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?‌​[\w\?‌​=]*)?
+            #\s?.data-video-id="(.*?)".*data-title="(.*?)"
