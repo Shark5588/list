@@ -168,8 +168,8 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR][COLOR lightgreen] [makelist.param1][/COLOR]  [COLOR lightgreen][makelist.param2][/COLOR]</title>
-          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+          <title>[COLOR cyan]- [/COLOR][COLOR lightslategray] [makelist.param1][/COLOR]  [COLOR lightgreen][makelist.param2][/COLOR]</title>
+          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
           <expres>(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
