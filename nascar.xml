@@ -141,6 +141,22 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      </regex>
     </item>
     
+          <item>
+       <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
+        <link>$doregex[makelist]</link>
+         <regex>
+          <name>makelist</name>
+          <listrepeat><![CDATA[
+          <title>[COLOR cyan]- [/COLOR][COLOR lightgreen] [makelist.param1][/COLOR]  [COLOR lightgreen][makelist.param2][/COLOR]</title>
+          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+          <thumbnail>NA</thumbnail>
+          ]]></listrepeat>
+          <expres>http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?‌​[\w\?‌​=]*)?</expres>
+        <page>https://www.youtube.com/playlist?list=PLtc57NTUizP6oOp3FnUwQBOVWEU7XUtt9</page>
+       <cookieJar></cookieJar>
+     </regex>
+    </item>
+    
   <item>
      <title>[B][COLOR gold]????????Testing????????? [COLOR white]????????Testing?????????[/COLOR][/B]</title>
     <thumbnail></thumbnail>
@@ -159,4 +175,4 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      <cookieJar></cookieJar>
      </regex>
    </items>
-  </channel>
+  </channel>http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?‌​[\w\?‌​=]*)?
