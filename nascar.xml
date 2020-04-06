@@ -156,7 +156,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param12]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres>(https?\:\/\/)?(www\.)?(youtube\.com|youtu\.?be)(\/)?(watch\?v=|\?v=)?(.*)$</expres>
+          <expres>(.*)(youtu.be/|v/|u/w/|embed/|watch?v=|&v=)([^#&?]*)(.*)</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
@@ -172,7 +172,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres>(http(s)?\:\/\/)?(www\.)?(youtube|youtu)((\.com|\.be)\/)(watch\?v=)?([0-z-_]{11}).*</expres>
+          <expres>(http(s)?\:\/\/)?(www\.)?(youtube|youtu)((\.com|\.be)\/)(watch\?v=)?(.*?)"(?s).*?)</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
