@@ -188,7 +188,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         def GetLSProData(page_data,Cookie_Jar,m)
         return 'plugin://plugin.video.youtube/play/?video_id='+re.findall('feature=c4-live-promo".*?watch\?v=(.*?)".*?LIVE',requests.get('https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn').content.decode('ascii','ignore'))[0]
         ]=]=></expres>
-       <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
+       <page></page>
       </regex>
       <thumbnail></thumbnail>
      </items>
