@@ -187,7 +187,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <regex>
          <name>makelist</name>
          <listrepeat><![CDATA[
-        <title>[makelist.param2] ([makelist.param3])</title>
+        <title>[makelist.param1] [makelist.param3]</title>
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
         <thumbnail>NA</thumbnail>
         ]]></listrepeat>
