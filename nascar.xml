@@ -201,11 +201,11 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <regex>
          <name>makelist</name>
          <listrepeat><![CDATA[
-        <title>[makelist.param1] ([makelist.param3])</title>
+        <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param1]  [/COLOR][COLOR lightslategray]  ([makelist.param2])[/COLOR]</title>
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
         <thumbnail></thumbnail>
         ]]></listrepeat>
-       <expres>href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
+       <expres>href="\/watch\?v=(.*?)&.*?\n(.*)&lt;</expres>
        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       <cookieJar></cookieJar>
       </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
