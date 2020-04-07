@@ -201,10 +201,10 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <name>makelist</name>
          <listrepeat><![CDATA[
         <title>[COLOR cyan]- [/COLOR] [COLOR lightslategray][makelist.param0] [/COLOR][COLOR magenta] [makelist.param2][/COLOR]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param3]</link>
+        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
         <thumbnail></thumbnail>
         ]]></listrepeat>
-       <expres>href="(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=(.*?)&.*?\n(.*)</expres>
+       <expres>href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       <cookieJar></cookieJar>
       </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
