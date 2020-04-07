@@ -187,12 +187,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <regex>
          <name>makelist</name>
          <listrepeat><![CDATA[
-        <title>[makelist.param1] ([makelist.param3])</title>
+        <title>[makelist.param2] ([makelist.param3])</title>
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
         <thumbnail>NA</thumbnail>
         ]]></listrepeat>
        <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
-      <page>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1</page>
+      <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       <cookieJar></cookieJar>
      </regex>
      </items>
