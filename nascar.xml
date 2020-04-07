@@ -183,12 +183,18 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
       <link>$doregex[getUrl]</link>
        <regex>
         <name>getUrl</name>
-        <expres><=!=[=C=D=A=T=A=[#$pyFunction
-        import re,requests
-        def GetLSProData(page_data,Cookie_Jar,m)
-        return 'plugin://plugin.video.youtube/play/?video_id='+re.findall('feature=c4-live-promo".*?watch\?v=(.*?)".*?LIVE',requests.get('https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn').content.decode('ascii','ignore'))[0]
-        ]=]=></expres>
-       <page></page>
+       <expres><![CDATA[#$pyFunction
+       import re,requests
+       def GetLSProData(page_data,Cookie_Jar,m):
+       source=requests.get('[makelist3.param1]',headers={'Referer':'[makelist2.param1]'}).content.decode('ascii','ignore')
+       if 'tune.pk' in source:
+       link=re.findall('src="(.*?tune.pk.*?)"',source)[0].replace('#038;','');source=requests.get(link,headers={'Referer':'[makelist3.param1]'}).content.decode('ascii','ignore');url=re.findall('src="(.*?tune.pk.*?)"',source)[0]
+       source=requests.get(url,headers={'Referer':link}).content.decode('ascii','ignore');info=re.search('(?s)requestURL.*?[\'"](.*?)[\'"].*?X-Forwarded-For":"(.*?)".*?:"(.*?)"',source)
+       source=requests.get(info.group(1),headers={'Referer':url,'X-Forwarded-For':info.group(2),'X-secret-Header':info.group(3)}).content.decode('ascii','ignore');return re.findall('Auto.*?"(h.*?)"',source)[0].replace('\\','')+'|Referer=%s&User-Agent=iPad'%url
+       elif 'youtube' in source:
+       return 'plugin://plugin.video.youtube/play/?video_id='+re.findall('watch\?v=(.*?)"',source)[0]
+       ]]></expres>
+       <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       </regex>
       <thumbnail></thumbnail>
      </items>
