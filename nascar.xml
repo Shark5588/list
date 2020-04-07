@@ -168,7 +168,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0]  [/COLOR][COLOR lightslategray][makelist.param1][/COLOR]</title>
+          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0]  [/COLOR][COLOR lightslategray][makelist.param3][/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
@@ -187,19 +187,13 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <regex>
          <name>makelist</name>
          <listrepeat><![CDATA[
-        <title>[makelist.param1] ([makelist.param2])</title>
+        <title>[makelist.param0] ([makelist.param3])</title>
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-        <thumbnail>NA</thumbnail>
+        <thumbnail></thumbnail>
         ]]></listrepeat>
        <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
-      <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
+       <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       <cookieJar></cookieJar>
-     </regex>
+      </regex>
      </items>
-    </channel>http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?‌​[\w\?‌​=]*)?
-            #\s?.data-video-id="(.*?)".*data-title="(.*?)"
-            ^(https?\:\/\/)?(www\.)?(youtube\.com|youtu\.?be)(\/)?(watch\?v=|\?v=)?(.*)$
-            (http(s)?\:\/\/)?(www\.)?(youtube|youtu)((\.com|\.be)\/)(watch\?v=)?(\w|\-)*
-            (http(s)?\:\/\/)?(www\.)?(youtube|youtu)((\.com|\.be)\/)(watch\?v=)?([0-z-_]{11})
-            (?:https?:\/\/)?w*.?youtu(?:be|\.be)?(?:\.com)?\/.+  #(FullPlaylist views)
-            (?:http|https|)(?::\/\/|)(?:www.|)(?:youtu\.be\/|youtube\.com(?:\/embed\/|\/v\/|\/watch\?v=|\/ytscreeningroom\?v=|\/feeds\/api\/videos\/|\/user\S*[^\w\-\s]|\S*[^\w\-\s]))([\w\-]{12,})[a-z0-9;:@#?&%=+\/\$_.-]*
+    </channel>
