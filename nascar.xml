@@ -202,7 +202,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <name>makelist</name>
          <listrepeat><![CDATA[
         <title>[COLOR cyan]- [/COLOR] [COLOR lightslategray][makelist.param0] [/COLOR][COLOR magenta] [makelist.param2][/COLOR]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param3]</link>
         <thumbnail></thumbnail>
         ]]></listrepeat>
        <expres>href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
