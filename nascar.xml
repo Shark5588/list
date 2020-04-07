@@ -179,24 +179,27 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     </item>
     
 <item>
-  <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing????Youtube?????[/COLOR][/B]</title>
-    <link>$doregex[makelist]</link>
-      <regex>
-       <name>makelist</name>
-        <listrepeat><![CDATA[
-        <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0]  [/COLOR][COLOR lightslategray][makelist.param1][/COLOR]</title>
-        <link>IgnoreMe</link>
-         <jsonrpc>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</jsonrpc>
-         <thumbnail></thumbnail>
-        <fanart></fanart>
-        ]]></listrepeat>
-        <expres>(?:http|https|)(?::\/\/|)(?:www.|)(?:youtu\.be\/|youtube\.com(?:\/embed\/|\/v\/|\/watch\?v=(.*?)".*?>(.*?)</expres>
-        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
-       </regex>
-      <thumbnail></thumbnail>
-     <fanart></fanart>
-   </items>
-  </channel>http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?‌​[\w\?‌​=]*)?
+<title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  url='https://www.youtube.com/watch?v='+re.findall('feature=c4-live-promo".*?watch\?v=(.*?)".*?LIVE',requests.get('https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn').content.decode('ascii','ignore'))[0]
+  source=requests.get(url).content.decode('ascii','ignore').replace('\\u0026','&').replace('\\','');source=requests.get(re.findall('hlsvp":"(.*?)"',source)[0]).content.decode('ascii','ignore').replace('\\u0026','&').replace('\\','')
+  if '1080' in source:
+    return re.findall('x1080.*\n(.*)',source)[0]+'|User-Agent=iPad'
+  elif '720' in source:
+    return re.findall('x720.*\n(.*)',source)[0]+'|User-Agent=iPad'
+  elif '480' in source:
+    return re.findall('x480.*\n(.*)',source)[0]+'|User-Agent=iPad'
+]]></expres>
+<page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
+</regex>
+<thumbnail></thumbnail>
+</items>
+</channel>http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?‌​[\w\?‌​=]*)?
             #\s?.data-video-id="(.*?)".*data-title="(.*?)"
             ^(https?\:\/\/)?(www\.)?(youtube\.com|youtu\.?be)(\/)?(watch\?v=|\?v=)?(.*)$
             (http(s)?\:\/\/)?(www\.)?(youtube|youtu)((\.com|\.be)\/)(watch\?v=)?(\w|\-)*
