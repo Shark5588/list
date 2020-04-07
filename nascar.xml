@@ -188,7 +188,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<href='\/watch\?v=(.*?)'>(.*?)<]]></expres>
+          <expres>(https)s?://.*?)"\/watch\?v=(.*?)&.*?\n(.*)</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
