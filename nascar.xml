@@ -188,7 +188,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='\/watch\?v=(.*?)'>(.*?)<]]></expres>
+          <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
@@ -197,7 +197,6 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <item>
      <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
       <link>$doregex[makelist]</link>
-
         <regex>
          <name>makelist</name>
          <listrepeat><![CDATA[
@@ -205,7 +204,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param3]</link>
         <thumbnail></thumbnail>
         ]]></listrepeat>
-       <expres>href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
+       <expres>href="(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=(.*?)&.*?\n(.*)</expres>
        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       <cookieJar></cookieJar>
       </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
