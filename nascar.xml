@@ -156,7 +156,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>NA</thumbnail>
           ]]></listrepeat>
-          <expres>(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
+          <expres><![CDATA[data-title="(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})"]]></expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
@@ -205,7 +205,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
         <thumbnail></thumbnail>
         ]]></listrepeat>
-       <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)".*?<div class="timestamp">/\B#[a-z][a-z0-9._-]*\b/gi"(.*?)"]]></expres>
+       <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       <cookieJar></cookieJar>
       </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
