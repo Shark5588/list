@@ -158,23 +158,23 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-     
+  
      <item>
-       <title>[B][COLORlawngreen] Race [/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
+       <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param1]  [/COLOR][COLOR lightslategray][makelist.param3][/COLOR]</title>
+          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0]  [/COLOR][COLOR lightslategray][makelist.param1][/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>https://cdn.tv-programme.com/pic/episodes/22/225953.jpg</thumbnail>
           ]]></listrepeat>
-          <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<span aria-label="(.*?)"]]></expres>
+          <expres>href="(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
     </item>
-  <!--- 
+    <!---  
     <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -201,7 +201,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail><thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
           ]]></listrepeat>
-          <expres>"\/watch\?v=(.*?)&.*?\n([0-9A-Za-z_-]{11})</expres>
+          <expres>"\/watch\?v=(.*?)&.*?\n(.*?)([0-9A-Za-z_-]{11})</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
        <cookieJar></cookieJar>
