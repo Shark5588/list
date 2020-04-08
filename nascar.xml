@@ -154,7 +154,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <listrepeat><![CDATA[
           <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0]  [/COLOR][COLOR lightslategray][makelist.param1][/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-          <thumbnail>NA</thumbnail>
+          <thumbnail>https://cdn.tv-programme.com/pic/episodes/22/225953.jpg</thumbnail>
           ]]></listrepeat>
           <expres>href="(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
