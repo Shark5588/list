@@ -161,7 +161,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-    
+  <!---  
     <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -193,9 +193,9 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-    
+  ---->  
     <item>
-     <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
+     <title>[B][COLORlawngreen]Youtube Live [/COLOR][COLOR white]?(Testing)?Not Finish?[/COLOR][/B]</title>
       <link>$doregex[makelist]</link>
         <regex>
          <name>makelist</name>
