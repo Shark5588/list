@@ -165,7 +165,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <regex>
           <name>makelist</name>
           <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param0]  [/COLOR][COLOR lightslategray][makelist.param1][/COLOR]</title>
+          <title>[COLOR cyan]- [/COLOR]  [COLOR magenta][makelist.param1]  [/COLOR][COLOR lightslategray][makelist.param3][/COLOR]</title>
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>https://cdn.tv-programme.com/pic/episodes/22/225953.jpg</thumbnail>
           ]]></listrepeat>
