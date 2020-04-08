@@ -110,6 +110,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     <fanart></fanart>
     <items>
     
+        <item>
+     <title>[B][COLORred]•[/COLOR][COLOR silver] NBCSN[/COLOR][/B]</title>         
+     <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.217.222.51:8080/axtzjt9gj/0qnmclx67/14330</link>
+     <thumbnail>https://i.ibb.co/m8Pt5d9/3516.png</thumbnail>
+    </item>
+    
     <item>
      <title>[B][COLORred]•[/COLOR][COLOR silver] NBCSN[/COLOR][/B]</title>         
      <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://85.217.222.51:8080/axtzjt9gj/0qnmclx67/14403</link>
@@ -195,7 +201,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail><thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
           ]]></listrepeat>
-          <expres>"\/watch\?v=)((?:\w|-){11})(?:&(play)?list=(\S+))?</expres>
+          <expres>>(http:\/\/(.*?)\/.*?get.watch.*?)&lt;</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
        <cookieJar></cookieJar>
