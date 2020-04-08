@@ -158,7 +158,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-  <!---   
+     
      <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -169,12 +169,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail>https://cdn.tv-programme.com/pic/episodes/22/225953.jpg</thumbnail>
           ]]></listrepeat>
-          <expres>href="(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
+          <expres><![CDATA[data-title="(.*?)".*?data-video-id="(.*?)"(?s).*?<div class="timestamp"><span aria-label="(.*?)"]]></expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
        <cookieJar></cookieJar>
      </regex>
     </item>
-   
+  <!--- 
     <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
