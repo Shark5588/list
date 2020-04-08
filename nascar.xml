@@ -189,7 +189,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail><thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
           ]]></listrepeat>
-          <expres>^.*(youtu.be\/|list=)([^#\&\?]*)(.*)</expres>
+          <expres>(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/)(?:embed\/|v\/|watch\?v=|watch\?.+&v=)((?:\w|-){11})(?:&(play)?list=(\S+))?</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
        <cookieJar></cookieJar>
