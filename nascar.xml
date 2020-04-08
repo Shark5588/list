@@ -126,7 +126,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   <channel>
     <name>[B][COLOR silver]NASCAR Replays[/COLOR][/B]</name>
-    <thumbnail>https://cdn.dribbble.com/users/594488/screenshots/4701191/monster.jpg</thumbnail>
+    <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
     <fanart></fanart>
     <items>
     
@@ -202,7 +202,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <listrepeat><![CDATA[
         <title>[COLOR cyan]- [/COLOR] [COLOR lightslategray][makelist.param0] [/COLOR][COLOR magenta] [makelist.param2][/COLOR]</title>
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-        <thumbnail></thumbnail>
+        <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
         ]]></listrepeat>
        <expres>href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
