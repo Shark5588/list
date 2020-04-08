@@ -14,12 +14,12 @@
 <channel>
 <name>[COLOR white][B]****[/B][/COLOR][COLOR orange][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]</name>
 <link>http://ignore.me</link>
-<thumbnail>https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png</thumbnail>
+<thumbnail>https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2019/07/iracing.png?w=262&h=161&crop=1</thumbnail>
 </channel>
  
 ===============================================================================================================================================================
   <channel>
-    <name>[B][COLOR silver]iRacing[/COLOR][/B]</name>
+    <name>[B][COLOR silver]FS1[/COLOR][/B]</name>
     <thumbnail>https://cdn.dribbble.com/users/594488/screenshots/4701191/monster.jpg</thumbnail>
     <fanart></fanart>
     <items>
@@ -106,7 +106,7 @@
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   <channel>
     <name>[B][COLOR silver]NBCSN[/COLOR][/B]</name>
-    <thumbnail>https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png</thumbnail>
+    <thumbnail>https://nbcsportsgrouppressbox.com/wp-content/uploads/sites/24/2020/04/RWIA-SHIELD.png</thumbnail>
     <fanart></fanart>
     <items>
     
@@ -180,7 +180,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     </item>
    ---->   
     <item>
-     <title>[B][COLORlawngreen]Youtube Live[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
+     <title>[B][COLORlawngreen]Testing [/COLOR][COLOR white]????Testing????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
          <regex>
           <name>makelist</name>
@@ -189,7 +189,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail><thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
           ]]></listrepeat>
-          <expres>"\/watch\?.+&v=)((?:\w|-){11})(?:&(play)?list=(\S+))?</expres>
+          <expres>"\/watch\?v=)((?:\w|-){11})(?:&(play)?list=(\S+))?</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
        <cookieJar></cookieJar>
