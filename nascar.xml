@@ -146,7 +146,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-    
+  <!---   
      <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -162,7 +162,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-  <!---  
+   
     <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -189,7 +189,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail><thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
           ]]></listrepeat>
-          <expres>"https:(?:(?<!watch)[^"])*?"</expres>
+          <expres>^(?!.*\?.*\bv=)https:\/\/www\.youtube\.com\/.*\?.*\blist=.*$</expres>
         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
        <cookieJar></cookieJar>
@@ -208,7 +208,6 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         ]]></listrepeat>
        <expres>href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
-       <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
       <cookieJar></cookieJar>
       </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
      </items>
