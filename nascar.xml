@@ -189,8 +189,8 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
           <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
           <thumbnail><thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
           ]]></listrepeat>
-          <expres>(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/)(?:embed\/|v\/|watch\?v=|watch\?.+&v=)((?:\w|-){11})(?:&(play)?list=(\S+))?</expres>
-        <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
+          <expres>^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/)(?:embed\/|v\/|watch\?v=|watch\?.+&v=)((?:\w|-){11})(?:&(play)?list=(\S+))?$</expres>
+        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
        <cookieJar></cookieJar>
      </regex>
@@ -207,7 +207,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
         ]]></listrepeat>
-       <expres>href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
+       <expres>"\/watch\?v=(.*?)&.*?\n(.*)</expres>
        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
       <cookieJar></cookieJar>
       </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
