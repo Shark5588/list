@@ -77,11 +77,6 @@
         <regex>
 	    <name>url</name>
 	    <expres>(?:https?:\/\/)?(?:www\.)?youtu\.?be(?:\.com)?\/?.*(?:watch|embed)?(?:.*v=|v\/|\/)([\w\-_]+)\&?</expres>
-	    <page></page>
-        </regex>
-        <regex>
-	    <name>jsonurl</name>
-	    <expres>hlsvp":"(.*?)"</expres>
 	    <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
       </regex>
       <thumbnail></thumbnail>
