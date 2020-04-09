@@ -76,7 +76,7 @@
         <link>$doregex[url]</link>
         <regex>
 	    <name>url</name>
-	    <expres>(?:https?:\/\/)?(?:www\.)?youtu\.?be(?:\.com)?\/?.*(?:watch|embed)?(?:.*v=|v\/|\/)([\w\-_]+)\&?</expres>
+	    <expres>^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$</expres>
 	    <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
       </regex>
       <thumbnail></thumbnail>
