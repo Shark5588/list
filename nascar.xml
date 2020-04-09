@@ -222,11 +222,11 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     
 		<item>
 			<title>youtube 360p</title>
-			<link>$doregex[getQualityLink]</link>
+			<link>$doregex[getLink]</link>
 
 				<regex>
-				<name>getQualityLink</name>
-				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<name>getLink</name>
+				<expres>watch\?v=(.*?)".*?target</expres>
 				<page>$doregex[nuetralizeLink]</page>
 				</regex>
 				<regex>
