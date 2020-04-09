@@ -153,39 +153,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      </regex>
     </item>
     
-    <item>
-     <title>[B][COLORlawngreen]Youtube[/COLOR][COLOR white] Live Sports Stream[/COLOR][/B]</title>
-        <link>$doregex[makelist]</link>
-         <regex>
-          <name>makelist</name>
-          <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR]  [COLOR lightslategray]  [makelist.param2][/COLOR]</title>
-          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-          <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
-          ]]></listrepeat>
-          <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-         <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
-        <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
-       <cookieJar></cookieJar>
-     </regex>
-    </item>
-     <!--- 
-     <item>
-       <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
-        <link>$doregex[makelist]</link>
-         <regex>
-          <name>makelist</name>
-          <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR]  [COLOR lightslategray]  [makelist.param2][/COLOR]</title>
-          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-          <thumbnail>https://cdn.tv-programme.com/pic/episodes/22/225953.jpg</thumbnail>
-          ]]></listrepeat>
-          <expres>href="(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\.be\\/|\\/v=|^youtu\\.be\\/)([a-zA-Z0-9_-]{11})</expres>
-        <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
-       <cookieJar></cookieJar>
-     </regex>
-    </item>
-  
+ <!---     
     <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -221,7 +189,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     </item>
     
 		<item>
-			<title>youtube 360p</title>
+			<title>test 360p</title>
 			<link>$doregex[getLink]</link>
 
 				<regex>
