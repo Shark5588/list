@@ -206,21 +206,22 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
   
     <item>
      <title>[B][COLORlawngreen]Testing [/COLOR][COLOR white]?(Testing)?[/COLOR][/B]</title>
-      <link>$doregex[url]</link>
+      <link>$doregex[makelist]</link>
        <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
         <regex>
-         <name>url</name>
+         <name>makelist</name>
          <listrepeat><![CDATA[
         <title>[COLOR magenta] [makelist.param2][/COLOR]</title>
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
         ]]></listrepeat>
-       <expres>^(http(s)?:\/\/)?((w){3}.)?youtu(be|.be)?(\.com)?\/.+</expres>
+       <expres>(?:.+?)?(?:\\/v\\/|watch\\/|\\?v=|\\&v=|youtu\\n\\/|\\/v=|^youtu\\n\\/)([a-zA-Z0-9_-]{11})</expres>
        <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
       <cookieJar></cookieJar>
       </regex>
      </items>
     </channel>
     ^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$
+    ^(http(s)?:\/\/)?((w){3}.)?youtu(be|.be)?(\.com)?\/.+
       
       
