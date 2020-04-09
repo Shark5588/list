@@ -209,7 +209,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
             <name>getLiveVideoID</name>
              <expres>watch\?v=(.*?)".*?target</expres>
              <page>$doregex[getMainPage]&amp;autoplay=1</page>
-             <referer>http://jaffari.org/live/mic-live/</referer>
+             <referer></referer>
             <cookieJar></cookieJar>
            </regex>
           <regex>
@@ -219,6 +219,27 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
       </regex>
     </item>
+    
+		<item>
+			<title>youtube 360p</title>
+			<link>$doregex[getQualityLink]</link>
+
+				<regex>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
+				<page>$doregex[nuetralizeLink]</page>
+				</regex>
+				<regex>
+				<name>nuetralizeLink</name>
+				<expres>$pyFunction:'$doregex[getlink]'.replace('\\','')</expres>
+				<page></page>
+				</regex>
+				<regex>
+				<name>getlink</name>
+				<expres>hlsvp": "(.*?)"</expres>
+				<page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
+				</regex>
+		</item>
   
     <item>
      <title>[B][COLORlawngreen]Testing [/COLOR][COLOR white]?(Testing)?[/COLOR][/B]</title>
