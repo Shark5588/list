@@ -72,9 +72,19 @@
     </item>   
         
     <item>
-        <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title> 
-        <link>https://www.youtube.com/play/?video_id=gOp7rdEm5X4</link>
-        <thumbnail></thumbnail>
+        <title>YouTubeLive Test</title>
+        <link>$doregex[url]</link>
+        <regex>
+	    <name>url</name>
+	    <expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('https','http')</expres>
+	    <page></page>
+        </regex>
+        <regex>
+	    <name>jsonurl</name>
+	    <expres>hlsvp":"(.*?)"</expres>
+	    <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
+      </regex>
+      <thumbnail></thumbnail>
     </item>
     
     <item>
