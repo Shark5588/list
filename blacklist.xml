@@ -212,27 +212,10 @@ item>
 <content>Find Hockey Streams</content>
 </item>
 
-    <item>
-     <title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLOR white] Free to Watch[/COLOR][/B]</title>
-        <link>$doregex[makelist]</link>
-         <regex>
-          <name>makelist</name>
-          <listrepeat><![CDATA[
-          <title>[COLOR cyan]- [/COLOR]  [COLOR lightslategray]  [makelist.param2][/COLOR]</title>
-          <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-          <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
-          ]]></listrepeat>
-          <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-         <page>https://www.youtube.com/playlist?list=PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx</page>
-        <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
-       <cookieJar></cookieJar>
-     </regex>
-    </item>
-
 <item>
 <title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] LIVE NOW[/COLOR][/B]</title>
 <link>ignorme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLHPTxTxtC0ibVZrT2_WKWUl2SAxsKuKwx/?page=0</jsonrpc>PLU12uITxBEPHSMyieyaCTm3Tug3B1x0by
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLU12uITxBEPHSMyieyaCTm3Tug3B1x0by/?page=0</jsonrpc>
 <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
 <fanart></fanart>
 <info></info>
