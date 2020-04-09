@@ -208,6 +208,22 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 				<page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
 				</regex>
 		</item>
+        
+        <item>
+         <title>Test</title>
+         <link>$doregex[url]</link>
+          <regex>
+	      <name>url</name>
+	      <expres>$pyFunction:'$doregex[url]'.replace('\/','/').replace('https','http')</expres>
+	       <page></page>
+           </regex>
+          <regex>
+	     <name>url</name>
+	     <expres>hlsvp":"(.*?)"</expres>
+	    <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
+      </regex>
+     <thumbnail></thumbnail>
+    </item>
   
     <item>
      <title>[B][COLORlawngreen]Testing [/COLOR][COLOR white]?(Testing)?[/COLOR][/B]</title>
