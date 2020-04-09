@@ -61,7 +61,7 @@
     
     <item>
         <title>[B][COLOR cadetblue]Jimmie Johnson | iRacing In Car Stream[/COLOR][/B]</title>  
-        <link>https://www.youtube.com/watch?feature=player_embedded&v=6APqKBhstjs</link>
+        <link>plugin://plugin.video.youtube/play/?video_id=6APqKBhstjs</link>
         <thumbnail>https://usatftw.files.wordpress.com/2019/02/usp-nascar_-advance-auto-parts-clash-e1550115502624.jpg?w=1000&h=600&crop=1</thumbnail>
    </item>
    
@@ -69,19 +69,8 @@
         <title>[B][COLOR cadetblue]Chase Elliott | iRacing In Car Stream[/COLOR][/B]</title>
         <link>plugin://plugin.video.youtube/play/?video_id=R228yPrwqTo</link>
         <thumbnail>https://cdn-1.motorsport.com/images/amp/2wB4kg80/s6/chase-elliott-hendrick-motorsp.jpg</thumbnail>
-    </item>   
+    </item> 
         
-    <item>
-        <title>[B][COLOR aquamarine]YouTubeLive Test[/COLOR][/B]</title>
-        <link>$doregex[url]</link>
-        <regex>
-	    <name>url</name>
-	    <expres>^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$</expres>
-	    <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
-      </regex>
-      <thumbnail></thumbnail>
-    </item>
-    
     <item>
         <title>[B][COLOR cadetblue]Test[/COLOR][/B]</title>  
         <link>plugin://plugin.video.youtube/play/?video_id=yAgmqYVnUZA</link>
@@ -180,7 +169,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-  
+     <!--- 
      <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -196,7 +185,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-    <!---  
+  
     <item>
        <title>[B][COLORlawngreen]NASCAR Full Race Replays Season 2020[/COLOR][COLOR white]????????Testing?????????[/COLOR][/B]</title>
         <link>$doregex[makelist]</link>
@@ -216,7 +205,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
   
     <item>
-     <title>[B][COLORlawngreen]Youtube Live [/COLOR][COLOR white]?(Testing)?Not Finish?[/COLOR][/B]</title>
+     <title>[B][COLORlawngreen]Testing [/COLOR][COLOR white]?(Testing)?[/COLOR][/B]</title>
       <link>$doregex[makelist]</link>
        <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
         <regex>
@@ -226,9 +215,12 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
         ]]></listrepeat>
-       <expres>"\/watch\?v=(.*?)&.*?\n(.*)</expres>
-       <page>https://www.youtube.com/playlist?list=PL8fVUTBmJhHJBH1SO88FYKaQsisgItjpn</page>
+       <expres>^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$</expres>
+       <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
       <cookieJar></cookieJar>
       </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
      </items>
     </channel>
+    
+      ^(http(s)?:\/\/)?((w){3}.)?youtu(be|.be)?(\.com)?\/.+
+      
