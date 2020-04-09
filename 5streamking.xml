@@ -30,9 +30,78 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
+////////////////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
+<item>
+<title> NBAstream</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+	<title> [makelist.param1]</title>
+	<link>$doregex[makelist2]</link>
+	<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>h3.*?&gt;(.*?)&lt;\/h3&gt;&lt;br \/&gt;(?s)(.*?)Start Day</expres>
+<page>$doregex[get-source-and-add]</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+	<title>[makelist2.param2] [makelist2.param3][makelist2.param4] EST</title>
+	<link>$doregex[get-url]</link>
+	<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>ref= "(.*?)" title= "(.*?)".*\n.*\n.*\n.*\n.*&gt;(.*?)&lt;.*\n.*\n.*&gt;(.*?)&lt;</expres>
+<page>[makelist.param2]</page>
+</regex>
+<regex>
+<name>get-source-and-add</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ url ='http://nbastream.net/'
+ headers = {'User-Agent': 'iPhone'}
+ source = requests.get(url, headers=headers)
+ return source.text + 'Start Day'
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+	import requests
+	import re
+	import base64
+	source = page_data
+	room = re.findall('roomSlug\": \"(.*?)\"', source)[0]
+	url = 'https://lancer.streamup.com/api/redirect/' + room
+	referer = 'https://streamup.com/'
+	origin = 'https://streamup.com'
+	headers1 = {'User-Agent': 'iPhone', 'Referer': referer, 'Origin': origin}
+	srvr = requests.get(url, headers=headers1, verify=False).text
+	finalurl = 'https://' + srvr + '/app/' + room + '/playlist.m3u8'
+	return finalurl
+]]></expres>
+<page>$doregex[get-embed]</page>
+<referer>http://nbastream.net/</referer>
+</regex>
+<regex>
+<name>get-embed</name>
+<expres>ivp' src='(.*?)'</expres>
+<page>http://nbastream.net/$doregex[get-link]</page>
+<referer>http://nbastream.net/</referer>
+</regex>
+<regex>
+<name>get-link</name>
+<expres>iframe  src="(.*?)"</expres>
+<page>http://nbastream.net/[makelist2.param1]</page>
+<referer>http://nbastream.net/</referer>
+</regex>
+</item>
 
------------------------------------------------------------------------------------------------------------------------
+<!-----------------------------------------------------------------------------------------------------------------------
 
 <item>
 <title>[B][COLOR skyblue]•[/COLOR]Primier Sport UK (SD)[/B]</title>
