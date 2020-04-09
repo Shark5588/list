@@ -190,11 +190,11 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
     
 		<item>
 			<title>test 360p</title>
-			<link>$doregex[getLink]</link>
+			<link>$doregex[getQualityLink]</link>
 
 				<regex>
-				<name>getLink</name>
-				<expres>watch\?v=(.*?)".*?target</expres>
+				<name>getQualityLink</name>
+				<expres>RESOLUTION=640x360\s*(.*?)\s</expres>
 				<page>$doregex[nuetralizeLink]</page>
 				</regex>
 				<regex>
@@ -214,32 +214,15 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
          <link>$doregex[url]</link>
           <regex>
 	      <name>url</name>
-	      <expres>$pyFunction:'$doregex[url]'.replace('\/','/').replace('https','http')</expres>
+	      <expres>$pyFunction:'$doregex[jsonurl]'.replace('\/','/').replace('https','http')</expres>
 	       <page></page>
            </regex>
           <regex>
-	     <name>url</name>
+	     <name>jsonurl</name>
 	     <expres>hlsvp":"(.*?)"</expres>
 	    <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
-      </regex>
-     <thumbnail></thumbnail>
-    </item>
-  
-    <item>
-     <title>[B][COLORlawngreen]Testing [/COLOR][COLOR white]?(Testing)?[/COLOR][/B]</title>
-      <link>$doregex[makelist]</link>
-       <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
-        <regex>
-         <name>makelist</name>
-         <listrepeat><![CDATA[
-        <title>[COLOR magenta] [makelist.param2][/COLOR]</title>
-        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
-        <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
-        ]]></listrepeat>
-       <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
-       <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
-      <cookieJar></cookieJar>
-      </regex>
+       </regex>
+      <thumbnail></thumbnail>
      </items>
     </channel>
     ^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$
