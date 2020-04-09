@@ -72,7 +72,7 @@
     </item>   
         
     <item>
-        <title>YouTubeLive Test</title>
+        <title>[B][COLOR cadetblue]YouTubeLive Test[/COLOR][/B]</title>
         <link>$doregex[url]</link>
         <regex>
 	    <name>url</name>
@@ -82,7 +82,7 @@
         <regex>
 	    <name>jsonurl</name>
 	    <expres>hlsvp":"(.*?)"</expres>
-	    <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
+	    <page>plugin://plugin.video.youtube/play/?video_id=yAgmqYVnUZA</page>
       </regex>
       <thumbnail></thumbnail>
     </item>
