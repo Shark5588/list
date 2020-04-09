@@ -202,7 +202,23 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
      </regex>
     </item>
    ---->   
-
+    <item>
+      <title>test</title>
+        <link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoID]</link>
+          <regex>
+            <name>getLiveVideoID</name>
+             <expres>watch\?v=(.*?)".*?target</expres>
+             <page>$doregex[getMainPage]&amp;autoplay=1</page>
+             <referer>http://jaffari.org/live/mic-live/</referer>
+            <cookieJar></cookieJar>
+           </regex>
+          <regex>
+         <name>getMainPage</name>
+        <expres>src="(.*?)".*id="</expres>
+        <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
+       <cookieJar></cookieJar>
+      </regex>
+    </item>
   
     <item>
      <title>[B][COLORlawngreen]Testing [/COLOR][COLOR white]?(Testing)?[/COLOR][/B]</title>
