@@ -211,14 +211,14 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
         <regex>
          <name>makelist</name>
          <listrepeat><![CDATA[
-        <title>[COLOR cyan]- [/COLOR] [COLOR lightslategray][makelist.param0] [/COLOR][COLOR magenta] [makelist.param2][/COLOR]</title>
+        <title>[COLOR magenta] [makelist.param2][/COLOR]</title>
         <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
         <thumbnail>https://www.mrguider.org/wp-content/uploads/2017/09/youtube-live-stream-apps-android.png</thumbnail>
         ]]></listrepeat>
        <expres>^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$</expres>
        <page>https://www.youtube.com/watch?v=yAgmqYVnUZA</page>
       <cookieJar></cookieJar>
-      </regex>https://www.youtube.com/playlist?list=PL1N7BKTuLUGsC3hHaDB_o8Kq_n8QC9Bs1
+      </regex>
      </items>
     </channel>
     
