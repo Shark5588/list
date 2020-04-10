@@ -21,12 +21,16 @@
 
 <channel>
 <name>[COLOR lime][B]Tim's Corner Motorsports | Crawford 92 150 | Super Late Models @ Stafford[/B][/COLOR]April 10, 2020 @ 7:30PM EST</name>
-<link>plugin://plugin.video.youtube/play/?video_id=y0iDai8j3U8</link>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJxC1dyHWRy8BkHx5le4-zCxN9zpCfJ77pXbvg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://i.ytimg.com/vi/CU8kNWO2CFY/maxresdefault.jpg</fanart>
-</channel>
+<items>
 
-
+	<item>
+        <title>[B][COLORred]•[/COLOR][COLOR silver] Crawford 92 150[/COLOR][COLOR red][/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=y0iDai8j3U8</link>
+        <thumbnail>https://yt3.ggpht.com/a/AATXAJxC1dyHWRy8BkHx5le4-zCxN9zpCfJ77pXbvg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   </items>
+  </channel>
 
   <channel>
     <name>[B][COLOR silver]FS1[/COLOR][/B]</name>
