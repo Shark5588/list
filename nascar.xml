@@ -41,33 +41,65 @@
 </regex>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJwdgcr5RwBL-WoTg35ufbLi_csxb6FAMB8_rw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 </item>
-
-
 	<item>
         <title>[B][COLORred]•[/COLOR][COLOR silver] iRacing eSports Network [/COLOR][COLOR red][/COLOR][/B]</title>         
         <link>plugin://plugin.video.youtube/play/?video_id=dDopBY5dWxM</link>
         <thumbnail>https://yt3.ggpht.com/a/AATXAJwdgcr5RwBL-WoTg35ufbLi_csxb6FAMB8_rw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
    </items>
 </channel>
-
+//////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <channel>
-<name>[B][COLORred]•[/COLOR][COLOR lightslategray] Redline Motorsport TV | RLM | 12H Suzuka Super Pole Qualifying 11th April - 12H Race 18th April[/COLOR][/B]</name>
+<name>[B][COLORred]•[/COLOR][COLOR lightslategray] Redline Motorsport TV [/COLOR][/B]</name>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJxeltlaI9EN3NLupPFfkw8DhWNXXExsrrXbOA=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrK9sQ6UCq1PjTLv5oOAXrNCVC3Y_lEwbfzaYRXP_Bd9RSNZRW&usqp=CAU</fanart>
 <items>
 
+<item>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] Redline Motorsport TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UC2l23_8I9Q_RzVp3JW5AXeA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxeltlaI9EN3NLupPFfkw8DhWNXXExsrrXbOA=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+
 	<item>
         <title>[B][COLORred]•[/COLOR][COLOR silver] [/COLOR][COLOR red]12H Suzuka Super Pole Qualifying[/COLOR][/B]</title>         
         <link>plugin://plugin.video.youtube/play/?video_id=CIbAJXuO_GU</link>
-        <thumbnail>https://yt3.ggpht.com/a/AATXAJxeltlaI9EN3NLupPFfkw8DhWNXXExsrrXbOA=s48-c-k-c0xffffffff-no-rj-mo</thumbnail>
+        <thumbnail></thumbnail>
    </items>
 </channel>
-
+//////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <channel>
 <name>[B][COLORred]•[/COLOR][COLOR lightslategray]Tim's Corner Motorsports[/COLOR][/B]</name>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJxC1dyHWRy8BkHx5le4-zCxN9zpCfJ77pXbvg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://i.ytimg.com/vi/CU8kNWO2CFY/maxresdefault.jpg</fanart>
 <items>
+
+<item>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] VidaneTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCNwmOLxk_tpcJRsYv-Qrdbg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxC1dyHWRy8BkHx5le4-zCxN9zpCfJ77pXbvg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
 
 	<item>
         <title>[B][COLORred]•[/COLOR][COLOR silver] Crawford 92 150[/COLOR][COLOR red][/COLOR][/B]</title>         
@@ -75,7 +107,7 @@
         <thumbnail>https://yt3.ggpht.com/a/AATXAJxC1dyHWRy8BkHx5le4-zCxN9zpCfJ77pXbvg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
    </items>
   </channel>
-
+//////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
     <name>[B][COLOR silver]FS1[/COLOR][/B]</name>
     <thumbnail>https://cdn.dribbble.com/users/594488/screenshots/4701191/monster.jpg</thumbnail>
