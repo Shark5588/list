@@ -31,7 +31,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR]</title>
+   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR][/B]</title>
    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
    <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
    <info>[makelist.param3]</info>
