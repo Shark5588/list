@@ -249,7 +249,7 @@ item>
 <listrepeat><![CDATA[
    <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-   <thumbnail>https://yt3.ggpht.com/a/AATXAJwIr4ZwTn2BEKHzUicUS1I3aFN9sO42Q2qtkA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
    <info>[makelist.param3]</info>
 ]]></listrepeat>
 <expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
@@ -268,13 +268,146 @@ item>
 <listrepeat><![CDATA[
    <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-   <thumbnail>https://yt3.ggpht.com/a/AATXAJwIr4ZwTn2BEKHzUicUS1I3aFN9sO42Q2qtkA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
    <info>[makelist.param3]</info>
 ]]></listrepeat>
 <expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
 <page>https://www.youtube.com/feeds/videos.xml?channel_id=UCxUD8G1jO8T-Ef2tuADCZOA</page>
 </regex>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJxoV23YgpiaMPcVvPYX-gqfNCAJ2eBM0yEFoA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] ET Canada[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCKY5PiEq8Tl9r7f3qittXng</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJw95-7zP5-yoadgGJUaBGAEIg6FmHhgQe3DpQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] Food Network Canada[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCPEoRnRtiIT0cpsfevBjRjw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwfyxey9WhpJaG09Ut5dSx-S6kn6K8xc6GOgw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] DIY Network[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCgezeU5ToWz2Eg5JjuIctng</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyM7rNXCWCdcLiQYM0opbhyz3LNhD791jgOzQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] HGTV Canada[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCDjtkt_yysmuteEpT27wxmA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJx9lJbZS-SxjQX9JFmlpbOq8NmSJvb7v45xkA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] HGTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCBiuljj5uaUVHbnTAzfvutg</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxJ-TxMtooibs9bFfOdBN_N6dikpDwnAq0lGQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] RTRMediaInc[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UC-NZ2uOJsFqA5brdQsY8wyw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJynFlfk-KjOKQwUGi6iko6y1gfcDKyfHvKbFg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] HISTORY Canada[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UC9K9DrBwquJgpqfAx1wE0lA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzo6BpPYyiULZ2Q1N8efrnk4TRPjk8P8P5bEQ=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 </item>
 </item>
 
