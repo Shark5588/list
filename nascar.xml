@@ -49,6 +49,30 @@
 </channel>
 //////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <channel>
+<name>[B][COLORred]•[/COLOR][COLOR lightslategray] MotorManiaTV[/COLOR][/B]</name>
+<thumbnail>https://rpm-mag.com/rpm/wp-content/uploads/2018/12/MotorManiaTV2015.png</thumbnail>
+<fanart>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ron-capps-don-schumacher-racing-dodge-charger-nhra-funny-news-photo-942798312-1541538643.jpg?crop=0.667xw:1.00xh;0.171xw,0&resize=768:*</fanart>
+<items>
+
+<item>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] MotorManiaTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCM3fLq0sUL_dnCjwKeg3LGw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxNQ4E0Rf_LUoxLraaQpNyf1mpsnRv-EbS2Kg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   </items>
+</channel>
+//////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+<channel>
 <name>[B][COLORred]•[/COLOR][COLOR lightslategray] Redline Motorsport TV [/COLOR][/B]</name>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/3c740def-ae34-45b1-aed1-6d92bbaed785-profile_image-300x300.png</thumbnail>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrK9sQ6UCq1PjTLv5oOAXrNCVC3Y_lEwbfzaYRXP_Bd9RSNZRW&usqp=CAU</fanart>
