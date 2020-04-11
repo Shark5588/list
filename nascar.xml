@@ -19,7 +19,7 @@
  
 ===============================================================================================================================================================
 <channel>
-<name>[B][COLORred]•[/COLOR][COLOR lightslategray]  iRacing eSports Network |Sports Car Open | 1000 Miles of Interlagos[/COLOR][/B]</name>
+<name>[B][COLORred]•[/COLOR][COLOR lightslategray]  iRacing eSports Network[/COLOR][/B]</name>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJwdgcr5RwBL-WoTg35ufbLi_csxb6FAMB8_rw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 <fanart>https://i.ytimg.com/vi/JpOgHFAAODU/maxresdefault.jpg</fanart>
 <items>
@@ -45,6 +45,36 @@
         <title>[B][COLORred]•[/COLOR][COLOR silver] iRacing eSports Network [/COLOR][COLOR red][/COLOR][/B]</title>         
         <link>plugin://plugin.video.youtube/play/?video_id=dDopBY5dWxM</link>
         <thumbnail>https://yt3.ggpht.com/a/AATXAJwdgcr5RwBL-WoTg35ufbLi_csxb6FAMB8_rw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   </items>
+</channel>
+//////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+<channel>
+<name>[B][COLORred]•[/COLOR][COLOR lightslategray]NTT IndyCar Series[/COLOR][/B]</name>
+<thumbnail>https://www.juncosracing.com/wp-content/uploads/2017/11/NTT_ICS_RGB_REV.png</thumbnail>
+<fanart>https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/News/Standard/2019/01/01-15-NTT-Title-Announcement.jpg?vs=1&d=20190114T213646Z</fanart>
+<items>
+
+<item>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] NTT IndyCar Series[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCy1F61QvUUQXAXi2Voa_fUw</page>
+</regex>
+<thumbnail>https://www.juncosracing.com/wp-content/uploads/2017/11/NTT_ICS_RGB_REV.png</thumbnail>
+</item>
+
+	<item>
+        <title>[B][COLORred]•[/COLOR][COLOR silver] Crawford 92 150[/COLOR][COLOR red][/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=y0iDai8j3U8</link>
+        <thumbnail>https://yt3.ggpht.com/a/AATXAJxC1dyHWRy8BkHx5le4-zCxN9zpCfJ77pXbvg=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
    </items>
 </channel>
 //////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -75,7 +105,7 @@
 <channel>
 <name>[B][COLORred]•[/COLOR][COLOR lightslategray] Redline Motorsport TV [/COLOR][/B]</name>
 <thumbnail>https://static-cdn.jtvnw.net/jtv_user_pictures/3c740def-ae34-45b1-aed1-6d92bbaed785-profile_image-300x300.png</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrK9sQ6UCq1PjTLv5oOAXrNCVC3Y_lEwbfzaYRXP_Bd9RSNZRW&usqp=CAU</fanart>
+<fanart>https://www.gtplanet.net/wp-content/uploads/2019/10/gtplanet-league-main-logo-860x484.jpg</fanart>
 <items>
 
 <item>
