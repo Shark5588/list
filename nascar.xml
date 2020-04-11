@@ -26,14 +26,14 @@
 
 
 <item>
-<title>[B][COLORred]•[/COLOR][COLOR lightslategray]Testing????????[/COLOR][/B]</title>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] iRacing eSports Network[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-   <title>[makelist.param1]</title>
+   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR]</title>
    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
-   <thumbnail>https://yt3.ggpht.com/a/[makelist.param2]/AATXAJwdgcr5RwBL-WoTg35ufbLi_csxb6FAMB8_rw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
    <info>[makelist.param3]</info>
 ]]></listrepeat>
 <expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
@@ -44,7 +44,7 @@
 
 
 	<item>
-        <title>[B][COLORred]•[/COLOR][COLOR silver]iRacing eSports Network [/COLOR][COLOR red][/COLOR][/B]</title>         
+        <title>[B][COLORred]•[/COLOR][COLOR silver] iRacing eSports Network [/COLOR][COLOR red][/COLOR][/B]</title>         
         <link>plugin://plugin.video.youtube/play/?video_id=dDopBY5dWxM</link>
         <thumbnail>https://yt3.ggpht.com/a/AATXAJwdgcr5RwBL-WoTg35ufbLi_csxb6FAMB8_rw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
    </items>
