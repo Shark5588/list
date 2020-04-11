@@ -221,6 +221,25 @@ item>
 <info></info>
 </item>
 
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] Global News[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UChLtXXpo4Ge1ReTEboVvTDg</page>
+</regex>
+<thumbnail>https://shawglobalnews.files.wordpress.com/2018/03/new_square-e1527639599961.png</thumbnail>
+</item>
+</item>
+
 <item>
 <title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] LIVE NOW-NEWS[/COLOR][/B]</title>
 <link>ignorme</link>
