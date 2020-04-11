@@ -187,10 +187,10 @@ http://hls.123tv.live/ch/XMzS8Zxu-4H9RLTX7P_6dA/1586292431/lghn.m3u8|Referer=htt
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 http://hls.123tv.live/ch/jBu3NA25CFV7_6nDLIGD0g/1586292537/sec.m3u8|Referer=http://123tvnow.com/watch/sec-network/
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livegopanel.club:8080/ravit/ravit/22891
 #EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://box-live.stream/stream/46070.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -492,8 +492,7 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Pac-12 Channel  Pac-12 Channel  Pac-12 Channel  Pac-12 Channel  Pac-12 Channel <<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="http://image.vam.synacor.com.edgesuite.net/e6/a6/0cc559076cfd68875ef3e8fa85f9aac53ebe37ff.jpeg",[B][COLORorange]Pac-12 Arizona | USA[/B][/COLOR]
-http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+EXTINF:-1 tvg-logo="http://image.vam.synacor.com.edgesuite.net/e6/a6/0cc559076cfd68875ef3e8fa85f9aac53ebe37ff.jpeg",[B][COLORorange]Pac-12 Arizona | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="http://image.vam.synacor.com.edgesuite.net/e6/a6/0cc559076cfd68875ef3e8fa85f9aac53ebe37ff.jpeg",[B][COLORorange]Pac-12 Arizona | USA[/B][/COLOR]
