@@ -26,7 +26,7 @@
 
 
 <item>
-<title>Global News</title>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray]Testing????????[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -37,9 +37,9 @@
    <info>[makelist.param3]</info>
 ]]></listrepeat>
 <expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
-<page>https://www.youtube.com/channel/UCUowOZM6lA-tS77XGmuzhbw</page>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCUowOZM6lA-tS77XGmuzhbw</page>
 </regex>
-<thumbnail>https://shawglobalnews.files.wordpress.com/2018/03/new_square-e1527639599961.png</thumbnail>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwdgcr5RwBL-WoTg35ufbLi_csxb6FAMB8_rw=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 </item>
 
 
