@@ -238,8 +238,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="http://etvix.com/wp-content/uploads/fight-sports.png",[COLOR orange][B]Fight Sport 2 HD | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-flow-sports-1-1553.png",[COLOR orange][B]FLOW Sports 1 HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png",[COLOR orange][B]FLOW Sports 1 HD[/B][/COLOR]
 http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png",[COLOR orange][B]Sport",Flow Sports 1[/B][/COLOR]
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png",[COLOR orange][B]Sport",Flow Sports 1[/B][/COLOR]
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
