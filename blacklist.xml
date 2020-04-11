@@ -228,7 +228,7 @@ item>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-   <title>[B][COLOR red]- [/COLOR][COLOR gold][makelist.param1][/COLOR][/B]</title>
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
    <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
    <info>[makelist.param3]</info>
@@ -237,6 +237,44 @@ item>
 <page>https://www.youtube.com/feeds/videos.xml?channel_id=UChLtXXpo4Ge1ReTEboVvTDg</page>
 </regex>
 <thumbnail>https://shawglobalnews.files.wordpress.com/2018/03/new_square-e1527639599961.png</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] Global TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://yt3.ggpht.com/a/AATXAJwIr4ZwTn2BEKHzUicUS1I3aFN9sO42Q2qtkA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCkiP0kvvwqUWlttRLCq88gw</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwIr4ZwTn2BEKHzUicUS1I3aFN9sO42Q2qtkA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+</item>
+</item>
+
+<items>
+<item>
+<title>[B][COLOR white]•[/COLOR][COLORorange]•[/COLOR][COLORlightslategray]Sports Classic[/COLOR][COLORorangered] 16x9onGlobal[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR red]- [/COLOR][COLOR lightgreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://yt3.ggpht.com/a/AATXAJwIr4ZwTn2BEKHzUicUS1I3aFN9sO42Q2qtkA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCxUD8G1jO8T-Ef2tuADCZOA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxoV23YgpiaMPcVvPYX-gqfNCAJ2eBM0yEFoA=s288-c-k-c0xffffffff-no-rj-mo</thumbnail>
 </item>
 </item>
 
