@@ -293,7 +293,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
        <cookieJar></cookieJar>
      </regex>
     </item>
-   ---->   
+   ----   
     <item>
       <title>test</title>
         <link>plugin://plugin.video.youtube/play/?video_id=$doregex[getLiveVideoID]</link>
@@ -312,7 +312,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
       </regex>
     </item>
     
-		<item>
+		item>
 			<title>test 360p</title>
 			<link>$doregex[getQualityLink]</link>
 
@@ -333,7 +333,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 				</regex>
 		</item>
         
-        <item>
+        item>
          <title>Test</title>
          <link>$doregex[url]</link>
           <regex>
