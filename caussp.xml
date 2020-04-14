@@ -104,11 +104,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" ,[COLOR orange][B]Edge Sport[/B][/COLOR]
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/JEJ8ZbH.png",[COLOR orange][B]EIR SPORTS 1 | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEJ8ZbH.png",[COLOR orange][B]EIR SPORTS 1 | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/6612
 
-EXTINF:-1 tvg-logo="https://www.eirsport.ie/uploads/eir/package/logos/eirSport2.png",[COLOR orange][B]EIR SPORTS 2 | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.eirsport.ie/uploads/eir/package/logos/eirSport2.png",[COLOR orange][B]EIR SPORTS 2 | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/6611
 
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1648.png",[COLOR orange][B]Eleven Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -553,11 +553,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]PREMIER LEAGUE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/7915
 
-EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports HD | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/6568
 
 EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png",[B][COLORorange]Premier Sports 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
