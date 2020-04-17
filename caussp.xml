@@ -915,16 +915,7 @@ http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD | OPT 2[/B][/COLOR]
 http://hlslive-l3c.med1.net.wwe.com/ls01/wwe/LINEAR/master_wired_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
-http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/wwenetwork/images/c/c4/WWE_Mae_Young_Classic_logo.png/revision/latest?cb=20170708074226",[B][COLORorange]WWE Network HD MYC[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
-EXTINF:-1 tvg-logo="https://euroshop.wwe.com/on/demandware.static/-/Sites/default/dwa5a670f9/Final%20Category%20Pages/2014%20LP%20Images/NXT_logo.png",[B][COLORorange]WWE Network HD NXT[/B][/COLOR]
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/WWE_SummerSlam_Logo.png",[B][COLORorange]24/7 | WWE SUMMER SLAM[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="http://149.202.206.141:7070/logo/US-WWE.png",[B][COLORorange]WWE Network HD[/B][/COLOR]
