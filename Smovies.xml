@@ -78,6 +78,11 @@
                 <link>plugin://plugin.video.youtube/play/?video_id=jwj7P2VmS84</link>
                 <thumbnail>http://image.tmdb.org/t/p/w185/47y1U7NrhBKCipZLFD5xh0vccWH.jpg</thumbnail>
                 </item>
+                <item>
+                <title>Link 3</title>
+                <link>plugin://plugin.video.youtube/play/?video_id=RKKvW8SNRJo</link>
+                <thumbnail>http://image.tmdb.org/t/p/w185/47y1U7NrhBKCipZLFD5xh0vccWH.jpg</thumbnail>
+                </item>
             </items>	
         </channel>
 
@@ -239,21 +244,26 @@ channel>
 </channel>
 -->
 <channel>
-<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] Red Line Movie Extreme[/COLOR][/B]</name>
-<thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/18536/p18536_v_v8_aa.jpg</thumbnail>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] Red Dirt Rising[/COLOR][/B]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Fw%2B5mkdCL._SY445_.jpg</thumbnail>
+<fanart>https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/653cx-PATS0Y3R7TX-Full-Image_GalleryCover-en-US-1574718706950._UY500_UX667_RI_VhpbacLWz99ziquUmw7W5pZNfYP3QCB3Y_TTW_.jpg</fanart>
+    <item>
+    <title>[B][COLOR lightslategray] Red Dirt Rising[/COLOR][/B]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=xWj1n0fFz00</link>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51Fw%2B5mkdCL._SY445_.jpg</thumbnail>
+    </item>
+</channel>
+
+<channel>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] ROCKSTEADY[/COLOR][/B]</name>
+<thumbnail>https://www.gstatic.com/tv/thumb/v22vodart/9000533/p9000533_v_v8_aa.jpg</thumbnail>
 <fanart></fanart>
-    <items>
-        <title>[B][COLOR lightslategray] Red Line Movie Extreme[/COLOR][/B]</title>
-        <thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/18536/p18536_v_v8_aa.jpg</thumbnail>
-        <fanart></fanart>
-            <items>            
-                <item>
-                <title>[B][COLOR lightslategray] Red Line Movie Extreme[/COLOR][/B]</title>
-                <link>plugin://plugin.video.youtube/play/?video_id=WG54JWbeOn8&list=PLjHXxkMhpNUfHtekgV3K1om6Q6ZcWOroz</link>
-                <thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/18536/p18536_v_v8_aa.jpg</thumbnail>
-                </item>
-            </items>	
-        </channel>
+    <item>
+    <title>[B][COLOR lightslategray] ROCKSTEADY[/COLOR][/B]</title>
+    <link>plugin://plugin.video.youtube/play/?video_id=ASYn-QLkJgE</link>
+    <thumbnail>https://www.gstatic.com/tv/thumb/v22vodart/9000533/p9000533_v_v8_aa.jpg</thumbnail>
+    </item>
+</channel>
 
 <channel>
 <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] Shifting Gears (2018) [/COLOR][/B]</name>
