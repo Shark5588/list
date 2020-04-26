@@ -67,13 +67,13 @@ https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://box-live.stream/stream/456
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
-http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
-http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
@@ -108,11 +108,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" ,[COLOR orange][B]Edge Sport[/B][/COLOR]
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JEJ8ZbH.png",[COLOR orange][B]EIR SPORTS 1 | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/6612
+EXTINF:-1 tvg-logo="https://i.imgur.com/JEJ8ZbH.png",[COLOR orange][B]EIR SPORTS 1 | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.eirsport.ie/uploads/eir/package/logos/eirSport2.png",[COLOR orange][B]EIR SPORTS 2 | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/6611
+EXTINF:-1 tvg-logo="https://www.eirsport.ie/uploads/eir/package/logos/eirSport2.png",[COLOR orange][B]EIR SPORTS 2 | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1648.png",[COLOR orange][B]Eleven Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitro.ltd:25461/SPGy9SSX9y/uSnMBNbr66/5886
