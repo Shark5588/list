@@ -127,6 +127,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN Bases Loaded[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn Brasil HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/sergio/sergio/169
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn Extra HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/sergio/sergio/165
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn HD | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://maxptv.net:8080/sergio/sergio/167
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn SD | USA[/B][/COLOR]
@@ -573,11 +577,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports LaLiga[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/382405
 
-#EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/7915
+EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yeahiptv.vip:8080/23pols7nc/f8ts3ccwa/6568
+EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png",[B][COLORorange]Premier Sports 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
