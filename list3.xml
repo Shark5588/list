@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 3/20/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 4/30/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -16,387 +16,1684 @@ http://0.0.0.0:1234
 
 ################################################################ LIST  ###########################################################################################
 
+#EXTINF:-1,Rai 1 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78482.ts
+#EXTINF:-1,Rai 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/289.ts
+#EXTINF:-1,Rai 2 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78478.ts
+#EXTINF:-1,Rai 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/288.ts
+#EXTINF:-1,Rai 3 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78474.ts
+#EXTINF:-1,Rai 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/287.ts
+#EXTINF:-1,Rete 4 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78458.ts
+#EXTINF:-1,Rete 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/286.ts
+#EXTINF:-1,Canale 5 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78514.ts
+#EXTINF:-1,Canale 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/285.ts
+#EXTINF:-1,ITALIA 1 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78503.ts
+#EXTINF:-1,Italia 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/284.ts
+#EXTINF:-1,LA 7 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78501.ts
+#EXTINF:-1,LA 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/283.ts
+#EXTINF:-1,Nove SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78496.ts
+#EXTINF:-1,Nove HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/256.ts
+#EXTINF:-1,RSI La1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/268.ts
+#EXTINF:-1,RSI La2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/267.ts
+#EXTINF:-1,Iris HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/264.ts
+#EXTINF:-1,Spike HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/102.ts
+#EXTINF:-1,Sky TG24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/250.ts
+#EXTINF:-1,TGcom 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/253.ts
+#EXTINF:-1,Rai News 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/273.ts
+#EXTINF:-1,----REGIONALI----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78280.ts
+#EXTINF:-1,Canale 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82922.ts
+#EXTINF:-1,Antenna sicilia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78521.ts
+#EXTINF:-1,Canale 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/270.ts
+#EXTINF:-1,Padre Pio TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78495.ts
+#EXTINF:-1,RTP MESSINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78454.ts
+#EXTINF:-1,Telecapri
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/255.ts
+#EXTINF:-1,Telecolor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78450.ts
+#EXTINF:-1,Tg Norba 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/254.ts
+#EXTINF:-1,Tv Luna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78448.ts
+#EXTINF:-1,VH 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78445.ts
+#EXTINF:-1,Videolina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78444.ts
+#EXTINF:-1,----C I N E M A----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78281.ts
+#EXTINF:-1,Sky Cinema #iorestoacasa 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82554.ts
+#EXTINF:-1,Sky Cinema #iorestoacasa 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82555.ts
+#EXTINF:-1,Sky Cinema Uno SuperHd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/216.ts
+#EXTINF:-1,Sky Cinema Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/218.ts
+#EXTINF:-1,Sky Cinema Due SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/220.ts
+#EXTINF:-1,Sky Cinema Due HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/221.ts
+#EXTINF:-1,Sky Cinema Collection SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/202.ts
+#EXTINF:-1,Sky Cinema Collection HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/204.ts
+#EXTINF:-1,Sky Cinema Family SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/205.ts
+#EXTINF:-1,Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/208.ts
+#EXTINF:-1,Sky Cinema Action SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/197.ts
+#EXTINF:-1,Sky Cinema Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/199.ts
+#EXTINF:-1,Sky Cinema Suspense SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/206.ts
+#EXTINF:-1,Sky Cinema Suspense HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/207.ts
+#EXTINF:-1,Sky Cinema Romance SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/195.ts
+#EXTINF:-1,Sky Cinema Romance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/196.ts
+#EXTINF:-1,Sky Cinema Drama SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/209.ts
+#EXTINF:-1,Sky Cinema Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/210.ts
+#EXTINF:-1,Sky Cinema Comedy SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/211.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/213.ts
+#EXTINF:-1,Sky Cinema Uno +24 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/222.ts
+#EXTINF:-1,Sky Cinema Uno +24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/224.ts
+#EXTINF:-1,Sky Cinema Due +24 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78440.ts
+#EXTINF:-1,Sky Cinema Due +24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78441.ts
+#EXTINF:-1,Premium Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/112.ts
+#EXTINF:-1,Premium Cinema +24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/108.ts
+#EXTINF:-1,Premium Cinema Energy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/105.ts
+#EXTINF:-1,Premium cinema Emotion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/109.ts
+#EXTINF:-1,Premium Cinema Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/107.ts
+#EXTINF:-1,Paramount channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/43.ts
+#EXTINF:-1,Rai Movie SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78468.ts
+#EXTINF:-1,Rai Movie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/278.ts
+#EXTINF:-1,Cinema34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82464.ts
+#EXTINF:-1,----I N T R A T T E N I M E N T O----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78282.ts
+#EXTINF:-1,Sky Uno SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/232.ts
+#EXTINF:-1,Sky Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/234.ts
+#EXTINF:-1,Sky Uno +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/235.ts
+#EXTINF:-1,Sky Atlantic SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/225.ts
+#EXTINF:-1,Sky Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/229.ts
+#EXTINF:-1,Sky Atlantic +1 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/230.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/231.ts
+#EXTINF:-1,Fox SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/237.ts
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/241.ts
+#EXTINF:-1,Fox +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/249.ts
+#EXTINF:-1,Fox Life SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/238.ts
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/239.ts
+#EXTINF:-1,Fox Life +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/240.ts
+#EXTINF:-1,Fox Crime SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/242.ts
+#EXTINF:-1,Fox Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/243.ts
+#EXTINF:-1,Fox Crime +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/244.ts
+#EXTINF:-1,Fox Crime +2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/247.ts
+#EXTINF:-1,Premium Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/106.ts
+#EXTINF:-1,CI Crime+Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/227.ts
+#EXTINF:-1,TV 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/251.ts
+#EXTINF:-1,Premium Stories
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/94.ts
+#EXTINF:-1,Blaze HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/88.ts
+#EXTINF:-1,Premium Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/123.ts
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78.ts
+#EXTINF:-1,MTV Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/53.ts
+#EXTINF:-1,Lei
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/258.ts
+#EXTINF:-1,Man-Ga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/55.ts
+#EXTINF:-1,Laeffe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/259.ts
+#EXTINF:-1,Sky Classica HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78683.ts
+#EXTINF:-1,20 Mediaset SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78522.ts
+#EXTINF:-1,20 Mediaset HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/272.ts
+#EXTINF:-1,Cielo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81.ts
+#EXTINF:-1,TV 2000 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/252.ts
+#EXTINF:-1,La 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/260.ts
+#EXTINF:-1,RealTime SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78462.ts
+#EXTINF:-1,Real Time HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/39.ts
+#EXTINF:-1,Real Time HD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78463.ts
+#EXTINF:-1,Mediaset Extra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/257.ts
+#EXTINF:-1,Top Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78575.ts
+#EXTINF:-1,Dmax SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78509.ts
+#EXTINF:-1,Dmax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/63.ts
+#EXTINF:-1,Dmax HD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78510.ts
+#EXTINF:-1,Mediaset Italia 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78498.ts
+#EXTINF:-1,Rai 4 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78472.ts
+#EXTINF:-1,Rai 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/281.ts
+#EXTINF:-1,Rai Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/277.ts
+#EXTINF:-1,Rai Storia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/275.ts
+#EXTINF:-1,Rai Scuola HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78465.ts
+#EXTINF:-1,Giallo SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78508.ts
+#EXTINF:-1,Giallo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/26.ts
+#EXTINF:-1,LA7 D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/282.ts
+#EXTINF:-1,GRANDE FRATELLO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81441.ts
+#EXTINF:-1,GRANDE FRATELLO 1 ORA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81440.ts
+#EXTINF:-1,GRANDE FRATELLO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81439.ts
+#EXTINF:-1,GRANDEFRATELLO STUDIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81438.ts
+#EXTINF:-1,----S P O R T----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78283.ts
+#EXTINF:-1,Sky Sport 24 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/185.ts
+#EXTINF:-1,Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/187.ts
+#EXTINF:-1,Sky Sport Uno SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/188.ts
+#EXTINF:-1,Sky Sport Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/190.ts
+#EXTINF:-1,Sky Sport UNO DTT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/164.ts
+#EXTINF:-1,Sky Sport SerieA SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/165.ts
+#EXTINF:-1,Sky Sport SerieA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/167.ts
+#EXTINF:-1,Sky Sport Football SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/175.ts
+#EXTINF:-1,Sky Sport Football HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/177.ts
+#EXTINF:-1,Sky Sport Arena SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/182.ts
+#EXTINF:-1,Sky Sport Arena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/184.ts
+#EXTINF:-1,Sky Sport Collection SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/162.ts
+#EXTINF:-1,Sky Sport Collection HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/173.ts
+#EXTINF:-1,Sky Sport NBA SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/169.ts
+#EXTINF:-1,Sky Sport NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/171.ts
+#EXTINF:-1,Sky Sport F1 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/179.ts
+#EXTINF:-1,Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/181.ts
+#EXTINF:-1,F1OnboardAlex.Albon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82247.ts
+#EXTINF:-1,F1OnboardAntonio.Giovinazzi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82246.ts
+#EXTINF:-1,F1OnboardCarlos.Sainz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82245.ts
+#EXTINF:-1,F1OnboardCharles.Leclerc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82244.ts
+#EXTINF:-1,F1OnboardDaniel.Ricciardo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82243.ts
+#EXTINF:-1,F1OnboardDaniil.Kvyat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82242.ts
+#EXTINF:-1,F1OnboardEsteban.Ocon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82241.ts
+#EXTINF:-1,F1OnboardGeorge.Russell
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82240.ts
+#EXTINF:-1,F1OnboardKevin.Magnussen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82239.ts
+#EXTINF:-1,F1OnboardKimi.Raikkonen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82238.ts
+#EXTINF:-1,F1OnboardLance.Stroll
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82237.ts
+#EXTINF:-1,F1OnboardLando.Norris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82236.ts
+#EXTINF:-1,F1OnboardLewis.Hamilton
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82235.ts
+#EXTINF:-1,F1OnboardLive
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82234.ts
+#EXTINF:-1,F1OnboardMax.Verstappen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82233.ts
+#EXTINF:-1,F1OnboardNicholas.Latifi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82232.ts
+#EXTINF:-1,F1OnboardPierre.Gasly
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82231.ts
+#EXTINF:-1,F1OnboardPVisualePitStop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82230.ts
+#EXTINF:-1,F1OnboardRomain.Grosjean
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82229.ts
+#EXTINF:-1,F1OnboardSebastian.Vettel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82228.ts
+#EXTINF:-1,F1OnboardSergio.Perez
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82227.ts
+#EXTINF:-1,F1OnboardTempiGara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82226.ts
+#EXTINF:-1,F1OnboardValtteri.Bottas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82225.ts
+#EXTINF:-1,F1OnboardVisualeCircuito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82224.ts
+#EXTINF:-1,Sky MotoGP SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/191.ts
+#EXTINF:-1,Sky MotoGP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/192.ts
+#EXTINF:-1,MotoGPAmbiente
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82223.ts
+#EXTINF:-1,MotoGPCommento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82222.ts
+#EXTINF:-1,MotoGPLiveTracking
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82221.ts
+#EXTINF:-1,MotoGpOnboard1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82220.ts
+#EXTINF:-1,MotoGpOnboard2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82219.ts
+#EXTINF:-1,MotoGpOnboard3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82218.ts
+#EXTINF:-1,MotoGpOnboard4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82217.ts
+#EXTINF:-1,MotogpVisualeElicottero
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82216.ts
+#EXTINF:-1,Eurosport 1 Italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/59.ts
+#EXTINF:-1,Eurosport 2 Italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/58.ts
+#EXTINF:-1,Bike Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/124.ts
+#EXTINF:-1,Class Horse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78682.ts
+#EXTINF:-1,Super Tennis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/34.ts
+#EXTINF:-1,Rai Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78464.ts
+#EXTINF:-1,AutomotoTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78520.ts
+#EXTINF:-1,Roma channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/126.ts
+#EXTINF:-1,Milan channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/127.ts
+#EXTINF:-1,Inter Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/129.ts
+#EXTINF:-1,Lazio Style Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/128.ts
+#EXTINF:-1,Torino Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/125.ts
+#EXTINF:-1,Caccia e pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/86.ts
+#EXTINF:-1,Pesca e caccia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/42.ts
+#EXTINF:-1,Italian Fishing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/262.ts
+#EXTINF:-1,Sky Calcio 1 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/159.ts
+#EXTINF:-1,Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/161.ts
+#EXTINF:-1,Sky Calcio 2 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/152.ts
+#EXTINF:-1,Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/154.ts
+#EXTINF:-1,Sky Calcio 3 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/149.ts
+#EXTINF:-1,Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/151.ts
+#EXTINF:-1,Sky Calcio 4 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/146.ts
+#EXTINF:-1,Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/148.ts
+#EXTINF:-1,Sky Calcio 5 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/143.ts
+#EXTINF:-1,Sky Calcio 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/145.ts
+#EXTINF:-1,Sky Calcio 6 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/141.ts
+#EXTINF:-1,Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/142.ts
+#EXTINF:-1,Sky Calcio 7 SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/79121.ts
+#EXTINF:-1,Sky Calcio 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/79123.ts
+#EXTINF:-1,Sky Calcio 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/156.ts
+#EXTINF:-1,Sport Italia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/36.ts
+#EXTINF:-1,Uniresat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/31.ts
+#EXTINF:-1,Motor trend
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/193.ts
+#EXTINF:-1,Eleven Sport 1 HD Polonia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/133.ts
+#EXTINF:-1,Eleven Sport 2 HD Polonia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/132.ts
+#EXTINF:-1,Eleven Sport 3 HD Polonia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/131.ts
+#EXTINF:-1,Eleven Sport 4 HD Polonia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/130.ts
+#EXTINF:-1,---- DAZN ----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78284.ts
+#EXTINF:-1,vetrina dazn M&S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81442.ts
+#EXTINF:-1,DAZN 1 HD BAR SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/134.ts
+#EXTINF:-1,DAZN 1 HD BAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/135.ts
+#EXTINF:-1,DAZN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/439.ts
+#EXTINF:-1,DAZN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/434.ts
+#EXTINF:-1,DAZN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/433.ts
+#EXTINF:-1,DAZN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/432.ts
+#EXTINF:-1,DAZN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/431.ts
+#EXTINF:-1,DAZN 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/430.ts
+#EXTINF:-1,DAZN 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/429.ts
+#EXTINF:-1,DAZN 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/428.ts
+#EXTINF:-1,DAZN 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/427.ts
+#EXTINF:-1,DAZN 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/435.ts
+#EXTINF:-1,DAZN 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3158.ts
+#EXTINF:-1,DAZN 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3159.ts
 
-#EXTM3U
-#EXTINF:-1,4Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02a
-#EXTINF:-1,5 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00i
-#EXTINF:-1,5SELECT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00l
-#EXTINF:-1,5STAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00k
-#EXTINF:-1,5STAR+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00m
-#EXTINF:-1,5USA+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00j
-#EXTINF:-1,A1TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01y
-#EXTINF:-1,Ahlulbayt TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01a
-#EXTINF:-1,Al Jazeera Eng
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01i
-#EXTINF:-1,Animal Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05p
-#EXTINF:-1,Animal Plnt+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00s
-#EXTINF:-1,BET:BlackEntTv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01j
-#EXTINF:-1,BLAZE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01f
-#EXTINF:-1,BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03b
-#EXTINF:-1,BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03j
-#EXTINF:-1,BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a034
-#EXTINF:-1,BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a035
-#EXTINF:-1,BT Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03d
-#EXTINF:-1,BT Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03k
-#EXTINF:-1,BT Sport//ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a036
-#EXTINF:-1,BT Sport//ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a037
+#EXTINF:-1,----B A M B I N I----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78287.ts
+#EXTINF:-1,Disney Plus 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82380.ts
+#EXTINF:-1,Disney Plus 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82381.ts
+#EXTINF:-1,Boing HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/87.ts
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/89.ts
+#EXTINF:-1,DeAKids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/75.ts
+#EXTINF:-1,DeA Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/76.ts
 #EXTINF:-1,Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a024
-#EXTINF:-1,Boomerang+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a025
-#EXTINF:-1,Box Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02d
-#EXTINF:-1,BoxNation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02w
-#EXTINF:-1,CBS Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a038
-#EXTINF:-1,CBS Justice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03c
-#EXTINF:-1,CBS Justice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a039
-#EXTINF:-1,CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03g
-#EXTINF:-1,CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03f
-#EXTINF:-1,CBS Reality+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03h
-#EXTINF:-1,CN+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a021
-#EXTINF:-1,CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a018
-#EXTINF:-1,Cartoon Netwrk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a020
-#EXTINF:-1,Cartoonito
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a026
-#EXTINF:-1,Celebration TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a047
-#EXTINF:-1,Channel 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00h
-#EXTINF:-1,Channel 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00o
-#EXTINF:-1,Channel 5+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00n
-#EXTINF:-1,Channels 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04a
-#EXTINF:-1,Club MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a050
-#EXTINF:-1,Clubland TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a042
-#EXTINF:-1,ComedyCent+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01l
-#EXTINF:-1,ComedyCentral
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01v
-#EXTINF:-1,ComedyCentral
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01m
-#EXTINF:-1,ComedyXtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01o
-#EXTINF:-1,ComedyXtra+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01p
-#EXTINF:-1,Craft Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04g
-#EXTINF:-1,DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05n
-#EXTINF:-1,DMAX+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05j
-#EXTINF:-1,Dave
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05d
-#EXTINF:-1,Dave
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a055
-#EXTINF:-1,Dave ja vu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05f
-#EXTINF:-1,Disc.History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05r
-#EXTINF:-1,Disc.History+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00y
-#EXTINF:-1,Disc.Sci+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00t
-#EXTINF:-1,Disc.Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05q
-#EXTINF:-1,Disc.Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05s
-#EXTINF:-1,Disc.Turbo+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a012
-#EXTINF:-1,Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a013
-#EXTINF:-1,Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05o
-#EXTINF:-1,Discovery Shed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00z
-#EXTINF:-1,Discovery+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00u
-#EXTINF:-1,Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05c
-#EXTINF:-1,Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a058
-#EXTINF:-1,Drama+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05e
-#EXTINF:-1,Eden
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a052
-#EXTINF:-1,Eden+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05a
-#EXTINF:-1,FRANCE 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03n
-#EXTINF:-1,Food Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05l
-#EXTINF:-1,Food Netwrk+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05m
-#EXTINF:-1,FreeSports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03o
-#EXTINF:-1,GEO Kahani
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a044
-#EXTINF:-1,GN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04d
-#EXTINF:-1,GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a019
-#EXTINF:-1,GOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a053
-#EXTINF:-1,GOLD+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a059
-#EXTINF:-1,Good News TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03y
-#EXTINF:-1,Gospel Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04f
-#EXTINF:-1,HUM Masala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04h
-#EXTINF:-1,HUM News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04m
-#EXTINF:-1,High Street TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03x
-#EXTINF:-1,High Street TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03z
-#EXTINF:-1,Hillsong
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01e
-#EXTINF:-1,Hochanda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03w
-#EXTINF:-1,Home
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02z
-#EXTINF:-1,Home & Health
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00v
-#EXTINF:-1,Home+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a031
-#EXTINF:-1,HomeHealth+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a011
-#EXTINF:-1,ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00r
-#EXTINF:-1,ID+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00w
-#EXTINF:-1,Ideal Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04j
-#EXTINF:-1,Inspiration TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01h
-#EXTINF:-1,JewelleryMaker
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a017
-#EXTINF:-1,KISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02e
-#EXTINF:-1,KTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a015
-#EXTINF:-1,Kerrang!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02f
-#EXTINF:-1,LaLigaTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03q
-#EXTINF:-1,Live 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a048
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04x
-#EXTINF:-1,MTV BASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04u
-#EXTINF:-1,MTV CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04v
-#EXTINF:-1,MTV HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04t
-#EXTINF:-1,MTV MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04y
-#EXTINF:-1,MTV MUSIC+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04z
-#EXTINF:-1,MTV OMG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04w
-#EXTINF:-1,MTV ROCKS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04r
-#EXTINF:-1,MTV+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04s
-#EXTINF:-1,Magic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02b
-#EXTINF:-1,Meet the Babes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04b
-#EXTINF:-1,NDTV 24x7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a045
-#EXTINF:-1,NOW 80s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04i
-#EXTINF:-1,NOW 90s
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a043
-#EXTINF:-1,Newstalk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01x
-#EXTINF:-1,Nick Jr+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01s
-#EXTINF:-1,Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a028
-#EXTINF:-1,Nick Jr.
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01q
-#EXTINF:-1,Nick Jr.Too
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01u
-#EXTINF:-1,Nick Jr.Too
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01r
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3256.ts
+#EXTINF:-1,Sky Teen Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/33.ts
+#EXTINF:-1,Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/45.ts
+#EXTINF:-1,Super !
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/35.ts
 #EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a029
-#EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01t
-#EXTINF:-1,Nickelodeon+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01n
-#EXTINF:-1,Nicktoons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a027
-#EXTINF:-1,Nicktoons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01k
-#EXTINF:-1,Noor TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a041
-#EXTINF:-1,PBS America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a033
-#EXTINF:-1,POP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02l
-#EXTINF:-1,POP Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02n
-#EXTINF:-1,POP Max+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02p
-#EXTINF:-1,POP+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02r
-#EXTINF:-1,Paramount
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00p
-#EXTINF:-1,Paramount+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00q
-#EXTINF:-1,Psychic Today
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04p
-#EXTINF:-1,QUEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05u
-#EXTINF:-1,QUEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03p
-#EXTINF:-1,QUEST+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05w
-#EXTINF:-1,QVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03u
-#EXTINF:-1,QVC Beauty
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03t
-#EXTINF:-1,QVC Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03r
-#EXTINF:-1,QVC Style
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03s
-#EXTINF:-1,Quest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05k
-#EXTINF:-1,Quest Red
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05v
-#EXTINF:-1,Quest Red+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05t
-#EXTINF:-1,Racing TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01z
-#EXTINF:-1,Really
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a032
-#EXTINF:-1,Really
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a030
-#EXTINF:-1,S4C
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03l
-#EXTINF:-1,S4C HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03m
-#EXTINF:-1,Sangat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03v
-#EXTINF:-1,Showcase
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a016
-#EXTINF:-1,Sikh Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01c
-#EXTINF:-1,Smithsonian HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01w
-#EXTINF:-1,SonLife
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04l
-#EXTINF:-1,Sony Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02g
-#EXTINF:-1,Sony Action+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02q
-#EXTINF:-1,Sony Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02s
-#EXTINF:-1,Sony Channel+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02t
-#EXTINF:-1,Sony Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02i
-#EXTINF:-1,Sony Classic+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02j
-#EXTINF:-1,Sony Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02u
-#EXTINF:-1,Sony Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02h
-#EXTINF:-1,Sony Movies+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02o
-#EXTINF:-1,Spotlight TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01b
-#EXTINF:-1,Starz TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03e
-#EXTINF:-1,Studio 66
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a049
-#EXTINF:-1,TCM Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a022
-#EXTINF:-1,TCM Movies+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a023
-#EXTINF:-1,TJC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04c
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a00x
-#EXTINF:-1,TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05x
-#EXTINF:-1,TLC+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a010
-#EXTINF:-1,Takbeer TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04k
-#EXTINF:-1,Thane
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a04e
-#EXTINF:-1,The Box
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02c
-#EXTINF:-1,Tiny Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02k
-#EXTINF:-1,Tiny Pop+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02m
-#EXTINF:-1,Trace Latina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02x
-#EXTINF:-1,Trace Urban
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02v
-#EXTINF:-1,Trace Vault
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a02y
-#EXTINF:-1,Travel Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05i
-#EXTINF:-1,W
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01g
-#EXTINF:-1,W
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a056
-#EXTINF:-1,W+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05b
-#EXTINF:-1,YANGA!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a040
-#EXTINF:-1,YESTERDAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a054
-#EXTINF:-1,YESTERDAY+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05h
-#EXTINF:-1,alibi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a01d
-#EXTINF:-1,alibi+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a05g
-#EXTINF:-1,horror ch+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03i
-#EXTINF:-1,horror channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a03a
-#EXTINF:-1,mytv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://78.110.169.226:8000/play/a046
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/44.ts
+#EXTINF:-1,Disney junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/65.ts
+#EXTINF:-1,Cartoon network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/85.ts
+#EXTINF:-1,K2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/56.ts
+#EXTINF:-1,Freesbe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/28.ts
+#EXTINF:-1,Disney Channel SuperHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/66.ts
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/68.ts
+#EXTINF:-1,Disney Channel +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/67.ts
+#EXTINF:-1,Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/83.ts
+#EXTINF:-1,Rai YOYO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/274.ts
+#EXTINF:-1,Rai Gulp HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/279.ts
+#EXTINF:-1,----Sd (DSL lente)----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78288.ts
+#EXTINF:-1,Rai 1 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78457.ts
+#EXTINF:-1,Rai 2 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78479.ts
+#EXTINF:-1,Rai 3 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78475.ts
+#EXTINF:-1,Rete 4 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78459.ts
+#EXTINF:-1,Canale 5 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78515.ts
+#EXTINF:-1,ITALIA 1 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78504.ts
+#EXTINF:-1,Sky Cinema Uno SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/217.ts
+#EXTINF:-1,Sky Cinema Action SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/198.ts
+#EXTINF:-1,Sky Cinema Comedy SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/212.ts
+#EXTINF:-1,Sky Cinema Collection SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/203.ts
+#EXTINF:-1,Sky Cinema Uno +24 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/223.ts
+#EXTINF:-1,Sky Uno SD (DSL lente)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/233.ts
+#EXTINF:-1,Sky Atlantic SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/228.ts
+#EXTINF:-1,Sky Sport SerieA SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/166.ts
+#EXTINF:-1,Sky Sport 24 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/186.ts
+#EXTINF:-1,Sky Sport Uno SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/189.ts
+#EXTINF:-1,Sky Sport Arena SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/183.ts
+#EXTINF:-1,Sky Sport Football SD (DSL lente)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/176.ts
+#EXTINF:-1,Sky MotoGp SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/57.ts
+#EXTINF:-1,Sky Sport F1 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/180.ts
+#EXTINF:-1,Sky Sport NBA SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/170.ts
+#EXTINF:-1,Sky Sport Collection SD (DSL lente)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/174.ts
+#EXTINF:-1,Sky Calcio 1 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/160.ts
+#EXTINF:-1,Sky Calcio 2 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/153.ts
+#EXTINF:-1,Sky Calcio 3 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/150.ts
+#EXTINF:-1,Sky Calcio 4 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/147.ts
+#EXTINF:-1,Sky Calcio 5 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/144.ts
+#EXTINF:-1,Sky Calcio 6 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/79124.ts
+#EXTINF:-1,Sky Calcio 7 SD (DSL LENTE)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/79122.ts
+ts
+#EXTINF:-1,FR: 13 EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80992.ts
+#EXTINF:-1,FR: 6TER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80991.ts
+#EXTINF:-1,FR: 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80990.ts
+#EXTINF:-1,FR: A LA CARTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80989.ts
+#EXTINF:-1,FR: A LA CARTE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80988.ts
+#EXTINF:-1,FR: A LA CARTE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80987.ts
+#EXTINF:-1,FR: A LA CARTE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80986.ts
+#EXTINF:-1,FR: A LA CARTE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80985.ts
+#EXTINF:-1,FR: A LA CARTE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80984.ts
+#EXTINF:-1,FR: A LA CARTE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80983.ts
+#EXTINF:-1,FR: AB 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80982.ts
+#EXTINF:-1,FR: AB MOTEUR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80981.ts
+#EXTINF:-1,FR: AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80980.ts
+#EXTINF:-1,FR: AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80979.ts
+#EXTINF:-1,FR: ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80978.ts
+#EXTINF:-1,FR: ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80977.ts
+#EXTINF:-1,FR: ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80976.ts
+#EXTINF:-1,FR: ARTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80975.ts
+#EXTINF:-1,FR: ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80974.ts
+#EXTINF:-1,FR: BEIN SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80973.ts
+#EXTINF:-1,FR: BEIN SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80972.ts
+#EXTINF:-1,FR: BEIN SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80971.ts
+#EXTINF:-1,FR: BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80970.ts
+#EXTINF:-1,FR: BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80969.ts
+#EXTINF:-1,FR: BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80968.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80967.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80966.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80965.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80964.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80963.ts
+#EXTINF:-1,FR: BEIN SPORTS MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80962.ts
+#EXTINF:-1,FR: BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80961.ts
+#EXTINF:-1,FR: BFM PARIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80960.ts
+#EXTINF:-1,FR: BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80959.ts
+#EXTINF:-1,FR: BOING HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80958.ts
+#EXTINF:-1,FR: BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80957.ts
+#EXTINF:-1,FR: BRAVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80956.ts
+#EXTINF:-1,FR: C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80955.ts
+#EXTINF:-1,FR: CANAL   SERIE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80954.ts
+#EXTINF:-1,FR: CANAL  DECALE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80953.ts
+#EXTINF:-1,FR: CANAL  FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80952.ts
+#EXTINF:-1,FR: CANAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80951.ts
+#EXTINF:-1,FR: CANAL  SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80950.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80949.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80948.ts
+#EXTINF:-1,FR: CANAL FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80947.ts
+#EXTINF:-1,FR: CANAL J HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80946.ts
+#EXTINF:-1,FR: CANAL PLUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80945.ts
+#EXTINF:-1,FR: CANAL SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80944.ts
+#EXTINF:-1,FR: CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80943.ts
+#EXTINF:-1,FR: Chasse et PÃªche FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80942.ts
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80941.ts
+#EXTINF:-1,FR: CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80940.ts
+#EXTINF:-1,FR: CINE  CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80939.ts
+#EXTINF:-1,FR: CINE  CLUB FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80938.ts
+#EXTINF:-1,FR: CINE  EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80937.ts
+#EXTINF:-1,FR: CINE  FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80936.ts
+#EXTINF:-1,FR: CINE  FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80935.ts
+#EXTINF:-1,FR: CINE  POLAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80934.ts
+#EXTINF:-1,FR: CINE  PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80933.ts
+#EXTINF:-1,FR: CINE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80932.ts
+#EXTINF:-1,FR: CINE FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80931.ts
+#EXTINF:-1,FR: CNEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80930.ts
+#EXTINF:-1,FR: COMEDIE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80929.ts
+#EXTINF:-1,FR: CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80928.ts
+#EXTINF:-1,FR: CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80927.ts
+#EXTINF:-1,FR: DISCOVERY FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80926.ts
+#EXTINF:-1,FR: DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80925.ts
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80924.ts
+#EXTINF:-1,FR: DISCOVERY SCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80923.ts
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80922.ts
+#EXTINF:-1,FR: DISNEY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80921.ts
+#EXTINF:-1,FR: DISNEY CINEMAGIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80920.ts
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80919.ts
+#EXTINF:-1,FR: DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80918.ts
+#EXTINF:-1,FR: E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80917.ts
+#EXTINF:-1,FR: EQUIDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80916.ts
+#EXTINF:-1,FR: EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80915.ts
+#EXTINF:-1,FR: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80914.ts
+#EXTINF:-1,FR: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80913.ts
+#EXTINF:-1,FR: FOOT  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80912.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80911.ts
+#EXTINF:-1,FR: FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80910.ts
+#EXTINF:-1,FR: FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80909.ts
+#EXTINF:-1,FR: FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80908.ts
+#EXTINF:-1,FR: FRANCE INFO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80907.ts
+#EXTINF:-1,FR: FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80906.ts
+#EXTINF:-1,FR: GOLF  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80905.ts
+#EXTINF:-1,FR: GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80904.ts
+#EXTINF:-1,FR: GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80903.ts
+#EXTINF:-1,FR: HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80902.ts
+#EXTINF:-1,FR: INFOSPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80901.ts
+#EXTINF:-1,FR: J-One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80900.ts
+#EXTINF:-1,FR: LA UNE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80899.ts
+#EXTINF:-1,FR: LCI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80898.ts
+#EXTINF:-1,FR: LUXE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80897.ts
+#EXTINF:-1,FR: M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80896.ts
+#EXTINF:-1,FR: M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80895.ts
+#EXTINF:-1,FR: MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80894.ts
+#EXTINF:-1,FR: MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80893.ts
+#EXTINF:-1,FR: MELODY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80892.ts
+#EXTINF:-1,FR: MEZZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80891.ts
+#EXTINF:-1,FR: MTV DANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80890.ts
+#EXTINF:-1,FR: MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80889.ts
+#EXTINF:-1,FR: MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80888.ts
+#EXTINF:-1,FR: MTV ROCK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80887.ts
+#EXTINF:-1,FR: MY COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80886.ts
+#EXTINF:-1,FR: MY CUISINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80885.ts
+#EXTINF:-1,FR: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80884.ts
+#EXTINF:-1,FR: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80883.ts
+#EXTINF:-1,FR: NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80882.ts
+#EXTINF:-1,FR: NICKELODEON JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80881.ts
+#EXTINF:-1,FR: NICKELODEON TEEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80880.ts
+#EXTINF:-1,FR: NRJ 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80879.ts
+#EXTINF:-1,FR: OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80878.ts
+#EXTINF:-1,FR: OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80877.ts
+#EXTINF:-1,FR: OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80876.ts
+#EXTINF:-1,FR: OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80875.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80874.ts
+#EXTINF:-1,FR: PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80873.ts
+#EXTINF:-1,FR: PIWI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80872.ts
+#EXTINF:-1,FR: PLANET CI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80871.ts
+#EXTINF:-1,FR: PLANETE  A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80870.ts
+#EXTINF:-1,FR: PLANETE  CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80869.ts
+#EXTINF:-1,FR: PLANETE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80868.ts
+#EXTINF:-1,FR: PUBLIC SENAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80867.ts
+#EXTINF:-1,FR: RMC ACCESS SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80866.ts
+#EXTINF:-1,FR: RMC ACCESS SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80865.ts
+#EXTINF:-1,FR: RMC ACCESS SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80864.ts
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80863.ts
+#EXTINF:-1,FR: RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80862.ts
+#EXTINF:-1,FR: RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80861.ts
+#EXTINF:-1,FR: RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80860.ts
+#EXTINF:-1,FR: RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80859.ts
+#EXTINF:-1,FR: RMC Sport Live 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80858.ts
+#EXTINF:-1,FR: RMC Sport Live 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80857.ts
+#EXTINF:-1,FR: RMC Sport Live 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80856.ts
+#EXTINF:-1,FR: RMC Sport Live 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80855.ts
+#EXTINF:-1,FR: RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80854.ts
+#EXTINF:-1,FR: RT FRANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80853.ts
+#EXTINF:-1,FR: RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80852.ts
+#EXTINF:-1,FR: SCIENCE & VIE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80851.ts
+#EXTINF:-1,FR: SEASONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80850.ts
+#EXTINF:-1,FR: SERIE-CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80849.ts
+#EXTINF:-1,FR: SUI:RTS.Un HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80848.ts
+#EXTINF:-1,FR: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80847.ts
+#EXTINF:-1,FR: TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80846.ts
+#EXTINF:-1,FR: TELETOON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80845.ts
+#EXTINF:-1,FR: TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80844.ts
+#EXTINF:-1,FR: TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80843.ts
+#EXTINF:-1,FR: TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80842.ts
+#EXTINF:-1,FR: TF1 SERIES/FILMS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80841.ts
+#EXTINF:-1,FR: TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80840.ts
+#EXTINF:-1,FR: TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80839.ts
+#EXTINF:-1,FR: TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80838.ts
+#EXTINF:-1,FR: TOUTE L'HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80837.ts
+#EXTINF:-1,FR: TRACE AFRICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80836.ts
+#EXTINF:-1,FR: TRACE AYITI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80835.ts
+#EXTINF:-1,FR: TRACE KITOKO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80834.ts
+#EXTINF:-1,FR: TRACE LATINA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80833.ts
+#EXTINF:-1,FR: TRACE MZIKI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80832.ts
+#EXTINF:-1,FR: TRACE TOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80831.ts
+#EXTINF:-1,FR: TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80830.ts
+#EXTINF:-1,FR: TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80829.ts
+#EXTINF:-1,FR: TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80828.ts
+#EXTINF:-1,FR: USHUAIA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80827.ts
+#EXTINF:-1,FR: VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80826.ts
+#EXTINF:-1,FR: W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80825.ts
+#EXTINF:-1,FR: WARNER TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80824.ts
+
+#EXTINF:-1,UK: AMC From BT UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80588.ts
+#EXTINF:-1,UK: Animal Planet HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80587.ts
+#EXTINF:-1,UK: Baby TV UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80586.ts
+#EXTINF:-1,UK: BBC Four FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80585.ts
+#EXTINF:-1,UK: BBC News FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80584.ts
+#EXTINF:-1,UK: BBC One HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80583.ts
+#EXTINF:-1,UK: BBC Two FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80582.ts
+#EXTINF:-1,UK: BET Entertainment UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80581.ts
+#EXTINF:-1,UK: Box Upfront UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80580.ts
+#EXTINF:-1,UK: Boxnation FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80579.ts
+#EXTINF:-1,UK: BT Sport Extra 1 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80578.ts
+#EXTINF:-1,UK: BT Sport Extra 2 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80577.ts
+#EXTINF:-1,UK: BT Sport Extra 3 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80576.ts
+#EXTINF:-1,UK: BT Sport Extra 4 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80575.ts
+#EXTINF:-1,UK: BT Sport Extra 5 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80574.ts
+#EXTINF:-1,UK: BT Sports 1 FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80573.ts
+#EXTINF:-1,UK: BT Sports 1 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80572.ts
+#EXTINF:-1,UK: BT Sports 2 FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80571.ts
+#EXTINF:-1,UK: BT Sports 3 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80570.ts
+#EXTINF:-1,UK: BT Sports ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80569.ts
+#EXTINF:-1,UK: CBBC FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80568.ts
+#EXTINF:-1,UK: CBS Action UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80567.ts
+#EXTINF:-1,UK: CBS Drama UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80566.ts
+#EXTINF:-1,UK: CBS Reality UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80565.ts
+#EXTINF:-1,UK: Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80440.ts
+#EXTINF:-1,UK: DMAX UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80564.ts
+#EXTINF:-1,UK: Euronews HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80563.ts
+#EXTINF:-1,UK: Eurosport 1 HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80562.ts
+#EXTINF:-1,UK: Eurosport 2 FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80561.ts
+#EXTINF:-1,UK: Fox HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80560.ts
+#EXTINF:-1,UK: Fox News FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80559.ts
+#EXTINF:-1,UK: Nat Geo UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80558.ts
+#EXTINF:-1,UK: Nat Geo Wild HD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80557.ts
+#EXTINF:-1,UK: National Geographic FHD UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80556.ts
+#EXTINF:-1,UK: Nickelodeon UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80555.ts
+#EXTINF:-1,UK: Premier Sports UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80554.ts
+#EXTINF:-1,UK01: BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80553.ts
+#EXTINF:-1,UK02: BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80552.ts
+#EXTINF:-1,UK03: ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80551.ts
+#EXTINF:-1,UK04: CHANNEL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80550.ts
+#EXTINF:-1,UK05: CHANNEL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80549.ts
+#EXTINF:-1,UK06: SKY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80548.ts
+#EXTINF:-1,UK07: SKY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80547.ts
+#EXTINF:-1,UK08: SKY ARTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80546.ts
+#EXTINF:-1,UK09: SKY ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80545.ts
+#EXTINF:-1,UK10: SKY WITNEES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80544.ts
+#EXTINF:-1,UK100: MTV Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80463.ts
+#EXTINF:-1,UK101: MTV Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80462.ts
+#EXTINF:-1,UK102: MTV Base
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80461.ts
+#EXTINF:-1,UK103: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80460.ts
+#EXTINF:-1,UK104: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80459.ts
+#EXTINF:-1,UK105: Chart Show TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80458.ts
+#EXTINF:-1,UK106: VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80457.ts
+#EXTINF:-1,UK107: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80456.ts
+#EXTINF:-1,UK108: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80455.ts
+#EXTINF:-1,UK109: Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80454.ts
+#EXTINF:-1,UK11: LONDON LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80543.ts
+#EXTINF:-1,UK110: CBBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80453.ts
+#EXTINF:-1,UK111: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80452.ts
+#EXTINF:-1,UK112: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80451.ts
+#EXTINF:-1,UK113: Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80450.ts
+#EXTINF:-1,UK114: Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80449.ts
+#EXTINF:-1,UK115: Nick HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80448.ts
+#EXTINF:-1,UK115: Nick Jr Too HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80447.ts
+#EXTINF:-1,UK116: Nick Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80446.ts
+#EXTINF:-1,UK117: Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80445.ts
+#EXTINF:-1,UK118: Nicktoons HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80444.ts
+#EXTINF:-1,UK119: Tiny Pop HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80443.ts
+#EXTINF:-1,UK12: WATCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80542.ts
+#EXTINF:-1,UK120: Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80442.ts
+#EXTINF:-1,UK121: Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80441.ts
+#EXTINF:-1,UK122: Discovery Shed HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80439.ts
+#EXTINF:-1,UK123: Eden HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80438.ts
+#EXTINF:-1,UK124: Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80437.ts
+#EXTINF:-1,UK125: Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80436.ts
+#EXTINF:-1,UK126: H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80435.ts
+#EXTINF:-1,UK127: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80434.ts
+#EXTINF:-1,UK128: ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80433.ts
+#EXTINF:-1,UK129: Crime Scene Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80432.ts
+#EXTINF:-1,UK13: ITVBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80541.ts
+#EXTINF:-1,UK130: Nat Geo WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80431.ts
+#EXTINF:-1,UK131: National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80430.ts
+#EXTINF:-1,UK132: Home HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80429.ts
+#EXTINF:-1,UK133: Viceland HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80428.ts
+#EXTINF:-1,UK134: BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80427.ts
+#EXTINF:-1,UK135: BBC World News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80426.ts
+#EXTINF:-1,UK136: BBC Parliament
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80425.ts
+#EXTINF:-1,UK137: Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80424.ts
+#EXTINF:-1,UK138: Al Jazeera Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80423.ts
+#EXTINF:-1,UK139: CNBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80422.ts
+#EXTINF:-1,UK14: 5 STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80540.ts
+#EXTINF:-1,UK140: ESPN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80421.ts
+#EXTINF:-1,UK141: Fox News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80420.ts
+#EXTINF:-1,UK141: TV5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80410.ts
+#EXTINF:-1,UK142: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80419.ts
+#EXTINF:-1,UK143: Sky News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80418.ts
+#EXTINF:-1,UK144: RTE News Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80417.ts
+#EXTINF:-1,UK145: RT News UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80416.ts
+#EXTINF:-1,UK146: Star Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80415.ts
+#EXTINF:-1,UK147: Zee Punjabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80414.ts
+#EXTINF:-1,UK148: ZING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80413.ts
+#EXTINF:-1,UK149: ZEE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80412.ts
+#EXTINF:-1,UK15: GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80539.ts
+#EXTINF:-1,UK150:  ZEE CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80411.ts
+#EXTINF:-1,UK16: CHALLENGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80538.ts
+#EXTINF:-1,UK17: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80537.ts
+#EXTINF:-1,UK18: CBS Reality HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80536.ts
+#EXTINF:-1,UK19: BLAZE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80535.ts
+#EXTINF:-1,UK20: CBS DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80534.ts
+#EXTINF:-1,UK21: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80533.ts
+#EXTINF:-1,UK22: DAVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80532.ts
+#EXTINF:-1,UK23: DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80531.ts
+#EXTINF:-1,UK24: DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80530.ts
+#EXTINF:-1,UK25: MORE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80529.ts
+#EXTINF:-1,UK26: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80528.ts
+#EXTINF:-1,UK27: E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80527.ts
+#EXTINF:-1,UK28: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80526.ts
+#EXTINF:-1,UK29: HORROR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80525.ts
+#EXTINF:-1,UK30: ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80524.ts
+#EXTINF:-1,UK31: ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80523.ts
+#EXTINF:-1,UK32: ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80522.ts
+#EXTINF:-1,UK33: PICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80521.ts
+#EXTINF:-1,UK34: QUEST RED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80520.ts
+#EXTINF:-1,UK35: QUEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80519.ts
+#EXTINF:-1,UK36: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80518.ts
+#EXTINF:-1,UK37: RTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80517.ts
+#EXTINF:-1,UK38: RTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80516.ts
+#EXTINF:-1,UK39: REALLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80515.ts
+#EXTINF:-1,UK40: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80514.ts
+#EXTINF:-1,UK41: 5SPIKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80513.ts
+#EXTINF:-1,UK42: TG4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80512.ts
+#EXTINF:-1,UK43: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80511.ts
+#EXTINF:-1,UK44: 4SEVEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80510.ts
+#EXTINF:-1,UK45: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80509.ts
+#EXTINF:-1,UK46: Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80508.ts
+#EXTINF:-1,UK47: UTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80507.ts
+#EXTINF:-1,UK48: SKY SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80506.ts
+#EXTINF:-1,UK49: SKY SPORTS MAIN EVENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80505.ts
+#EXTINF:-1,UK50: SKY SPORTS CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80504.ts
+#EXTINF:-1,UK51: SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80503.ts
+#EXTINF:-1,UK52: SKY SPORTS PREMIER LEAUGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80502.ts
+#EXTINF:-1,UK53: SKY SPORTS MIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80501.ts
+#EXTINF:-1,UK54: SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80500.ts
+#EXTINF:-1,UK55: SKY SPORTS FOOTBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80499.ts
+#EXTINF:-1,UK56: SKY SPORTS ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80498.ts
+#EXTINF:-1,UK57: BT SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80497.ts
+#EXTINF:-1,UK58: BT SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80496.ts
+#EXTINF:-1,UK59: BT SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80495.ts
+#EXTINF:-1,UK61: SKY SPORTS RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80494.ts
+#EXTINF:-1,UK62: RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80493.ts
+#EXTINF:-1,UK63: BOXNATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80492.ts
+#EXTINF:-1,UK64: EIR SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80491.ts
+#EXTINF:-1,UK65: EIR SPORT  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80490.ts
+#EXTINF:-1,UK66: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80489.ts
+#EXTINF:-1,UK67: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80488.ts
+#EXTINF:-1,UK68: MOTORS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80487.ts
+#EXTINF:-1,UK69: MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80486.ts
+#EXTINF:-1,UK70: CHELSEA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80485.ts
+#EXTINF:-1,UK71: ELVEN SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80484.ts
+#EXTINF:-1,UK72: ITV BOX OFFICE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80483.ts
+#EXTINF:-1,UK73: SKY CINEMA PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80482.ts
+#EXTINF:-1,UK74: SKY CINEMA GREATS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80481.ts
+#EXTINF:-1,UK75: SKY CINEMA HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80480.ts
+#EXTINF:-1,UK76: SKY CINEMA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80479.ts
+#EXTINF:-1,Uk77: SKY CINEMA FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80478.ts
+#EXTINF:-1,UK78: SKY CINEMA ACITON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80477.ts
+#EXTINF:-1,UK79: SKY CINEMA COMDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80476.ts
+#EXTINF:-1,UK80: SKY CINEMA THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80475.ts
+#EXTINF:-1,UK81: SKY CINEMA DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80474.ts
+#EXTINF:-1,UK82: SKY CINEMA SKY-FI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80473.ts
+#EXTINF:-1,UK83: SKY CINEMA SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80472.ts
+#EXTINF:-1,UK84: FILM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80471.ts
+#EXTINF:-1,UK85: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80470.ts
+#EXTINF:-1,UK86: Movies4Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80469.ts
+#EXTINF:-1,UK87: MTV Rocks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80468.ts
+#EXTINF:-1,UK88: MTV OMG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80467.ts
+#EXTINF:-1,UK89: MTV Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80466.ts
+#EXTINF:-1,UK90: MTV Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80465.ts
+#EXTINF:-1,UK91: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80464.ts
+#EXTINF:-1,USA: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80409.ts
+#EXTINF:-1,USA: Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80408.ts
+#EXTINF:-1,USA: Atlanta Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80407.ts
+#EXTINF:-1,USA: BBC America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80406.ts
+#EXTINF:-1,USA: beIN Sports Connect HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80405.ts
+#EXTINF:-1,USA: beIN Sports Connect Ñ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80404.ts
+#EXTINF:-1,USA: Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80403.ts
+#EXTINF:-1,USA: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80402.ts
+#EXTINF:-1,USA: BT Sport ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80401.ts
+#EXTINF:-1,USA: BTN Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80400.ts
+#EXTINF:-1,USA: C-SPAN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80398.ts
+#EXTINF:-1,USA: C-SPAN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80397.ts
+#EXTINF:-1,USA: C-SPAN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80396.ts
+#EXTINF:-1,USA: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80395.ts
+#EXTINF:-1,USA: CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80393.ts
+#EXTINF:-1,USA: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80392.ts
+#EXTINF:-1,USA: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80391.ts
+#EXTINF:-1,USA: Cooking Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80390.ts
+#EXTINF:-1,USA: Crime & Investigation Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80389.ts
+#EXTINF:-1,USA: CW 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80388.ts
+#EXTINF:-1,USA: CW Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80387.ts
+#EXTINF:-1,USA: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80386.ts
+#EXTINF:-1,USA: Discovery Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80383.ts
+#EXTINF:-1,USA: Discovery Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80384.ts
+#EXTINF:-1,USA: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80385.ts
+#EXTINF:-1,USA: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80382.ts
+#EXTINF:-1,USA: Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80381.ts
+#EXTINF:-1,USA: District Knowledge Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80379.ts
+#EXTINF:-1,USA: District of Columbia Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80378.ts
+#EXTINF:-1,USA: DIY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80377.ts
+#EXTINF:-1,USA: Eleven Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80375.ts
+#EXTINF:-1,USA: Entertainment Tonight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80376.ts
+#EXTINF:-1,USA: ESPN  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80373.ts
+#EXTINF:-1,USA: ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80371.ts
+#EXTINF:-1,USA: ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80370.ts
+#EXTINF:-1,USA: ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80372.ts
+#EXTINF:-1,USA: ESPN News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80374.ts
+#EXTINF:-1,USA: Fox Business HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80369.ts
+#EXTINF:-1,USA: Fox Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80368.ts
+#EXTINF:-1,USA: Fox News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80367.ts
+#EXTINF:-1,USA: Fox Soccer Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80366.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80365.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80364.ts
+#EXTINF:-1,USA: Hallmark Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80363.ts
+#EXTINF:-1,USA: Hallmark Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80362.ts
+#EXTINF:-1,USA: Hallmark Movies And Mysteries HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80361.ts
+#EXTINF:-1,USA: HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80360.ts
+#EXTINF:-1,USA: HBO Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80359.ts
+#EXTINF:-1,USA: HBO East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80358.ts
+#EXTINF:-1,USA: HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80357.ts
+#EXTINF:-1,USA: HBO Signature East  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80356.ts
+#EXTINF:-1,USA: HBO Zone HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80355.ts
+#EXTINF:-1,USA: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80354.ts
+#EXTINF:-1,USA: MLB Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80353.ts
+#EXTINF:-1,USA: MovieMax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80352.ts
+#EXTINF:-1,USA: MoviePlex HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80351.ts
+#EXTINF:-1,USA: MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80350.ts
+#EXTINF:-1,USA: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80349.ts
+#EXTINF:-1,USA: MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80347.ts
+#EXTINF:-1,USA: MTV Rocks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80348.ts
+#EXTINF:-1,USA: NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80346.ts
+#EXTINF:-1,USA: NBC (East) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80345.ts
+#EXTINF:-1,USA: NBC Sports Bay Area HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80344.ts
+#EXTINF:-1,USA: One America News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80394.ts
+#EXTINF:-1,USA: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80341.ts
+#EXTINF:-1,USA: TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80340.ts
+#EXTINF:-1,USA: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80339.ts
+#EXTINF:-1,USA: Tennis Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80338.ts
+#EXTINF:-1,USA: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80343.ts
+#EXTINF:-1,USA: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80342.ts
+#EXTINF:-1,USA: TV One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80399.ts
+#EXTINF:-1,USA:Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/80380.ts
+#EXTINF:-1,Brazzers LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3255.ts
+#EXTINF:-1,Centoxcento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/82.ts
+#EXTINF:-1,Dorcel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/61.ts
+#EXTINF:-1,Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3254.ts
+#EXTINF:-1,Passion XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3252.ts
+#EXTINF:-1,Penthouse Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78680.ts
+#EXTINF:-1,Penthouse 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78681.ts
+#EXTINF:-1,Pinko
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/40.ts
+#EXTINF:-1,Private TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78679.ts
+#EXTINF:-1,Redlight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3251.ts
+#EXTINF:-1,SCT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3250.ts
+#EXTINF:-1,Sexto Senso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3249.ts
+#EXTINF:-1,Vivid Red HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/78678.ts
+#EXTINF:-1,XXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/3253.ts
+#EXTINF:-1,XXX:  Teen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81288.ts
+#EXTINF:-1,XXX: Anal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81281.ts
+#EXTINF:-1,XXX: AST TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81305.ts
+#EXTINF:-1,XXX: AST TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81303.ts
+#EXTINF:-1,XXX: AST TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81302.ts
+#EXTINF:-1,XXX: AST TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81304.ts
+#EXTINF:-1,XXX: Babestation Xtreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81301.ts
+#EXTINF:-1,XXX: Balkan Erotic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81373.ts
+#EXTINF:-1,XXX: Bangerz  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81346.ts
+#EXTINF:-1,XXX: Bangerz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81372.ts
+#EXTINF:-1,XXX: Barely Legal TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81403.ts
+#EXTINF:-1,XXX: Big Dick HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81345.ts
+#EXTINF:-1,XXX: Big Tits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81300.ts
+#EXTINF:-1,XXX: Big Tits HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81344.ts
+#EXTINF:-1,XXX: Blowjob HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81282.ts
+#EXTINF:-1,XXX: Brazzers TV Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81402.ts
+#EXTINF:-1,XXX: Brazzers TV Europe Russian HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81343.ts
+#EXTINF:-1,XXX: Compilation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81299.ts
+#EXTINF:-1,XXX: Cuckold HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81342.ts
+#EXTINF:-1,XXX: Desire HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81401.ts
+#EXTINF:-1,XXX: Dorcel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81298.ts
+#EXTINF:-1,XXX: Dorcel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81400.ts
+#EXTINF:-1,XXX: Dorcel XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81399.ts
+#EXTINF:-1,XXX: Dusk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81371.ts
+#EXTINF:-1,XXX: Emanuelle HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81370.ts
+#EXTINF:-1,XXX: Ero XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81398.ts
+#EXTINF:-1,XXX: Erotic 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81397.ts
+#EXTINF:-1,XXX: Erotic 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81396.ts
+#EXTINF:-1,XXX: Erotic 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81395.ts
+#EXTINF:-1,XXX: Erotic 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81394.ts
+#EXTINF:-1,XXX: Erotic 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81393.ts
+#EXTINF:-1,XXX: Erotic 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81392.ts
+#EXTINF:-1,XXX: Erotic 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81391.ts
+#EXTINF:-1,XXX: Erotic 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81390.ts
+#EXTINF:-1,XXX: Erox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81389.ts
+#EXTINF:-1,XXX: Erox XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81341.ts
+#EXTINF:-1,XXX: Extreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81369.ts
+#EXTINF:-1,XXX: Fast Boyz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81368.ts
+#EXTINF:-1,XXX: Fetish
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81297.ts
+#EXTINF:-1,XXX: Fetish HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81340.ts
+#EXTINF:-1,XXX: French Lover
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81296.ts
+#EXTINF:-1,XXX: Frenchlover TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81367.ts
+#EXTINF:-1,XXX: Hardcore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81295.ts
+#EXTINF:-1,XXX: Hardcore HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81339.ts
+#EXTINF:-1,XXX: HOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81366.ts
+#EXTINF:-1,XXX: Hot Pleasure (18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81338.ts
+#EXTINF:-1,XXX: Hot Pleasure HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81365.ts
+#EXTINF:-1,XXX: Hustler
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81294.ts
+#EXTINF:-1,XXX: Hustler HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81293.ts
+#EXTINF:-1,XXX: Hustler HD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81388.ts
+#EXTINF:-1,XXX: Hustler TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81387.ts
+#EXTINF:-1,XXX: Jasmin TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81307.ts
+#EXTINF:-1,XXX: Jasmin TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81308.ts
+#EXTINF:-1,XXX: Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81337.ts
+#EXTINF:-1,XXX: Latina HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81336.ts
+#EXTINF:-1,XXX: Lesbian Affair HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81364.ts
+#EXTINF:-1,XXX: Lesbian HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81283.ts
+#EXTINF:-1,XXX: Miami TV (Mexico)HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81279.ts
+#EXTINF:-1,XXX: MILF HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81335.ts
+#EXTINF:-1,XXX: Milf TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81363.ts
+#EXTINF:-1,XXX: Net XX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81334.ts
+#EXTINF:-1,XXX: Net XXL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81362.ts
+#EXTINF:-1,XXX: Nuart HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81361.ts
+#EXTINF:-1,XXX: Nuart TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81306.ts
+#EXTINF:-1,XXX: O-La-La
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81292.ts
+#EXTINF:-1,XXX: O-la-la HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81360.ts
+#EXTINF:-1,XXX: Oldtimer HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81359.ts
+#EXTINF:-1,XXX: Passion XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81386.ts
+#EXTINF:-1,XXX: Penthouse Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81385.ts
+#EXTINF:-1,XXX: Penthouse Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81384.ts
+#EXTINF:-1,XXX: Penthouse Quickies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81383.ts
+#EXTINF:-1,XXX: Pink Erotic 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81333.ts
+#EXTINF:-1,XXX: Pinko TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81382.ts
+#EXTINF:-1,XXX: Playboy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81332.ts
+#EXTINF:-1,XXX: Playboy TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81331.ts
+#EXTINF:-1,XXX: Playhouse HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81358.ts
+#EXTINF:-1,XXX: Pornstar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81330.ts
+#EXTINF:-1,XXX: Pornstar HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81329.ts
+#EXTINF:-1,XXX: POV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81291.ts
+#EXTINF:-1,XXX: POV HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81328.ts
+#EXTINF:-1,XXX: Private HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81381.ts
+#EXTINF:-1,XXX: Prive HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81357.ts
+#EXTINF:-1,XXX: Reality Kings HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81380.ts
+#EXTINF:-1,XXX: Red XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81356.ts
+#EXTINF:-1,XXX: Redlight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81379.ts
+#EXTINF:-1,XXX: Rough
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81290.ts
+#EXTINF:-1,XXX: Russian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81289.ts
+#EXTINF:-1,XXX: Russian hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81327.ts
+#EXTINF:-1,XXX: Russian HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81326.ts
+#EXTINF:-1,XXX: Russian Night HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81355.ts
+#EXTINF:-1,XXX: SCT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81354.ts
+#EXTINF:-1,XXX: Sexation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81353.ts
+#EXTINF:-1,XXX: Sexto Senso TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81378.ts
+#EXTINF:-1,XXX: Sexy HOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81325.ts
+#EXTINF:-1,XXX: Shemale Tube TV 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81278.ts
+#EXTINF:-1,XXX: Shemale Tube TV 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81277.ts
+#EXTINF:-1,XXX: Stars XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81377.ts
+#EXTINF:-1,XXX: SuperOne HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81376.ts
+#EXTINF:-1,XXX: Taboo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81352.ts
+#EXTINF:-1,XXX: Teen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81287.ts
+#EXTINF:-1,XXX: Teen HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81324.ts
+#EXTINF:-1,XXX: Threesome
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81286.ts
+#EXTINF:-1,XXX: Threesome HD18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81323.ts
+#EXTINF:-1,XXX: VenusHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81351.ts
+#EXTINF:-1,XXX: Visit-X TV (Opt-1) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81276.ts
+#EXTINF:-1,XXX: Visit-X TV (Opt-2) HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81275.ts
+#EXTINF:-1,XXX: Visit-X TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81280.ts
+#EXTINF:-1,XXX: Vivid Red HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81375.ts
+#EXTINF:-1,XXX: Vivid TV Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81350.ts
+#EXTINF:-1,XXX: XXL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81374.ts
+#EXTINF:-1,XXX: XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81285.ts
+#EXTINF:-1,XXX: XY Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81349.ts
+#EXTINF:-1,XXX: XY Mix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81348.ts
+#EXTINF:-1,XXX: XY Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81347.ts
+#EXTINF:-1,XXX: Русская Ночь
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81284.ts
+#EXTINF:-1,XXX: Шалун TV (18 )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81322.ts
+#EXTINF:-1,XXX:x RedTraffic Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81315.ts
+#EXTINF:-1,XXX:x RedTraffic MILF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81314.ts
+#EXTINF:-1,XXX:x RedTraffic Pornstar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81313.ts
+#EXTINF:-1,XXX:x RedTraffic POV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81312.ts
+#EXTINF:-1,XXX:x RedTraffic Russian
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81311.ts
+#EXTINF:-1,XXX:x RedTraffic Teen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81310.ts
+#EXTINF:-1,XXX:x RedTraffic Threesome
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ilnuovolook.xyz:80/live/cis_94081c/618837/81309.ts
