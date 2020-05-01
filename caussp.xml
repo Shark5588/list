@@ -16,7 +16,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COL
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 4/26/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 5/1/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
@@ -29,9 +29,10 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=HLSRETRY&amp;name=Link
-EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]Bein Sports | LaLiga [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/BeinLaLiga.png",[COLOR orange][B]Bein Sports | LaLiga [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]BEIN LA LIGA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.128.169:8000/live/iOS/toso/16.ts
+EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",[COLOR orange][B]LA LIGA TV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.128.169:8000/live/iOS/toso/15.ts
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) <<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -241,6 +242,11 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djeM9yx.png",[COLOR orange][B]Sport",Flow Sports 1[/B][/COLOR]
 http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FORMULA 1 FORMULA 1 FORMULA 1 FORMULA 1 FORMULA 1 FORMULA 1 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
+#EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/231-m-formula-1.png",[B][COLORorange]FORMULA 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.128.169:8000/live/iOS/toso/23.ts
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 FS1 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
