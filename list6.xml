@@ -17,57 +17,37 @@ http://0.0.0.0:1234
 ################################################################ LIST  ############################################################
 
 #EXTM3U
-#EXTINF:-1,FR: beIN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17483
-#EXTINF:-1,FR: beIN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17484
-#EXTINF:-1,FR: beIN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17485
-#EXTINF:-1,FR: beIN MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17486
-#EXTINF:-1,FR: beIN MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17487
-#EXTINF:-1,FR: beIN MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17488
-#EXTINF:-1,FR: beIN MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17489
-#EXTINF:-1,FR: beIN MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17490
-#EXTINF:-1,FR: beIN MAX 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17491
-#EXTINF:-1,FR: beIN MAX 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17492
-#EXTINF:-1,FR: FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17227
-#EXTINF:-1,FR: FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17228
-#EXTINF:-1,FR: FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17229
-#EXTINF:-1,FR: FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17230
-#EXTINF:-1,FR: DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17302
-#EXTINF:-1,FR: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17303
-#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17304
-#EXTINF:-1,FR: DISCOVERY FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17305
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17306
-#EXTINF:-1,FR: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17307
-#EXTINF:-1,FR: DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17338
-#EXTINF:-1,FR: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17339
-#EXTINF:-1,FR: DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17340
-#EXTINF:-1,FR: DISNEY CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17341
-#EXTINF:-1,FR: FRANCE INFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17352
-#EXTINF:-1,FR: FRANCE 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17353
-#EXTINF:-1,FR: EURONEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/17355
+#EXTINF:-1,UK: BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/659
+#EXTINF:-1,UK: BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/658
+#EXTINF:-1,UK: BBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/657
+#EXTINF:-1,UK: BBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/656
+#EXTINF:-1,UK: BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/10502
+#EXTINF:-1,UK: BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/10503
+#EXTINF:-1,UK: eir Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/645
+#EXTINF:-1,UK: eir Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/644
+#EXTINF:-1,UK: ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/642
+#EXTINF:-1,UK: ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/641
+#EXTINF:-1,UK: ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/640
+#EXTINF:-1,UK: ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/639
+#EXTINF:-1,UK: Sky News (eng)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/1332
+#EXTINF:-1,UK: SKY SPORT Main event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/636
+#EXTINF:-1,UK: SKY SPORTS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/634
+#EXTINF:-1,UK: SKY SPORTS GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/633
+#EXTINF:-1,UK: SKY SPORTS PL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/632
