@@ -17,37 +17,262 @@ http://0.0.0.0:1234
 ################################################################ LIST  ############################################################
 
 #EXTM3U
-#EXTINF:-1,UK: BBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/659
-#EXTINF:-1,UK: BBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/658
-#EXTINF:-1,UK: BBC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/657
-#EXTINF:-1,UK: BBC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/656
-#EXTINF:-1,UK: BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/10502
-#EXTINF:-1,UK: BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/10503
-#EXTINF:-1,UK: eir Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/645
-#EXTINF:-1,UK: eir Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/644
-#EXTINF:-1,UK: ITV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/642
-#EXTINF:-1,UK: ITV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/641
-#EXTINF:-1,UK: ITV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/640
-#EXTINF:-1,UK: ITV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/639
-#EXTINF:-1,UK: Sky News (eng)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/1332
-#EXTINF:-1,UK: SKY SPORT Main event
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/636
-#EXTINF:-1,UK: SKY SPORTS ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/634
-#EXTINF:-1,UK: SKY SPORTS GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/633
-#EXTINF:-1,UK: SKY SPORTS PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://avrasyatv.net:2086/alikoklu/kokluali/632
+#EXTINF:-1,UK | 4Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/14993
+#EXTINF:-1,UK | 4Seven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/14994
+#EXTINF:-1,UK | 5 Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/14997
+#EXTINF:-1,UK | 5 Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/14999
+#EXTINF:-1,UK | 5 Usa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15001
+#EXTINF:-1,UK | Alibi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15003
+#EXTINF:-1,UK | AMC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15006
+#EXTINF:-1,UK | Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15008
+#EXTINF:-1,UK | BBC Alba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15012
+#EXTINF:-1,UK | BBC Four
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15014
+#EXTINF:-1,UK | BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15015
+#EXTINF:-1,UK | BBC One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15025
+#EXTINF:-1,UK | BBC Parliament
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15047
+#EXTINF:-1,UK | BBC Two England HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15048
+#EXTINF:-1,UK | BBC Two Scotland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15053
+#EXTINF:-1,UK | Blaze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15060
+#EXTINF:-1,UK | CARTOONITO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/349
+#EXTINF:-1,UK | CBBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15070
+#EXTINF:-1,UK | Cbeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15073
+#EXTINF:-1,UK | CBS Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15075
+#EXTINF:-1,UK | CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15077
+#EXTINF:-1,UK | CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15079
+#EXTINF:-1,UK | Challenge 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15082
+#EXTINF:-1,UK | Channel 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15085
+#EXTINF:-1,UK | Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15093
+#EXTINF:-1,UK | Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15106
+#EXTINF:-1,UK | Comedy Xtra 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15110
+#EXTINF:-1,UK | Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15114
+#EXTINF:-1,UK | Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15122
+#EXTINF:-1,UK | Discovery History 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15125
+#EXTINF:-1,UK | Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15130
+#EXTINF:-1,UK | Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15133
+#EXTINF:-1,UK | DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/350
+#EXTINF:-1,UK | DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/351
+#EXTINF:-1,UK | DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/352
+#EXTINF:-1,UK | Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15146
+#EXTINF:-1,UK | Eden 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15157
+#EXTINF:-1,UK | Film 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15160
+#EXTINF:-1,UK | Film 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1059
+#EXTINF:-1,UK | Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15165
+#EXTINF:-1,UK | Fox Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15167
+#EXTINF:-1,UK | Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15175
+#EXTINF:-1,UK | Good Food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15177
+#EXTINF:-1,UK | H2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15178
+#EXTINF:-1,UK | History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15185
+#EXTINF:-1,UK | Home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15187
+#EXTINF:-1,UK | Horror Channel 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15195
+#EXTINF:-1,UK | ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15197
+#EXTINF:-1,UK | ITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15216
+#EXTINF:-1,UK | ITV 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15202
+#EXTINF:-1,UK | ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15204
+#EXTINF:-1,UK | ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15206
+#EXTINF:-1,UK | ITV 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15207
+#EXTINF:-1,UK | ITV Be 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15209
+#EXTINF:-1,UK | LFCTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15236
+#EXTINF:-1,UK | Lifetime 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15237
+#EXTINF:-1,UK | More 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15240
+#EXTINF:-1,UK | MTV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15253
+#EXTINF:-1,UK | MTV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15262
+#EXTINF:-1,UK | MTV Classic 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15250
+#EXTINF:-1,UK | MTV Hits 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15255
+#EXTINF:-1,UK | MTV Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15259
+#EXTINF:-1,UK | MTV Rocks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15260
+#EXTINF:-1,UK | MUTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15265
+#EXTINF:-1,UK | Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15271
+#EXTINF:-1,UK | National Geographic 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15274
+#EXTINF:-1,UK | NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/353
+#EXTINF:-1,UK | NICK JR TOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/354
+#EXTINF:-1,UK | NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/355
+#EXTINF:-1,UK | NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/356
+#EXTINF:-1,UK | Pick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15293
+#EXTINF:-1,UK | Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15296
+#EXTINF:-1,UK | Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15302
+#EXTINF:-1,UK | Racing UK 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15307
+#EXTINF:-1,UK | Really
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15314
+#EXTINF:-1,UK | S4C 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15324
+#EXTINF:-1,UK | Sky Arts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15332
+#EXTINF:-1,UK | SKY CINEMA ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1062
+#EXTINF:-1,UK | SKY CINEMA COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1063
+#EXTINF:-1,UK | SKY CINEMA DISNEY UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1064
+#EXTINF:-1,UK | SKY CINEMA DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1065
+#EXTINF:-1,UK | SKY CINEMA FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1066
+#EXTINF:-1,UK | SKY CINEMA GREATS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1067
+#EXTINF:-1,UK | SKY CINEMA HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1068
+#EXTINF:-1,UK | SKY CINEMA PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1069
+#EXTINF:-1,UK | SKY CINEMA SCI-FI & HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1070
+#EXTINF:-1,UK | SKY CINEMA SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1071
+#EXTINF:-1,UK | SKY CINEMA THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/1072
+#EXTINF:-1,UK | Sky News 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15344
+#EXTINF:-1,UK | SKY ONE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15348
+#EXTINF:-1,UK | Star Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15354
+#EXTINF:-1,UK | Syfy 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15360
+#EXTINF:-1,UK | TG4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15364
+#EXTINF:-1,UK | TLC FHD VIP UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15372
+#EXTINF:-1,UK | Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15377
+#EXTINF:-1,UK | True Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15384
+#EXTINF:-1,UK | VH1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15395
+#EXTINF:-1,UK | Virgin Media 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15399
+#EXTINF:-1,UK | Virgin Media 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15400
+#EXTINF:-1,UK | Yesterday VIP UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/15411
+
+
+#EXTM3U
+#EXTINF:-1,UK HD : BT SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/309257
+#EXTINF:-1,UK HD : BT SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/309256
+#EXTINF:-1,UK HD : BT SPORTS ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/262998
+#EXTINF:-1,UK HD : Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/262879
+#EXTINF:-1,UK HD : Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/21174
+#EXTINF:-1,UK HD : BT SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/382159
+#EXTINF:-1,UK HD : LFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/21176
+#EXTINF:-1,UK HD : Channel 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/325942
+#EXTINF:-1,UK HD : Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/142761
+#EXTINF:-1,UK HD : 5 Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/142755
+#EXTINF:-1,UK HD : Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/142758
+#EXTINF:-1,UK HD : E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/21088
+#EXTINF:-1,UK HD : Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/21070
+#EXTINF:-1,UK HD : ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/67155
+#EXTINF:-1,UK HD : Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/142786
+#EXTINF:-1,UK HD :  SKY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/142768
+#EXTINF:-1,UK HD : Sky Arts 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/142757
+#EXTINF:-1,UK HD : STV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/309299
+#EXTINF:-1,UK HD : TCM 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/331257
+#EXTINF:-1,UK HD : UTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/316491
+#EXTINF:-1,UK HD :  Film 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/221840
+#EXTINF:-1,UK HD :  Sky Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/378442
+#EXTINF:-1,UK HD :  Sky Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/378444
+#EXTINF:-1,UK HD : Sky Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/378453
+#EXTINF:-1,UK HD : Sky Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/378456
+#EXTINF:-1,UK HD : MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/221667
+#EXTINF:-1,UK HD : MTV Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/381386
+#EXTINF:-1,UK HD : BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.firetv.me:83/dircharlie/90393092/168363
