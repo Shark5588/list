@@ -142,6 +142,32 @@
    </items>
 </channel>
 //////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+<channel>
+<name>[B][COLORred]•[/COLOR][COLOR lightslategray]  ApexRacingTV[/COLOR][/B][COLOR red] (Kodi18+ Only)[/COLOR]</name>
+<thumbnail>https://www.apexracingtv.com/wp-content/uploads/2019/09/Full-Logo-TV-Black-32-white-background.png</thumbnail>
+<fanart>https://cdn.apexonlineracing.com/wp-content/uploads/2018/08/aor-og-image.png</fanart>
+<items>
+
+
+<item>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] ApexRacingTV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR snow]• [/COLOR][COLOR lawngreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UC3WV0kPwE7Llk7y7KyWpNug</page>
+</regex>
+<thumbnail>https://www.apexracingtv.com/wp-content/uploads/2019/09/Full-Logo-TV-Black-32-white-background.png</thumbnail>
+</item>
+   </items>
+</channel>
+//////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
     <name>[B][COLOR silver]FS1[/COLOR][/B]</name>
     <thumbnail>https://cdn.dribbble.com/users/594488/screenshots/4701191/monster.jpg</thumbnail>
