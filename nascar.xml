@@ -168,6 +168,32 @@
    </items>
 </channel>
 //////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+<channel>
+<name>[B][COLORred]•[/COLOR][COLOR lightslategray]  MotoGP[/COLOR][/B][COLOR red] (Kodi18+ Only)[/COLOR]</name>
+<thumbnail>https://www.userlogos.org/files/logos/mafi0z/Motogp.png</thumbnail>
+<fanart>https://s3-eu-west-1.amazonaws.com/crash.net/styles/large_article/s3/image_importer/MotoGP/gg813923.jpg?itok=kIX4eBTl</fanart>
+<items>
+
+
+<item>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] MotoGP[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR snow]• [/COLOR][COLOR lawngreen][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UC8pYaQzbBBXg9GIOHRvTmDQ</page>
+</regex>
+<thumbnail>https://www.userlogos.org/files/logos/mafi0z/Motogp.png</thumbnail>
+</item>
+   </items>
+</channel>
+//////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
     <name>[B][COLOR silver]FS1[/COLOR][/B]</name>
     <thumbnail>https://cdn.dribbble.com/users/594488/screenshots/4701191/monster.jpg</thumbnail>
