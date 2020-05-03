@@ -155,7 +155,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-   <title>[B][COLOR snow]• [/COLOR][COLOR lawngreen][makelist.param1][/COLOR][/B]</title>
+   <title>[B][COLOR red]• [/COLOR][COLOR silver][makelist.param1][/COLOR][/B]</title>
    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
    <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
    <info>[makelist.param3]</info>
@@ -174,7 +174,6 @@
 <fanart>https://s3-eu-west-1.amazonaws.com/crash.net/styles/large_article/s3/image_importer/MotoGP/gg813923.jpg?itok=kIX4eBTl</fanart>
 <items>
 
-
 <item>
 <title>[B][COLORred]•[/COLOR][COLOR lightslategray] MotoGP[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
@@ -190,6 +189,24 @@
 <page>https://www.youtube.com/feeds/videos.xml?channel_id=UC8pYaQzbBBXg9GIOHRvTmDQ</page>
 </regex>
 <thumbnail>https://www.userlogos.org/files/logos/mafi0z/Motogp.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLORred]•[/COLOR][COLOR lightslategray] MotoGP[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title>[B][COLOR orangered]• [/COLOR][COLOR silver][makelist.param1][/COLOR][/B]</title>
+   <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+   <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
+   <info>[makelist.param3]</info>
+]]></listrepeat>
+<expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
+<page>https://www.youtube.com/feeds/videos.xml?channel_id=UCcZmjboz9ZLc4-4QIV1VjjA</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJy_qY7c0Fls3rBG2NpYoySiCWYq563DoXORVw=s100-c-k-c0xffffffff-no-rj-mo</thumbnail>
+<fanart>https://cdn.sportspromedia.com/images/made/images/uploads/news/motogpcancel_630_354_80_s_c1.jpg</fanart>
 </item>
    </items>
 </channel>
