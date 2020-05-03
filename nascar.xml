@@ -181,7 +181,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-   <title>[B][COLOR snow]• [/COLOR][COLOR lawngreen][makelist.param1][/COLOR][/B]</title>
+   <title>[B][COLOR snow]• [/COLOR][COLOR orangered][makelist.param1][/COLOR][/B]</title>
    <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
    <thumbnail>https://i.ytimg.com/vi/[makelist.param2]/hqdefault.jpg</thumbnail>
    <info>[makelist.param3]</info>
