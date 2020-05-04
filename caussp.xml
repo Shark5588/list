@@ -342,8 +342,8 @@ EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
 EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbirdswatcher.com%2Ffiles%2F2016%2F05%2Fmlb-winter-meetings.jpg&c=sc&w=850&h=560",[B][COLORorange]Major League Baseball Network (3000k)[/B][/COLOR]
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbirdswatcher.com%2Ffiles%2F2016%2F05%2Fmlb-winter-meetings.jpg&c=sc&w=850&h=560",[B][COLORorange]Major League Baseball Network (HD)[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbirdswatcher.com%2Ffiles%2F2016%2F05%2Fmlb-winter-meetings.jpg&c=sc&w=850&h=560",[B][COLORorange]Major League Baseball Network (HD)[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ambratorhdiptv.mysql.tv:8080/donker/5RovZkztQa/8975
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/StrikeZoneLogo.jpg/220px-StrikeZoneLogo.jpg",[B][COLORorange]MLB STRIKE ZONE | DIRECT[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/308855
 ###########################################################################################################################################
@@ -392,18 +392,18 @@ https://dannyberg1.s3-accelerate.amazonaws.com/hls/lal.m3u8|Referer=http://crack
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN NBCSN   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/353545
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ambratorhdiptv.mysql.tv:8080/donker/5RovZkztQa/10135
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 |Referer=http://123tvnow.com/watch/nbc-sports-network-nbcsn/
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xyza.ltd:25461/Darren1/Darren2/41550
+EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/263177
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/Kericage/6824106935/308837
+EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
@@ -916,8 +916,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://41.226.0
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pcjatv.com:8080/fred123/fred123/38353
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv.com:999/3pSQ4lCmoU/0vcToQRYgx/57941
-EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass  [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass  [/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ambratorhdiptv.mysql.tv:8080/donker/5RovZkztQa/10130
 
 EXTINF:-1 tvg-logo="http://www.coversgeek.com/covers/uploads/1471726045.jpg",[B][COLORorange]UFC NETWORK | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
