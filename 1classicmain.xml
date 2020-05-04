@@ -198,33 +198,26 @@ channel>
     <content></content>ignorme
 </channel>
 
-	<channels>
-    <channels_info>
-      <title>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORsnow] THE MAG[/COLOR][COLORpurple]Experience Max Quality[/COLOR][/B]</title>
-      <genre>Movies</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-      <fanart></fanart>
-    </channels_info>
     
-    <channel>
-    <name>No RD</name>
+  <channel>
+   <name>[B][COLOR yellowgreen]•[/COLOR][COLOR purple]•[/COLOR][COLORsnow] THE MAG[/COLOR][COLORpurple]Experience Max Quality[/COLOR][/B]</name>
     <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-    <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+    <fanart>https://www.studioef.cz/wp-content/uploads/2017/10/the-mag.png</fanart>
         <items>
             <item>
                 <title>THE MAG</title>
                 <externallink>https://pastebin.com/raw/XXCy2cGm</externallink>
                 <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
-                <genre>Poker</genre>
-                <info>The Poker Channel – Europe’s largest dedicated gaming TV network is available online to a global audience, and to more than 30 million cable and satellite homes in Europe and Latin America.</info>
+                <genre>Movies</genre>
+                <info>Torrent links</info>
                 <fanart></fanart>
             </item>
             
             <item>
-                <title>Subtorrents</title>         
-                <externallink>https://pastebin.com/raw/VCkKkBzU</externallink>
+                <title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered]Subtorrents[/COLOR][/B]</title>         
+                <link>https://pastebin.com/raw/VCkKkBzU</link>
                 <thumbnail>https://www.subtorrents.la/wp-content/themes/SubTorrent/css/images/logo2.png</thumbnail>
+				<fanart>https://wallpapercave.com/wp/wp5223134.jpg</fanart>
             </item>
         </items>
     </channel>	
