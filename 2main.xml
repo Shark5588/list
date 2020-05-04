@@ -272,22 +272,33 @@
        <fanart></fanart>
        <info>[B][COLORyellow]Some works some dont[/COLOR][/B]</info>
   </channel>
-<!-------------------------------------------------------------------------------------------------------------------
-    <channel>
-    <name>[B][COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 0[/I][/B]</name>
-    <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
-    <fanart></fanart>
-        <items>
+------------------------------------------------------------------------------------------------------------------->
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 1[/I][/B]</name>
+    <thumbnail></thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
 
-            <item>
-                <title>News 4</title>      
-                <link>ignore</link>				
-                <externallink>https://www.iptvsource.com/dl/it_281018_iptvsource_com2.m3u$$TSDOWNLOADER$$</externallink>
-                <thumbnail></thumbnail>
-            </item>
-        </items>
-    </channel>
-----------------------------------------------------------------------------------------------------
+	<item>
+        <title>[B][COLOR silver]/////////////////////////////[/COLOR][COLOR red] ///////[/COLOR][/B]</title>         
+        <link>https://pastebin.com/raw/MdNHH6uB</link>
+        <thumbnail></thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]///////////////////////////[/COLOR][COLOR red] ////////[/COLOR][/B]</title>         
+        <link></link>
+        <thumbnail></thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link></link>
+        <thumbnail></thumbnail>
+   </items>
+  </channel>
+<!----------------------------------------------------------------------------------------------------
   <channel>
        <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 1[/I][/B]</name>
        <thumbnail>http://pdhed.com/wp-content/uploads/2014/09/TheTestingZone_TitlePage-300x169.jpg</thumbnail>
