@@ -272,32 +272,32 @@
        <fanart></fanart>
        <info>[B][COLORyellow]Some works some dont[/COLOR][/B]</info>
   </channel>
-------------------------------------------------------------------------------------------------------------------->
-//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-------------------------------------------------------------------------------------------------------------------
   <channel>
-    <name>[B][COLOR silver]SPORTS CLASSIC TV[COLOR red][/B][I]TesTinG ZoNE[/COLOR] 1[/I]</name>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <items>
-
-	<item>
-        <title>[B][COLOR orangered]SUBTORRENT[/COLOR][/B][I][COLOR red] TesTinG[/COLOR][/I]</title>         
-        <externallink>https://pastebin.com/raw/VCkKkBzU</externallink>
-        <thumbnail></thumbnail>
-    </item>
-	
-	<item>
-        <title>[B][COLOR silver]///////////////////////////[/COLOR][COLOR red] ////////[/COLOR][/B]</title>         
-        <link></link>
-        <thumbnail></thumbnail>
-    </item>
-	
-    <item>
-        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
-        <link></link>
-        <thumbnail></thumbnail>
-   </items>
-  </channel>
+   <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 1[/I][/B]</name>
+    <thumbnail>http://pluspng.com/img-png/mag-png-mag-png-550.png</thumbnail>
+    <fanart>https://www.studioef.cz/wp-content/uploads/2017/10/the-mag.png</fanart>
+        <items>
+            <item>
+                <title>[B][COLOR yellowgreen]•[/COLOR][COLOR lightslategray]//////[/COLOR][/B]</title>
+				<link>http://ignore.me</link>
+                <externallink></externallink>
+                <thumbnail></thumbnail>
+                <genre></genre>
+                <info></info>
+                <fanart></fanart>
+            </item>
+            
+            <item>
+                <title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered]////////[/COLOR][/B]</title> 
+				<link>http://ignore.me</link>
+                <externallink></externallink>
+                <thumbnail></thumbnail>
+				<fanart></fanart>
+            </item>
+        </items>
+    </channel>	
+</channels>
 <!----------------------------------------------------------------------------------------------------
   <channel>
        <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 1[/I][/B]</name>
