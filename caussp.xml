@@ -52,8 +52,8 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNati
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvpro.millenium-ott.com:25443/MAGMfHKZEHylk/3KZTjkidIi/31709
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
@@ -124,7 +124,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://41.226.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN  ESPN  ESPN  ESPN  ESPN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 https://e7.cdn4.us/ingest666/accn.m3u8|Referer=https://box-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
