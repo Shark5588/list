@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 5/1/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 5/6/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,325 +17,960 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-
-
 #EXTM3U
-#EXTINF:-1,CANADA: A & E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306265
-#EXTINF:-1,CANADA: ABC BUFFALO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378925
-#EXTINF:-1,CANADA: ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306264
-#EXTINF:-1,CANADA: ABC SHARK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378926
-#EXTINF:-1,CANADA: ABC WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306262
-#EXTINF:-1,CANADA: ADULT SWIM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378928
-#EXTINF:-1,CANADA: AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/379632
-#EXTINF:-1,CANADA: ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/354434
-#EXTINF:-1,CANADA: APTN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378927
-#EXTINF:-1,CANADA: BBC CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306253
-#EXTINF:-1,CANADA: BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306251
-#EXTINF:-1,CANADA: BNN Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/336097
-#EXTINF:-1,CANADA: BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306247
-#EXTINF:-1,CANADA: CABLEPULSE 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378930
-#EXTINF:-1,CANADA: CBC CHARLOTTETOWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/311217
-#EXTINF:-1,CANADA: CBC EDMONTON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/344643
-#EXTINF:-1,CANADA: CBC FREDERICTON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/311215
-#EXTINF:-1,CANADA: CBC MONTREAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306242
-#EXTINF:-1,CANADA: CBC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306241
-#EXTINF:-1,CANADA: CBC OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306240
-#EXTINF:-1,CANADA: CBC ST. JOHNS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/311212
-#EXTINF:-1,CANADA: CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332435
-#EXTINF:-1,CANADA: CBC TV ONTARIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/375556
-#EXTINF:-1,CANADA: CBC TV QUEBEC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/375555
-#EXTINF:-1,CANADA: CBC VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332741
-#EXTINF:-1,CANADA: CBC WINDSOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/353656
-#EXTINF:-1,CANADA: CBC WINNIPEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306229
-#EXTINF:-1,CANADA: CBS EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306237
-#EXTINF:-1,CANADA: CBS WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306236
-#EXTINF:-1,CANADA: CHCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/336126
-#EXTINF:-1,CANADA: CINEPOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306234
-#EXTINF:-1,CANADA: CITY TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332733
-#EXTINF:-1,CANADA: CITY VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332740
-#EXTINF:-1,CANADA: CMT CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306228
-#EXTINF:-1,CANADA: CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306227
-#EXTINF:-1,CANADA: CNN INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306225
-#EXTINF:-1,CANADA: COOKING CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306221
-#EXTINF:-1,CANADA: COTTAGE LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332491
-#EXTINF:-1,CANADA: CP24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306218
-#EXTINF:-1,CANADA: CPAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306217
-#EXTINF:-1,CANADA: CPAC FRENCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306216
-#EXTINF:-1,CANADA: CRIME &  INVEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306215
-#EXTINF:-1,CANADA: CRIME INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378931
-#EXTINF:-1,CANADA: CTV 2 Ottawa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/335025
-#EXTINF:-1,CANADA: CTV DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378932
-#EXTINF:-1,CANADA: CTV MONTREAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/325412
-#EXTINF:-1,CANADA: CTV NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/355369
-#EXTINF:-1,CANADA: CTV OTTAWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306211
-#EXTINF:-1,CANADA: CTV SCI FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378933
-#EXTINF:-1,CANADA: CTV SCI-FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/310774
-#EXTINF:-1,CANADA: CTV TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/331998
-#EXTINF:-1,CANADA: CTV TWO ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378934
-#EXTINF:-1,CANADA: CTV VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332739
-#EXTINF:-1,CANADA: DAYSTAR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306206
-#EXTINF:-1,CANADA: DEJA VIEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332734
-#EXTINF:-1,CANADA: DISCOVERY CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306204
-#EXTINF:-1,CANADA: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/378935
-#EXTINF:-1,CANADA: DISCOVERY INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/358891
-#EXTINF:-1,CANADA: DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/358890
-#EXTINF:-1,CANADA: DISNEY CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306202
-#EXTINF:-1,CANADA: DISNEY FRENCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306201
-#EXTINF:-1,CANADA: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306200
-#EXTINF:-1,CANADA: DIY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306199
-#EXTINF:-1,CANADA: E! CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306196
-#EXTINF:-1,CANADA: ENCORE 1 EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306195
-#EXTINF:-1,CANADA: ENCORE 2 EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306194
-#EXTINF:-1,CANADA: FAMILY EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306191
-#EXTINF:-1,CANADA: FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306187
-#EXTINF:-1,CANADA: FOX EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306186
-#EXTINF:-1,CANADA: FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306185
-#EXTINF:-1,CANADA: FOX WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306184
-#EXTINF:-1,CANADA: FTV CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/352189
-#EXTINF:-1,CANADA: FYI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306182
-#EXTINF:-1,CANADA: Game TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/352188
-#EXTINF:-1,CANADA: GLOBAL CALGARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/332447
-#EXTINF:-1,CANADA: GLOBAL EDMONTON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/311216
-#EXTINF:-1,CANADA: GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306178
-#EXTINF:-1,CANADA: GLOBAL VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306177
-#EXTINF:-1,CANADA: GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306175
-#EXTINF:-1,CANADA: H2 CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306172
-#EXTINF:-1,CANADA: HBO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306171
-#EXTINF:-1,CANADA: HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306170
-#EXTINF:-1,CANADA: HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306169
-#EXTINF:-1,CANADA: HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306168
-#EXTINF:-1,CANADA: HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306167
-#EXTINF:-1,CANADA: HLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306166
-#EXTINF:-1,CANADA: ICE RDI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/375557
-#EXTINF:-1,CANADA: ICI MONTREAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306163
-#EXTINF:-1,CANADA: ICI TELEVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/311205
-#EXTINF:-1,CANADA: ICI VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306162
-#EXTINF:-1,CANADA: ID CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306161
-#EXTINF:-1,CANADA: IFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306160
-#EXTINF:-1,CANADA: LCN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306156
-#EXTINF:-1,CANADA: LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306154
-#EXTINF:-1,CANADA: LOVE NATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/326834
-#EXTINF:-1,CANADA: METEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306151
-#EXTINF:-1,CANADA: MOTOR TREND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/358889
-#EXTINF:-1,CANADA: MUCH MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/348562
-#EXTINF:-1,CANADA: MUSIQUE PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306143
-#EXTINF:-1,CANADA: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306142
-#EXTINF:-1,CANADA: NBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306141
-#EXTINF:-1,CANADA: NBC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306140
-#EXTINF:-1,CANADA: NBC WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306139
-#EXTINF:-1,CANADA: NICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306138
-#EXTINF:-1,CANADA: NICKTOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306137
-#EXTINF:-1,CANADA: NTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306136
-#EXTINF:-1,CANADA: OLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306135
-#EXTINF:-1,CANADA: OMNI 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/352178
-#EXTINF:-1,CANADA: OMNI 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306133
-#EXTINF:-1,CANADA: ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/352180
-#EXTINF:-1,CANADA: OUTTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/352179
-#EXTINF:-1,CANADA: OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306128
-#EXTINF:-1,CANADA: PBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306127
-#EXTINF:-1,CANADA: PRISE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306124
-#EXTINF:-1,CANADA: RDI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306123
-#EXTINF:-1,CANADA: RDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306122
-#EXTINF:-1,CANADA: RDS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306121
-#EXTINF:-1,CANADA: RDS INFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306120
-#EXTINF:-1,CANADA: SERIES+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306119
-#EXTINF:-1,CANADA: SHOPPING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306118
-#EXTINF:-1,CANADA: SHOWCASE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306117
-#EXTINF:-1,CANADA: SILVER SCREEN CLASSICS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306116
-#EXTINF:-1,CANADA: SLICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/310776
-#EXTINF:-1,CANADA: SMITHSONIAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/310775
-#EXTINF:-1,CANADA: SPIKE TV / PARAMOUNT CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306112
-#EXTINF:-1,CANADA: SUPER ECRAN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306103
-#EXTINF:-1,CANADA: SUPER ECRAN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306102
-#EXTINF:-1,CANADA: SUPER ECRAN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/354950
-#EXTINF:-1,CANADA: SUPER ECRAN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306100
-#EXTINF:-1,CANADA: TELE QUEBEC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306097
-#EXTINF:-1,CANADA: TELE TOON EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306096
-#EXTINF:-1,CANADA: TELE TOON FRENCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306095
-#EXTINF:-1,CANADA: TELE V
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/375559
-#EXTINF:-1,CANADA: TELEMAGINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306093
-#EXTINF:-1,CANADA: THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306091
-#EXTINF:-1,CANADA: TLC CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306090
-#EXTINF:-1,CANADA: TMN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306089
-#EXTINF:-1,CANADA: TMN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306088
-#EXTINF:-1,CANADA: TMN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306087
-#EXTINF:-1,CANADA: TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306084
-#EXTINF:-1,CANADA: TV HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/375560
-#EXTINF:-1,CANADA: TV5 QUEBEC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306078
-#EXTINF:-1,CANADA: TVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/362827
-#EXTINF:-1,CANADA: TVA SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306074
-#EXTINF:-1,CANADA: TVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/311203
-#EXTINF:-1,CANADA: UNIS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306072
-#EXTINF:-1,CANADA: VIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306069
-#EXTINF:-1,CANADA: VISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306068
-#EXTINF:-1,CANADA: VRAK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306067
-#EXTINF:-1,CANADA: W NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306066
-#EXTINF:-1,CANADA: WGN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306064
-#EXTINF:-1,CANADA: WILD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/379909
-#EXTINF:-1,CANADA: YES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306061
-#EXTINF:-1,CANADA: YOOPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306060
-#EXTINF:-1,CANADA: YTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306059
-#EXTINF:-1,CANADA: YTV West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306058
-#EXTINF:-1,CANADA: Z TELE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306057
-#EXTINF:-1,CANADA: ZESTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bestever.vodiptv.org:83/forty1234/forty4321/306056
-
-
-
+#EXTINF:-1 ,VIP FHD : BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://clientportal.link:80/taminoff3/Nd7Qnh91/15778
+#EXTINF:-1 ,VIP FHD : BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374158
+#EXTINF:-1 ,VIP FHD : BBC 1 Northern Ireland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374140
+#EXTINF:-1 ,VIP FHD : BBC One Scotland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374081
+#EXTINF:-1 ,VIP FHD : BBC One Wales
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374082
+#EXTINF:-1 ,VIP FHD : BBC Scotland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374138
+#EXTINF:-1 ,VIP FHD : BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374159
+#EXTINF:-1 ,VIP FHD : BBC  4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374078
+#EXTINF:-1 ,VIP FHD : ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374190
+#EXTINF:-1 ,VIP FHD : ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374191
+#EXTINF:-1 ,VIP FHD : ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374192
+#EXTINF:-1 ,VIP FHD : ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374193
+#EXTINF:-1 ,VIP FHD : ITV London
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374109
+#EXTINF:-1 ,VIP FHD : ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374105
+#EXTINF:-1 ,VIP FHD : ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374106
+#EXTINF:-1 ,VIP FHD : ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374107
+#EXTINF:-1 ,VIP FHD :  ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374108
+#EXTINF:-1 ,VIP FHD : Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374087
+#EXTINF:-1 ,VIP FHD : Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374091
+#EXTINF:-1 ,VIP FHD : Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374169
+#EXTINF:-1 ,VIP FHD : 4 SEVEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374155
+#EXTINF:-1 ,VIP FHD : Alibi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374071
+#EXTINF:-1 ,VIP FHD : AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374157
+#EXTINF:-1 ,VIP FHD : AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374072
+#EXTINF:-1 ,VIP FHD : BBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374160
+#EXTINF:-1 ,VIP FHD : BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374079
+#EXTINF:-1 ,VIP FHD : BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374161
+#EXTINF:-1 ,VIP FHD : Blaze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374083
+#EXTINF:-1 ,VIP FHD : Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374162
+#EXTINF:-1 ,VIP FHD : CBBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374074
+#EXTINF:-1 ,VIP FHD : CBBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374167
+#EXTINF:-1 ,VIP FHD : CBeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374077
+#EXTINF:-1 ,VIP FHD : Cbeebies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374086
+#EXTINF:-1 ,VIP FHD : Crime And Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374088
+#EXTINF:-1 ,VIP FHD : CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374089
+#EXTINF:-1 ,VIP FHD : CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374170
+#EXTINF:-1 ,VIP FHD : Crime Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374173
+#EXTINF:-1 ,VIP FHD : Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374092
+#EXTINF:-1 ,VIP FHD : Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374174
+#EXTINF:-1 ,VIP FHD : Daystar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374097
+#EXTINF:-1 ,VIP FHD : Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374093
+#EXTINF:-1 ,VIP FHD : Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374176
+#EXTINF:-1 ,VIP FHD : Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374094
+#EXTINF:-1 ,VIP FHD : Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374177
+#EXTINF:-1 ,VIP FHD : Disney JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374095
+#EXTINF:-1 ,VIP FHD : Disney JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374178
+#EXTINF:-1 ,VIP FHD : Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374096
+#EXTINF:-1 ,VIP FHD : Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374179
+#EXTINF:-1 ,VIP FHD : E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374217
+#EXTINF:-1 ,VIP FHD : Eden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374099
+#EXTINF:-1 ,VIP FHD : Eden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374181
+#EXTINF:-1 ,VIP FHD : Film 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374100
+#EXTINF:-1 ,VIP FHD : Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374187
+#EXTINF:-1 ,VIP FHD :  Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374084
+#EXTINF:-1 ,VIP FHD : History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374103
+#EXTINF:-1 ,VIP FHD : History 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374102
+#EXTINF:-1 ,VIP FHD : Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374194
+#EXTINF:-1 ,VIP FHD : Love Nature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374210
+#EXTINF:-1 ,VIP FHD : More 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374112
+#EXTINF:-1 ,VIP FHD : More 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374197
+#EXTINF:-1 ,VIP FHD : MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374113
+#EXTINF:-1 ,VIP FHD : MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374198
+#EXTINF:-1 ,VIP FHD : MTV Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374114
+#EXTINF:-1 ,VIP FHD : MTV Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374199
+#EXTINF:-1 ,VIP FHD : Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374116
+#EXTINF:-1 ,VIP FHD : Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374201
+#EXTINF:-1 ,VIP FHD : Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374117
+#EXTINF:-1 ,VIP FHD : Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374202
+#EXTINF:-1 ,VIP FHD : Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374118
+#EXTINF:-1 ,VIP FHD : Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374203
+#EXTINF:-1 ,VIP FHD : Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374119
+#EXTINF:-1 ,VIP FHD : Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374204
+#EXTINF:-1 ,VIP FHD : Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374206
+#EXTINF:-1 ,VIP FHD : Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374211
+#EXTINF:-1 ,VIP FHD : Sky Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374124
+#EXTINF:-1 ,VIP FHD : Sky Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374208
+#EXTINF:-1 ,VIP FHD : Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374219
+#EXTINF:-1 ,VIP FHD : Sky Cinema Action & Adventure
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303841
+#EXTINF:-1 ,VIP FHD Sky Sports Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/309260
+#EXTINF:-1 ,VIP SD : ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374110
+#EXTINF:-1 ,VIP SD : Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374221
+#EXTINF:-1 ,VIP FHD : Sky Cinema Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303837
+#EXTINF:-1 ,VIP FHD : Sky Cinema Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303840
+#EXTINF:-1 ,VIP FHD : Sky Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303836
+#EXTINF:-1 ,VIP FHD : Sky Cinema Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303834
+#EXTINF:-1 ,VIP FHD : Sky Cinema Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303833
+#EXTINF:-1 ,VIP FHD : Sky Cinema SciFi & Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303832
+#EXTINF:-1 ,VIP FHD : Sky Cinema Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303838
+#EXTINF:-1 ,VIP FHD : Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374214
+#EXTINF:-1 ,VIP FHD : Sky Witness
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374125
+#EXTINF:-1 ,VIP FHD : Sony Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374126
+#EXTINF:-1 ,VIP FHD : Sony TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374127
+#EXTINF:-1 ,VIP FHD : Star Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374128
+#EXTINF:-1 ,VIP FHD : Star Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374129
+#EXTINF:-1 ,VIP FHD : STV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374163
+#EXTINF:-1 ,VIP FHD : TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374131
+#EXTINF:-1 ,VIP FHD : TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374212
+#EXTINF:-1 ,VIP FHD : TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374132
+#EXTINF:-1 ,VIP FHD : W (Watch)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374215
+#EXTINF:-1 ,VIP FHD : ZEE Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374136
+#EXTINF:-1 ,VIP USA HD : Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308961
+#EXTINF:-1 ,VIP HD : RTE One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374122
+#EXTINF:-1 ,VIP HD : RTE Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374123
+#EXTINF:-1 ,VIP HD : Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374220
+#EXTINF:-1 ,VIP HD : Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303850
+#EXTINF:-1 ,VIP HD : Sky Cinema Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303848
+#EXTINF:-1 ,VIP HD : Viceland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374218
+#EXTINF:-1 ,VIP FHD : Sky Sports Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/382163
+#EXTINF:-1 ,VIP FHD : 4 Seven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374209
+#EXTINF:-1 ,VIP SD : Sony Tv UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/334896
+#EXTINF:-1 ,VIP SD : 3e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304134
+#EXTINF:-1 ,VIP SD : 4 Seven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304132
+#EXTINF:-1 ,VIP SD : 5 USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304131
+#EXTINF:-1 ,VIP SD : 5 Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304130
+#EXTINF:-1 ,VIP SD : 5 Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304129
+#EXTINF:-1 ,VIP SD : AAJ TAK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304127
+#EXTINF:-1 ,VIP SD : ABP News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304126
+#EXTINF:-1 ,VIP SD : Alibi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304123
+#EXTINF:-1 ,VIP SD : Al Jazeera Eng
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304124
+#EXTINF:-1 ,VIP SD : B4U Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304120
+#EXTINF:-1 ,VIP SD : BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304118
+#EXTINF:-1 ,VIP SD : BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304117
+#EXTINF:-1 ,VIP SD : BBC One Oxford
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304114
+#EXTINF:-1 ,VIP SD : BBC One Yorkshire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304112
+#EXTINF:-1 ,VIP SD : BBC One London
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304115
+#EXTINF:-1 ,VIP SD : BBC One West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304113
+#EXTINF:-1 ,VIP SD : BBC One North West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/354989
+#EXTINF:-1 ,VIP SD : BBC Two England
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304110
+#EXTINF:-1 ,VIP SD : BET UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304108
+#EXTINF:-1 ,VIP SD : Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304177
+#EXTINF:-1 ,VIP SD : Blaze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304107
+#EXTINF:-1 ,VIP SD : Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304106
+#EXTINF:-1 ,VIP SD : Box Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304104
+#EXTINF:-1 ,VIP SD : CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304094
+#EXTINF:-1 ,VIP SD : CBS Justice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304095
+#EXTINF:-1 ,VIP SD : CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304093
+#EXTINF:-1 ,VIP SD : CITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304086
+#EXTINF:-1 ,VIP SD : CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304084
+#EXTINF:-1 ,VIP SD : Challenge +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303960
+#EXTINF:-1 ,VIP SD : Challenge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304092
+#EXTINF:-1 ,VIP SD : Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304091
+#EXTINF:-1 ,VIP SD : Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304090
+#EXTINF:-1 ,VIP SD : Colors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304175
+#EXTINF:-1 ,VIP SD : Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304083
+#EXTINF:-1 ,VIP SD : Comedy Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304082
+#EXTINF:-1 ,VIP SD : Crime & Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304174
+#EXTINF:-1 ,VIP SD : DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304074
+#EXTINF:-1 ,VIP SD : Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304081
+#EXTINF:-1 ,VIP SD : Disc History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304079
+#EXTINF:-1 ,VIP SD : Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304076
+#EXTINF:-1 ,VIP SD : Discovery Shed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304075
+#EXTINF:-1 ,VIP SD : Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304173
+#EXTINF:-1 ,VIP SD : E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304170
+#EXTINF:-1 ,VIP SD : Eden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304070
+#EXTINF:-1 ,VIP SD : Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304168
+#EXTINF:-1 ,VIP SD : Film4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304066
+#EXTINF:-1 ,VIP SD : Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304065
+#EXTINF:-1 ,VIP SD : Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304167
+#EXTINF:-1 ,VIP SD : GEO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304061
+#EXTINF:-1 ,VIP SD : Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304059
+#EXTINF:-1 ,VIP SD : History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304165
+#EXTINF:-1 ,VIP SD : Home & Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304056
+#EXTINF:-1 ,VIP SD : Home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304057
+#EXTINF:-1 ,VIP SD : Horse & Country
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304054
+#EXTINF:-1 ,VIP SD : ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304051
+#EXTINF:-1 ,VIP SD : ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304050
+#EXTINF:-1 ,VIP SD : ITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304052
+#EXTINF:-1 ,VIP SD :  ITV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304049
+#EXTINF:-1 ,VIP SD : ITV Granada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/367822
+#EXTINF:-1 ,VIP SD :  Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304053
+#EXTINF:-1 ,VIP SD : LFC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304180
+#EXTINF:-1 ,VIP SD : Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304043
+#EXTINF:-1 ,VIP SD : MTV Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304033
+#EXTINF:-1 ,VIP SD : MTV Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304031
+#EXTINF:-1 ,VIP SD :  MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304036
+#EXTINF:-1 ,VIP SD : MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304164
+#EXTINF:-1 ,VIP SD : Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304027
+#EXTINF:-1 ,VIP SD : Nick Jr Too
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304026
+#EXTINF:-1 ,VIP SD : Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304025
+#EXTINF:-1 ,VIP SD : Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304024
+#EXTINF:-1 ,VIP SD : POP Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304017
+#EXTINF:-1 ,VIP SD : POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304018
+#EXTINF:-1 ,VIP SD : Paddy Power
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304021
+#EXTINF:-1 ,VIP SD : Pick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304019
+#EXTINF:-1 ,VIP SD : Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304015
+#EXTINF:-1 ,VIP SD : Quest Red +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303935
+#EXTINF:-1 ,VIP SD : RTE News Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304010
+#EXTINF:-1 ,VIP SD : RTE One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304009
+#EXTINF:-1 ,VIP SD : RTE Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304008
+#EXTINF:-1 ,VIP SD : RTE Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304011
+#EXTINF:-1 ,VIP SD : Racing UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304161
+#EXTINF:-1 ,VIP SD : Real Lives
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304160
+#EXTINF:-1 ,VIP SD : Really
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304013
+#EXTINF:-1 ,VIP SD : Rishtey Cineplex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303973
+#EXTINF:-1 ,VIP SD : Rishtey Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304012
+#EXTINF:-1 ,VIP SD : Sony Sab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303999
+#EXTINF:-1 ,VIP SD : Sky 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304005
+#EXTINF:-1 ,VIP SD : Sky Cinema Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304159
+#EXTINF:-1 ,VIP SD : Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304158
+#EXTINF:-1 ,VIP SD : Sky Cinema Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304004
+#EXTINF:-1 ,VIP SD : Sky Cinema Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304157
+#EXTINF:-1 ,VIP SD : Sky Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304156
+#EXTINF:-1 ,VIP SD : Sky Cinema Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304154
+#EXTINF:-1 ,VIP SD : Sky Cinema SciFI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304153
+#EXTINF:-1 ,VIP SD : Sky Cinema Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304152
+#EXTINF:-1 ,VIP SD : Sky Cinema Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304151
+#EXTINF:-1 ,VIP SD : Sky Witness
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304150
+#EXTINF:-1 ,VIP SD : Sky News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304003
+#EXTINF:-1 ,VIP SD : Sky Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304138
+#EXTINF:-1 ,VIP SD : Sony Crime 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304002
+#EXTINF:-1 ,VIP SD : Sony Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304000
+#EXTINF:-1 ,VIP SD : Star Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303995
+#EXTINF:-1 ,VIP SD : Star Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303994
+#EXTINF:-1 ,VIP SD : Starz TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303993
+#EXTINF:-1 ,VIP SD : Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303992
+#EXTINF:-1 ,VIP SD : TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303991
+#EXTINF:-1 ,VIP SD : TG4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303990
+#EXTINF:-1 ,VIP SD : TLC +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303930
+#EXTINF:-1 ,VIP SD : TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303986
+#EXTINF:-1 ,VIP SD : TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303981
+#EXTINF:-1 ,VIP SD : The Box
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303989
+#EXTINF:-1 ,VIP SD : The Vault
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303988
+#EXTINF:-1 ,VIP SD : Tiny Pop +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303931
+#EXTINF:-1 ,VIP SD : Tiny Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303987
+#EXTINF:-1 ,VIP SD : Travel Channel +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303929
+#EXTINF:-1 ,VIP SD :True Ent +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303928
+#EXTINF:-1 ,VIP SD : Sony Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303984
+#EXTINF:-1 ,VIP SD : Sony Christmas +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303927
+#EXTINF:-1 ,VIP SD : Sony Christmas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303983
+#EXTINF:-1 ,VIP SD : Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303980
+#EXTINF:-1 ,VIP SD : VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303978
+#EXTINF:-1 ,VIP SD : W (Watch)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303976
+#EXTINF:-1 ,VIP SD : W + 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303925
+#EXTINF:-1 ,VIP SD : Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303975
+#EXTINF:-1 ,VIP SD : Yesterday  +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/303924
+#EXTINF:-1 ,VIP SD : Zee Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304137
+#EXTINF:-1 ,VIP SD : Zee TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304136
+#EXTINF:-1 ,VIP SD : Eir Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304069
+#EXTINF:-1 ,VIP SD : Eir Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304068
+#EXTINF:-1 ,VIP SD : Sony Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304037
+#EXTINF:-1 ,VIP SD : BT Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304101
+#EXTINF:-1 ,VIP SD : BT Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304100
+#EXTINF:-1 ,VIP SD : BT Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304099
+#EXTINF:-1 ,VIP SD : BT Sports ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/304098
+#EXTINF:-1 ,VIP SD : Sky Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/309261
+#EXTINF:-1 ,VIP USA HD : A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308972
+#EXTINF:-1 ,VIP USA FHD : A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308971
+#EXTINF:-1 ,VIP USA HD : ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308970
+#EXTINF:-1 ,VIP HD ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308969
+#EXTINF:-1 ,VIP USA HD : ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308968
+#EXTINF:-1 ,VIP USA FHD : ABC NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308967
+#EXTINF:-1 ,VIP USA HD : AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308965
+#EXTINF:-1 ,VIP USA HD : American Hero's Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308964
+#EXTINF:-1 ,VIP USA HD : Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308963
+#EXTINF:-1 ,VIP USA HD : Antenna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308962
+#EXTINF:-1 ,VIP USA HD : BBC America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308960
+#EXTINF:-1 ,VIP HD BEIN SPORT USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308959
+#EXTINF:-1 ,VIP USA HD : BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308958
+#EXTINF:-1 ,VIP USA HD : BET HER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308957
+#EXTINF:-1 ,VIP HD BIG TEN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308956
+#EXTINF:-1 ,VIP USA SD : Bloomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308955
+#EXTINF:-1 ,VIP USA HD:  Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308954
+#EXTINF:-1 ,VIP USA HD : Bravo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308952
+#EXTINF:-1 ,VIP USA HD : Buzzer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308951
+#EXTINF:-1 ,VIP USA HD : Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308950
+#EXTINF:-1 ,VIP USA HD : Cartoonito ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308949
+#EXTINF:-1 ,VIP USA HD : CBS East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308948
+#EXTINF:-1 ,VIP USA FHD : CBS NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308947
+#EXTINF:-1 ,VIP HD CBS SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308946
+#EXTINF:-1 ,VIP HD CBSN SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308945
+#EXTINF:-1 ,VIP USA HD : Chicago WGN 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308944
+#EXTINF:-1 ,VIP USA HD : Cinemax East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308942
+#EXTINF:-1 ,VIP USA HD : Cinemax Action Max East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308943
+#EXTINF:-1 ,VIP USA HD : Cinemaxx More Maxx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308939
+#EXTINF:-1 ,VIP USA HD : Cinemax Outermax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308941
+#EXTINF:-1 ,VIP USA HD : Cinemax Thrillermax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308940
+#EXTINF:-1 ,VIP USA HD : CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308938
+#EXTINF:-1 ,VIP USA HD : CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308937
+#EXTINF:-1 ,VIP USA HD : CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308936
+#EXTINF:-1 ,VIP USA HD : Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308935
+#EXTINF:-1 ,VIP USA HD : Cooking Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308934
+#EXTINF:-1 ,VIP USA HD : Cozi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308932
+#EXTINF:-1 ,VIP USA HD : Crime And Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308931
+#EXTINF:-1 ,VIP USA HD : Destination America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308928
+#EXTINF:-1 ,VIP USA FHD : Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308927
+#EXTINF:-1 ,VIP USA HD : Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308926
+#EXTINF:-1 ,VIP USA HD : Discovery Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308925
+#EXTINF:-1 ,VIP USA HD : Discovery Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308924
+#EXTINF:-1 ,VIP USA HD : Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308923
+#EXTINF:-1 ,VIP USA HD : Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308921
+#EXTINF:-1 ,VIP USA HD : Disney Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308920
+#EXTINF:-1 ,VIP USA HD : Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308919
+#EXTINF:-1 ,VIP USA HD : DIY Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308918
+#EXTINF:-1 ,VIP USA HD : Dog TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308917
+#EXTINF:-1 ,VIP USA HD : E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308916
+#EXTINF:-1 ,VIP USA HD : EL REY Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/344557
+#EXTINF:-1 ,VIP HD ELEVEN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308914
+#EXTINF:-1 ,VIP USA HD : EPIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308912
+#EXTINF:-1 ,VIP USA HD : EPIX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308913
+#EXTINF:-1 ,VIP USA HD : EPIX Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308911
+#EXTINF:-1 ,VIP USA HD : Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308906
+#EXTINF:-1 ,VIP USA HD : Fox 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308905
+#EXTINF:-1 ,VIP USA HD : Fox Business
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308903
+#EXTINF:-1 ,VIP HD FOX DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308899
+#EXTINF:-1 ,VIP USA HD : Fox News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308898
+#EXTINF:-1 ,VIP HD FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308896
+#EXTINF:-1 ,VIP FHD FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308895
+#EXTINF:-1 ,VIP HD FOX SPORTS 2 NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308894
+#EXTINF:-1 ,VIP USA HD : Freeform
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308893
+#EXTINF:-1 ,VIP USA HD : Fuse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308892
+#EXTINF:-1 ,VIP USA HD : FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308890
+#EXTINF:-1 ,VIP USA HD : FXM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308889
+#EXTINF:-1 ,VIP USA HD : FXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308887
+#EXTINF:-1 ,VIP USA HD : FYI Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308886
+#EXTINF:-1 ,VIP HD Fox Soccer Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308897
+#EXTINF:-1 ,VIP USA HD : Galavision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308885
+#EXTINF:-1 ,VIP USA HD : Game Show Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308884
+#EXTINF:-1 ,VIP USA HD : Hallmark Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308882
+#EXTINF:-1 ,VIP HD HALLMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308881
+#EXTINF:-1 ,VIP USA HD : Hallmark Movies & Mysteries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308880
+#EXTINF:-1 ,VIP USA HD : HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308876
+#EXTINF:-1 ,VIP USA HD : HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308879
+#EXTINF:-1 ,VIP USA HD : HBO Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308878
+#EXTINF:-1 ,VIP USA HD : HBO Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308877
+#EXTINF:-1 ,VIP USA HD : HBO Signature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308875
+#EXTINF:-1 ,VIP USA HD : HBO Zone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308874
+#EXTINF:-1 ,VIP USA HD : Heros & Icons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308873
+#EXTINF:-1 ,VIP USA FHD : HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308872
+#EXTINF:-1 ,VIP USA HD : HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308871
+#EXTINF:-1 ,VIP USA HD : History 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308870
+#EXTINF:-1 ,VIP USA HD : History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308869
+#EXTINF:-1 ,VIP USA FHD : History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308868
+#EXTINF:-1 ,VIP USA HD : HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308867
+#EXTINF:-1 ,VIP USA HD : HSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308866
+#EXTINF:-1 ,VIP USA HD : IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308865
+#EXTINF:-1 ,VIP USA FHD : Investigaton  Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308864
+#EXTINF:-1 ,VIP USA HD : Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308863
+#EXTINF:-1 ,VIP USA HD : ION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308862
+#EXTINF:-1 ,VIP USA HD : Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308861
+#EXTINF:-1 ,VIP USA HD : Lifetime Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308860
+#EXTINF:-1 ,VIP HD LONGHORN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308859
+#EXTINF:-1 ,VIP HD MAV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308858
+#EXTINF:-1 ,VIP USA HD : ME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308857
+#EXTINF:-1 ,VIP HD MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308855
+#EXTINF:-1 ,VIP HD MSG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308853
+#EXTINF:-1 ,VIP USA HD : MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308852
+#EXTINF:-1 ,VIP USA HD : MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308851
+#EXTINF:-1 ,VIP USA HD : MTV Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308849
+#EXTINF:-1 ,VIP USA : HD MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308848
+#EXTINF:-1 ,VIP USA HD : MY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308847
+#EXTINF:-1 ,VIP USA HD : Motor Trend
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308922
+#EXTINF:-1 ,VIP USA HD : Nat Geo USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308846
+#EXTINF:-1 ,VIP USA HD :  Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308845
+#EXTINF:-1 ,VIP HD NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308844
+#EXTINF:-1 ,VIP USA HD : NBC 10 East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308843
+#EXTINF:-1 ,VIP USA HD : NBC 4 NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308842
+#EXTINF:-1 ,VIP USA FHD : NBC 4 NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308841
+#EXTINF:-1 ,VIP USA HD : NBC 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308840
+#EXTINF:-1 ,VIP HD NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308839
+#EXTINF:-1 ,VIP HD NBC Sports Bay Area
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308838
+#EXTINF:-1 ,VIP HD NBC Sports Boston
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308837
+#EXTINF:-1 ,VIP HD NBC Sports California
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308836
+#EXTINF:-1 ,VIP HD NBC Sports Chicago
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308835
+#EXTINF:-1 ,VIP HD NBC Sports Northwest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308833
+#EXTINF:-1 ,VIP HD NBC Sports Philadelphia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308832
+#EXTINF:-1 ,VIP USA HD : NBC Universo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308831
+#EXTINF:-1 ,VIP USA HD : News 12 Long Island
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308828
+#EXTINF:-1 ,VIP USA HD : News 12 New Jersey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308827
+#EXTINF:-1 ,VIP HD NFL RED ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308824
+#EXTINF:-1 ,VIP USA HD : Nick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308822
+#EXTINF:-1 ,VIP USA HD : Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308821
+#EXTINF:-1 ,VIP USA HD : Nicktoons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308819
+#EXTINF:-1 ,VIP USA HD : Outdoor Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308818
+#EXTINF:-1 ,VIP USA HD : Ovation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308817
+#EXTINF:-1 ,VIP USA FHD : Own Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308816
+#EXTINF:-1 ,VIP HD PAC 12 LOS ANGELES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308814
+#EXTINF:-1 ,VIP HD PAC 12 NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308813
+#EXTINF:-1 ,VIP HD PAC-12 ARIZONA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308812
+#EXTINF:-1 ,VIP HD PAC-12 BAY AREA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308811
+#EXTINF:-1 ,VIP HD PAC-12 MOUNTAIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308810
+#EXTINF:-1 ,VIP HD PAC-12 OREGON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308809
+#EXTINF:-1 ,VIP USA HD : PBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308808
+#EXTINF:-1 ,VIP USA HD : PBS Kids East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308807
+#EXTINF:-1 ,VIP USA HD : PBS WLIW 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308806
+#EXTINF:-1 ,VIP USA HD : Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308805
+#EXTINF:-1 ,VIP USA HD : QVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308804
+#EXTINF:-1 ,VIP USA HD : Reelz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308803
+#EXTINF:-1 ,VIP USA HD : REV'N
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/367942
+#EXTINF:-1 ,VIP USA HD : Revolt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308802
+#EXTINF:-1 ,VIP USA HD : RT News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308801
+#EXTINF:-1 ,VIP HD SEC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308800
+#EXTINF:-1 ,VIP USA HD : Showtime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308797
+#EXTINF:-1 ,VIP USA HD : Showtime Extreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308799
+#EXTINF:-1 ,VIP USA HD : Spike/Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308796
+#EXTINF:-1 ,VIP HD SPORTSMAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308795
+#EXTINF:-1 ,VIP HD SPORTSNET LA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308794
+#EXTINF:-1 ,VIP HD SPORTSNET NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308793
+#EXTINF:-1 ,VIP USA HD : Starz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308792
+#EXTINF:-1 ,VIP USA HD : Starz Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308791
+#EXTINF:-1 ,VIP USA HD : Starz Encoure
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308790
+#EXTINF:-1 ,VIP USA HD : Starz Encore Westerns
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308789
+#EXTINF:-1 ,VIP USA HD : Starz Kids & Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308788
+#EXTINF:-1 ,VIP USA HD : Sundance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308787
+#EXTINF:-1 ,VIP USA HD : SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308786
+#EXTINF:-1 ,VIP USA HD : TBN Trinity Broadcasting Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308785
+#EXTINF:-1 ,VIP USA HD : TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308784
+#EXTINF:-1 ,VIP USA HD : TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308783
+#EXTINF:-1 ,VIP USA HD : Telemundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308781
+#EXTINF:-1 ,VIP USA HD : Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308780
+#EXTINF:-1 ,VIP USA HD : The Weather Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308779
+#EXTINF:-1 ,VIP USA HD : TLC Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308778
+#EXTINF:-1 ,VIP USA HD : Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308776
+#EXTINF:-1 ,VIP USA HD : TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308775
+#EXTINF:-1 ,VIP USA HD : TV Land
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308773
+#EXTINF:-1 ,VIP USA HD : TV One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308772
+#EXTINF:-1 ,VIP USA HD : Unimas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308771
+#EXTINF:-1 ,VIP USA HD : Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308770
+#EXTINF:-1 ,VIP USA HD : Universal Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308769
+#EXTINF:-1 ,VIP USA HD : Univision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308768
+#EXTINF:-1 ,VIP USA HD : Univsion TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308767
+#EXTINF:-1 ,VIP USA HD USA : Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308766
+#EXTINF:-1 ,VIP USA HD : VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308765
+#EXTINF:-1 ,VIP USA HD : Viceland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308764
+#EXTINF:-1 ,VIP USA HD : WE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308763
+#EXTINF:-1 ,VIP USA HD : WGN America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308762
+#EXTINF:-1 ,VIP HD WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308761
+#EXTINF:-1 ,VIP HD WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308759
+#EXTINF:-1 ,VIP USA HD : Keep it Country
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/354985
+#EXTINF:-1 ,VIP HD YES NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308758
+#EXTINF:-1 ,VIP NHL Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/351307
+#EXTINF:-1 ,VIP HD NBC SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308834
+#EXTINF:-1 ,VIP USA HD : TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/308777
+#EXTINF:-1 ,VIP HD A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374281
+#EXTINF:-1 ,VIP HD BEIN SPORTS SPANISH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374287
+#EXTINF:-1 ,VIP HD BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374289
+#EXTINF:-1 ,VIP HD BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374291
+#EXTINF:-1 ,VIP HD CBC CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374293
+#EXTINF:-1 ,VIP HD CBC CHARLOTTETOWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374294
+#EXTINF:-1 ,VIP HD CBC NATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374298
+#EXTINF:-1 ,VIP HD CBC NEWS  NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374382
+#EXTINF:-1 ,VIP HD CBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374307
+#EXTINF:-1 ,VIP HD CBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374302
+#EXTINF:-1 ,VIP HD CHCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374310
+#EXTINF:-1 ,VIP FHD CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374311
+#EXTINF:-1 ,VIP HD CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374313
+#EXTINF:-1 ,VIP HD COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374314
+#EXTINF:-1 ,VIP HD CP 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374315
+#EXTINF:-1 ,VIP HD CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374316
+#EXTINF:-1 ,VIP HD CRAVE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374319
+#EXTINF:-1 ,VIP HD CTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374322
+#EXTINF:-1 ,VIP HD CTV NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374323
+#EXTINF:-1 ,VIP HD CTV NEWS LIVE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374386
+#EXTINF:-1 ,VIP HD DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374327
+#EXTINF:-1 ,VIP HD FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374330
+#EXTINF:-1 ,VIP HD FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374331
+#EXTINF:-1 ,VIP HD GLOBAL CALGRAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374336
+#EXTINF:-1 ,VIP HD HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374341
+#EXTINF:-1 ,VIP HD HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374343
+#EXTINF:-1 ,VIP HD HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374344
+#EXTINF:-1 ,VIP HD LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374347
+#EXTINF:-1 ,VIP HD MOVIETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374349
+#EXTINF:-1 ,VIP HD MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374350
+#EXTINF:-1 ,VIP HD NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374353
+#EXTINF:-1 ,VIP HD NBC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374354
+#EXTINF:-1 ,VIP HD SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374360
+#EXTINF:-1 ,VIP HD SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374361
+#EXTINF:-1 ,VIP HD SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374362
+#EXTINF:-1 ,VIP HD SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374364
+#EXTINF:-1 ,VIP HD SPORTSNET WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374366
+#EXTINF:-1 ,VIP HD TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374367
+#EXTINF:-1 ,VIP HD TSN1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/375855
+#EXTINF:-1 ,VIP HD TSN2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/375854
+#EXTINF:-1 ,VIP HD TSN4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374371
+#EXTINF:-1 ,VIP HD TVA SPORTS2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374375
+#EXTINF:-1 ,VIP HD WEATHER CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374376
+#EXTINF:-1 ,VIP HD ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374283
+#EXTINF:-1 ,VIP HD ABC SPARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374285
+#EXTINF:-1 ,VIP HD NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yourdnshere.xyz:83/OM1qxKIalX/8ItAbtKxSz/374395
