@@ -102,8 +102,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanaletshqiptare.ddns.net:8080/ydDCFMTGD8/tXxNrBb4s4/79740
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
-https://e7.cdn4.us/ingest666/cbsshq.m3u8|Referer=https://box-live.stream/stream/53069.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
+https://e7.cdn4.us/ingest666/cbsshq.m3u8|Referer=https://box-live.stream/stream/53069.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
+http://live.highstream.club/live/CBSSPORTSNETWORK/chunks.m3u8|Referer=http://myustv.com/watch/cbs-sports-network/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -113,6 +115,23 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-chelsea-tv.png",[COLOR orange][B]CHELSEA | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Canal+ Sport  Canal+ Sport  Canal+ Sport  Canal+ Sport      <<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN Washington | USA[/B][/COLOR]
+http://live.highstream.club/live/CSNWashington/chunks.m3u8|Referer=http://myustv.com/watch/csn-washington/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN NORTH WEST | USA[/B][/COLOR]
+http://live.highstream.club/live/CSNNORTHWEST/chunks.m3u8|Referer=http://myustv.com/watch/csn-north-west/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN CHICAGO | USA[/B][/COLOR]
+http://live.highstream.club/live/CSNCHICAGO/chunks.m3u8|Referer=http://myustv.com/watch/csn-chicago/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN CALIFORNIA | USA[/B][/COLOR]
+http://live.highstream.club/live/CSNCALIFORNIA/chunks.m3u8|Referer=http://myustv.com/watch/csn-california/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BOSTON| USA[/B][/COLOR]
+http://live.highstream.club/live/CSNBOSTON/chunks.m3u8|Referer=http://myustv.com/watch/csn-boston/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BAY AREA | USA[/B][/COLOR]
+http://live.highstream.club/live/CSNBAYAREA/chunks.m3u8|Referer=http://myustv.com/watch/csn-bay-area/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN PHILADELPHIA | USA[/B][/COLOR]
+http://live.highstream.club/live/CSNPHILADELPHIA/chunks.m3u8|Referer=http://myustv.com/watch/csn-philadelphia/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Edge Sport  Edge Sport  Edge Sport  Edge Sport  Edge Sport  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
