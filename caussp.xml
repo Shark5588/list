@@ -129,6 +129,8 @@ http://live.highstream.club/live/CSNCALIFORNIA/chunks.m3u8|Referer=http://myustv
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BOSTON| USA[/B][/COLOR]
 http://live.highstream.club/live/CSNBOSTON/chunks.m3u8|Referer=http://myustv.com/watch/csn-boston/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BAY AREA | USA[/B][/COLOR]
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BAY AREA | USA[/B][/COLOR]
 http://live.highstream.club/live/CSNBAYAREA/chunks.m3u8|Referer=http://myustv.com/watch/csn-bay-area/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN PHILADELPHIA | USA[/B][/COLOR]
 http://live.highstream.club/live/CSNPHILADELPHIA/chunks.m3u8|Referer=http://myustv.com/watch/csn-philadelphia/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
@@ -155,7 +157,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://41.226.0
 https://e7.cdn4.us/ingest666/accn.m3u8|Referer=https://box-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN Bases Loaded[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | Ru[/B][/COLOR]
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/espn.smil/master.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
