@@ -55,9 +55,14 @@ http://161.0.157.38/PLTV/88888888/224/3221226804/index.m3u8
 EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORff00afaf]BTN SPORTS[/B][/COLOR]
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg",[COLOR ff00afaf]CBSN | SD[/COLOR]
-http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
 
+#EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCmg9PYNvQqCEMuNsNSZvme62lDCQGyCcpuKQaN2ZOJlLTy9uj&usqp=CAU",[COLOR ff00afaf]CSN BAY AREA[/COLOR]
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCmg9PYNvQqCEMuNsNSZvme62lDCQGyCcpuKQaN2ZOJlLTy9uj&usqp=CAU",[COLOR ff00afaf]CBSN Minnesota[/COLOR]
+plugin://plugin.video.f4mTester/?url=https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT&amp;streamtype=HLSRETRY&amp;name=CBSN Minnesota
+#EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCmg9PYNvQqCEMuNsNSZvme62lDCQGyCcpuKQaN2ZOJlLTy9uj&usqp=CAU",[COLOR ff00afaf]CBSN New York[/COLOR]
+plugin://plugin.video.f4mTester/?url=https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT&amp;streamtype=HLSRETRY&amp;name=CBSN New York
+-------------------------------------
 #EXTINF:-1 group-title="USA" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg",[COLOR ff00afaf]CBSN | HD[/COLOR]
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg",[COLOR ff00afaf]CBSN | HD[/COLOR]
