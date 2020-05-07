@@ -332,14 +332,14 @@ plugin://program.plexus/?mode=1&url=acestream://a1ca0b823615e3af44a5ae84e12e5b17
 EXTINF:-1,TEST
 plugin://program.plexus/?mode=1&url=acestream://b0ab000e277b6465107f353df09b4ac75af8d38d&name=My+acestream+channel
 
-#EXTINF:-1,TEST
-plugin://program.plexus/?mode=1&url=http://91.92.66.82/trash/ttv-list/acelive/as_cid_741776.acelive&name=My+acestream+channel
+EXTINF:-1,TEST
+plugin://program.plexus/?mode=1&url=acestream://e4d9f7188e4403523c32717a98093671f8931101&name=My+acestream+channel
 
 EXTINF:-1,ArenaVision Multi
 http://nhlreplays.com/nhlreplay/St-Louis-Blues-vs-Nashville-Predators-NHL-FEB-10-2019-1330-EST-ol1/
 
-#EXTINF:-1,???????????????????????
-http://91.92.66.82/trash/ttv-list/acelive/as_cid_741776.acelive&.mp4
+EXTINF:-1,???????????????????????
+http://127.0.0.1:6878/ace/getstream?id=793b56ae85af194bd8661f5a17bcfac28eba4453&.mp4
 
 EXTINF:-1, 720p
 http://127.0.0.1:6878/ace/getstream?id=&.mp4
