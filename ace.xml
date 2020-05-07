@@ -215,8 +215,8 @@ EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",[B][COLORgold]«ESP
 http://127.0.0.1:6878/ace/getstream?id=a733fed4a3c21af598f28e1fff166b707fde62ad&.mp4
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",[B][COLORgold]«ESPN2»«US»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=a30621ff26e00ca92fa0382f0062d5d05c3abf06&.mp4
-EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN»«US»«HD»  (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=&.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN»«?»«HD»  (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=7b9b2b77519f4b06db40615a0fb46770cfcf676d&.mp4
 EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN2»«US»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 EXTINF:-1 tvg-logo="https://i-cdn.phonearena.com/images/article/17998-image/WatchESPN-app-streams-live-sports-to-your-iPhone-or-iPod-Touch.jpg",[B][COLORgold]«ESPN NFL»«US»«HD»  (Ace stream)[/COLOR][/B]
@@ -261,7 +261,9 @@ EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F
 http://127.0.0.1:6878/ace/getstream?id=>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>&.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=88cf26288b19d7ece840a34604a293e41a740fbb&.mp4
+http://127.0.0.1:6878/ace/getstream?id=65783290d4224591417e1eb0a6007f4ac9953363&.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » HD (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=fb91b7ae2c49e00cd853e80a89dd08999a54d20e&.mp4
 
 EXTINF:-1 tvg-logo="https://static.nfl.com/static/content/public/static/img/navigation/shields/header-shield.png",[B][COLORgold]« NFL ONE » (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=391d7ed6d791bd0a2b2124827323a13ffff7d1c1&.mp4
