@@ -128,10 +128,12 @@ http://live.highstream.club/live/CSNCHICAGO/chunks.m3u8|Referer=http://myustv.co
 http://live.highstream.club/live/CSNCALIFORNIA/chunks.m3u8|Referer=http://myustv.com/watch/csn-california/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BOSTON| USA[/B][/COLOR]
 http://live.highstream.club/live/CSNBOSTON/chunks.m3u8|Referer=http://myustv.com/watch/csn-boston/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BAY AREA | USA[/B][/COLOR]
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
+plugin://plugin.video.f4mTester/?url=https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT&amp;streamtype=HLSRETRY&amp;name=CSN BAY AREA
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BAY AREA | USA[/B][/COLOR]
 http://live.highstream.club/live/CSNBAYAREA/chunks.m3u8|Referer=http://myustv.com/watch/csn-bay-area/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN PHILADELPHIA | USA[/B][/COLOR]
 http://live.highstream.club/live/CSNPHILADELPHIA/chunks.m3u8|Referer=http://myustv.com/watch/csn-philadelphia/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
