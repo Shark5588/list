@@ -64,11 +64,14 @@ plugin://plugin.video.f4mTester/?url=https://dai.google.com/linear/hls/event/zcW
 plugin://plugin.video.f4mTester/?url=https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT&amp;streamtype=HLSRETRY&amp;name=CBSN New York
 -------------------------------------
 #EXTINF:-1 group-title="USA" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg",[COLOR ff00afaf]CBSN | HD[/COLOR]
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/cf422e24-1501-4289-95a4-8fdb9833c2ea/thumbnail/1200x630/b6ea51c1100568254685ce88e68608d5/logo-cbsn-1920x1080-new.jpg",[COLOR ff00afaf]CBSN | HD[/COLOR]
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",[COLOR ff00afaf]CBN NEWS[/COLOR]
-http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-b.m3u8
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",[COLOR ff00afaf]CBN NEWS[/COLOR]
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cbn.com/giving/general/7Ci/newcbnnews/images/cbnnews-logo-blue.png",[COLOR ff00afaf]CBN NEWS[/COLOR]
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/abn-prod/wp-content/uploads/sites/4/2018/12/kesq.jpg" group-title="US",[COLOR ff00afaf]CBS 2 Local[/COLOR]
 http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8
 EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-transparent-8.png",[COLOR ff00afaf]CNN | SD[/COLOR]
