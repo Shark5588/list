@@ -261,9 +261,9 @@ EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F
 http://127.0.0.1:6878/ace/getstream?id=>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>&.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=65783290d4224591417e1eb0a6007f4ac9953363&.mp4
+plugin://program.plexus/?mode=1&url=acestream://65783290d4224591417e1eb0a6007f4ac9953363&name=NBCSN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » HD (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=fb91b7ae2c49e00cd853e80a89dd08999a54d20e&.mp4
+plugin://program.plexus/?mode=1&url=acestream://fb91b7ae2c49e00cd853e80a89dd08999a54d20e&name=NBCSN
 
 EXTINF:-1 tvg-logo="https://static.nfl.com/static/content/public/static/img/navigation/shields/header-shield.png",[B][COLORgold]« NFL ONE » (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=391d7ed6d791bd0a2b2124827323a13ffff7d1c1&.mp4
@@ -273,6 +273,9 @@ plugin://program.plexus/?mode=1&url=acestream://5dfe41fcaf59af1bb9e3376f8ef304f5
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"group-title="",[B][COLORgold]«Olympic Channel HD» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Pac-12_Networks_logo.png/150px-Pac-12_Networks_logo.png",[B][COLORorange]PAC-12 NATIONAL | USA[/B][/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=af29f039772e99aac428d9d96d4e65b6284f3ec0&.mp4
 
 EXTINF:-1 tvg-logo="http://www.raisport.rai.it/dl/components/img/svg/RaiSport-logo-sito.png"group-title="",[B][COLORgold]«Rai Sport» Dual Audio (Ita,eng) (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
