@@ -54,8 +54,21 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Br
 http://161.0.157.38/PLTV/88888888/224/3221226804/index.m3u8
 EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORff00afaf]BTN SPORTS[/B][/COLOR]
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-
-
+=============================================https://www.depauw.edu/files/resources/large_cbs-news.png
+#EXTINF:-1,CBC
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png",[COLOR ff00afaf]CBC[/COLOR]
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1352949174.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png",[COLOR ff00afaf]CBC[/COLOR]
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png",[COLOR ff00afaf]CBC[/COLOR]
+http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/04.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png",[COLOR ff00afaf]CBC Drama[/COLOR]
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png",[COLOR ff00afaf]CBC News Network[/COLOR]
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+----------------------------------------
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/WGCL46.png/200px-WGCL46.png"group-title="SPORT",[B][COLORff00afaf]CBS46 (WGCL-TV)[/B][/COLOR]
+https://live.field59.com/wgcl/ngrp:wgcl1_all/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCmg9PYNvQqCEMuNsNSZvme62lDCQGyCcpuKQaN2ZOJlLTy9uj&usqp=CAU",[COLOR ff00afaf]CSN BAY AREA[/COLOR]
 https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCmg9PYNvQqCEMuNsNSZvme62lDCQGyCcpuKQaN2ZOJlLTy9uj&usqp=CAU",[COLOR ff00afaf]CBSN Minnesota[/COLOR]
