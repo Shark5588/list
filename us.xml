@@ -6,21 +6,21 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News (USA)[/COLOR]
 https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News Digital 1[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News Digital 1[/COLOR]
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News Digital 2[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News Digital 2[/COLOR]
 https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News Digital 4[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News Digital 4[/COLOR]
 https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News Digital 5[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News Digital 5[/COLOR]
 https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News Digital 6[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News Digital 6[/COLOR]
 https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News Digital 7[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News Digital 7[/COLOR]
 https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News Digital 9[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News Digital 9[/COLOR]
 https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
-#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/tYy2Kkb.png",[COLORff00afaf]ABC News USA EN[/COLOR]
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/04c62dd1309b000e0e51ed0739565f405693fb63a783bd43a6fbc0bc2db1efa4.png",[COLORff00afaf]ABC News USA EN[/COLOR]
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/KEYT_2013_Logo.png" group-title="US",[COLOR ff00afaf]ABC 3 KEYT[/COLOR]
@@ -47,8 +47,6 @@ http://api.new.livestream.com/accounts/17592934/events/live/live.m3u8
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8?source=othersites&attempt=1
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztClxgmqqLQ/hqdefault.jpg" group-title="24/7",[COLOR ff00afaf]Adult Swim Live Stream[/COLOR]
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/01/16/Star_movies.jpg?itok=QDPhw4op" group-title="USA",[COLOR ff00afaf]Action Movies[/COLOR]
-http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png",[COLOR ff00afaf]Animal Family HD[/COLOR]
 http://ott.watch/stream/VLJ1485ICT/241.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png",[COLOR ff00afaf]Animal Planet[/COLOR]
