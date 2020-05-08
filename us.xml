@@ -23,15 +23,13 @@ http://api.new.livestream.com/accounts/26511759/events/live/live.m3u8
 http://api.new.livestream.com/accounts/26511698/events/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCpU18wbje13WBaKoNRFrre-9fMu_xlpVleZA=s900-mo-c-c0xffffffff-rj-k-no" group-title="US",[COLOR ff00afaf]ABC 13 KRDO[/COLOR]
 http://api.new.livestream.com/accounts/17592934/events/live/live.m3u8
-#EXTINF:-1,ACCTV
+
+#EXTINF:-1,tvg-logo="https://www.tvgroup.com.au/wp-content/uploads/2017/08/ACCTV.png",[COLOR ff00afaf]ACCTV[/COLOR]
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8?source=othersites&attempt=1
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztClxgmqqLQ/hqdefault.jpg" group-title="24/7",[COLOR ff00afaf]Adult Swim Live Stream[/COLOR]
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/01/16/Star_movies.jpg?itok=QDPhw4op" group-title="USA",[COLOR ff00afaf]Action Movies[/COLOR]
 http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png",[COLOR ff00afaf]Animal Family HD[/COLOR]
 http://ott.watch/stream/VLJ1485ICT/241.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png",[COLOR ff00afaf]Animal Planet[/COLOR]
