@@ -46,7 +46,7 @@ http://api.new.livestream.com/accounts/17592934/events/live/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvgroup.com.au/wp-content/uploads/2017/08/ACCTV.png",[COLOR ff00afaf]ACCTV[/COLOR]
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_14949_1.m3u8?source=othersites&attempt=1
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ztClxgmqqLQ/hqdefault.jpg" group-title="24/7",[COLOR ff00afaf]Adult Swim Live Stream[/COLOR]
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+plugin://plugin.video.f4mTester/?url=https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8&amp;streamtype=HLSRETRY&amp;name=Adult Swim
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png",[COLOR ff00afaf]Animal Family HD[/COLOR]
 http://ott.watch/stream/VLJ1485ICT/241.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png",[COLOR ff00afaf]Animal Planet[/COLOR]
