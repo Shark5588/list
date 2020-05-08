@@ -16,8 +16,13 @@ http%3a//iptv-area-51.tv%3a2095/live/knife/358ZMvyh7w/3353.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://abc7digitalmedia.com/wp-content/uploads/2016/12/abc7-digital-media-logo-01.png",[COLOR ff00afaf]ABC 7 | HD[/COLOR]
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/KEZI_9_News_Logo_2010.png" group-title="US",[COLOR ff00afaf]ABC 9 KEZI[/COLOR]
-http://api.new.livestream.com/accounts/26511759/events/live/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/WBRZ_Logo_2013.png/225px-WBRZ_Logo_2013.png",[COLOR ff00afaf]ABC 2 Baton Rouge LA (WBRZ-HD)[/COLOR]
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Wtvc_2009.png",[COLOR ff00afaf]ABC 9 Chattanooga TN (WTVC)[/COLOR]
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/KEZI_9_News_Logo_2010.png" group-title="US",[COLOR ff00afaf]ABC 9 Orlando FL (WFTV-HD)[/COLOR]
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dwtrvs.com/wp-content/uploads/2014/08/KDRV.png" group-title="US",[COLOR ff00afaf]ABC 12 KDRV[/COLOR]
 http://api.new.livestream.com/accounts/26511698/events/live/live.m3u8
