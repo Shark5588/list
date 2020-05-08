@@ -16,13 +16,13 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COL
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 5/5/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 5/8/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://kanaletshqiptare.ddns.net:8080/ydDCFMTGD8/tXxNrBb4s4/506
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/506
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -53,8 +53,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BoxNation BoxNation BoxNation BoxNation BoxNation <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/5712
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -73,22 +73,24 @@ https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://box-live.stream/stream/456
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
+rtmp://$OPT:rtmp-raw=rtmp://80.82.65.59:443/liverepeater playpath=13 live=1 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH timeout=15
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/370
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=15 live=1 pageUrl=http://popeoftheplayers.pw/ token=#atd%#$ZH timeout=15
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/368
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/366
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/1316834_btsportlogo_519205-300x160.jpg",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/1743
 EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Canal+ Sport  Canal+ Sport  Canal+ Sport  Canal+ Sport      <<<<<<<<<<<<<<<<<<<<<<<<
@@ -128,9 +130,6 @@ http://live.highstream.club/live/CSNCHICAGO/chunks.m3u8|Referer=http://myustv.co
 http://live.highstream.club/live/CSNCALIFORNIA/chunks.m3u8|Referer=http://myustv.com/watch/csn-california/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BOSTON| USA[/B][/COLOR]
 http://live.highstream.club/live/CSNBOSTON/chunks.m3u8|Referer=http://myustv.com/watch/csn-boston/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-
-#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BAY AREA | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT&amp;streamtype=HLSRETRY&amp;name=CSN BAY AREA
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2017/10/unnamed-138.jpg"group-title="SPORT",[B][COLORorange]CSN BAY AREA | USA[/B][/COLOR]
 http://live.highstream.club/live/CSNBAYAREA/chunks.m3u8|Referer=http://myustv.com/watch/csn-bay-area/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
 
@@ -261,10 +260,10 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/1812
+#EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/1811
 EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1  | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2  | UK[/B][/COLOR]
@@ -635,8 +634,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports LaLiga[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.cableguy.pro.streamtv.to:8080/yQmVhiAkzJ/vg4pzMVZT6/1807
 
 EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
