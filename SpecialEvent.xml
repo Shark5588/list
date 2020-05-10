@@ -21,18 +21,14 @@ http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M1fRkqm/covid.jpg", LIVE CORONA VIRUS STATS
 https://bit.ly/2QVLRoI
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR red][B]UFC[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR red][B]UFC[/B][/COLOR]
 http://45.134.21.69/hls/mma.m3u8
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR red][B]UFC[/B][/COLOR]
 https://s.vdo.ai/vhs/4.m3u8
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR red][B]UFC[/B][/COLOR]
-https://u73165.cdn884.net:8443/hls/waqq3o4.m3u8?s=TwDSmPVTEC3fQ7iF7wjQlw&e=1589105469
+
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]BTSPORT[/B][/COLOR]
 http://34.102.247.130/live/UFC/index.m3u8|Referer=http://btstream.live/emb/mma/1.php
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]BTSPORT[/B][/COLOR]
 http://weak_spell.carniferou.club/edge/BTS1/chunks.m3u8|Referer=http://liveonscore.net/mma-boxing/ufc-249-ferguson-vs-gaethje/?link=2
-EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]BTSPORT[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]UFC FIGHT PASS[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://streamxcode.ddns.net:25461/load/desiboyz150/3896.mpegts
