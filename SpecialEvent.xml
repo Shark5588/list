@@ -30,9 +30,9 @@ https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/strea
 https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/stream/43572.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR red][B]ESPN[/B][/COLOR]
 http://live.9live.club/ch/msobBUCbstDVwY8Wo8j9sg/1589075530/espn1.m3u8|Referer=http://9live.club/game/Hello-World|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
-EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]ESPN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]ESPN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.233.185.213:25443/NDAmviPzTsOe4/MliAh6Ytpw/31765
-EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]ESPN[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]ESPN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ok2.se:8000/e13eF1Ut2k7L4uema/1f87F1UnCIIvc92Pc/143
 EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]ESPN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
