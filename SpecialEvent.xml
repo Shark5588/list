@@ -25,10 +25,9 @@ EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR re
 http://45.134.21.69/hls/mma.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR red][B]UFC[/B][/COLOR]
-http://35.197.60.248/live/ovo1/chunks.m3u8?nimblesessionid=47440|Referer=http://www.ovostreams.com/1.php
+plugin://plugin.video.f4mTester/?url=http://35.197.60.248/live/ovo1/chunks.m3u8?nimblesessionid=47440&amp;streamtype=HLSRETRY&amp;name=UFC
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR red][B]UFC[/B][/COLOR]
-http://kgffdbfv.azureedge.net/hls/bts2/chunks.m3u8|Referer=http://givemereddit.stream/ufc-mma/ufc-live-stream
-
+plugin://plugin.video.f4mTester/?url=http://kgffdbfv.azureedge.net/hls/bts2/chunks.m3u8&amp;streamtype=HLSRETRY&amp;name=UFC
 
 EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/432237_preview.png",[COLOR orange][B]BTSPORT[/B][/COLOR]
 http://34.102.247.130/live/UFC/index.m3u8|Referer=http://btstream.live/emb/mma/1.php
