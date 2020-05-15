@@ -272,7 +272,7 @@
        <fanart></fanart>
        <info>[B][COLORyellow]Some works some dont[/COLOR][/B]</info>
   </channel>
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------->
   <channel>
    <name>[B]#[COLORaqua]SPORTS CLASSIC TV[COLOR red][B][I]TesTinG ZoNE[/COLOR] 1[/I][/B]</name>
     <thumbnail>http://pluspng.com/img-png/mag-png-mag-png-550.png</thumbnail>
@@ -288,13 +288,36 @@
                 <fanart></fanart>
             </item>
             
-            <item>
-                <title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered]////////[/COLOR][/B]</title> 
-				<link>http://ignore.me</link>
-                <externallink></externallink>
-                <thumbnail></thumbnail>
-				<fanart></fanart>
-            </item>
+<item>
+<title>TesTinG IPTV</title>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red]M3U [/COLOR][COLOR orange ][makelist2.param1][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ ]]></listrepeat>
+<expres>Server:"(.*?)" URL="(.*?)"; regex"(.*?)"</expres>
+<page>https://www.oneplaylist.space/database/exportsimpletv</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR blue]Shark TV[COLOR orange][makelist.param1][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR blue] M3U[/COLOR] [makelist.param1]</link>
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
         </items>
     </channel>	
 </channels>
