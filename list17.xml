@@ -16,1345 +16,1145 @@ http://0.0.0.0:1234
 
 ################################################################ LIST 15 ###########################################################################################
 
-
-
-
 #EXTM3U
-#EXTINF:-1,US001:A&E-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3167
-#EXTINF:-1,US006:AMC-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3162
-#EXTINF:-1,US007:ANIMAL-PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3161
-#EXTINF:-1,US008:BBC-America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3160
-#EXTINF:-1,US010:BET-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3158
-#EXTINF:-1,US011:BRAVO-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3157
-#EXTINF:-1,US015:Viceland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3153
-#EXTINF:-1,US016:CARTOON-NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3152
-#EXTINF:-1,US018:CBSN-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3150
-#EXTINF:-1,US020:CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3148
-#EXTINF:-1,US021:CNN-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3147
-#EXTINF:-1,US022:COMEDY-CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3146
-#EXTINF:-1,US023:CW-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3145
-#EXTINF:-1,US024:DESTINATION-AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3144
-#EXTINF:-1,US025:Discovery-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3143
-#EXTINF:-1,US029:DIY Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3139
-#EXTINF:-1,US030:E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3138
-#EXTINF:-1,US033:ESPN-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3135
-#EXTINF:-1,US035:Food-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3133
-#EXTINF:-1,US040:Freeform
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3128
-#EXTINF:-1,US041:FX-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3127
-#EXTINF:-1,US042:FXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3126
-#EXTINF:-1,US043:HALLMARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3125
-#EXTINF:-1,US049:HGTV-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3119
-#EXTINF:-1,US050:HISTORY-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3118
-#EXTINF:-1,US051:ID-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3117
-#EXTINF:-1,US052:TV Land
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3116
-#EXTINF:-1,US053:Lifetime US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3115
-#EXTINF:-1,US057:MSNBC-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3111
-#EXTINF:-1,US058:MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3110
-#EXTINF:-1,US059:NAT-GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3109
-#EXTINF:-1,US063:NBCSN-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3105
-#EXTINF:-1,US065:Nicktoons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3103
-#EXTINF:-1,US066:INSP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3102
-#EXTINF:-1,US067:OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3101
-#EXTINF:-1,US068:Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3100
-#EXTINF:-1,US069:SHOWTIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3099
-#EXTINF:-1,US070:SHOWTIME2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3098
-#EXTINF:-1,US071:SPIKE-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3097
-#EXTINF:-1,US072:SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3096
-#EXTINF:-1,US073:TBS-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3095
-#EXTINF:-1,US075:TLC-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3093
-#EXTINF:-1,US076:TNT-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3092
-#EXTINF:-1,US077:Travel-channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3091
-#EXTINF:-1,US078:TRU-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3090
-#EXTINF:-1,US079:USA-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3089
-#EXTINF:-1,US080:Velocity-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3088
-#EXTINF:-1,US081:VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3087
-#EXTINF:-1,US082:WE-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3086
-#EXTINF:-1,US083:WEATHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3085
-#EXTINF:-1,US095:PBS Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3073
-#EXTINF:-1,US096:CBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3072
-#EXTINF:-1,US097:GOD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3071
-#EXTINF:-1,US098:Peace TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3070
-#EXTINF:-1,US130:NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30060
-#EXTINF:-1,US333:PBS_Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29857
-#EXTINF:-1,US613:CW_WPSG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29577
-#EXTINF:-1,US614:CW_WKBD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29576
-#EXTINF:-1,US615:CW_KSTW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29575
-#EXTINF:-1,US616:CW_WTOG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29574
-#EXTINF:-1,US617:News4 (WRC-TV)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29573
-#EXTINF:-1,US694:Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29496
-#EXTINF:-1,USA:-----|MOVIES|---------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60608
-#EXTINF:-1,US005:ACTION-MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3163
-#EXTINF:-1,US019:Starz East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3149
-#EXTINF:-1,US044:HALLMARK-MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3124
-#EXTINF:-1,US045:HBO Comedy East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3123
-#EXTINF:-1,US046:HBO East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3122
-#EXTINF:-1,US047:HBO Signature West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3121
-#EXTINF:-1,US048:HBO Zone East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3120
-#EXTINF:-1,US054:Lifetime Movie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3114
-#EXTINF:-1,US055:HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3113
-#EXTINF:-1,US692:Starz Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29498
-#EXTINF:-1,US693:Starz Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29497
-#EXTINF:-1,US695:Starz Etas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29495
-#EXTINF:-1,US696:Starz Edge HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29494
-#EXTINF:-1,US697:Starz Encore
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29493
-#EXTINF:-1,US698:Starz Encore East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29492
-#EXTINF:-1,US699:Starz West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29491
-#EXTINF:-1,US719:Starz Black HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29471
-#EXTINF:-1,US720:Starz Cinema East FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29470
-#EXTINF:-1,US721:Starz Cinema West FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29469
-#EXTINF:-1,US722:Starz Comedy East HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29468
-#EXTINF:-1,US723:Starz Comedy FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29467
-#EXTINF:-1,US724:STARZ EDGE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29466
-#EXTINF:-1,US725:STARZ EDGE West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29465
-#EXTINF:-1,US726:Starz Encore Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29464
-#EXTINF:-1,US727:Starz Encore Black HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29463
-#EXTINF:-1,US728:Starz Encore Classic FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29462
-#EXTINF:-1,US729:Starz Encore EAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29461
-#EXTINF:-1,US730:Starz Encore Family FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29460
-#EXTINF:-1,US731:Starz Encore Suspense HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29459
-#EXTINF:-1,US732:Starz Encore West FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29458
-#EXTINF:-1,US733:Starz Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29457
-#EXTINF:-1,US735:STARZ KIDS & FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29455
-#EXTINF:-1,USA:-----|SPORTS|---------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60609
-#EXTINF:-1,US009:Bein-Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3159
-#EXTINF:-1,US012:PAC-12 Washington
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3156
-#EXTINF:-1,US013:PAC-12 Los Angeles
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3155
-#EXTINF:-1,US014:PAC-12 Oregon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3154
-#EXTINF:-1,US031:ESPN-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3137
-#EXTINF:-1,US032:ESPN-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3136
-#EXTINF:-1,US034:ESPN-U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3134
-#EXTINF:-1,US074:PAC-12 Bay Area
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3094
-#EXTINF:-1,US084:UFC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3084
-#EXTINF:-1,US085:WWE-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3083
-#EXTINF:-1,US086:Tennis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3082
-#EXTINF:-1,US087:NESN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3081
-#EXTINF:-1,US091:Sec Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3077
-#EXTINF:-1,US092:Big Ten Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3076
-#EXTINF:-1,US093:Box Nation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3075
-#EXTINF:-1,US122:Olympic_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30068
-#EXTINF:-1,US123:BeIN8 Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30067
-#EXTINF:-1,US124:BeIN7 Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30066
-#EXTINF:-1,US125:BeIN6 Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30065
-#EXTINF:-1,US126:BeIN5 Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30064
-#EXTINF:-1,US127:BeIN4 Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30063
-#EXTINF:-1,US128:BeIN2 Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30062
-#EXTINF:-1,US129:BeIN_Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30061
-#EXTINF:-1,US131:Game_Show_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30059
-#EXTINF:-1,US132:Stadium3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30058
-#EXTINF:-1,US133:Stadium2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30057
-#EXTINF:-1,US134:Stadium1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30056
-#EXTINF:-1,US135:Stadium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30055
-#EXTINF:-1,US136:TyC Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30054
-#EXTINF:-1,US137:MSG2Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30053
-#EXTINF:-1,US138:MSG2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30052
-#EXTINF:-1,US139:MSGPlus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30051
-#EXTINF:-1,US140:MSG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30050
-#EXTINF:-1,US141:BTN4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30049
-#EXTINF:-1,US142:BTN3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30048
-#EXTINF:-1,US143:BTN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30047
-#EXTINF:-1,US144:Big_Ten_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30046
-#EXTINF:-1,US145:Fight_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30045
-#EXTINF:-1,US146:FNTSY_Sports_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30044
-#EXTINF:-1,US147:VSiN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30043
-#EXTINF:-1,US148:Ginx_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30042
-#EXTINF:-1,US149:ATT_SportsNet_SW_ALT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30041
-#EXTINF:-1,US150:World_Fishing_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30040
-#EXTINF:-1,US151:NESN_BOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30039
-#EXTINF:-1,US152:NESN_PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30038
-#EXTINF:-1,US153:Sportsman_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30037
-#EXTINF:-1,US155:Eleven_Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30035
-#EXTINF:-1,US661:PVV BOXING 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29529
-#EXTINF:-1,US662:PPV BOXING 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29528
-#EXTINF:-1,US663:PPV BOXING 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29527
-#EXTINF:-1,US664:PPV BOXING 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29526
-#EXTINF:-1,USA:-----|ABC|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60617
-#EXTINF:-1,US002:ABC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3166
-#EXTINF:-1,US003:ABC-NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3165
-#EXTINF:-1,US004:ABC 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3164
-#EXTINF:-1,US700:ABC_kfsn_fresno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29490
-#EXTINF:-1,US701:ABC_wisn_mil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29489
-#EXTINF:-1,US702:ABC-wkrn-nas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29488
-#EXTINF:-1,US703:ABC_wtnh_har
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29487
-#EXTINF:-1,US704:ABC_kmgh_den
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29486
-#EXTINF:-1,US705:ABC_wcvb_bos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29485
-#EXTINF:-1,US706:ABC_wrtv_ind
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29484
-#EXTINF:-1,US709:ABC_wpvi_phi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29481
-#EXTINF:-1,US710:ABC_wftv_orl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29480
-#EXTINF:-1,US711:ABC_kgo_sfo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29479
-#EXTINF:-1,US712:ABC_wfaa_dal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29478
-#EXTINF:-1,US713:ABC Phoenix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29477
-#EXTINF:-1,US714:ABC Indianapolis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29476
-#EXTINF:-1,US715:ABC Cleveland
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29475
-#EXTINF:-1,US716:ABC Denver
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29474
-#EXTINF:-1,US717:ABC Sacramento
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29473
-#EXTINF:-1,US718:ABC Orlando
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29472
-#EXTINF:-1,US734:ABC Charlotte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29456
-#EXTINF:-1,US737:Abc_Kgtv_Sad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29453
-#EXTINF:-1,US738:ABC_wjla_wdc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29452
-#EXTINF:-1,US739:ABC_kxtv-sac
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29451
-#EXTINF:-1,US740:ABC_kdnl-stl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29450
-#EXTINF:-1,US741:ABC_komo_sea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29449
-#EXTINF:-1,US742:ABC_katu_port
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29448
-#EXTINF:-1,US743:ABC_ktvx-slc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29447
-#EXTINF:-1,US744:ABC_kABC_lax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29446
-#EXTINF:-1,US745:ABC_wls_chi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29445
-#EXTINF:-1,US746:ABC_wtae_pit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29444
-#EXTINF:-1,US747:ABC_wxyz_det
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29443
-#EXTINF:-1,US748:ABC_ktrk_hou
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29442
-#EXTINF:-1,US749:ABC_knxv_phx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29441
-#EXTINF:-1,US750:ABC_wisn_mil
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29440
-#EXTINF:-1,US751:ABC-wkrn-nas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29439
-#EXTINF:-1,US752:ABC_wtnh_har
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29438
-#EXTINF:-1,US753:ABC_kmgh_den
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29437
-#EXTINF:-1,US754:ABC_wcvb_bos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29436
-#EXTINF:-1,US755:ABC_wrtv_ind
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29435
-#EXTINF:-1,US756:ABC_wftv_orl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29434
-#EXTINF:-1,US757:ABC_wfaa_dal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29433
-#EXTINF:-1,US758:ABC_kgo_sfo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29432
-#EXTINF:-1,US759:ABC_wpvi_phi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29431
-#EXTINF:-1,US760:ABC_wtvd_raleigh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29430
-#EXTINF:-1,US761:ABC_wplg_mia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29429
-#EXTINF:-1,US762:ABC_kfsn_fresno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29428
-#EXTINF:-1,US763:ABC_ksat_saa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29427
-#EXTINF:-1,US764:ABC_kmbc_kan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29426
-#EXTINF:-1,US765:ABC-wews-cla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29425
-#EXTINF:-1,US766:ABC_WSYX_CLM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29424
-#EXTINF:-1,US707:ABC_wplg_mia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29423
-#EXTINF:-1,US708:ABC_wtvd_raleigh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29422
-#EXTINF:-1,USA:-----|NHL|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60616
-#EXTINF:-1,US675:NHL Centre Ice 782
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29515
-#EXTINF:-1,US676:NHL Centre Ice 783
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29514
-#EXTINF:-1,US677:NHL Game 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29513
-#EXTINF:-1,US678:NHL Game 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29512
-#EXTINF:-1,US679:NHL Game 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29511
-#EXTINF:-1,US680:NHL Game 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29510
-#EXTINF:-1,US681:NHL Game 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29509
-#EXTINF:-1,US682:NHL Game 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29508
-#EXTINF:-1,US683:NHL Game 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29507
-#EXTINF:-1,US684:NHL Game 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29506
-#EXTINF:-1,US685:NHL Game 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29505
-#EXTINF:-1,US686:NHL Game 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29504
-#EXTINF:-1,US687:NHL Game 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29503
-#EXTINF:-1,US688:NHL Game 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29502
-#EXTINF:-1,US689:NHL Game 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29501
-#EXTINF:-1,US690:NHL Game 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29500
-#EXTINF:-1,US691:NHL Game 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29499
-#EXTINF:-1,US736:NHL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29454
-#EXTINF:-1,USA:-----|NBA|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60615
-#EXTINF:-1,US060:NBA-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3108
-#EXTINF:-1,US665:NBA League Pass 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29525
-#EXTINF:-1,US666:NBA League Pass 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29524
-#EXTINF:-1,US667:NBA League Pass 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29523
-#EXTINF:-1,US668:NBA League Pass 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29522
-#EXTINF:-1,US669:NBA League Pass 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29521
-#EXTINF:-1,US670:NBA League Pass 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29520
-#EXTINF:-1,US671:NBA League Pass 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29519
-#EXTINF:-1,US672:NBA League Pass 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29518
-#EXTINF:-1,US673:NBA League Pass 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29517
-#EXTINF:-1,US674:NBA League Pass 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29516
-#EXTINF:-1,USA:-----|MLB|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60614
-#EXTINF:-1,US056:MLB-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3112
-#EXTINF:-1,US630:MLB 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29560
-#EXTINF:-1,US631:MLB 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29559
-#EXTINF:-1,US632:MLB 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29558
-#EXTINF:-1,US633:MLB 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29557
-#EXTINF:-1,US634:MLB 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29556
-#EXTINF:-1,US635:MLB 06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29555
-#EXTINF:-1,US636:MLB 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29554
-#EXTINF:-1,US637:MLB 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29553
-#EXTINF:-1,US638:MLB 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29552
-#EXTINF:-1,US639:MLB 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29551
-#EXTINF:-1,US640:MLB 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29550
-#EXTINF:-1,US641:MLB 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29549
-#EXTINF:-1,US642:MLB 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29548
-#EXTINF:-1,US643:MLB 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29547
-#EXTINF:-1,US644:MLB 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29546
-#EXTINF:-1,USA:-----|NFL|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60613
-#EXTINF:-1,US064:NFL-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3104
-#EXTINF:-1,US089:NFL RedZone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3079
-#EXTINF:-1,US618:NFL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29572
-#EXTINF:-1,US619:NFL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29571
-#EXTINF:-1,US620:NFL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29570
-#EXTINF:-1,US621:NFL 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29569
-#EXTINF:-1,US622:NFL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29568
-#EXTINF:-1,US623:NFL 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29567
-#EXTINF:-1,US624:NFL 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29566
-#EXTINF:-1,US625:NFL 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29565
-#EXTINF:-1,US626:NFL 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29564
-#EXTINF:-1,US627:NFL 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29563
-#EXTINF:-1,US628:NFL 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29562
-#EXTINF:-1,US629:NFL N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29561
-#EXTINF:-1,US645:NFL Channel HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29545
-#EXTINF:-1,US646:NFL Gamepass 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29544
-#EXTINF:-1,US647:NFL GAMEPASS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29543
-#EXTINF:-1,US648:NFL GAMEPASS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29542
-#EXTINF:-1,US649:NFL GAMEPASS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29541
-#EXTINF:-1,US650:NFL GAMEPASS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29540
-#EXTINF:-1,US651:NFL GAMEPASS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29539
-#EXTINF:-1,US652:NFL GAMEPASS 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29538
-#EXTINF:-1,US653:NFL GAMEPASS 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29537
-#EXTINF:-1,US654:NFL GAMEPASS 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29536
-#EXTINF:-1,US655:NFL GAMEPASS 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29535
-#EXTINF:-1,US656:NFL GAMEPASS 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29534
-#EXTINF:-1,US657:NFL GAMEPASS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29533
-#EXTINF:-1,US658:NFL GAMEPASS 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29532
-#EXTINF:-1,US659:NFL Gamepass 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29531
-#EXTINF:-1,USA:-----|NBC|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60612
-#EXTINF:-1,US061:NBC-Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3107
-#EXTINF:-1,US062:NBC-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3106
-#EXTINF:-1,US156:NBC_Golf_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30034
-#EXTINF:-1,US157:NBC_Sports_Philadelfia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30033
-#EXTINF:-1,US158:NBC_Sports_Washington
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30032
-#EXTINF:-1,US159:NBC_Sports_California
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30031
-#EXTINF:-1,US160:NBC_Sports_Chicago
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30030
-#EXTINF:-1,US161:NBC_Sports_Bay_Area
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30029
-#EXTINF:-1,US162:NBC_Sports_Northwest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30028
-#EXTINF:-1,US165:NBC_Sports_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30025
-#EXTINF:-1,US502:NBC_KHQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29688
-#EXTINF:-1,US503:NBC_WPSD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29687
-#EXTINF:-1,US504:NBC_KVLY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29686
-#EXTINF:-1,US505:NBC_WFIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29685
-#EXTINF:-1,US506:NBC_WAGT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29684
-#EXTINF:-1,US507:NBC_WFMJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29683
-#EXTINF:-1,US508:NBC_WBRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29682
-#EXTINF:-1,US509:NBC_KETK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29681
-#EXTINF:-1,US510:NBC_WFLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29680
-#EXTINF:-1,US511:NBC_WWLP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29679
-#EXTINF:-1,US512:NBC_KTAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29678
-#EXTINF:-1,US513:NBC_KING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29677
-#EXTINF:-1,US514:NBC_WSAV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29676
-#EXTINF:-1,US515:NBC_WEEK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29675
-#EXTINF:-1,US516:NBC_WAVY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29674
-#EXTINF:-1,US517:NBC_WSFA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29673
-#EXTINF:-1,US518:NBC_KARK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29672
-#EXTINF:-1,US519:NBC_WILX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29671
-#EXTINF:-1,US520:NBC_WEAU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29670
-#EXTINF:-1,US521:NBC_KVEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29669
-#EXTINF:-1,US522:NBC_WOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29668
-#EXTINF:-1,US523:NBC_WPTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29667
-#EXTINF:-1,US524:NBC_WBBH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29666
-#EXTINF:-1,US525:NBC_KSEE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29665
-#EXTINF:-1,US526:NBC_KTSM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29664
-#EXTINF:-1,US527:NBC_WDTN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29663
-#EXTINF:-1,US528:NBC_KWQC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29662
-#EXTINF:-1,US529:NBC_KRIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29661
-#EXTINF:-1,US530:NBC_WCMH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29660
-#EXTINF:-1,US531:NBC_WLTZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29659
-#EXTINF:-1,US532:NBC_KXAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29658
-#EXTINF:-1,US533:NBC_KXAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29657
-#EXTINF:-1,US534:NBC_KPRC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29656
-#EXTINF:-1,US535:NBC_WTVJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29655
-#EXTINF:-1,US536:NBC_WLEX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29654
-#EXTINF:-1,US537:NBC_WCSH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29653
-#EXTINF:-1,US538:NBC_WMFP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29652
-#EXTINF:-1,US539:NBC_KGW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29651
-#EXTINF:-1,US540:NBC_KARE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29650
-#EXTINF:-1,US541:NBC_WAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29649
-#EXTINF:-1,US542:NBC_KPNX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29648
-#EXTINF:-1,US543:NBC_WDSU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29647
-#EXTINF:-1,US544:NBC_WLBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29646
-#EXTINF:-1,US545:NBC_KTVB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29645
-#EXTINF:-1,US546:NBC_WVVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29644
-#EXTINF:-1,US547:NBC_WNDU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29643
-#EXTINF:-1,US548:NBC_WESH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29642
-#EXTINF:-1,US549:NBC_WMBF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29641
-#EXTINF:-1,US550:NBC_WVTM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29640
-#EXTINF:-1,US551:NBC_KCRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29639
-#EXTINF:-1,US552:NBC_WMAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29638
-#EXTINF:-1,US553:NBC_WSMV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29637
-#EXTINF:-1,US554:NBC_WCNC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29636
-#EXTINF:-1,US555:NBC_WSLS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29635
-#EXTINF:-1,US556:NBC_WTMJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29634
-#EXTINF:-1,US557:NBC_KUSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29633
-#EXTINF:-1,US558:NBC_WBIR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29632
-#EXTINF:-1,US559:NBC_WTLV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29631
-#EXTINF:-1,US560:NBC_KSNB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29630
-#EXTINF:-1,US561:NBC_WGRZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29629
-#EXTINF:-1,US562:NBC_WAFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29628
-#EXTINF:-1,US563:NBC_KNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29627
-#EXTINF:-1,US564:NBC_WKYC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29626
-#EXTINF:-1,US565:NBC_WITN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29625
-#EXTINF:-1,US566:NBC_WDIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29624
-#EXTINF:-1,US567:NBC_WTHR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29623
-#EXTINF:-1,US568:NBC_KDLT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29622
-#EXTINF:-1,US569:NBC_KOAA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29621
-#EXTINF:-1,US570:NBC_KVOA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29620
-#EXTINF:-1,US571:NBC_WLWT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29619
-#EXTINF:-1,US572:NBC_KYTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29618
-#EXTINF:-1,US573:NBC_WRC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29617
-#EXTINF:-1,US574:NBC_KSHB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29616
-#EXTINF:-1,US575:NBC_WVIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29615
-#EXTINF:-1,US576:NBC_WRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29614
-#EXTINF:-1,US577:NBC_WBAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29613
-#EXTINF:-1,US578:NBC_WNYT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29612
-#EXTINF:-1,US579:NBC_WSAZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29611
-#EXTINF:-1,US580:NBC_KCEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29610
-#EXTINF:-1,US581:NBC_WCAU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29609
-#EXTINF:-1,US582:NBC_KSDK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29608
-#EXTINF:-1,US583:NBC_KHNL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29607
-#EXTINF:-1,US584:NBC_WMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29606
-#EXTINF:-1,US585:NBC_KJRH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29605
-#EXTINF:-1,US586:NBC_WMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29604
-#EXTINF:-1,US587:NBC_WXII
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29603
-#EXTINF:-1,US588:NBC_KSBY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29602
-#EXTINF:-1,US589:NBC_WECT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29601
-#EXTINF:-1,US590:NBC_KSBW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29600
-#EXTINF:-1,US591:NBC_WXIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29599
-#EXTINF:-1,US592:NBC_WOWT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29598
-#EXTINF:-1,US593:NBC_WPXI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29597
-#EXTINF:-1,US594:NBC_KSL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29596
-#EXTINF:-1,US595:NBC_WIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29595
-#EXTINF:-1,US596:NBC_WWBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29594
-#EXTINF:-1,US597:NBC_WHEC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29593
-#EXTINF:-1,US598:NBC_KNTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29592
-#EXTINF:-1,US599:NBC_WYFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29591
-#EXTINF:-1,US600:NBC_WPTZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29590
-#EXTINF:-1,US601:NBC_WPTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29589
-#EXTINF:-1,US602:NBC_WJHG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29588
-#EXTINF:-1,US603:NBC_WGBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29587
-#EXTINF:-1,US604:NBC_KOB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29586
-#EXTINF:-1,US605:NBC_WGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29585
-#EXTINF:-1,US606:NBC_WAVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29584
-#EXTINF:-1,US607:NBC_KNSD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29583
-#EXTINF:-1,US608:NBC_WNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29582
-#EXTINF:-1,US609:NBC_KGET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29581
-#EXTINF:-1,US610:NBC_KWWL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29580
-#EXTINF:-1,US611:NBC_KTIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29579
-#EXTINF:-1,US612:NBC_KNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29578
-#EXTINF:-1,USA:-----|CBS|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60611
-#EXTINF:-1,US017:CBS-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3151
-#EXTINF:-1,US088:CBS Sports Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3080
-#EXTINF:-1,US154:CBS_Sports_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30036
-#EXTINF:-1,US166:CBS_WKBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30024
-#EXTINF:-1,US167:CBS_KIMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30023
-#EXTINF:-1,US168:CBS_WWAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30022
-#EXTINF:-1,US169:CBS_WYOU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30021
-#EXTINF:-1,US172:CBS_WPEC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30018
-#EXTINF:-1,US175:CBS_WTVH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30015
-#EXTINF:-1,US179:CBS_WJHL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30011
-#EXTINF:-1,US182:CBS_KOLR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30008
-#EXTINF:-1,US184:CBS_WCIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30006
-#EXTINF:-1,US186:CBS_KELO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30004
-#EXTINF:-1,US187:CBS_KUTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30003
-#EXTINF:-1,US193:CBS_KTVN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29997
-#EXTINF:-1,US197:CBS_WNCN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29993
-#EXTINF:-1,US199:CBS_WPRI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29991
-#EXTINF:-1,US200:CBS_KOIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29990
-#EXTINF:-1,US201:CBS_WGME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29989
-#EXTINF:-1,US202:CBS_WMBD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29988
-#EXTINF:-1,US203:CBS_WBTW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29987
-#EXTINF:-1,US204:CBS_WAKA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29986
-#EXTINF:-1,US205:CBS_WKRG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29985
-#EXTINF:-1,US206:CBS_KLAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29984
-#EXTINF:-1,US207:CBS_WLNS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29983
-#EXTINF:-1,US208:CBS_KLFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29982
-#EXTINF:-1,US209:CBS_WKBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29981
-#EXTINF:-1,US210:CBS_WTAJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29980
-#EXTINF:-1,US211:CBS_WJTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29979
-#EXTINF:-1,US212:CBS_WHP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29978
-#EXTINF:-1,US213:CBS_KGBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29977
-#EXTINF:-1,US214:CBS_WSPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29976
-#EXTINF:-1,US215:CBS_WNCT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29975
-#EXTINF:-1,US216:CBS_WFRV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29974
-#EXTINF:-1,US217:CBS_WWMT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29973
-#EXTINF:-1,US218:CBS_WANE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29972
-#EXTINF:-1,US219:CBS_KGPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29971
-#EXTINF:-1,US220:CBS_KVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29970
-#EXTINF:-1,US221:CBS_KDBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29969
-#EXTINF:-1,US222:CBS_WHBF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29968
-#EXTINF:-1,US223:CBS_KZTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29967
-#EXTINF:-1,US224:CBS_WCBI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29966
-#EXTINF:-1,US225:CBS_WKRC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29965
-#EXTINF:-1,US226:CBS_WOWK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29964
-#EXTINF:-1,US227:CBS_KGAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29963
-#EXTINF:-1,US228:CBS_WIVB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29962
-#EXTINF:-1,US229:CBS_KBOI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29961
-#EXTINF:-1,US231:CBS_WIAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29959
-#EXTINF:-1,US232:CBS_KBAK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29958
-#EXTINF:-1,US233:CBS_KEYE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29957
-#EXTINF:-1,US234:CBS_KRQEDT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29956
-#EXTINF:-1,US235:CBS_WRGB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29955
-#EXTINF:-1,US236:CBS_WTVF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29954
-#EXTINF:-1,US238:CBS_WJAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29952
-#EXTINF:-1,US240:CBS_WCSC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29950
-#EXTINF:-1,US245:CBS_KTXA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29945
-#EXTINF:-1,US246:CBS_WOIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29944
-#EXTINF:-1,US254:CBS_WTSP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29936
-#EXTINF:-1,US259:CBS_KTVT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29931
-#EXTINF:-1,US269:CBS_KOLN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29921
-#EXTINF:-1,US273:CBS_KOLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29917
-#EXTINF:-1,US274:CBS_KCTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29916
-#EXTINF:-1,US275:CBS_WBNS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29915
-#EXTINF:-1,US276:CBS_WNEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29914
-#EXTINF:-1,US277:CBS_WUSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29913
-#EXTINF:-1,US278:CBS_WTOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29912
-#EXTINF:-1,US279:CBS_WTOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29911
-#EXTINF:-1,US280:CBS_WFSB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29910
-#EXTINF:-1,US281:CBS_KFVS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29909
-#EXTINF:-1,US282:CBS_KPIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29908
-#EXTINF:-1,US283:CBS_KCOY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29907
-#EXTINF:-1,US284:CBS_KPHO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29906
-#EXTINF:-1,US285:CBS_WWL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29905
-#EXTINF:-1,US286:CBS_WWJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29904
-#EXTINF:-1,US287:CBS_WFOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29903
-#EXTINF:-1,US288:CBS_KWTX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29902
-#EXTINF:-1,US289:CBS_WKYT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29901
-#EXTINF:-1,US290:CBS_KWTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29900
-#EXTINF:-1,US291:CBS_KSLA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29899
-#EXTINF:-1,US292:CBS_WBFS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29898
-#EXTINF:-1,US293:CBS_WDJT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29897
-#EXTINF:-1,US294:CBS_WFMY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29896
-#EXTINF:-1,US295:CBS_WRDW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29895
-#EXTINF:-1,US296:CBS_WVLT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29894
-#EXTINF:-1,US297:CBS_WISC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29893
-#EXTINF:-1,US298:CBS_KENS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29892
-#EXTINF:-1,US299:CBS_KDKA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29891
-#EXTINF:-1,US300:CBS_WBBM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29890
-#EXTINF:-1,US301:CBS_KREM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29889
-#EXTINF:-1,US302:CBS_WCCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29888
-#EXTINF:-1,US303:CBS_KTHV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29887
-#EXTINF:-1,US304:CBS_KYW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29886
-#EXTINF:-1,US305:CBS_KFMB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29885
-#EXTINF:-1,US306:CBS_WDEF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29884
-#EXTINF:-1,US307:CBS_WSBK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29883
-#EXTINF:-1,US308:CBS_WCBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29882
-#EXTINF:-1,US309:CBS_KIRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29881
-#EXTINF:-1,US310:CBS_WLTX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29880
-#EXTINF:-1,US311:CBS_WCAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29879
-#EXTINF:-1,US312:CBS_KHOU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29878
-#EXTINF:-1,US313:CBS_KGMB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29877
-#EXTINF:-1,US314:CBS_KKTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29876
-#EXTINF:-1,US315:CBS_WDBJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29875
-#EXTINF:-1,US316:CBS_KCCI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29874
-#EXTINF:-1,US317:CBS_KION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29873
-#EXTINF:-1,US318:CBS_WHIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29872
-#EXTINF:-1,US319:CBS_KCBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29871
-#EXTINF:-1,US320:CBS_KCAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29870
-#EXTINF:-1,US321:CBS_WJZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29869
-#EXTINF:-1,US322:CBS_WKMG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29868
-#EXTINF:-1,US323:CBS_KMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29867
-#EXTINF:-1,US324:CBS_WLNY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29866
-#EXTINF:-1,US325:CBS_WGCL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29865
-#EXTINF:-1,US326:CBS_KOVR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29864
-#EXTINF:-1,US327:CBS_WLKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29863
-#EXTINF:-1,US328:CBS_KOTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29862
-#EXTINF:-1,US329:CBS_KWCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29861
-#EXTINF:-1,US330:CBS_KMOV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29860
-#EXTINF:-1,US331:CBS_WBTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29859
-#EXTINF:-1,US332:CBS_WBZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29858
-#EXTINF:-1,USA:-----|FOX|------------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/60610
-#EXTINF:-1,US036:FOX-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3132
-#EXTINF:-1,US037:FOX-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3131
-#EXTINF:-1,US038:FOX-Sports1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3130
-#EXTINF:-1,US039:FOX-Sports2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3129
-#EXTINF:-1,US090:Fox Sports Yes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3078
-#EXTINF:-1,US094:Fox Business Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/3074
-#EXTINF:-1,US099:Fox_Sports_NetBase
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30091
-#EXTINF:-1,US100:Fox_Sports_SportsTime_Ohio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30090
-#EXTINF:-1,US101:Fox_Sports_YES_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30089
-#EXTINF:-1,US102:Fox_Sports_San_Diego
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30088
-#EXTINF:-1,US103:Fox_Sports_Sun
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30087
-#EXTINF:-1,US104:Fox_Sports_Detroit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30086
-#EXTINF:-1,US105:Fox_Sports_Ohio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30085
-#EXTINF:-1,US106:Fox_Sports_North
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30084
-#EXTINF:-1,US107:Fox_Sports_Midwest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30083
-#EXTINF:-1,US108:Fox_Sports_Florida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30082
-#EXTINF:-1,US109:Fox_Sports_Arizona
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30081
-#EXTINF:-1,US110:Fox_Sports_Wisconsin
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30080
-#EXTINF:-1,US111:Fox_Sports_West
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30079
-#EXTINF:-1,US112:Fox_Sports_South
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30078
-#EXTINF:-1,US113:Fox_Sports_Southeast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30077
-#EXTINF:-1,US114:Fox_Sports_Southwest_Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30076
-#EXTINF:-1,US115:Fox_Sports_Southwest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30075
-#EXTINF:-1,US116:Fox_College_Sports_Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30074
-#EXTINF:-1,US117:Fox_College_Sports_Pacific
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30073
-#EXTINF:-1,US118:Fox_College_Sports_Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30072
-#EXTINF:-1,US119:Fox_Sports_Soccer_Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30071
-#EXTINF:-1,US120:Fox_Sports_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30070
-#EXTINF:-1,US121:Fox_Sports_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/30069
-#EXTINF:-1,US334:fox-kcop-lax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29856
-#EXTINF:-1,US335:fox-kptv-por
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29855
-#EXTINF:-1,US336:FOX_WYFX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29854
-#EXTINF:-1,US337:FOX_WFLX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29853
-#EXTINF:-1,US338:FOX_WUPW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29852
-#EXTINF:-1,US339:FOX_WSYT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29851
-#EXTINF:-1,US340:FOX_KAYU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29850
-#EXTINF:-1,US341:FOX_KRXI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29849
-#EXTINF:-1,US342:FOX_WYZZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29848
-#EXTINF:-1,US343:FOX_WSYM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29847
-#EXTINF:-1,US344:FOX_KADN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29846
-#EXTINF:-1,US345:FOX_WLAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29845
-#EXTINF:-1,US346:FOX_WDBD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29844
-#EXTINF:-1,US364:FOX_KFXV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29826
-#EXTINF:-1,US365:FOX_WEVV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29825
-#EXTINF:-1,US366:FOX_KFOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29824
-#EXTINF:-1,US367:FOX_KSCC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29823
-#EXTINF:-1,US368:FOX_KNIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29822
-#EXTINF:-1,US369:FOX_WBRC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29821
-#EXTINF:-1,US370:FOX_WFXG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29820
-#EXTINF:-1,US371:FOX_KICU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29819
-#EXTINF:-1,US372:FOX_WTWC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29818
-#EXTINF:-1,US373:FOX_WJBK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29817
-#EXTINF:-1,US374:FOX_WTVT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29816
-#EXTINF:-1,US378:FOX_KLJB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29812
-#EXTINF:-1,US379:FOX_WOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29811
-#EXTINF:-1,US380:FOX_WTVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29810
-#EXTINF:-1,US382:FOX_WPMT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29808
-#EXTINF:-1,US385:FOX_KKFX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29805
-#EXTINF:-1,US389:FOX_KTXL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29801
-#EXTINF:-1,US390:FOX_WTTG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29800
-#EXTINF:-1,US398:FOX_WTTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29792
-#EXTINF:-1,US399:FOX_WFXT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29791
-#EXTINF:-1,US400:FOX_WFXR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29790
-#EXTINF:-1,US407:FOX_WFXB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29783
-#EXTINF:-1,US416:FOX_KBSI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29774
-#EXTINF:-1,US417:FOX_KSTU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29773
-#EXTINF:-1,US418:FOX_KTVU
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29772
-#EXTINF:-1,US420:FOX_WUTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29770
-#EXTINF:-1,US421:FOX_KTVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29769
-#EXTINF:-1,US425:FOX_KDVR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29765
-#EXTINF:-1,US426:FOX_WOGX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29764
-#EXTINF:-1,US427:FOX_KOKI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29763
-#EXTINF:-1,US428:FOX_KOKH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29762
-#EXTINF:-1,US429:FOX_WDRB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29761
-#EXTINF:-1,US430:FOX_KRQE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29760
-#EXTINF:-1,US431:FOX_WGXA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29759
-#EXTINF:-1,US432:FOX_WVUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29758
-#EXTINF:-1,US433:FOX_KTTW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29757
-#EXTINF:-1,US434:FOX_KTTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29756
-#EXTINF:-1,US435:FOX_WOFL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29755
-#EXTINF:-1,US436:FOX_WRLH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29754
-#EXTINF:-1,US437:FOX_WFTX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29753
-#EXTINF:-1,US438:FOX_KFXL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29752
-#EXTINF:-1,US439:FOX_KFXK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29751
-#EXTINF:-1,US440:FOX_WXXA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29750
-#EXTINF:-1,US441:FOX_WPGH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29749
-#EXTINF:-1,US442:FOX_WSMH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29748
-#EXTINF:-1,US443:FOX_KDSM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29747
-#EXTINF:-1,US444:FOX_WTNZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29746
-#EXTINF:-1,US445:FOX_WPFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29745
-#EXTINF:-1,US446:FOX_KCPQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29744
-#EXTINF:-1,US447:FOX_WJZY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29743
-#EXTINF:-1,US448:FOX_WNAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29742
-#EXTINF:-1,US449:FOX_WAGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29741
-#EXTINF:-1,US450:FOX_WRGT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29740
-#EXTINF:-1,US451:FOX_WDKY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29739
-#EXTINF:-1,US452:FOX_WFOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29738
-#EXTINF:-1,US453:FOX_KVRR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29737
-#EXTINF:-1,US454:FOX_KRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29736
-#EXTINF:-1,US455:FOX_WBFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29735
-#EXTINF:-1,US456:FOX_WITI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29734
-#EXTINF:-1,US457:FOX_WTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29733
-#EXTINF:-1,US458:FOX_WACH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29732
-#EXTINF:-1,US459:FOX_WZTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29731
-#EXTINF:-1,US460:FOX_WTGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29730
-#EXTINF:-1,US461:FOX_WFLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29729
-#EXTINF:-1,US462:FOX_KXRM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29728
-#EXTINF:-1,US463:FOX_WGMB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29727
-#EXTINF:-1,US464:FOX_WUHF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29726
-#EXTINF:-1,US465:FOX_WRAZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29725
-#EXTINF:-1,US466:FOX_WXMI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29724
-#EXTINF:-1,US467:FOX_WNYW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29723
-#EXTINF:-1,US468:FOX_WSBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29722
-#EXTINF:-1,US469:FOX_WLUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29721
-#EXTINF:-1,US470:FOX_KABB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29720
-#EXTINF:-1,US471:FOX_KHON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29719
-#EXTINF:-1,US472:FOX_KRBK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29718
-#EXTINF:-1,US473:FOX_KDFW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29717
-#EXTINF:-1,US474:FOX_WFFT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29716
-#EXTINF:-1,US475:FOX_WGHP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29715
-#EXTINF:-1,US476:FOX_KWKT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29714
-#EXTINF:-1,US477:FOX_WXIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29713
-#EXTINF:-1,US478:FOX_WTAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29712
-#EXTINF:-1,US479:FOX_WFFF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29711
-#EXTINF:-1,US480:FOX_WXIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29710
-#EXTINF:-1,US481:FOX_WDAF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29709
-#EXTINF:-1,US482:FOX_WMSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29708
-#EXTINF:-1,US483:FOX_KSAZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29707
-#EXTINF:-1,US484:FOX_KSAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29706
-#EXTINF:-1,US485:FOX_KCBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29705
-#EXTINF:-1,US486:FOX_WPWR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29704
-#EXTINF:-1,US487:FOX_WVBT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29703
-#EXTINF:-1,US488:FOX_KTBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29702
-#EXTINF:-1,US489:FOX_KLRT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29701
-#EXTINF:-1,US490:FOX_WVAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29700
-#EXTINF:-1,US491:FOX_KMSS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29699
-#EXTINF:-1,US492:FOX_KMSP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29698
-#EXTINF:-1,US493:FOX_KMSB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29697
-#EXTINF:-1,US494:FOX_WHBQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29696
-#EXTINF:-1,US495:FOX_KMPH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29695
-#EXTINF:-1,US496:FOX_WJW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29694
-#EXTINF:-1,US497:FOX_WZDX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29693
-#EXTINF:-1,US498:FOX_KPTM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29692
-#EXTINF:-1,US499:FOX_WSVN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29691
-#EXTINF:-1,US500:FOX_WTXF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29690
-#EXTINF:-1,US501:FOX_WRSP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a2.skynets.tv:8880/czw12m080170582/Caug2fbsdj/29689
+#EXTINF:-1,United States: 23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1,United States: 24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:-1,United States: 30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1,United States: 30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:-1,United States: 30A Sidewalks
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1,United States: 30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1,United States: 30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1,United States: 3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1,United States: 3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1,United States: 3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1,United States: 3News Now (KMTV-TV)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1,United States: 7News Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1,United States: 7News Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+#EXTINF:-1,United States: ABC 10 Miami FL (WPLG)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1,United States: ABC 2 Baton Rouge LA (WBRZ-HD)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,United States: ABC 2 Baton Rouge LA (WBRZ-HD)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,United States: ABC 7 Sarasota FL (WWSB)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1,United States: ABC 9 Chattanooga TN (WTVC)
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1,United States: ABC 9 Orlando FL (WFTV-HD)
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1,United States: ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1,United States: ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1,United States: Action News Jax (WJAX-TV)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:-1,United States: Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1,United States: Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
+#EXTINF:-1,United States: Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1,United States: Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1,United States: Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1,United States: AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+#EXTINF:-1,United States: AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+#EXTINF:-1,United States: AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1,United States: Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1,United States: Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1,United States: Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,United States: Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1,United States: America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,United States: America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/playlist.m3u8?p=roku
+#EXTINF:-1,United States: American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+#EXTINF:-1,United States: American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1,United States: American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,United States: AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1,United States: Antenna TV
+https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
+#EXTINF:-1,United States: Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
+#EXTINF:-1,United States: Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,United States: Azteca America (WPSJ)
+https://v-pi.mybtv.net/event/8.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,United States: Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1,United States: Beach TV (30A)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,United States: Beach TV (CSULB)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1,United States: Beach TV (Panama City)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,United States: Beach TV (Pawleys Island)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,United States: Beauty IQ
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+#EXTINF:-1,United States: Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1,United States: Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1,United States: Beto TV
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:-1,United States: Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1,United States: Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1,United States: Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1,United States: Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1,United States: Black Widow TV
+https://nimble.dashstreams.net/onestudio/spydar/chunks.m3u8
+#EXTINF:-1,United States: BlazeTV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1,United States: Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV Asia Live Event
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1,United States: Bloomberg TV EMEA Live Event
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1,United States: Bloomberg TV Europe
+http://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1,United States: Bloomberg TV Live Event
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:-1,United States: Bloomberg TV Politics Live Event
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_politics.m3u8
+#EXTINF:-1,United States: Blush Romance TV
+https://nimble.dashstreams.net/onestudio/blushtv/chunks.m3u8
+#EXTINF:-1,United States: Boston 25 News (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:-1,United States: Boston 25 News (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
+#EXTINF:-1,United States: Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,United States: Brut.
+http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+#EXTINF:-1,United States: Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,United States: BUTV10 (Boston University)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,United States: Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+#EXTINF:-1,United States: Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1,United States: Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1,United States: byu TV
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1,United States: C-Span
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1,United States: C-Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1,United States: C-Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1,United States: California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1,United States: California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1,United States: California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1,United States: Catholic Life
+http://origin3-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/playlist.m3u8
+#EXTINF:-1,United States: Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1,United States: CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1,United States: CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1,United States: CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,United States: CBN News
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1,United States: CBN News
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8
+#EXTINF:-1,United States: CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1,United States: CBS
+http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1,United States: CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1,United States: CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1,United States: CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1,United States: CBS 4 Miami
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1,United States: CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1,United States: CBS News
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1,United States: CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1,United States: CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1,United States: CBS News New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+#EXTINF:-1,United States: CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,United States: CBSN
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1,United States: CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1,United States: CC-TV (Charlotte County)
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1,United States: CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,United States: CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,United States: CCX2
+https://nwct-tr-ls2.nwct.org/live/live.m3u8
+#EXTINF:-1,United States: CCX2
+https://nwct-tr-ls2.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,United States: CCX3
+https://nwct-tr-ls3.nwct.org/live/live.m3u8
+#EXTINF:-1,United States: CCX3
+https://nwct-tr-ls3.nwct.org/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,United States: Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:-1,United States: CGTV
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1,United States: Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1,United States: Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1,United States: Cheddar
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+#EXTINF:-1,United States: Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1,United States: Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:-1,United States: Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1,United States: Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:-1,United States: CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1,United States: CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1,United States: CNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/master.m3u8
+#EXTINF:-1,United States: CNBC Arabiya
+http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live1/chunks.m3u8
+#EXTINF:-1,United States: CNBC Arabiya
+http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:-1,United States: CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1,United States: CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:-1,United States: ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+#EXTINF:-1,United States: Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1,United States: Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1,United States: COZI TV
+https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
+#EXTINF:-1,United States: CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
+#EXTINF:-1,United States: CSUDH TV (Dominguez Hills)
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:-1,United States: CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1,United States: CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1,United States: CTN
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:-1,United States: CTN
+http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8
+#EXTINF:-1,United States: CTN
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+#EXTINF:-1,United States: CW South Florida
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1,United States: Dabl
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+#EXTINF:-1,United States: DABL
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_21.m3u8
+#EXTINF:-1,United States: DABL
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
+#EXTINF:-1,United States: DABL
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_24.m3u8
+#EXTINF:-1,United States: DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1,United States: Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1,United States: District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,United States: Divine Vision
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1,United States: DocuBox HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1,United States: Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1,United States: Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1,United States: Dr. Gene Scott
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:-1,United States: Dream TV
+https://nimble.dashstreams.net/onestudio/dreamtv/chunks.m3u8
+#EXTINF:-1,United States: Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1,United States: Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1,United States: EDGEsport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1,United States: ENTERTAINMENT
+https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
+#EXTINF:-1,United States: Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1,United States: Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:-1,United States: ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:-1,United States: ESPN
+http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
+#EXTINF:-1,United States: ESPN
+http://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,United States: ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+#EXTINF:-1,United States: Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1,United States: Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1,United States: Faith & Life TV
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:-1,United States: Faith USA
+http://hls-live-media.cdn01.net/default/stream_14889.m3u8
+#EXTINF:-1,United States: Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1,United States: Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1,United States: Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1,United States: FOX 10 Phoenix AZ (KSAZ-TV)
+http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
+#EXTINF:-1,United States: FOX 13 Salt Lake City UT (KSTU)
+http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
+#EXTINF:-1,United States: FOX 19 Newport KY (WXIX-TV)
+http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
+#EXTINF:-1,United States: FOX 23 Tulsa OK (KOKI-TV)
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+#EXTINF:-1,United States: FOX 23 Tulsa OK (KOKI-TV)
+https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
+#EXTINF:-1,United States: FOX 28 Savannah GA (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1,United States: FOX 31 Denver CO (KDVR)
+http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
+#EXTINF:-1,United States: FOX 4 Kansas City MO (WDAF-TV)
+http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
+#EXTINF:-1,United States: FOX 40 Sacramento CA (KTXL)
+http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
+#EXTINF:-1,United States: FOX 54 Augusta GA (WFXG)
+http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8
+#EXTINF:-1,United States: FOX 54 Augusta GA (WFXG)
+http://api.new.livestream.com/accounts/11328309/events/live/live.m3u8
+#EXTINF:-1,United States: FOX 6 Birmingham AL (WBRC)
+http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
+#EXTINF:-1,United States: FOX 7 (WSVN)
+http://190.80.3.28/FOX/FOX.isml/index.m3u8?the6tv.m3u8
+#EXTINF:-1,United States: FOX 7 Miami FL (WSVN)
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1,United States: FOX 8 Cleveland
+https://player-api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
+#EXTINF:-1,United States: FOX 8 Cleveland OH (WJW)
+http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
+#EXTINF:-1,United States: FOX 8 High Point NC (WGHP)
+http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
+#EXTINF:-1,United States: FOX 8 New Orleans LA (WVUE-DT)
+http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
+#EXTINF:-1,United States: FOX Q13 Seattle WA (KCPQ)
+http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
+#EXTINF:-1,United States: FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1,United States: FOX Sport HD 2
+http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
+#EXTINF:-1,United States: FOX Sport HD 3
+http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8
+#EXTINF:-1,United States: Free Speech TV
+http://bit.ly/2xV7ewi
+#EXTINF:-1,United States: Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,United States: Galveston County Traffic
+https://player-api.new.livestream.com/accounts/21068106/events/6228235/live.m3u8
+#EXTINF:-1,United States: Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1,United States: getTV
+https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
+#EXTINF:-1,United States: Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1,United States: Globesville (New York Institute of Technology)
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+#EXTINF:-1,United States: GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1,United States: God's Learning Channel
+http://fss27.streamhoster.com/lv_glc/_definst_/broadcast3/chuck.m3u8
+#EXTINF:-1,United States: Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:-1,United States: GuideUS TV
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
+#EXTINF:-1,United States: H2
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1,United States: Heartland
+https://v-pi.mybtv.net/event/4.3/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
+#EXTINF:-1,United States: History 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1,United States: Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:-1,United States: Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+#EXTINF:-1,United States: Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
+#EXTINF:-1,United States: HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:-1,United States: HSN
+https://v-pi.mybtv.net/event/41.1/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375
+#EXTINF:-1,United States: HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128
+#EXTINF:-1,United States: HSN 2
+https://v-pi.mybtv.net/event/41.2/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375
+#EXTINF:-1,United States: HSN2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1,United States: Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1,United States: Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,United States: InfoWars
+https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/live.m3u8
+#EXTINF:-1,United States: Inspiration TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1,United States: Ion 8 Christiansted VI (WSVI-TV)
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1,United States: ISN
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:-1,United States: It’s At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+#EXTINF:-1,United States: JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1,United States: Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1,United States: Jewish Life TV
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1,United States: Justice Network (WMGM)
+https://v-pi.mybtv.net/event/65.3/768x432?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2029-12-11T23%3A00%3A00.000Z&env=prd&uid=29375
+#EXTINF:-1,United States: KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,United States: KDOC
+https://v-la.mybtv.net/event/6.0/1280x720?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2028&env=prd&uid=24610
+#EXTINF:-1,United States: Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,United States: KIRO 7 News (KIRO-TV)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:-1,United States: KIRO 7 News (KIRO-TV)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
+#EXTINF:-1,United States: KNXT Catholic TV
+http://origin7-edge2.ord.yourstreamlive.com:1935/live/yourstreamlive/amlst:out_2324_4sqkvkde/chunklist.m3u8
+#EXTINF:-1,United States: KOFY
+https://v-ca.mybtv.net/event/20.1/1280x720?start_time=2019-12-12T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=12052
+#EXTINF:-1,United States: KOMO News (KOMO-TV)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1,United States: KOOL-TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,United States: KTVB
+http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
+#EXTINF:-1,United States: KTVK
+https://player-api.new.livestream.com/accounts/12643960/events/3893868/live.m3u8
+#EXTINF:-1,United States: KUSI
+https://player-api.new.livestream.com/accounts/25082096/events/7376073/live.m3u8
+#EXTINF:-1,United States: Latinos Up! TV
+https://5b38ce71f1f00.streamlock.net/8080/8080/chunklist_w956830983.m3u8
+#EXTINF:-1,United States: Law & Crime
+https://live-lawandcrime.simplestreamcdn.com/landc_d1/live.m3u8
+#EXTINF:-1,United States: Law & Crime 2
+https://live-lawandcrime.simplestreamcdn.com/landc_d2/live.m3u8
+#EXTINF:-1,United States: Law And Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1,United States: Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1,United States: Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1,United States: Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1,United States: Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1,United States: Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1,United States: Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1,United States: Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:-1,United States: Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:-1,United States: LifevisionTV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1,United States: Local Now Philidelphia
+https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
+#EXTINF:-1,United States: LoveWorld USA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1,United States: MCN6
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1,United States: Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1,United States: Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1,United States: Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1,United States: Mo Laughter
+https://nimble.dashstreams.net/onestudio/molaughter/chunks.m3u8
+#EXTINF:-1,United States: Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1,United States: Models Inc.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,United States: Movee 4U
+https://nimble.dashstreams.net/onestudio/movee4u/chunks.m3u8
+#EXTINF:-1,United States: Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1,United States: MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1,United States: MTV Norge
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1,United States: My TV (WPHL)
+https://v-pi.mybtv.net/event/17.1/1280x720?start_time=2019-12-11T19%3A45%3A00.000Z&end_time=2046&env=prd&uid=29375
+#EXTINF:-1,United States: MyHolyfield TV
+https://nimble.dashstreams.net/onestudio/holyfield/chunks.m3u8
+#EXTINF:-1,United States: NASA TV
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1,United States: NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,United States: NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,United States: Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
+#EXTINF:-1,United States: Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
+#EXTINF:-1,United States: Nat Geo People
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,United States: Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:-1,United States: Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1,United States: Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1,United States: NAT GEO Wild
+http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1952192977_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+#EXTINF:-1,United States: Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,United States: National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1,United States: National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1,United States: National Geographic
+http://livestream.biznetvideo.net/biznet_ngc/smil:ngc.smil/chunklist_w99579112_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1TT0Z6NFJEdW5XTVlLUjFLRzNqZHgxZzloMXZnX0E5WHRaV0JoS3JxSjltNGFfNzZsU2oyRjY5anFhSmh1VFhh.m3u8
+#EXTINF:-1,United States: National Geographic WILD (Backup)
+http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil/chunklist_w1571555785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1FOE8tZGNKY3MzSHNEU0drOEtDWFp0UW82XzlxWlhwUzI3QkY4OWJSdnZMakIyanVCRW9lZmtsS0VKOTlsZmxE.m3u8
+#EXTINF:-1,United States: National Geograpic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1,United States: NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,United States: NBC
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,United States: NBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
+#EXTINF:-1,United States: NBC 11 Pittsburgh PA (WPXI-HD)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1,United States: NBC 13 Des Moines IA (WHO-DT)
+http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
+#EXTINF:-1,United States: NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+#EXTINF:-1,United States: NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1,United States: NBC 26 (WGBA) Traffic
+https://player-api.new.livestream.com/accounts/4351235/events/3212914/live.m3u8
+#EXTINF:-1,United States: NBC 38 Columbus GA (WLTZ-DT)
+http://api.new.livestream.com/accounts/22400479/events/6650525/live.m3u8
+#EXTINF:-1,United States: NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1,United States: NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1,United States: NBC Charlotte NC (WCNC-TV)
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:-1,United States: NBC San Jose CA (KNTV)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1,United States: NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1,United States: NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:-1,United States: New Orleans TV
+http://bit.ly/2N6lxn9
+#EXTINF:-1,United States: New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1,United States: News 12 Brooklyn
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1,United States: News 12 Connecticut
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+#EXTINF:-1,United States: News 12 Hudson Valley
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:-1,United States: News 12 Long Island
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1,United States: News 12 New Jersey
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:-1,United States: News 12 The Bronx
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1,United States: News 12 Westchester
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+#EXTINF:-1,United States: News 12+ Connecticut
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:-1,United States: News 12+ Hudson Valley
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1,United States: News 12+ Long Island
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:-1,United States: News 12+ New Jersey
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:-1,United States: News 12+ New York City
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+#EXTINF:-1,United States: NewsChannel 21 (KTVZ)
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:-1,United States: Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1,United States: Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,United States: Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+#EXTINF:-1,United States: Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1,United States: NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1,United States: NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1,United States: Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1,United States: Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1,United States: NRBTV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1,United States: NYXT
+http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
+#EXTINF:-1,United States: Olelo 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:-1,United States: Olelo 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:-1,United States: Olelo 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1,United States: Olelo 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1,United States: Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1,United States: Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1,United States: Olympic Channel (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,United States: Olympic Channel (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1,United States: Olympic Channel (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,United States: Olympic Channel 2
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,United States: Olympic Channel 3
+http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1,United States: Olympic Channel 4
+http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1,United States: Olympic Channel 5
+http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1,United States: Olympic Channel 6
+http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1,United States: Opportunity Knocks
+https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
+#EXTINF:-1,United States: Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,United States: OUTDOOR CHANNEL
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+#EXTINF:-1,United States: Pac-12 Plus
+https://p12x-lh.akamaihd.net/i/pac12plus_delivery@198236/master.m3u8
+#EXTINF:-1,United States: PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1,United States: PBS Miami FL (WPBT-HD)
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1,United States: PBS Miami FL (WPBT-HD)
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1,United States: Planet Cannabis Entertainment
+https://nimble.dashstreams.net/onestudio/pce/chunks.m3u8
+#EXTINF:-1,United States: Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1,United States: QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1,United States: QVC (Backup)
+https://v-pi.mybtv.net/event/61.5/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,United States: QVC 2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1,United States: QVC 2 (Backup)
+https://v-pi.mybtv.net/event/4.7/640x480?start_time=2019-12-13T21%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,United States: QVC 3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1,United States: QVC 3 (Backup)
+https://v-pi.mybtv.net/event/41.4/640x480?start_time=2019-12-13T21%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,United States: Radio y Televisión Martí
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+#EXTINF:-1,United States: Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,United States: Retro TV
+https://v-pi.mybtv.net/event/2.5/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
+#EXTINF:-1,United States: Revelation TV
+http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1,United States: RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1,United States: RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1,United States: SafeTV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1,United States: SBN
+http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8
+#EXTINF:-1,United States: SBN
+http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:-1,United States: SBN Global
+http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+#EXTINF:-1,United States: SBN HD (16:9)(WTVE)
+https://v-pi.mybtv.net/event/51.1/1280x720?start_time=2019-12-20T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375
+#EXTINF:-1,United States: SBN SD (16:9)(WPHY-CD)
+https://v-pi.mybtv.net/event/25.1/768x432?start_time=2019-12-20T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375
+#EXTINF:-1,United States: SBN SD (4:3)(WPSJ-CD)
+https://v-pi.mybtv.net/event/8.3/640x480?start_time=2019-12-20T22%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375
+#EXTINF:-1,United States: Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1,United States: Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
+#EXTINF:-1,United States: Shop HQ (Backup)
+https://v-pi.mybtv.net/event/4.2/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,United States: Shop LC
+https://v-pi.mybtv.net/event/4.4/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,United States: Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1,United States: Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1,United States: Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1,United States: Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1,United States: Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1,United States: SPORT ILLUSTRATED
+https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
+#EXTINF:-1,United States: Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1,United States: Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1,United States: Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
+#EXTINF:-1,United States: Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,United States: Stadium (Backup)
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8
+#EXTINF:-1,United States: SubRang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1,United States: Super Tennis
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1,United States: Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1,United States: TastyTrade
+https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
+#EXTINF:-1,United States: TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1,United States: TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,United States: TCT
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_1200.m3u8
+#EXTINF:-1,United States: TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1,United States: Telemundo 44
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1,United States: Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1,United States: The 360 Channel
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1,United States: The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1,United States: The Country Network
+https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2026&env=prd&uid=24610
+#EXTINF:-1,United States: The Country Network
+https://v-la.mybtv.net/event/8.2/640x480?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2046&env=prd&uid=24610
+#EXTINF:-1,United States: The CW Charlotte NC (WCCB-DT)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:-1,United States: The CW Miami FL (WSFL-TV)
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1,United States: The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1,United States: The Florida Channel
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:-1,United States: The Now Network
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:-1,United States: The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1,United States: The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1,United States: THE PET COLLECTIVE
+https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
+#EXTINF:-1,United States: The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1,United States: The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1,United States: The Shopping Channel HD
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-b.m3u8
+#EXTINF:-1,United States: The Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,United States: The Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,United States: The Weather Channel
+http://bit.ly/2wQwd1G
+#EXTINF:-1,United States: The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,United States: The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,United States: The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1,United States: Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1,United States: TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,United States: Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:-1,United States: TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,United States: TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,United States: TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,United States: UALR TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:-1,United States: Uncion 24
+http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+#EXTINF:-1,United States: USA
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1,United States: UWW-TV
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
+#EXTINF:-1,United States: Venus TV (US Eastern)
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+#EXTINF:-1,United States: Venus TV (US Pacific)
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+#EXTINF:-1,United States: VH1
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:-1,United States: Victory Television Network
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:-1,United States: Viva Cristo TV
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+#EXTINF:-1,United States: VoA TV
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,United States: VoA TV
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1,United States: VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1,United States: VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1,United States: VSiN
+http://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
+#EXTINF:-1,United States: VSiN
+http://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
+#EXTINF:-1,United States: WALB
+https://player-api.new.livestream.com/accounts/11279058/events/3645614/live.m3u8
+#EXTINF:-1,United States: WCCA-TV (Worcester)
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1,United States: WCLF
+http://162.244.80.254:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,United States: Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+#EXTINF:-1,United States: WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,United States: WFTV 9
+https://svc-lv-cxtv-wftv.cmgvideo.com/out/u/WFTVN1.m3u8
+#EXTINF:-1,United States: WGN-TV (Chicago)
+http://bit.ly/2z8NPLB
+#EXTINF:-1,United States: WGN-TV (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,United States: WHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1,United States: WHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
+#EXTINF:-1,United States: White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1,United States: WHPR
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1,United States: Wink TV
+https://nimble.dashstreams.net/onestudio/winktv/chunks.m3u8
+#EXTINF:-1,United States: WMCN
+https://v-pi.mybtv.net/event/44.1/1280x720?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375
+#EXTINF:-1,United States: WMFD
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,United States: WPHA
+https://v-pi.mybtv.net/event/24.1/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
+#EXTINF:-1,United States: WSJ
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1,United States: WXXV 25 Gulfport MS (WXXV)
+http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
+#EXTINF:-1,United States: Xcorps TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1,United States: Yoo Too America
+https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/playlist.m3u8
+#EXTINF:-1,United States: Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1,United States: Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:-1,Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg TV*
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+#EXTINF:-1,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:-1,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:-1,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1,The Blaze
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,RT America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLB Network*
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+#EXTINF:-1,NBA TV
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+#EXTINF:-1,NBC Golf [NoRoku]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8
+#EXTINF:-1,Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+#EXTINF:-1,FreeForm [NoKodi]
+https://videoserver2.org/live/mHwxt8kU2oOl862qOFE58w/1507031391/654bc354612eeefee71cd611b175730c.m3u8
+#EXTINF:-1,Investigation Discovery
+http://216.31.255.235/hlsl/8/fEfreTraX6guINVDSC/fEfreTraX6guINVDSC.m3u8
+#EXTINF:-1,NatGeo Wild [Off]
+http://216.31.255.235/hlsl/1/NATWLDxuvujAk7Cr4t/NATWLDxuvujAk7Cr4t.m3u8
+#EXTINF:-1,Science Channel
+http://216.31.255.235/hlsl/11/SCIENCEtefEth2SuQuh/SCIENCEtefEth2SuQuh.m3u8
+#EXTINF:-1,truTV
+http://216.31.255.235/hlsl/7/TRUTVthutRezU4Ted/TRUTVthutRezU4Ted.m3u8
+#EXTINF:-1,Velocity
+http://216.31.255.235/hlsl/6/fe6puFAsucreVELOCITY/fe6puFAsucreVELOCITY.m3u8
+#EXTINF:-1,Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,Channel 7 [NoRoku]
+http://radio.7chan.org:8000/CH7
+#EXTINF:-1,Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+#EXTINF:-1,The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,D23 TV
+http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
+#EXTINF:-1,Ditty TV
+http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+#EXTINF:-1,Evine [Off]
+http://shophqlivehls-i.akamaihd.net/hls/live/217244/onair/master.m3u8
+#EXTINF:-1,Home Shopping Network
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+#EXTINF:-1,MeTV
+http://video.metv.com/metv/index.m3u8
+#EXTINF:-1,NASA TV Public
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,NASA TV Media
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1,QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,Rev'n
+http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
+#EXTINF:-1,SupTV
+http://91.134.238.137/live/alpha/index.m3u8
+#EXTINF:-1,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1,Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+#EXTINF:-1,TWiT.TV
+http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+#EXTINF:-1,Wilderness Channel
+http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
+#EXTINF:-1,Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1,ASD TV
+http://64.22.99.223/AnchorageSchoolsAKLIVE/_definst_/AnchorageSchoolsAKLIVE.stream/chunklist.m3u8
+#EXTINF:-1,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1,District Knowledge Network
+http://video.oct.dc.gov/out/u/96_4.m3u8
+#EXTINF:-1,Escambia TV
+http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,The Florida Channel
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1,Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:-1,Greenbelt TV
+http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8
+#EXTINF:-1,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1,Laurel TV
+https://crimson.ebmcdn.net/laurel/smil:laurel.smil/chunklist.m3u8
+#EXTINF:-1,Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+#EXTINF:-1,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1,PGCPS
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
+#EXTINF:-1,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1,SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
+#EXTINF:-1,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1,Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+#EXTINF:-1,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,Temple TV
+http://streaming.temple.edu/tutvlive/_definst_/mp4:play/chunklist.m3u8
+#EXTINF:-1,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1,UCTV
+http://ucsdtv-wowza.ucsd.edu:1935/live/live_800/playlist.m3u8
+#EXTINF:-1,UGA TV
+http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
+#EXTINF:-1,White Plains TV
+http://oflash.dfw.swagit.com/live/whiteplainsny/live-b-2/chucklist.m3u8
+#EXTINF:-1,WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
