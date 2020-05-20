@@ -28,13 +28,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.g
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-usa/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
 http://live.highstream.club/live/BEINSPORTSESP/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-esp-us/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORT LA LIGA esp[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORT LA LIGA esp[/B][/COLOR]
 http://live.highstream.club/live/BEINSPORTLALIGA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sport-la-liga-esp/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 
 
@@ -103,8 +103,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76940
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/169
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
@@ -147,14 +147,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.eirsport.ie/uploads/eir/package/logos/eirSport2.png",[COLOR orange][B]EIR SPORTS 2 | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1648.png",[COLOR orange][B]Eleven Sports | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51426
+EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1648.png",[COLOR orange][B]Eleven Sports | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1648.png",[COLOR orange][B]Eleven Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN  ESPN  ESPN  ESPN  ESPN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn HD | USA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.live.streamspro/?url=%24doregex%5Bget-decode%5D%7CReferer%3Dhttp%3A%2F%2Fyoursports.stream%2Fing%2Fespn%26User-Agent%3DMozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A56.0%29+Gecko%2F20100101+Firefox%2F56.0&mode=17&regexs=%7Bu%27source%27%3A%20%7B%27expres%27%3A%20u%27src%3D%22%28http%3A%5C%5C/%5C%5C/yrsprts.xyz%5B%5E%22%5D%2A%29%27%2C%20%27name%27%3A%20u%27source%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/%27%7D%2C%20u%27base64%27%3A%20%7B%27expres%27%3A%20u%22mustave%20%3D%20atob.%27%28.%2A%3F%29%27%22%2C%20%27cookiejar%27%3A%20%27%27%2C%20%27name%27%3A%20u%27base64%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/ing/espn%27%7D%2C%20u%27get-decode%27%3A%20%7B%27expres%27%3A%20u%27%24pyFunction%3Abase64.b64decode%28%22%24doregex%5Bbase64%5D%22%29%27%2C%20%27name%27%3A%20u%27get-decode%27%2C%20%27page%27%3A%20u%27None%27%7D%7D
 EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
@@ -168,12 +168,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/SsPfXxs/3511.png",[COLOR orange][B]Espn Brasil HD[/B][/COLOR]
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn Extra HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn HD | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76920
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51417
+EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/stream/43572.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
@@ -185,8 +185,8 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | U
 |Referer=http://123tvnow.com/watch/espn2/
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn2.m3u8|Referer=https://box-live.stream/stream/45351.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
-#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51418
+EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76919
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | SD[/B][/COLOR]
@@ -221,8 +221,8 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGH
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGHORN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGHORN | USA[/B][/COLOR]
-plugin://plugin.video.live.streamspro/?url=%24doregex%5Bget-decode%5D%7CReferer%3Dhttp%3A%2F%2Fyoursports.stream%2Fing%2Flhn%26User-Agent%3DMozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A56.0%29+Gecko%2F20100101+Firefox%2F56.0&mode=17&regexs=%7Bu%27source%27%3A%20%7B%27expres%27%3A%20u%27src%3D%22%28http%3A%5C%5C/%5C%5C/yrsprts.xyz%5B%5E%22%5D%2A%29%27%2C%20%27name%27%3A%20u%27source%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/%27%7D%2C%20u%27base64%27%3A%20%7B%27expres%27%3A%20u%22mustave%20%3D%20atob.%27%28.%2A%3F%29%27%22%2C%20%27cookiejar%27%3A%20%27%27%2C%20%27name%27%3A%20u%27base64%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/ing/lhn%27%7D%2C%20u%27get-decode%27%3A%20%7B%27expres%27%3A%20u%27%24pyFunction%3Abase64.b64decode%28%22%24doregex%5Bbase64%5D%22%29%27%2C%20%27name%27%3A%20u%27get-decode%27%2C%20%27page%27%3A%20u%27None%27%7D%7D
+EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGHORN | USA[/B][/COLOR]
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN SEC Network ESPN SEC Network ESPN SEC Network <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -243,13 +243,13 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/Ulb3R6e.png",[COLOR orange][B]ESPN NEWS 
 http://hls.123tv.live/ch/yY_GZMvF9FCozr49ftl6Zw/1586292710/espnews.m3u8|Referer=http://123tvnow.com/watch/espn-news/
 EXTINF:-1 tvg-logo="https://i.imgur.com/Ulb3R6e.png",[COLOR orange][B]ESPN News | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn_news.m3u8|Referer=https://box-live.stream/stream/45458.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ulb3R6e.png",[COLOR orange][B]ESPN News | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vpz902.slt.best:80/francy.raddi/dxiPYraykD/97589
+EXTINF:-1 tvg-logo="https://i.imgur.com/Ulb3R6e.png",[COLOR orange][B]ESPN News | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51419
+EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76917
 EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
@@ -298,8 +298,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77135
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/145
+EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 |Referer=http://123tvnow.com/watch/fox-sports-1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
@@ -313,12 +313,12 @@ plugin://plugin.video.f4mTester/?url=//////////////////&amp;streamtype=HLSRETRY&
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77136
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vpz902.slt.best:80/francy.raddi/dxiPYraykD/97593
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/146
+EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
@@ -361,8 +361,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://dscxx9mer61ho.cloudfront.net/wp-content/uploads/TV-Fox506.png" ,[B][COLORorange]Fox Sports 506 HD | USA[/B][/COLOR]
 http://45.58.62.92:8080
 ====================================================================== Fox Soccer Plus ============================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/77120
+EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 ====================================================================== FTF NEXT ===================================================================
@@ -521,18 +521,18 @@ http://190.2.154.164/TV3920
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NFL Network  NFL Network  NFL Network  NFL Network  NFL Network <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png",[B][COLORorange]NFL Network | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.133:25461/Galaxy/Fubo/82
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png",[B][COLORorange]NFL Network | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 |Referer=http://123tvnow.com/watch/nfl-network/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png",[B][COLORorange]NFL Network | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vpz902.slt.best:80/francy.raddi/dxiPYraykD/97583
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png",[B][COLORorange]NFL Network | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.39.105.133:25461/Galaxy/Fubo/82
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png",[B][COLORorange]NFL Network | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png",[B][COLORorange]NFL Network | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 
 EXTINF:-1 tvg-logo="https://www.sweetpickleproductions.com/wp-content/uploads/2015/01/nfl_now.jpg",[B][COLORorange]NFL NOW | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/mizygg.png",[B][COLORorange]NFL NOW[/B][/COLOR] 
+#EXTINF:-1 tvg-logo="https://www.sweetpickleproductions.com/wp-content/uploads/2015/01/nfl_now.jpg",[B][COLORorange]NFL NOW[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76863
 
 EXTINF:-1 tvg-logo="https://static.nfl.com/static/content/public/static/img/navigation/shields/header-shield.png",[B][COLORorange]NFL (Match time only)[/B][/COLOR] 
@@ -544,8 +544,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.re
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NHL Network  NHL Network  NHL Network  NHL Network  NHL Network <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png",[B][COLORorange]NHL Network | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76887
+EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png",[B][COLORorange]NHL Network | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 |Referer=http://123tvnow.com/watch/nhl-network/
 EXTINF:-1 tvg-logo="https://i.ibb.co/pv9L5s6/images.png",[B][COLORorange]NHL Network | low bandwith[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -750,7 +750,7 @@ EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/specsports.
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9ZuAZb.jpg" group-title="Sport",[B][COLORorange]Sportal HD [/COLOR][/B]
 http://api.new.livestream.com/accounts/3888956/events/4187384/live.m3u8
-#EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/t%E1%BA%A3i-xu%E1%BB%91ng-300x160.png" group-title="Sport",[B][COLORorange]Sportsman Channel [/COLOR][/B]
+EXTINF:-1 tvg-logo="http://myustv.com/wp-content/uploads/2020/05/t%E1%BA%A3i-xu%E1%BB%91ng-300x160.png" group-title="Sport",[B][COLORorange]Sportsman Channel [/COLOR][/B]
 http://live.highstream.club/live/SPORTSMANCHANNEL/chunks.m3u8|Referer=http://myustv.com/watch/sportsman-channel/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Sports-Net   Sports-Net  Sports-Net   Sports-Net   Sports-Net  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -760,8 +760,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/220px-SNY_logo.svg.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET NY|USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/147
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET 360[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -781,9 +781,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET EAST[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/149
-
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -793,9 +790,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/148
+
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -807,9 +807,6 @@ EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-
 
 
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/2434
-
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -819,8 +816,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/8890
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET PACIFIC[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -828,8 +825,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.148.101:8000/jack123/jack123/150
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WEST[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -841,8 +841,8 @@ EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #########################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" ,[B][COLORorange]Stadium | SD[/B][/COLOR]
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" ,[B][COLORorange]Stadium | SD[/B][/COLOR]
+
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" ,[B][COLORorange]SUPER SOCCER TV | USA[/B][/COLOR]
 
 ########################################################################################################################################################
@@ -906,20 +906,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.re
 plugin://plugin.video.f4mTester/?url=--------------------------&amp;streamtype=HLS
 ================================================================================================================
 
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51431
+EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/TSN1_new.png/revision/latest?cb=20150906020053" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest?cb=20150906015918" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51432
+EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/TSN2.png/revision/latest?cb=20150906015918" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest?cb=20150709183134" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51433
+EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest?cb=20150709183134" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png/revision/latest?cb=20150906015754" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51434
+EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png/revision/latest?cb=20150906015754" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest?cb=20150709183505" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.germanyservers.co:8000/eray/eray/51435
+EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest?cb=20150709183505" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 ===============================================================================================================
 EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 1 HD
@@ -969,18 +969,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://mymmanews.com/wp-content/uploads/2015/04/ufc-tv-stream.jpg",[B][COLORorange]UFC TV[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 ==========================================================================================================
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y59P6pt/images-20.jpg" group-title="USA",[COLOR orange][B]Willow Cricket | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76858
+EXTINF:-1 tvg-logo="https://i.ibb.co/y59P6pt/images-20.jpg" group-title="USA",[COLOR orange][B]Willow Cricket | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 ==========================================================================================================
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  WWE Network WWE Network WWE Network WWE Network WWE Network WWE Network <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
 |Referer=http://123tvnow.com/watch/wwe-network/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76857
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE PPV HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://panel.restpremium.cf:8080/serverbr/0392332904/76856
+EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE PPV HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
