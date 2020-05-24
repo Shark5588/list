@@ -351,10 +351,11 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
-https://origin.topcanais.com/mylive/foxsportshd/video.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/fox/index.m3u8?token=test&amp;streamtype=HLSRETRY&amp;name=FOX
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Sport",[B][COLORorange]Fox Sports News[/B][/COLOR]
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
 
 ====================================================================== FOX 506 ====================================================================
 #EXTINF:-1 tvg-logo="https://dscxx9mer61ho.cloudfront.net/wp-content/uploads/TV-Fox506.png" ,[B][COLORorange]Fox Sports 506 HD | USA[/B][/COLOR]
@@ -924,13 +925,13 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 1 HD
 plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/tsn1/index.m3u8?token=test&amp;streamtype=HLSRETRY&amp;name=TSN 1 HD
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 2 HD 
-http://62.112.9.63:88/tsn2/index.m3u8?token=test
+plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/tsn2/index.m3u8?token=test&amp;streamtype=HLSRETRY&amp;name=TSN 2 HD
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png",TSN 3 HD 
-http://62.112.9.63:88/tsn3/index.m3u8?token=test
+plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/tsn3/index.m3u8?token=test&amp;streamtype=HLSRETRY&amp;name=TSN 3 HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 4 HD 
-http://62.112.9.63:88/tsn4/index.m3u8?token=test
+plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/tsn4/index.m3u8?token=test&amp;streamtype=HLSRETRY&amp;name=TSN 4 HD
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 5 HD
-http://62.112.9.63:88/tsn5/index.m3u8?token=test
+plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/tsn5/index.m3u8?token=test&amp;streamtype=HLSRETRY&amp;name=TSN 5 HD
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
