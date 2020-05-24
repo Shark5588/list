@@ -887,20 +887,20 @@ EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-EXTINF:-1  tvg-logo="https://i.ibb.co/kmQhdbG/3522.png" ,TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1  tvg-logo="https://i.ibb.co/kmQhdbG/3522.png" ,TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.112.9.63:88/tsn1/index.m3u8?token=test
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/dtD0WNy/3523.png" ,TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dtD0WNy/3523.png" ,TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.112.9.63:88/tsn2/index.m3u8?token=test
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/BjKpQGR/3524.png",TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1  tvg-logo="https://i.ibb.co/BjKpQGR/3524.png",TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.112.9.63:88/tsn3/index.m3u8?token=test
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/W3Z0nBq/3525.png" ,TSN 4 HD 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W3Z0nBq/3525.png" ,TSN 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.112.9.63:88/tsn4/index.m3u8?token=test
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/vDPbfsQ/3526.png" ,TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDPbfsQ/3526.png" ,TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.112.9.63:88/tsn5/index.m3u8?token=test
 
 plugin://plugin.video.f4mTester/?url=--------------------------&amp;streamtype=HLS
 ================================================================================================================
@@ -921,16 +921,16 @@ EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 ===============================================================================================================
-EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 1 HD
-
-EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 2 HD 
-
-EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png",TSN 3 HD 
-
-EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 4 HD 
-
-EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 5 HD
-
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 1 HD
+http://62.112.9.63:88/tsn1/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 2 HD 
+http://62.112.9.63:88/tsn2/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png",TSN 3 HD 
+http://62.112.9.63:88/tsn3/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 4 HD 
+http://62.112.9.63:88/tsn4/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/TSN-logo-1B18A527C8-seeklogo.com.png" ,TSN 5 HD
+http://62.112.9.63:88/tsn5/index.m3u8?token=test
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -972,6 +972,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0VI7V1A.png" group-title="USA",[B][COLORorange]USA Network[/B][/COLOR]
 http://cdnak8.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VI7V1A.png" group-title="USA",[B][COLORorange]USA Network[/B][/COLOR]
+http://62.112.9.63:88/USA_NETWORK/index.m3u8?token=test
 ==========================================================================================================
 EXTINF:-1 tvg-logo="https://i.ibb.co/y59P6pt/images-20.jpg" group-title="USA",[COLOR orange][B]Willow Cricket | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
