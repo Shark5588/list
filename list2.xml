@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 5/25/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 5/26/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,236 +17,865 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="6dbf2fc5b03c573488ef43f9c196253e",&Flix
-http://202.163.117.6:9981/stream/channelid/1160757101?ticket=948171BE0CAB454E69E92E1305FB88BABB698EC5&profile=pass
-#EXTINF:-1 tvg-id="b023279732bdd0bd19b82af98a94bae3",Colors Infinity
-http://202.163.117.6:9981/stream/channelid/388441008?ticket=B6C22CCE524069417138A606728B2012A3669334&profile=pass
-#EXTINF:-1 tvg-id="044965ca70f0ac42bbb29e8c036c9624",Sony Max
-http://202.163.117.6:9981/stream/channelid/1248151812?ticket=DEEE04ED3B8BC15994A1B0B67D531883B3A42D96&profile=pass
-#EXTINF:-1 tvg-id="eef60e70be6bfbcb5601879e8ebfeada",Star Plus
-http://202.163.117.6:9981/stream/channelid/1880028910?ticket=0731707873F18796A2FA430FE430A9832DCFF8DD&profile=pass
-#EXTINF:-1 tvg-id="c6971988b79fad8ebdabb023e3ebc6c8",UTV Action
-http://202.163.117.6:9981/stream/channelid/135894982?ticket=57BB77A48650F4E5E9DFCCB33D73314D25A1852D&profile=pass
-#EXTINF:-1 tvg-id="c75a2b4a41f6eb6539074639c5e5e1f0",Zee Cafe
-http://202.163.117.6:9981/stream/channelid/1244355271?ticket=6C13C3995A155C5B17692633D1C8B001245EC3E7&profile=pass
-#EXTINF:-1 tvg-id="3c76ed471fdab47273f7921988dd6fcf",Zee TV
-http://202.163.117.6:9981/stream/channelid/1206744636?ticket=278E51C4186CADED14CF040B2A999AC0040B9494&profile=pass
-#EXTINF:-1 tvg-id="8d51284dffa13dd2d2c37cea1661dfe1",&Pictures
-http://202.163.117.6:9981/stream/channelid/1294487949?ticket=5D7121291CDBB63985D82C721872459CBAD2753E&profile=pass
-#EXTINF:-1 tvg-id="463296255bb0d9213e0397ba65648ccf",Cartoon Network
-http://202.163.117.6:9981/stream/channelid/630600262?ticket=C503283286D193A50543EC57CD21DF2025E480CF&profile=pass
-#EXTINF:-1 tvg-id="a71ef3163040e48e265f86e558db225c",Colors
-http://202.163.117.6:9981/stream/channelid/385031847?ticket=2F301179079693764F536B3B67A9FE7BB212F5B0&profile=pass
-#EXTINF:-1 tvg-id="1e1de0eea6f60c3a13f5bd167c57ed2f",HBO
-http://202.163.117.6:9981/stream/channelid/1860181278?ticket=D4B5963BFA9C42F837B8B94CFAEA0B4CC6E4AAB6&profile=pass
-#EXTINF:-1 tvg-id="1c9edb9d22399096e28ee51b3d0c66fe",History Channel
-http://202.163.117.6:9981/stream/channelid/500932124?ticket=655B4AB793421876DDD52218A73055B571C54A55&profile=pass
-#EXTINF:-1 tvg-id="0dbab77c70626e2a9da149c42530075e",Movies Now
-http://202.163.117.6:9981/stream/channelid/2092415501?ticket=1491F0E29948D2604289BACC9AE993C33DF12557&profile=pass
-#EXTINF:-1 tvg-id="36a87b9bfb7b7406757a7bf50ac6f26f",Nat Geo Wild
-http://202.163.117.6:9981/stream/channelid/461088822?ticket=0F7A46FAE742A767BAC22CE25589E8CE29CD7AB2&profile=pass
-#EXTINF:-1 tvg-id="eea3d1f2bc54ee99987b2b4cf94f6c62",Nick
-http://202.163.117.6:9981/stream/channelid/1926341614?ticket=1579A6DED59DB5495B26065030F6532FF2EE700E&profile=pass
-#EXTINF:-1 tvg-id="85e3079fae5674448272261c90b742ee",Sony Ten 2
-http://202.163.117.6:9981/stream/channelid/520610693?ticket=92D216476C90BD853136867ABA33D0E2CCFED127&profile=pass
-#EXTINF:-1 tvg-id="80009ebec313dc462c32f43659b70af4",Star Bharat
-http://202.163.117.6:9981/stream/channelid/1050542208?ticket=F00FA8E2CE088AE6722CB6CC4C074E04BD8CB2F4&profile=pass
-#EXTINF:-1 tvg-id="d67ca38251b97b8215dfead41072056c",Star Sports 1 Hindi
-http://202.163.117.6:9981/stream/channelid/44268758?ticket=A82C94F922D58554B3298AC1181FB76D54FC0F7E&profile=pass
-#EXTINF:-1 tvg-id="64d6f0d3578d3cb83c699a0cc984a1ad",Star Sports 2
-http://202.163.117.6:9981/stream/channelid/1408292452?ticket=AA2AB7815AFC2ADAC8BAEAD107D830EC676EAA92&profile=pass
-#EXTINF:-1 tvg-id="75fb4ec1ca6ccdef0d21045a9d27c1ab",UTV Movies
-http://202.163.117.6:9981/stream/channelid/1095695221?ticket=5D9882775547F3863CB67F40F4D014A4839CD261&profile=pass
-#EXTINF:-1 tvg-id="99a101e21a8a9284debf17ed494b467f",WB
-http://202.163.117.6:9981/stream/channelid/1644274073?ticket=E2F024788417FE0CC2E124B9AD66BE55A91610D0&profile=pass
-#EXTINF:-1 tvg-id="25a548573e6495859db4c2dbea9c1166",Zee Cinema
-http://202.163.117.6:9981/stream/channelid/1464378661?ticket=2217D634CAC1CD39C7E897A10B946B7D56E409EB&profile=pass
-#EXTINF:-1 tvg-id="08b236a655679d1550c428a164a60b87",MNX
-http://202.163.117.6:9981/stream/channelid/641118728?ticket=F0F511F40637E059DBA0D065B85030220F84AE67&profile=pass
-#EXTINF:-1 tvg-id="647c3560862292fdcfa2082954b4459d",Nat Geo
-http://202.163.117.6:9981/stream/channelid/1614117988?ticket=DC6F5CCFF69874D213A0D85F7B9EAE8DB90EE823&profile=pass
-#EXTINF:-1 tvg-id="e83b617667efb002ac1ddc2b4d8268c3",Sony Six
-http://202.163.117.6:9981/stream/channelid/1986083816?ticket=6F379E9C2D1EAA0EF74FB9397E6CA1F58E3FD20A&profile=pass
-#EXTINF:-1 tvg-id="6bdbed9fe0348da0783f3b6b9a76d9a6",Sony TV
-http://202.163.117.6:9981/stream/channelid/535681899?ticket=7C43136C69D36905647DFA639D4BCE0277166BB1&profile=pass
-#EXTINF:-1 tvg-id="8a09ee4416c361ea85a22eac6036ce9a",Sony Ten 3
-http://202.163.117.6:9981/stream/channelid/1156450698?ticket=C7F496E1B9BB6A846B9FF4C3D189436F318114DF&profile=pass
-#EXTINF:-1 tvg-id="9884c2dadda0e63def41c25e7abfe8da",&TV
-http://202.163.117.6:9981/stream/channelid/1522697368?ticket=C748A9874B87473A5CEB9174A1B4D94FB2A79A64&profile=pass
-#EXTINF:-1 tvg-id="2e41585cc871d6b204bbd56fb39ceafb",Animal Planet
-http://202.163.117.6:9981/stream/channelid/1549287726?ticket=70AF6F92D71155C92CA5DA06DDD0F92C5FB7AFCB&profile=pass
-#EXTINF:-1 tvg-id="87485026bf8396b3174ee79ea18e5fb7",Comedy Central
-http://202.163.117.6:9981/stream/channelid/642795655?ticket=0AA4963B432816725552FD3F12610BD7801E0F20&profile=pass
-#EXTINF:-1 tvg-id="fce40e85abb32de91203029cb9e508ba",Discovery
-http://202.163.117.6:9981/stream/channelid/84862204?ticket=41FC272370BCF50C88B23B2AB93B3D6622B75345&profile=pass
-#EXTINF:-1 tvg-id="011ace9456e3271d7fcdc263e599a6e5",Disney
-http://202.163.117.6:9981/stream/channelid/349051393?ticket=CD47DFFB6032D2F62F5A8F92BAC3E159A2847CA1&profile=pass
-#EXTINF:-1 tvg-id="94c2ef50d765718a1bbc8512d5c5080f",Hugama
-http://202.163.117.6:9981/stream/channelid/1357890196?ticket=AE8C707FC5820CCB54C2F689AC429656122ADD9D&profile=pass
-#EXTINF:-1 tvg-id="ef2264dcac0e06d43d7397dbf8c23593",Living Foodz
-http://202.163.117.6:9981/stream/channelid/1550066415?ticket=21F0BAD74EDE5F6A363751D013D800730ADBE8B5&profile=pass
-#EXTINF:-1 tvg-id="88470234c184a16afbf54d6d268927dc",Pogo
-http://202.163.117.6:9981/stream/channelid/872564616?ticket=80F3AE3956C48E4E5842E934F12B0C2964A42048&profile=pass
-#EXTINF:-1 tvg-id="e4a11ed85f6e64b6fa615161bc63cf86",Sony Sab
-http://202.163.117.6:9981/stream/channelid/1478402532?ticket=7B114F1AF3BDA8DAFA45BEE33B8C0FDCB484B476&profile=pass
-#EXTINF:-1 tvg-id="d3de25481c199b5a3952d481ce319f04",Star Movies
-http://202.163.117.6:9981/stream/channelid/1210441427?ticket=7C9C7C0ECC618581DA4063F18B7146013AD24D2F&profile=pass
-#EXTINF:-1 tvg-id="cf7d3b6e56507022c8637e4b19d4e475",Star Gold
-http://202.163.117.6:9981/stream/channelid/1849392591?ticket=DE9D1927621F76DB7B4D65215FBDF3B9E357A25B&profile=pass
-#EXTINF:-1 tvg-id="febaf0c01f654cb46384cb265dd84ad7",Star Sports 1
-http://202.163.117.6:9981/stream/channelid/1089518334?ticket=4FCFA6203DF9D1297681F3BE9546F644417B01A3&profile=pass
-#EXTINF:-1 tvg-id="c090f7ab7482ca1a6a702c3bf29d563b",Star World
-http://202.163.117.6:9981/stream/channelid/737644736?ticket=435F9E1A905E87813DE8CB7AA913A9D39CE076D6&profile=pass
-#EXTINF:-1 tvg-id="d1e9c588b9b79fee0975944c8dacd838",Zee Action
-http://202.163.117.6:9981/stream/channelid/147188177?ticket=7D7C60E066BAFF9696F163CA7672821E1D5C8745&profile=pass
-#EXTINF:-1 tvg-id="af2e7f7186bee26ff0b0c66aa90dceba",Zee ETC Bollywood
-http://202.163.117.6:9981/stream/channelid/1904160431?ticket=54F910EEAA66143EB09631E381010B13022545B5&profile=pass
-#EXTINF:-1 tvg-id="43dd7c5f6e201419d60cf81fed0e2417",AXN- Rs 5
-http://202.163.117.6:9981/stream/channelid/1602018627?ticket=FA418FDFBDB01E078727F3A81F65AC5F7A62773F&profile=pass
-#EXTINF:-1 tvg-id="ed956ec6d92c697f4fed2d768dab6182",Star Gold 2- Rs 1
-http://202.163.117.6:9981/stream/channelid/1181652461?ticket=FD3A86BCBA6D0776635270F609B0575BEE311458&profile=pass
-#EXTINF:-1 tvg-id="edab905f2c8d1a86d7ad913ef43c545b",SONY TEN 1- Rs 19
-http://202.163.117.6:9981/stream/channelid/1603316717?ticket=48F4A3CDDED8003EBD8F231F982065DDFE7C5D75&profile=pass
-#EXTINF:-1 tvg-id="8b57bc1d5c521839068bc27f42f740d7",ZEE BOLLYWOOD- Rs 2
-http://202.163.117.6:9981/stream/channelid/498882443?ticket=672CD2712263A3D9FFF75DB5FB9FE2A512C2056E&profile=pass
-#EXTINF:-1 tvg-id="ede2681f2ebf741a04d0106d7bf399bc",POP HD
-http://202.163.117.6:9981/stream/channelid/526967533?ticket=5394FD33725C518139FAE583477E22273E7398DE&profile=pass
-#EXTINF:-1 tvg-id="cfd363b06d73aaa9413bd041ed9aa001",BBC Earth HD
-http://202.163.117.6:9981/stream/channelid/811848655?ticket=65717EBA202CAA7E6A59213FBE8BC5EE3AA5931E&profile=pass
-#EXTINF:-1 tvg-id="7ec2805f7960bc8440a139ca3145aa6e",BBC First
-http://202.163.117.6:9981/stream/channelid/1602273918?ticket=4DC104DCAFE700EB4536B44FB292F472D0FD0D93&profile=pass
-#EXTINF:-1 tvg-id="3dc67211a1ec12bd13b63f5c26b787aa",HBO2 HD
-http://202.163.117.6:9981/stream/channelid/292734525?ticket=B59B3192C934CECA961A0878621D22127691F003&profile=pass
-#EXTINF:-1 tvg-id="deabe420710239db41a70a2329eb0d02",HBO3 HD
-http://202.163.117.6:9981/stream/channelid/551857118?ticket=AD77FD83E5D4261F2553AB8849F1D69560F74CDE&profile=pass
-#EXTINF:-1 tvg-id="35cbfd065f74bad4a8e4b2a47c2de651",Canal+ HD
-http://202.163.117.6:9981/stream/channelid/117295925?ticket=C10D06FF2CA6AE45A05341D37D8E3C56557153B9&profile=pass
-#EXTINF:-1 tvg-id="b5b145e4dbdc704d90c31288c917c4f4",Canal+ Sport HD
-http://202.163.117.6:9981/stream/channelid/1682289077?ticket=E0579CC0AB8E9694268C3D929E427B6AC1D90BC9&profile=pass
-#EXTINF:-1 tvg-id="928531f47c2938834dc2bdd811d0c2fc",MiniMini+ HD
-http://202.163.117.6:9981/stream/channelid/1949402514?ticket=01A8D2B3E9B275173CDA16932843D3D241E4DEDD&profile=pass
-#EXTINF:-1 tvg-id="5439ae44fa8e27536bf9535a29843a09",Nat Geo HD
-http://202.163.117.6:9981/stream/channelid/1152268628?ticket=C9A4FD77BAB2CDA6909D1946C99602DC64473218&profile=pass
-#EXTINF:-1 tvg-id="b575de0852b656b572e217c4125162fb",13 Ulica HD
-http://202.163.117.6:9981/stream/channelid/148796853?ticket=AE28DE8D2A95E01679F6F4C49A798836A7661C7C&profile=pass
-#EXTINF:-1 tvg-id="dd5968c34f5ef25a065d83a86ca079f6",Eurosport 1 HD
-http://202.163.117.6:9981/stream/channelid/1130912221?ticket=51E34829AE38692D3F0D83014CF0B6CCB9414F1A&profile=pass
-#EXTINF:-1 tvg-id="1f532740c487bd20a4977cddf654d7a8",SciFi HD
-http://202.163.117.6:9981/stream/channelid/1076319007?ticket=71A0C8B66E864E80F9293B683AD67B9796FCB931&profile=pass
-#EXTINF:-1 tvg-id="62c12fcb0cabbd20bd7a7d353966d3d3",AXN Spin HD
-http://202.163.117.6:9981/stream/channelid/1261420898?ticket=2B510FB2445EC8513A55CB6A3CE6AB9FDBEF0388&profile=pass
-#EXTINF:-1 tvg-id="ac2ef92c47566dc7641564be17b96103",CBS Reality HD
-http://202.163.117.6:9981/stream/channelid/754527916?ticket=9A8A4E4D793FCB532A85A39AE33FEAC648DBA546&profile=pass
-#EXTINF:-1 tvg-id="9fe3913935c9d402688d2a8415d4d791",Discovery Life HD
-http://202.163.117.6:9981/stream/channelid/965862303?ticket=C02528E6980F2AA3A7ACFFDE751B5A40B0C4A902&profile=pass
-#EXTINF:-1 tvg-id="0ce542fcae1e6fda478ec910d3dec375",Ale kino+ HD
-http://202.163.117.6:9981/stream/channelid/2084758796?ticket=FD0870B5D27387B6D3A9D14F3007203633035163&profile=pass
-#EXTINF:-1 tvg-id="29861af57db2659a900074fe19a599ce",Canal+ Family HD
-http://202.163.117.6:9981/stream/channelid/1964672553?ticket=591C0195B0C175AA5D3F10D4464406872D7321D4&profile=pass
-#EXTINF:-1 tvg-id="bb24507ffb990586b485f056a82b49f4",Canal+ Film HD
-http://202.163.117.6:9981/stream/channelid/2135958715?ticket=87124B101CBDE60A6196728866D6B09A65ABBC44&profile=pass
-#EXTINF:-1 tvg-id="e081bb92604b9df639d6df6dd8fda53d",Canal+ Seriale HD
-http://202.163.117.6:9981/stream/channelid/314278368?ticket=AD0B63144974C1158D211D369385B0954720D45F&profile=pass
-#EXTINF:-1 tvg-id="a64f53fe407789165c8fe28fa0c6d86e",AMC
-http://202.163.117.6:9981/stream/channelid/2119389094?ticket=BF381D0949EC8C3A5FF919C6AD853A4E33DB5878&profile=pass
-#EXTINF:-1 tvg-id="902b29ba663cbd22337aa2e8dae2d8f8",DTX
-http://202.163.117.6:9981/stream/channelid/975776656?ticket=97D3FE66744556F4AE81D24DDFD755085E956C78&profile=pass
-#EXTINF:-1 tvg-id="1eeb8693ba593bfd7a3ecd4dc7c239b1",ID HD
-http://202.163.117.6:9981/stream/channelid/327609118?ticket=EF65F44707E27F63C61B611BCF8D799D9BC52DE7&profile=pass
-#EXTINF:-1 tvg-id="e6fc0d4e67f70e3b4b80061de597cf6f",Cinemax HD
-http://202.163.117.6:9981/stream/channelid/1309539558?ticket=4928F09A2382896F54928A8E973EDA7F6567D409&profile=pass
-#EXTINF:-1 tvg-id="de4d5b93c9edc91be929257e09aaab66",Dawn News
-http://202.163.117.6:9981/stream/channelid/324750814?ticket=7D8E4206DA97248223C05BFC0D274ACBFEFDCA17&profile=pass
-#EXTINF:-1 tvg-id="c213ead0d93000bd5ae98611c8ffde2b",Neo News HD
-http://202.163.117.6:9981/stream/channelid/1357517762?ticket=B3FC9BF43B8562EE5A8EF849334FFB2A0C005D6D&profile=pass
-#EXTINF:-1 tvg-id="d627e8ec3da1b22d3cdb820a1c9de76f",Samaa News
-http://202.163.117.6:9981/stream/channelid/1827153878?ticket=DD9DCDA012CBB64B6E9B2A07B09526D96458EBA1&profile=pass
-#EXTINF:-1 tvg-id="b71ba550007b55d1708932c880cab381",PTV Bolan
-http://202.163.117.6:9981/stream/channelid/1352997815?ticket=FC9FADF6FBD30CE851075AD2392418F178E62F6D&profile=pass
-#EXTINF:-1 tvg-id="f2b6a704e626f4329edef0fc303c5c65",Food Network
-http://202.163.117.6:9981/stream/channelid/78100210?ticket=5D00311E7775FBCD5903484B5DDAA57412662165&profile=pass
-#EXTINF:-1 tvg-id="6be1861f0f9442a9c6721ee8b6c25c89",Fine Living
-http://202.163.117.6:9981/stream/channelid/528933227?ticket=2664A875FCD4C919702E8457005E88E1B0FD3E76&profile=pass
-#EXTINF:-1 tvg-id="a379182fee082ff97c458d42aa3f8c02",MTV Russia
-http://202.163.117.6:9981/stream/channelid/790133155?ticket=729961AFCE9528D9F203382E03E47EECFAC1808C&profile=pass
-#EXTINF:-1 tvg-id="3c1d4a3b4eb42e501df5c08dac5f5e68",DTX
-http://202.163.117.6:9981/stream/channelid/994712892?ticket=04E9A07589B5ABCCDDACDC7D60C75A6A5FB7B81E&profile=pass
-#EXTINF:-1 tvg-id="48b0753efa203bb6c6e099e73dbe82db",VH1 Classic
-http://202.163.117.6:9981/stream/channelid/1047900232?ticket=59D776A6CC8F09DBBD173090E42163D564B1BF4B&profile=pass
-#EXTINF:-1 tvg-id="015912c2460009159b30657454ded76f",Discovery Science
-http://202.163.117.6:9981/stream/channelid/1108498689?ticket=63ABA3A4EB2B14A2540A300428EC3676AC8268B8&profile=pass
-#EXTINF:-1 tvg-id="14ad36c6b3b58465bc3c49d0e780e1ae",MTV Hits UK
-http://202.163.117.6:9981/stream/channelid/1177988372?ticket=8039C3E649DAA9DDBEDC4A011A693424C0E3DC31&profile=pass
-#EXTINF:-1 tvg-id="f87ba05a3c3c1d2fe8e144ff5ff13160",Investigation Discovery
-http://202.163.117.6:9981/stream/channelid/1520466936?ticket=477055E9932E396972F5DD8B6FB5C5ADFF896048&profile=pass
-#EXTINF:-1 tvg-id="badc9fdc97181135b61dd6822047e5b1",Nickelodeon
-http://202.163.117.6:9981/stream/channelid/1553980602?ticket=E29DAD3C1EDF2AB8E8F8CFB6782BF15200935897&profile=pass
-#EXTINF:-1 tvg-id="ef88005fdc5eb0a68d0905c770bd1d84",Paramount Comedy
-http://202.163.117.6:9981/stream/channelid/1593870575?ticket=269A773FDAD3EEDCFDC4898E6752E47A6661E4DA&profile=pass
-#EXTINF:-1 tvg-id="7308d8e3b389febfd4ec1b4e78fb3f35",Spike
-http://202.163.117.6:9981/stream/channelid/1675102323?ticket=F19085D0F7B7C90305BFFF3B790213C538EFA19C&profile=pass
-#EXTINF:-1 tvg-id="fba07df27b240a193b2110b0a948efa8",TLC Russia
-http://202.163.117.6:9981/stream/channelid/1920835835?ticket=46C7808A60836B0701FA4434DCA27F734D0CF86F&profile=pass
-#EXTINF:-1 tvg-id="709c2df6fa9a4c37ba2a1c63250cfefe",Discovery Channel
-http://202.163.117.6:9981/stream/channelid/1982700656?ticket=F7DE90267CC117C1BD2BD95FE240D86482D58D89&profile=pass
-#EXTINF:-1 tvg-id="ca4abffbfeadafd22db72295a0fd82a2",Paramount Channel
-http://202.163.117.6:9981/stream/channelid/2076134090?ticket=B245219C59C1BF3C473026B5A792A3B9BCB5B978&profile=pass
-#EXTINF:-1 tvg-id="61f86e19f9ef4fb1acd8597dcf1799f8",Nat Geo People HD
-http://202.163.117.6:9981/stream/channelid/426702945?ticket=4EBB82229C8DB28E16284C48FC793B3FA2D0E9AA&profile=pass
-#EXTINF:-1 tvg-id="26f01c3e92df95271a0036a0614ea5ba",Nat Geo Wild HD
-http://202.163.117.6:9981/stream/channelid/1042083878?ticket=8E4C2462187F95D8FA932F746A797819EEBCAE9C&profile=pass
-#EXTINF:-1 tvg-id="b67e20560f8155d42850aa1f74322031",Nat Geo HD
-http://202.163.117.6:9981/stream/channelid/1444970166?ticket=06AD2B7EE161D49A19717358ADCE378CB6469A91&profile=pass
-#EXTINF:-1 tvg-id="e053be242539bc78a4269132bd2e77c2",Fox Life HD
-http://202.163.117.6:9981/stream/channelid/616453088?ticket=55DA96E4D2DB986E3D0D400755493A39F59D8396&profile=pass
-#EXTINF:-1 tvg-id="0b6161ad5f90f26eec3e94e0136cf4f7",Fox Crime HD
-http://202.163.117.6:9981/stream/channelid/761356555?ticket=E9F67550D27656B5F1EA339DFA3A89B05BF55F1E&profile=pass
-#EXTINF:-1 tvg-id="53f605f8517b33ede9cf2d57a96f66f1",Fox Sports HD
-http://202.163.117.6:9981/stream/channelid/2013656659?ticket=C28ECDBA9F60E900FF139331F13A07DB433F2384&profile=pass
-#EXTINF:-1 tvg-id="61b2a94d949eb9de3f2362515a12d88b",FX HD
-http://202.163.117.6:9981/stream/channelid/1302966881?ticket=A8D284B3435D1E8A2E436334B618FA20B84A00C5&profile=pass
-#EXTINF:-1 tvg-id="66d0ee5be3b14d0f9e4dbd03e4dd5380",24 Kitchen HD
-http://202.163.117.6:9981/stream/channelid/1542377574?ticket=20C6DEE73EDD8553E5804EE800C5C8BA830AB076&profile=pass
-#EXTINF:-1 tvg-id="00aeefaf566c507e5d93e4f583b4cca4",Discovery Historia
-http://202.163.117.6:9981/stream/channelid/804236800?ticket=CF1A502E69E3DDE600ADEDD5D3407EE51A3D620F&profile=pass
-#EXTINF:-1 tvg-id="2e1b2166ab0f9a9079aed22cb020b53f",Animal Planet HD
-http://202.163.117.6:9981/stream/channelid/1713445678?ticket=7B8863F46703F88F2CF0FE0F201451540AF298B5&profile=pass
-#EXTINF:-1 tvg-id="fdbd8680e4e3976b2633ec3f005aebaa",CANAL+ NOW
-http://202.163.117.6:9981/stream/channelid/8830461?ticket=2EB829EE6F9604BF7EB46D0305085D76D1AE25E5&profile=pass
-#EXTINF:-1 tvg-id="44ad3e0f41c196856143252b52cb1a37",ELEVEN SPORTS 4 HD
-http://202.163.117.6:9981/stream/channelid/255765828?ticket=0F2998B341BFA5A2C4607317173F9518DC49C99B&profile=pass
-#EXTINF:-1 tvg-id="0b63025a6de30bce7b14597735f10454",Lifetime HD
-http://202.163.117.6:9981/stream/channelid/1510105867?ticket=B9C7E1B821613811D9AF0FE987C8EBA7FB66A4D2&profile=pass
-#EXTINF:-1 tvg-id="b2f117cc6efbf58ac43882d81dbd0596",E! Entertainment
-http://202.163.117.6:9981/stream/channelid/1276637618?ticket=5BEDFDE61919E0D719BE22F7A506204A6FE90C82&profile=pass
-#EXTINF:-1 tvg-id="ae26c9441068fce6509637029553ab3e",TLC HD
-http://202.163.117.6:9981/stream/channelid/1154033326?ticket=D2959746A0686AF98C1806A304D6C5AF42488E20&profile=pass
-#EXTINF:-1 tvg-id="5c16e85c0d2ed7d325c2c36e01bbfda3",Golf Channel
-http://202.163.117.6:9981/stream/channelid/1558713948?ticket=144288E0DEA6B411B5B3E64172D3BCBD1594313C&profile=pass
-#EXTINF:-1 tvg-id="e777cf597369acfdfb30b33a4ccda464",History 2 HD
-http://202.163.117.6:9981/stream/channelid/1506768871?ticket=B7D5723497E33EC652E17048142740892A12421B&profile=pass
-#EXTINF:-1 tvg-id="15a4094d2f612b7a6d65fc2940d3e35d",Fightbox HD
-http://202.163.117.6:9981/stream/channelid/1292477461?ticket=B303224D0200EBB40692CADD43CBE32B050EF68C&profile=pass
-#EXTINF:-1 tvg-id="21d9b30fa538c344b0ae552ed8ee5e04",FilmBox Family
-http://202.163.117.6:9981/stream/channelid/263444769?ticket=B9ACCFDAA0CFA5E93AE25ED3D5C64ECE71119CF5&profile=pass
-#EXTINF:-1 tvg-id="d1da61dbd87ae9f8acf8a1eb24227a73",FilmBox Extra HD
-http://202.163.117.6:9981/stream/channelid/1533139665?ticket=FE3492079F6D49E759DD67590B2A16DCF8F653D2&profile=pass
-#EXTINF:-1 tvg-id="e2d377fb668c9dafc546902be89ffb7a",FilmBox Action
-http://202.163.117.6:9981/stream/channelid/2071450594?ticket=C653DF09811EE813FB3B028F99F9739B92BAA531&profile=pass
-#EXTINF:-1 tvg-id="2e4c0924d780abde5940988226831853",teleTOON+ HD
-http://202.163.117.6:9981/stream/channelid/604589102?ticket=8A1A7C60423721455096AACF10431D78EBAC4D68&profile=pass
-#EXTINF:-1 tvg-id="3b1b0f5f0c19cd7b06cb24f80adafd01",Planete+ HD
-http://202.163.117.6:9981/stream/channelid/1594825531?ticket=78D27089A73A9B45AFC2D328CB650F859A4B3B0C&profile=pass
-#EXTINF:-1 tvg-id="bc589ae2d60e5d921c765823da8e69f6",Kuchnia+ HD
-http://202.163.117.6:9981/stream/channelid/1654282428?ticket=E1363364EAD2BF518715BAED06AD8B6482979304&profile=pass
-#EXTINF:-1 tvg-id="28fd120e85f6d1c327a396ec807a7d85",nSport+
-http://202.163.117.6:9981/stream/channelid/236125480?ticket=999E49F4268C4A3CC42296F0FD53AD41EDBE5B0A&profile=pass
-#EXTINF:-1 tvg-id="58067116ca3ce3b1be187fc625b0e8ce",CANAL+ DOKUMENT HD
-http://202.163.117.6:9981/stream/channelid/376505944?ticket=83DBA8BF838A7BAF5EEE2C0D91B84FB84C4272DE&profile=pass
-#EXTINF:-1 tvg-id="b5fb6c2e68719d0dc634671a3f0e06a5",Romance TV
-http://202.163.117.6:9981/stream/channelid/778894261?ticket=752F52DBE92A25AFA1DC87A434990A546202A5CB&profile=pass
-#EXTINF:-1 tvg-id="f65bb14b806d453a057605b1f039c3e8",National Geographic Wild HD
-http://202.163.117.6:9981/stream/channelid/1269914614?ticket=0D96AD8D95C985572EF78DCD0D4543DF72BA9E0E&profile=pass
-#EXTINF:-1 tvg-id="0450f0ddad5d07feb3c56e99ca9d8e6b",TVP HD
-http://202.163.117.6:9981/stream/channelid/1576030212?ticket=3B68425F410CFB018D875C906C8368DB39BC31DC&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="===== USA: GENERAL =====" tvg-logo="" group-title="USA",===== USA: GENERAL =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58588
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO HD" tvg-logo="" group-title="USA",USA: HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58589
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO 2 HD" tvg-logo="" group-title="USA",USA: HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58590
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO ZONE HD" tvg-logo="" group-title="USA",USA: HBO ZONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58591
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO SIGNATURE" tvg-logo="" group-title="USA",USA: HBO SIGNATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58592
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO FAMILY HD" tvg-logo="" group-title="USA",USA: HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58593
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HBO COMEDY HD" tvg-logo="" group-title="USA",USA: HBO COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58594
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HALLMARK MOVIES & MYSTERIES HD" tvg-logo="" group-title="USA",USA: HALLMARK MOVIES & MYSTERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58595
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HALLMARK HD" tvg-logo="" group-title="USA",USA: HALLMARK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58596
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HALLMARK DRAMA" tvg-logo="" group-title="USA",USA: HALLMARK DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58597
+#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ" tvg-logo="" group-title="USA",USA: STARZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58598
+#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ IN BLACK" tvg-logo="" group-title="USA",USA: STARZ IN BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58599
+#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ ENCORE WESTERNS" tvg-logo="" group-title="USA",USA: STARZ ENCORE WESTERNS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58600
+#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ ENCORE" tvg-logo="" group-title="USA",USA: STARZ ENCORE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58601
+#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ EDGE" tvg-logo="" group-title="USA",USA: STARZ EDGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58602
+#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ COMEDY" tvg-logo="" group-title="USA",USA: STARZ COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58603
+#EXTINF:-1 tvg-ID="" tvg-name="USA: EPIX HITS" tvg-logo="" group-title="USA",USA: EPIX HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58604
+#EXTINF:-1 tvg-ID="" tvg-name="USA: EPIX HD" tvg-logo="" group-title="USA",USA: EPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58605
+#EXTINF:-1 tvg-ID="" tvg-name="USA: EPIX 2" tvg-logo="" group-title="USA",USA: EPIX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58606
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CINEMAXX MORE MAXX" tvg-logo="" group-title="USA",USA: CINEMAXX MORE MAXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58607
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CINEMAX THRILLERMAX HD" tvg-logo="" group-title="USA",USA: CINEMAX THRILLERMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58608
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CINEMAX OUTER MAX" tvg-logo="" group-title="USA",USA: CINEMAX OUTER MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58609
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CINEMAX MOVIEMAX" tvg-logo="" group-title="USA",USA: CINEMAX MOVIEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58610
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CINEMAX EAST" tvg-logo="" group-title="USA",USA: CINEMAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58611
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CINEMAX ACTION MAX EAST" tvg-logo="" group-title="USA",USA: CINEMAX ACTION MAX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58612
+#EXTINF:-1 tvg-ID="" tvg-name="USA: WGN AMERICA" tvg-logo="" group-title="USA",USA: WGN AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58613
+#EXTINF:-1 tvg-ID="" tvg-name="USA: WE TV" tvg-logo="" group-title="USA",USA: WE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58614
+#EXTINF:-1 tvg-ID="" tvg-name="USA: VICELAND" tvg-logo="" group-title="USA",USA: VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58615
+#EXTINF:-1 tvg-ID="" tvg-name="USA: USA NETWORK" tvg-logo="" group-title="USA",USA: USA NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58616
+#EXTINF:-1 tvg-ID="" tvg-name="USA: UNIVISION TDN" tvg-logo="" group-title="USA",USA: UNIVISION TDN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58617
+#EXTINF:-1 tvg-ID="" tvg-name="USA: UNIVISION" tvg-logo="" group-title="USA",USA: UNIVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58618
+#EXTINF:-1 tvg-ID="" tvg-name="USA: UNIVERSAL HD" tvg-logo="" group-title="USA",USA: UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58619
+#EXTINF:-1 tvg-ID="" tvg-name="USA: UNIMAS" tvg-logo="" group-title="USA",USA: UNIMAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58620
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TVONE" tvg-logo="" group-title="USA",USA: TVONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58621
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TV LAND HD" tvg-logo="" group-title="USA",USA: TV LAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58622
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TRU TV" tvg-logo="" group-title="USA",USA: TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58623
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TNT" tvg-logo="" group-title="USA",USA: TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58624
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TLC CHANNEL" tvg-logo="" group-title="USA",USA: TLC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58625
+#EXTINF:-1 tvg-ID="" tvg-name="USA: THE CW HD CHICAGO" tvg-logo="" group-title="USA",USA: THE CW HD CHICAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58626
+#EXTINF:-1 tvg-ID="" tvg-name="USA: THE CW PIX 11" tvg-logo="" group-title="USA",USA: THE CW PIX 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58627
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TELEMUNDO" tvg-logo="" group-title="USA",USA: TELEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58628
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TCM" tvg-logo="" group-title="USA",USA: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58629
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TBS" tvg-logo="" group-title="USA",USA: TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58630
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TBN TRINITY BROADCASTING NETWORK" tvg-logo="" group-title="USA",USA: TBN TRINITY BROADCASTING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58631
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SYFY" tvg-logo="" group-title="USA",USA: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58632
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SUNDANCE" tvg-logo="" group-title="USA",USA: SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58633
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SPIKE/PARAMOUNT" tvg-logo="" group-title="USA",USA: SPIKE/PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58634
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SMITHSONIAN CHANNEL" tvg-logo="" group-title="USA",USA: SMITHSONIAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58635
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SHOWTIME SHOWCASE" tvg-logo="" group-title="USA",USA: SHOWTIME SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58636
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SHOWTIME HD" tvg-logo="" group-title="USA",USA: SHOWTIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58637
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SHOWTIME EXTREME" tvg-logo="" group-title="USA",USA: SHOWTIME EXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58638
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SHOWTIME 2" tvg-logo="" group-title="USA",USA: SHOWTIME 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58639
+#EXTINF:-1 tvg-ID="" tvg-name="USA: REVOLT" tvg-logo="" group-title="USA",USA: REVOLT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58640
+#EXTINF:-1 tvg-ID="" tvg-name="USA: REELZ" tvg-logo="" group-title="USA",USA: REELZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58641
+#EXTINF:-1 tvg-ID="" tvg-name="USA: RED BULL TV" tvg-logo="" group-title="USA",USA: RED BULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58642
+#EXTINF:-1 tvg-ID="" tvg-name="USA: QVC" tvg-logo="" group-title="USA",USA: QVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58643
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PURSUIT CHANNEL" tvg-logo="" group-title="USA",USA: PURSUIT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58644
+#EXTINF:-1 tvg-ID="" tvg-name="USA: POP" tvg-logo="" group-title="USA",USA: POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58645
+#EXTINF:-1 tvg-ID="" tvg-name="USA: OXYGEN" tvg-logo="" group-title="USA",USA: OXYGEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58646
+#EXTINF:-1 tvg-ID="" tvg-name="USA: OWN NETWORK HD" tvg-logo="" group-title="USA",USA: OWN NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58647
+#EXTINF:-1 tvg-ID="" tvg-name="USA: OVATION" tvg-logo="" group-title="USA",USA: OVATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58648
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC UNIVERSO" tvg-logo="" group-title="USA",USA: NBC UNIVERSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58649
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC 5" tvg-logo="" group-title="USA",USA: NBC 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58650
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC 4 NY" tvg-logo="" group-title="USA",USA: NBC 4 NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58651
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MY 9" tvg-logo="" group-title="USA",USA: MY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58652
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MSNBC" tvg-logo="" group-title="USA",USA: MSNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58653
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ME TV" tvg-logo="" group-title="USA",USA: ME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58654
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MAV TV" tvg-logo="" group-title="USA",USA: MAV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58655
+#EXTINF:-1 tvg-ID="" tvg-name="USA: LIFETIME MOVIES" tvg-logo="" group-title="USA",USA: LIFETIME MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58656
+#EXTINF:-1 tvg-ID="" tvg-name="USA: LIFETIME" tvg-logo="" group-title="USA",USA: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58657
+#EXTINF:-1 tvg-ID="" tvg-name="USA: LAFF TV" tvg-logo="" group-title="USA",USA: LAFF TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58658
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ION TV" tvg-logo="" group-title="USA",USA: ION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58659
+#EXTINF:-1 tvg-ID="" tvg-name="USA: INFOWARS" tvg-logo="" group-title="USA",USA: INFOWARS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58660
+#EXTINF:-1 tvg-ID="" tvg-name="USA: IFC" tvg-logo="" group-title="USA",USA: IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58661
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HSN" tvg-logo="" group-title="USA",USA: HSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58662
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HLN" tvg-logo="" group-title="USA",USA: HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58663
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HGTV HD" tvg-logo="" group-title="USA",USA: HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58664
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HGTV UHD" tvg-logo="" group-title="USA",USA: HGTV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58665
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HEROS & ICONS" tvg-logo="" group-title="USA",USA: HEROS & ICONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58666
+#EXTINF:-1 tvg-ID="" tvg-name="USA: GRIT TV" tvg-logo="" group-title="USA",USA: GRIT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58667
+#EXTINF:-1 tvg-ID="" tvg-name="USA: GALAVISION" tvg-logo="" group-title="USA",USA: GALAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58668
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FYI NETWORK" tvg-logo="" group-title="USA",USA: FYI NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58669
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FXX" tvg-logo="" group-title="USA",USA: FXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58670
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FXM" tvg-logo="" group-title="USA",USA: FXM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58671
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FX HD" tvg-logo="" group-title="USA",USA: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58672
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FUSION" tvg-logo="" group-title="USA",USA: FUSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58673
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FUSE" tvg-logo="" group-title="USA",USA: FUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58674
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FREEFORM HD" tvg-logo="" group-title="USA",USA: FREEFORM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58675
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOOD NETWORK" tvg-logo="" group-title="USA",USA: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58676
+#EXTINF:-1 tvg-ID="" tvg-name="USA: EL REY NETWORK" tvg-logo="" group-title="USA",USA: EL REY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58677
+#EXTINF:-1 tvg-ID="" tvg-name="USA: EL REY NETWORK HD" tvg-logo="" group-title="USA",USA: EL REY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58678
+#EXTINF:-1 tvg-ID="" tvg-name="USA: E!" tvg-logo="" group-title="USA",USA: E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58679
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DOG TV" tvg-logo="" group-title="USA",USA: DOG TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58680
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DIY NETWORK HD" tvg-logo="" group-title="USA",USA: DIY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58681
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DESTINATION AMERICA" tvg-logo="" group-title="USA",USA: DESTINATION AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58682
+#EXTINF:-1 tvg-ID="" tvg-name="USA: COZI TV" tvg-logo="" group-title="USA",USA: COZI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58683
+#EXTINF:-1 tvg-ID="" tvg-name="USA: COUNTRY NETWORK" tvg-logo="" group-title="USA",USA: COUNTRY NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58684
+#EXTINF:-1 tvg-ID="" tvg-name="USA: COOKING CHANNEL HD" tvg-logo="" group-title="USA",USA: COOKING CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58685
+#EXTINF:-1 tvg-ID="" tvg-name="USA: COMET TV" tvg-logo="" group-title="USA",USA: COMET TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58686
+#EXTINF:-1 tvg-ID="" tvg-name="USA: COMEDY CENTRAL" tvg-logo="" group-title="USA",USA: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58687
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CMT HD" tvg-logo="" group-title="USA",USA: CMT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58688
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CBS NY HD" tvg-logo="" group-title="USA",USA: CBS NY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58689
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CBS EAST" tvg-logo="" group-title="USA",USA: CBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58690
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BUZZER" tvg-logo="" group-title="USA",USA: BUZZER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58691
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BRAVO" tvg-logo="" group-title="USA",USA: BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58692
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BOUNCE TV" tvg-logo="" group-title="USA",USA: BOUNCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58693
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BLAZE TV" tvg-logo="" group-title="USA",USA: BLAZE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58694
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BET HER" tvg-logo="" group-title="USA",USA: BET HER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58695
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BET HD" tvg-logo="" group-title="USA",USA: BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58696
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BBC AMERICA" tvg-logo="" group-title="USA",USA: BBC AMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58697
+#EXTINF:-1 tvg-ID="" tvg-name="USA: AXS TV" tvg-logo="" group-title="USA",USA: AXS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58698
+#EXTINF:-1 tvg-ID="" tvg-name="USA: AWE CHANNEL" tvg-logo="" group-title="USA",USA: AWE CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58699
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ANTENNA TV" tvg-logo="" group-title="USA",USA: ANTENNA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58700
+#EXTINF:-1 tvg-ID="" tvg-name="USA: AMERICAN HEROES CHANNEL" tvg-logo="" group-title="USA",USA: AMERICAN HEROES CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58701
+#EXTINF:-1 tvg-ID="" tvg-name="USA: AMC" tvg-logo="" group-title="USA",USA: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58702
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ABC WEST" tvg-logo="" group-title="USA",USA: ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58703
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ABC NY HD" tvg-logo="" group-title="USA",USA: ABC NY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58704
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ABC EAST HD" tvg-logo="" group-title="USA",USA: ABC EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58705
+#EXTINF:-1 tvg-ID="" tvg-name="USA: A&E HD" tvg-logo="" group-title="USA",USA: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58706
+#EXTINF:-1 tvg-ID="" tvg-name="===== USA: KIDS =====" tvg-logo="" group-title="USA",===== USA: KIDS =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58707
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BABY TV" tvg-logo="" group-title="USA",USA: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58708
+#EXTINF:-1 tvg-ID="" tvg-name="USA: UNIVERSAL KIDS HD" tvg-logo="" group-title="USA",USA: UNIVERSAL KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58709
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TEEN NICK" tvg-logo="" group-title="USA",USA: TEEN NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58710
+#EXTINF:-1 tvg-ID="" tvg-name="USA: STARZ KIDS & FAMILY" tvg-logo="" group-title="USA",USA: STARZ KIDS & FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58711
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NICKTOONS" tvg-logo="" group-title="USA",USA: NICKTOONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58712
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NICK JR. TOO" tvg-logo="" group-title="USA",USA: NICK JR. TOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58713
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NICK JR" tvg-logo="" group-title="USA",USA: NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58714
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NICK HD" tvg-logo="" group-title="USA",USA: NICK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58715
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DISNEY XD" tvg-logo="" group-title="USA",USA: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58716
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DISNEY JR" tvg-logo="" group-title="USA",USA: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58717
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DISNEY CHANNEL HD" tvg-logo="" group-title="USA",USA: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58718
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PBS WLIW 21" tvg-logo="" group-title="USA",USA: PBS WLIW 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58719
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PBS KIDS EAST" tvg-logo="" group-title="USA",USA: PBS KIDS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58720
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PBS" tvg-logo="" group-title="USA",USA: PBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58721
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CARTOONITO ES" tvg-logo="" group-title="USA",USA: CARTOONITO ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58722
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CARTOON NETWORK" tvg-logo="" group-title="USA",USA: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58723
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BOOMERANG" tvg-logo="" group-title="USA",USA: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58724
+#EXTINF:-1 tvg-ID="" tvg-name="===== USA: DOCUMANTARY =====" tvg-logo="" group-title="USA",===== USA: DOCUMANTARY =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58725
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ANIMAL PLANET" tvg-logo="" group-title="USA",USA: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58726
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NAT GEO WILD HD US" tvg-logo="" group-title="USA",USA: NAT GEO WILD HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58727
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NAT GEO USA" tvg-logo="" group-title="USA",USA: NAT GEO USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58728
+#EXTINF:-1 tvg-ID="" tvg-name="USA: INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="USA",USA: INVESTIGATION DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58729
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HISTORY CHANNEL" tvg-logo="" group-title="USA",USA: HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58730
+#EXTINF:-1 tvg-ID="" tvg-name="USA: HISTORY 2" tvg-logo="" group-title="USA",USA: HISTORY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58731
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DISCOVERY SCIENCE HD" tvg-logo="" group-title="USA",USA: DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58732
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DISCOVERY LIFE" tvg-logo="" group-title="USA",USA: DISCOVERY LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58733
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="" group-title="USA",USA: DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58734
+#EXTINF:-1 tvg-ID="" tvg-name="USA: DISCOVERY CHANNEL HD" tvg-logo="" group-title="USA",USA: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58735
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CRIME AND INVESTIGATION" tvg-logo="" group-title="USA",USA: CRIME AND INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58736
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="" group-title="USA",USA: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58737
+#EXTINF:-1 tvg-ID="" tvg-name="USA: WORLD FISHING NETWORK" tvg-logo="" group-title="USA",USA: WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58738
+#EXTINF:-1 tvg-ID="" tvg-name="USA: OUTSIDE TV" tvg-logo="" group-title="USA",USA: OUTSIDE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58739
+#EXTINF:-1 tvg-ID="" tvg-name="USA: OUTDOOR CHANNEL" tvg-logo="" group-title="USA",USA: OUTDOOR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58740
+#EXTINF:-1 tvg-ID="" tvg-name="===== USA: NEWS =====" tvg-logo="" group-title="USA",===== USA: NEWS =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58741
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BLOOMBERG" tvg-logo="" group-title="USA",USA: BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58742
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CNN" tvg-logo="" group-title="USA",USA: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58743
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CNBC" tvg-logo="" group-title="USA",USA: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58744
+#EXTINF:-1 tvg-ID="" tvg-name="USA: RT NEWS" tvg-logo="" group-title="USA",USA: RT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58745
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ONE AMERICA NEWS" tvg-logo="" group-title="USA",USA: ONE AMERICA NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58746
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NEWS 12 NEW JERSEY" tvg-logo="" group-title="USA",USA: NEWS 12 NEW JERSEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58747
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NEWS 12 LONG ISLAND" tvg-logo="" group-title="USA",USA: NEWS 12 LONG ISLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58748
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX NEWS" tvg-logo="" group-title="USA",USA: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58749
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN NEWS" tvg-logo="" group-title="USA",USA: ESPN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58750
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ABC NEWS HD" tvg-logo="" group-title="USA",USA: ABC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58751
+#EXTINF:-1 tvg-ID="" tvg-name="USA: THE WEATHER CHANNEL HD" tvg-logo="" group-title="USA",USA: THE WEATHER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58752
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX BUSINESS HD" tvg-logo="" group-title="USA",USA: FOX BUSINESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58753
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX 50" tvg-logo="" group-title="USA",USA: FOX 50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58754
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX 5 HD" tvg-logo="" group-title="USA",USA: FOX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58755
+#EXTINF:-1 tvg-ID="" tvg-name="===== USA: MUSIC =====" tvg-logo="" group-title="USA",===== USA: MUSIC =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58756
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MTV 2" tvg-logo="" group-title="USA",USA: MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58757
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MTV LIVE" tvg-logo="" group-title="USA",USA: MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58758
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MTV HD" tvg-logo="" group-title="USA",USA: MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58759
+#EXTINF:-1 tvg-ID="" tvg-name="USA: VH1 HD" tvg-logo="" group-title="USA",USA: VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58760
+#EXTINF:-1 tvg-ID="" tvg-name="===== USA: SPORT =====" tvg-logo="" group-title="USA SPORTS",===== USA: SPORT =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58761
+#EXTINF:-1 tvg-ID="" tvg-name="USA: WWE" tvg-logo="" group-title="USA SPORTS",USA: WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58762
+#EXTINF:-1 tvg-ID="" tvg-name="USA: UFC 24/7" tvg-logo="" group-title="USA SPORTS",USA: UFC 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58763
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TVG HORSE RACING" tvg-logo="" group-title="USA SPORTS",USA: TVG HORSE RACING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58764
+#EXTINF:-1 tvg-ID="" tvg-name="USA: TENNIS HD" tvg-logo="" group-title="USA SPORTS",USA: TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58765
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SPORTSNET NY" tvg-logo="" group-title="USA SPORTS",USA: SPORTSNET NY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58766
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SPORTSNET LA" tvg-logo="" group-title="USA SPORTS",USA: SPORTSNET LA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58767
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SPORTSMAN CHANNEL" tvg-logo="" group-title="USA SPORTS",USA: SPORTSMAN CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58768
+#EXTINF:-1 tvg-ID="" tvg-name="USA: SEC NETWORK" tvg-logo="" group-title="USA SPORTS",USA: SEC NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58769
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PAC-12 OREGON" tvg-logo="" group-title="USA SPORTS",USA: PAC-12 OREGON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58770
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PAC-12 MOUNTAIN" tvg-logo="" group-title="USA SPORTS",USA: PAC-12 MOUNTAIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58771
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PAC-12 BAY AREA" tvg-logo="" group-title="USA SPORTS",USA: PAC-12 BAY AREA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58772
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PAC-12 ARIZONA" tvg-logo="" group-title="USA SPORTS",USA: PAC-12 ARIZONA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58773
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PAC 12 NETWORK" tvg-logo="" group-title="USA SPORTS",USA: PAC 12 NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58774
+#EXTINF:-1 tvg-ID="" tvg-name="USA: PAC 12 LOS ANGELES" tvg-logo="" group-title="USA SPORTS",USA: PAC 12 LOS ANGELES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58775
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NHL NETWORK" tvg-logo="" group-title="USA SPORTS",USA: NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58776
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL RED ZONE" tvg-logo="" group-title="USA SPORTS",USA: NFL RED ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58777
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NFL NETWORK" tvg-logo="" group-title="USA SPORTS",USA: NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58778
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NESN" tvg-logo="" group-title="USA SPORTS",USA: NESN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58779
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC SPORTS PHILADELPHIA HD" tvg-logo="" group-title="USA SPORTS",USA: NBC SPORTS PHILADELPHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58780
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC SPORTS NORTHWEST HD" tvg-logo="" group-title="USA SPORTS",USA: NBC SPORTS NORTHWEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58781
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC SPORTS NETWORK" tvg-logo="" group-title="USA SPORTS",USA: NBC SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58782
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC SPORTS CHICAGO HD" tvg-logo="" group-title="USA SPORTS",USA: NBC SPORTS CHICAGO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58783
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC SPORTS CALIFORNIA HD" tvg-logo="" group-title="USA SPORTS",USA: NBC SPORTS CALIFORNIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58784
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC SPORTS BOSTON HD" tvg-logo="" group-title="USA SPORTS",USA: NBC SPORTS BOSTON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58785
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC SPORTS BAY AREA HD" tvg-logo="" group-title="USA SPORTS",USA: NBC SPORTS BAY AREA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58786
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC GOLF" tvg-logo="" group-title="USA SPORTS",USA: NBC GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58787
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBC 10 EAST" tvg-logo="" group-title="USA SPORTS",USA: NBC 10 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58788
+#EXTINF:-1 tvg-ID="" tvg-name="USA: NBA TV HD" tvg-logo="" group-title="USA SPORTS",USA: NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58789
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MSG +" tvg-logo="" group-title="USA SPORTS",USA: MSG +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58790
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MSG" tvg-logo="" group-title="USA SPORTS",USA: MSG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58791
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MOTOR TREND" tvg-logo="" group-title="USA SPORTS",USA: MOTOR TREND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58792
+#EXTINF:-1 tvg-ID="" tvg-name="USA: MLB NETWORK" tvg-logo="" group-title="USA SPORTS",USA: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58793
+#EXTINF:-1 tvg-ID="" tvg-name="USA: LONGHORN NETWORK" tvg-logo="" group-title="USA SPORTS",USA: LONGHORN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58794
+#EXTINF:-1 tvg-ID="" tvg-name="USA: GOLF CHANNEL" tvg-logo="" group-title="USA SPORTS",USA: GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58795
+#EXTINF:-1 tvg-ID="" tvg-name="USA: GAME SHOW NETWORK" tvg-logo="" group-title="USA SPORTS",USA: GAME SHOW NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58796
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SPORTS 1" tvg-logo="" group-title="USA SPORTS",USA: FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58797
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SPORTS 2" tvg-logo="" group-title="USA SPORTS",USA: FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58798
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX SOCCER PLUS" tvg-logo="" group-title="USA SPORTS",USA: FOX SOCCER PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58799
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="USA SPORTS",USA: FOX DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58800
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX COLLEGE PACIFIC" tvg-logo="" group-title="USA SPORTS",USA: FOX COLLEGE PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58801
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX COLLEGE CENTRAL" tvg-logo="" group-title="USA SPORTS",USA: FOX COLLEGE CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58802
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FOX COLLEGE ATLANTIC" tvg-logo="" group-title="USA SPORTS",USA: FOX COLLEGE ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58803
+#EXTINF:-1 tvg-ID="" tvg-name="USA: FANTASY SPORTS NETWORK" tvg-logo="" group-title="USA SPORTS",USA: FANTASY SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58804
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN U" tvg-logo="" group-title="USA SPORTS",USA: ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58805
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN 2" tvg-logo="" group-title="USA SPORTS",USA: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58806
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ESPN" tvg-logo="" group-title="USA SPORTS",USA: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58807
+#EXTINF:-1 tvg-ID="" tvg-name="USA: ELEVEN SPORTS HD" tvg-logo="" group-title="USA SPORTS",USA: ELEVEN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58808
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CBSN SPORTS NETWORK" tvg-logo="" group-title="USA SPORTS",USA: CBSN SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58809
+#EXTINF:-1 tvg-ID="" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="" group-title="USA SPORTS",USA: CBS SPORTS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58810
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BIG TEN NETWORK" tvg-logo="" group-title="USA SPORTS",USA: BIG TEN NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58811
+#EXTINF:-1 tvg-ID="" tvg-name="USA: BEIN SPORT USA" tvg-logo="" group-title="USA SPORTS",USA: BEIN SPORT USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58812
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: CANADA =====" tvg-logo="" group-title="US CANADA",===== CA: CANADA =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58173
+#EXTINF:-1 tvg-ID="" tvg-name="CA: A&E" tvg-logo="" group-title="US CANADA",CA: A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58174
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ABC EAST" tvg-logo="" group-title="US CANADA",CA: ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58175
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ABC WEST" tvg-logo="" group-title="US CANADA",CA: ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58176
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ACTION" tvg-logo="" group-title="US CANADA",CA: ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58177
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ADDIK TV" tvg-logo="" group-title="US CANADA",CA: ADDIK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58178
+#EXTINF:-1 tvg-ID="" tvg-name="CA: AHC" tvg-logo="" group-title="US CANADA",CA: AHC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58179
+#EXTINF:-1 tvg-ID="" tvg-name="CA: AMC" tvg-logo="" group-title="US CANADA",CA: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58180
+#EXTINF:-1 tvg-ID="" tvg-name="CA: APTN" tvg-logo="" group-title="US CANADA",CA: APTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58181
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ARTV" tvg-logo="" group-title="US CANADA",CA: ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58182
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ASSEMBLEE NATIONALE QUEBEC" tvg-logo="" group-title="US CANADA",CA: ASSEMBLEE NATIONALE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58183
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BBC CANADA" tvg-logo="" group-title="US CANADA",CA: BBC CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58184
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BNN" tvg-logo="" group-title="US CANADA",CA: BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58185
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BOOK TV" tvg-logo="" group-title="US CANADA",CA: BOOK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58186
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BRAVO" tvg-logo="" group-title="US CANADA",CA: BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58187
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CANAL D" tvg-logo="" group-title="US CANADA",CA: CANAL D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58188
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CANAL SAVOIR" tvg-logo="" group-title="US CANADA",CA: CANAL SAVOIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58189
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CASA" tvg-logo="" group-title="US CANADA",CA: CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58190
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CBC MONTREAL" tvg-logo="" group-title="US CANADA",CA: CBC MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58191
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CBC OTTAWA" tvg-logo="" group-title="US CANADA",CA: CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58192
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CBC TORONTO" tvg-logo="" group-title="US CANADA",CA: CBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58193
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CBC VANCOUVER" tvg-logo="" group-title="US CANADA",CA: CBC VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58194
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CBS EAST" tvg-logo="" group-title="US CANADA",CA: CBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58195
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CBS WEST" tvg-logo="" group-title="US CANADA",CA: CBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58196
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CHCH" tvg-logo="" group-title="US CANADA",CA: CHCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58197
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CINEPOP" tvg-logo="" group-title="US CANADA",CA: CINEPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58198
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CITY MONTREAL" tvg-logo="" group-title="US CANADA",CA: CITY MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58199
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CITY TORONTO" tvg-logo="" group-title="US CANADA",CA: CITY TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58200
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CITY VANCOUVER" tvg-logo="" group-title="US CANADA",CA: CITY VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58201
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CMT CANADA" tvg-logo="" group-title="US CANADA",CA: CMT CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58202
+#EXTINF:-1 tvg-ID="" tvg-name="CA: COSMO" tvg-logo="" group-title="US CANADA",CA: COSMO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58203
+#EXTINF:-1 tvg-ID="" tvg-name="CA: COTTAGE LIFE" tvg-logo="" group-title="US CANADA",CA: COTTAGE LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58204
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CP24" tvg-logo="" group-title="US CANADA",CA: CP24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58205
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CPAC" tvg-logo="" group-title="US CANADA",CA: CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58206
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CPAC FRENCH" tvg-logo="" group-title="US CANADA",CA: CPAC FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58207
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CRIME   INVEST" tvg-logo="" group-title="US CANADA",CA: CRIME   INVEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58208
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CW 11" tvg-logo="" group-title="US CANADA",CA: CW 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58209
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DAYSTAR TV" tvg-logo="" group-title="US CANADA",CA: DAYSTAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58210
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DEJAVIEW" tvg-logo="" group-title="US CANADA",CA: DEJAVIEW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58211
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DIY" tvg-logo="" group-title="US CANADA",CA: DIY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58212
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DTOUR" tvg-logo="" group-title="US CANADA",CA: DTOUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58213
+#EXTINF:-1 tvg-ID="" tvg-name="CA: E! CANADA" tvg-logo="" group-title="US CANADA",CA: E! CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58214
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ENCORE 1 EAST" tvg-logo="" group-title="US CANADA",CA: ENCORE 1 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58215
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ENCORE 2 EAST" tvg-logo="" group-title="US CANADA",CA: ENCORE 2 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58216
+#EXTINF:-1 tvg-ID="" tvg-name="CA: EVASION" tvg-logo="" group-title="US CANADA",CA: EVASION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58217
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FAMILY CHRGD" tvg-logo="" group-title="US CANADA",CA: FAMILY CHRGD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58218
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FAMILY EAST" tvg-logo="" group-title="US CANADA",CA: FAMILY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58219
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FIGHT NETWORK" tvg-logo="" group-title="US CANADA",CA: FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58220
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FOX EAST" tvg-logo="" group-title="US CANADA",CA: FOX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58221
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FOX WEST" tvg-logo="" group-title="US CANADA",CA: FOX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58222
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FRISSON" tvg-logo="" group-title="US CANADA",CA: FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58223
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FTV CANADA" tvg-logo="" group-title="US CANADA",CA: FTV CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58224
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FYI" tvg-logo="" group-title="US CANADA",CA: FYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58225
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GAME TV" tvg-logo="" group-title="US CANADA",CA: GAME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58226
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GLOBAL HALIFAX" tvg-logo="" group-title="US CANADA",CA: GLOBAL HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58227
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GLOBAL TORONTO" tvg-logo="" group-title="US CANADA",CA: GLOBAL TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58228
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GLOBAL VANCOUVER" tvg-logo="" group-title="US CANADA",CA: GLOBAL VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58229
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GOLF" tvg-logo="" group-title="US CANADA",CA: GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58230
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GSN" tvg-logo="" group-title="US CANADA",CA: GSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58231
+#EXTINF:-1 tvg-ID="" tvg-name="CA: GUSTO" tvg-logo="" group-title="US CANADA",CA: GUSTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58232
+#EXTINF:-1 tvg-ID="" tvg-name="CA: H2 CANADA" tvg-logo="" group-title="US CANADA",CA: H2 CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58233
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HBO 1" tvg-logo="" group-title="US CANADA",CA: HBO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58234
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HBO 2" tvg-logo="" group-title="US CANADA",CA: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58235
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HGTV" tvg-logo="" group-title="US CANADA",CA: HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58236
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HLN" tvg-logo="" group-title="US CANADA",CA: HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58237
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HOPE TV" tvg-logo="" group-title="US CANADA",CA: HOPE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58238
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ICI MONTREAL" tvg-logo="" group-title="US CANADA",CA: ICI MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58239
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ICI VANCOUVER" tvg-logo="" group-title="US CANADA",CA: ICI VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58240
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ID CANADA" tvg-logo="" group-title="US CANADA",CA: ID CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58241
+#EXTINF:-1 tvg-ID="" tvg-name="CA: IFC" tvg-logo="" group-title="US CANADA",CA: IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58242
+#EXTINF:-1 tvg-ID="" tvg-name="CA: KNOWLEDGE KIDS" tvg-logo="" group-title="US CANADA",CA: KNOWLEDGE KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58243
+#EXTINF:-1 tvg-ID="" tvg-name="CA: KTLA" tvg-logo="" group-title="US CANADA",CA: KTLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58244
+#EXTINF:-1 tvg-ID="" tvg-name="CA: LCN" tvg-logo="" group-title="US CANADA",CA: LCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58245
+#EXTINF:-1 tvg-ID="" tvg-name="CA: LIFETIME" tvg-logo="" group-title="US CANADA",CA: LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58246
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MAKEFUL" tvg-logo="" group-title="US CANADA",CA: MAKEFUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58247
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MAVTV CANADA" tvg-logo="" group-title="US CANADA",CA: MAVTV CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58248
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MAX" tvg-logo="" group-title="US CANADA",CA: MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58249
+#EXTINF:-1 tvg-ID="" tvg-name="CA: METEO" tvg-logo="" group-title="US CANADA",CA: METEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58250
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MIRACLE" tvg-logo="" group-title="US CANADA",CA: MIRACLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58251
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MLB NETWORK" tvg-logo="" group-title="US CANADA",CA: MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58252
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MOI CIE" tvg-logo="" group-title="US CANADA",CA: MOI CIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58253
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MTIME" tvg-logo="" group-title="US CANADA",CA: MTIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58254
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NBA TV" tvg-logo="" group-title="US CANADA",CA: NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58255
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NBC EAST" tvg-logo="" group-title="US CANADA",CA: NBC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58256
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NBC WEST" tvg-logo="" group-title="US CANADA",CA: NBC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58257
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NFL NETWORK" tvg-logo="" group-title="US CANADA",CA: NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58258
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NICK" tvg-logo="" group-title="US CANADA",CA: NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58259
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NTV" tvg-logo="" group-title="US CANADA",CA: NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58260
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OLN" tvg-logo="" group-title="US CANADA",CA: OLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58261
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OMNI 1" tvg-logo="" group-title="US CANADA",CA: OMNI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58262
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OMNI 2" tvg-logo="" group-title="US CANADA",CA: OMNI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58263
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ONE" tvg-logo="" group-title="US CANADA",CA: ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58264
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OUTTV" tvg-logo="" group-title="US CANADA",CA: OUTTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58265
+#EXTINF:-1 tvg-ID="" tvg-name="CA: OWN" tvg-logo="" group-title="US CANADA",CA: OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58266
+#EXTINF:-1 tvg-ID="" tvg-name="CA: PBS EAST" tvg-logo="" group-title="US CANADA",CA: PBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58267
+#EXTINF:-1 tvg-ID="" tvg-name="CA: PEACH TREE" tvg-logo="" group-title="US CANADA",CA: PEACH TREE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58268
+#EXTINF:-1 tvg-ID="" tvg-name="CA: PRISE" tvg-logo="" group-title="US CANADA",CA: PRISE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58269
+#EXTINF:-1 tvg-ID="" tvg-name="CA: RDI" tvg-logo="" group-title="US CANADA",CA: RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58270
+#EXTINF:-1 tvg-ID="" tvg-name="CA: RDS" tvg-logo="" group-title="US CANADA",CA: RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58271
+#EXTINF:-1 tvg-ID="" tvg-name="CA: RDS 2" tvg-logo="" group-title="US CANADA",CA: RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58272
+#EXTINF:-1 tvg-ID="" tvg-name="CA: RDS INFO" tvg-logo="" group-title="US CANADA",CA: RDS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58273
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SERIS" tvg-logo="" group-title="US CANADA",CA: SERIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58274
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SHOPPING" tvg-logo="" group-title="US CANADA",CA: SHOPPING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58275
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SHOWCASE EAST" tvg-logo="" group-title="US CANADA",CA: SHOWCASE EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58276
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SILVER SCREEN CLASSICS" tvg-logo="" group-title="US CANADA",CA: SILVER SCREEN CLASSICS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58277
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SLICE" tvg-logo="" group-title="US CANADA",CA: SLICE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58278
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPACE" tvg-logo="" group-title="US CANADA",CA: SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58279
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPIKE TV / PARAMOUNT CANADA" tvg-logo="" group-title="US CANADA",CA: SPIKE TV / PARAMOUNT CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58280
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUPER CHANNEL FUSE" tvg-logo="" group-title="US CANADA",CA: SUPER CHANNEL FUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58281
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUPER CHANNEL HEART & HOME" tvg-logo="" group-title="US CANADA",CA: SUPER CHANNEL HEART & HOME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58282
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUPER CHANNEL VAULT" tvg-logo="" group-title="US CANADA",CA: SUPER CHANNEL VAULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58283
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUPER ECRAN 1" tvg-logo="" group-title="US CANADA",CA: SUPER ECRAN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58284
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUPER ECRAN 2" tvg-logo="" group-title="US CANADA",CA: SUPER ECRAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58285
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUPER ECRAN 3" tvg-logo="" group-title="US CANADA",CA: SUPER ECRAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58286
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SUPER ECRAN 4" tvg-logo="" group-title="US CANADA",CA: SUPER ECRAN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58287
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TCM" tvg-logo="" group-title="US CANADA",CA: TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58288
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TELE LATINO" tvg-logo="" group-title="US CANADA",CA: TELE LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58289
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TELE QUEBEC" tvg-logo="" group-title="US CANADA",CA: TELE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58290
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TELEMAGINO" tvg-logo="" group-title="US CANADA",CA: TELEMAGINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58291
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TFO" tvg-logo="" group-title="US CANADA",CA: TFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58292
+#EXTINF:-1 tvg-ID="" tvg-name="CA: THE WEATHER NETWORK" tvg-logo="" group-title="US CANADA",CA: THE WEATHER NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58293
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TLC CANADA" tvg-logo="" group-title="US CANADA",CA: TLC CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58294
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TMN 1" tvg-logo="" group-title="US CANADA",CA: TMN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58295
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TMN 2" tvg-logo="" group-title="US CANADA",CA: TMN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58296
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TMN 3" tvg-logo="" group-title="US CANADA",CA: TMN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58297
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TMN 4" tvg-logo="" group-title="US CANADA",CA: TMN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58298
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 1" tvg-logo="" group-title="US CANADA",CA: TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58299
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 2" tvg-logo="" group-title="US CANADA",CA: TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58300
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 3" tvg-logo="" group-title="US CANADA",CA: TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58301
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 4" tvg-logo="" group-title="US CANADA",CA: TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58302
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TSN 5" tvg-logo="" group-title="US CANADA",CA: TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58303
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TV5 QUEBEC" tvg-logo="" group-title="US CANADA",CA: TV5 QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58304
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVA GATINEAU" tvg-logo="" group-title="US CANADA",CA: TVA GATINEAU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58305
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVA MONTREAL" tvg-logo="" group-title="US CANADA",CA: TVA MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58306
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVA SPORTS" tvg-logo="" group-title="US CANADA",CA: TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58307
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TVO" tvg-logo="" group-title="US CANADA",CA: TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58308
+#EXTINF:-1 tvg-ID="" tvg-name="CA: UNIS TV" tvg-logo="" group-title="US CANADA",CA: UNIS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58309
+#EXTINF:-1 tvg-ID="" tvg-name="CA: VIE" tvg-logo="" group-title="US CANADA",CA: VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58310
+#EXTINF:-1 tvg-ID="" tvg-name="CA: VISION" tvg-logo="" group-title="US CANADA",CA: VISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58311
+#EXTINF:-1 tvg-ID="" tvg-name="CA: VRAK TV" tvg-logo="" group-title="US CANADA",CA: VRAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58312
+#EXTINF:-1 tvg-ID="" tvg-name="CA: W NETWORK" tvg-logo="" group-title="US CANADA",CA: W NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58313
+#EXTINF:-1 tvg-ID="" tvg-name="CA: WFN" tvg-logo="" group-title="US CANADA",CA: WFN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58314
+#EXTINF:-1 tvg-ID="" tvg-name="CA: WGN" tvg-logo="" group-title="US CANADA",CA: WGN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58315
+#EXTINF:-1 tvg-ID="" tvg-name="CA: WILD TV" tvg-logo="" group-title="US CANADA",CA: WILD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58316
+#EXTINF:-1 tvg-ID="" tvg-name="CA: WSBK" tvg-logo="" group-title="US CANADA",CA: WSBK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58317
+#EXTINF:-1 tvg-ID="" tvg-name="CA: YES TV" tvg-logo="" group-title="US CANADA",CA: YES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58318
+#EXTINF:-1 tvg-ID="" tvg-name="CA: YOOPA" tvg-logo="" group-title="US CANADA",CA: YOOPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58319
+#EXTINF:-1 tvg-ID="" tvg-name="CA: Z TELE" tvg-logo="" group-title="US CANADA",CA: Z TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58320
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ZESTE" tvg-logo="" group-title="US CANADA",CA: ZESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58321
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MEDIASET ITALIA CANADA" tvg-logo="" group-title="US CANADA",CA: MEDIASET ITALIA CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58322
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: KIDS =====" tvg-logo="" group-title="US CANADA",===== CA: KIDS =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58323
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ABC SPARK CANADA" tvg-logo="" group-title="US CANADA",CA: ABC SPARK CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58324
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CARTOON NETWORK" tvg-logo="" group-title="US CANADA",CA: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58325
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DISNEY CANADA" tvg-logo="" group-title="US CANADA",CA: DISNEY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58326
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DISNEY FRENCH" tvg-logo="" group-title="US CANADA",CA: DISNEY FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58327
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DISNEY JR" tvg-logo="" group-title="US CANADA",CA: DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58328
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FAMILY JR" tvg-logo="" group-title="US CANADA",CA: FAMILY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58329
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TELE TOON EAST" tvg-logo="" group-title="US CANADA",CA: TELE TOON EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58330
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TELE TOON FRENCH" tvg-logo="" group-title="US CANADA",CA: TELE TOON FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58331
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TREEHOUSE" tvg-logo="" group-title="US CANADA",CA: TREEHOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58332
+#EXTINF:-1 tvg-ID="" tvg-name="CA: YTV" tvg-logo="" group-title="US CANADA",CA: YTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58333
+#EXTINF:-1 tvg-ID="" tvg-name="CA: YTV WEST" tvg-logo="" group-title="US CANADA",CA: YTV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58334
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: CINEMA  =====" tvg-logo="" group-title="US CANADA",===== CA: CINEMA  =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58335
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: ENTERTAINMENT =====" tvg-logo="" group-title="US CANADA",===== CA: ENTERTAINMENT =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58336
+#EXTINF:-1 tvg-ID="" tvg-name="CA: TRAVEL + ESCAPE" tvg-logo="" group-title="US CANADA",CA: TRAVEL + ESCAPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58337
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: NEWS =====" tvg-logo="" group-title="US CANADA",===== CA: NEWS =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58338
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BBC WORLD NEWS" tvg-logo="" group-title="US CANADA",CA: BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58339
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CNBC" tvg-logo="" group-title="US CANADA",CA: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58340
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CNN" tvg-logo="" group-title="US CANADA",CA: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58341
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CNN INTERNATIONAL" tvg-logo="" group-title="US CANADA",CA: CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58342
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CBC NEWS" tvg-logo="" group-title="US CANADA",CA: CBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58343
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FOX NEWS" tvg-logo="" group-title="US CANADA",CA: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58344
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: SPORTS & EVENTS =====" tvg-logo="" group-title="US CANADA",===== CA: SPORTS & EVENTS =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58345
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPORTSNET 360" tvg-logo="" group-title="US CANADA",CA: SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58346
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPORTSNET EAST" tvg-logo="" group-title="US CANADA",CA: SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58347
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPORTSNET ONE" tvg-logo="" group-title="US CANADA",CA: SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58348
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPORTSNET ONTARIO" tvg-logo="" group-title="US CANADA",CA: SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58349
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPORTSNET PACIFIC" tvg-logo="" group-title="US CANADA",CA: SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58350
+#EXTINF:-1 tvg-ID="" tvg-name="CA: SPORTSNET WEST" tvg-logo="" group-title="US CANADA",CA: SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58351
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: MUSIC =====" tvg-logo="" group-title="US CANADA",===== CA: MUSIC =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58352
+#EXTINF:-1 tvg-ID="" tvg-name="CA: BET" tvg-logo="" group-title="US CANADA",CA: BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58353
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MUSIQUE PLUS" tvg-logo="" group-title="US CANADA",CA: MUSIQUE PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58354
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MTV" tvg-logo="" group-title="US CANADA",CA: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58355
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MTV 2" tvg-logo="" group-title="US CANADA",CA: MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58356
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: COOKING =====" tvg-logo="" group-title="US CANADA",===== CA: COOKING =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58357
+#EXTINF:-1 tvg-ID="" tvg-name="CA: FOOD NETWORK" tvg-logo="" group-title="US CANADA",CA: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58358
+#EXTINF:-1 tvg-ID="" tvg-name="CA: COOKING CHANNEL" tvg-logo="" group-title="US CANADA",CA: COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58359
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: DOCUMENTARY =====" tvg-logo="" group-title="US CANADA",===== CA: DOCUMENTARY =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58360
+#EXTINF:-1 tvg-ID="" tvg-name="CA: MUCH MUSIC" tvg-logo="" group-title="US CANADA",CA: MUCH MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58361
+#EXTINF:-1 tvg-ID="" tvg-name="CA: ANIMAL PLANET" tvg-logo="" group-title="US CANADA",CA: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58362
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CRIME + INVESTIGATION" tvg-logo="" group-title="US CANADA",CA: CRIME + INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58363
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DISCOVERY CANADA" tvg-logo="" group-title="US CANADA",CA: DISCOVERY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58364
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DISCOVERY SCIENCE CANADA" tvg-logo="" group-title="US CANADA",CA: DISCOVERY SCIENCE CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58365
+#EXTINF:-1 tvg-ID="" tvg-name="CA: DOCUMENTARY" tvg-logo="" group-title="US CANADA",CA: DOCUMENTARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58366
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HISTORIO" tvg-logo="" group-title="US CANADA",CA: HISTORIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58367
+#EXTINF:-1 tvg-ID="" tvg-name="CA: HISTORY" tvg-logo="" group-title="US CANADA",CA: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58368
+#EXTINF:-1 tvg-ID="" tvg-name="CA: NAT GEO" tvg-logo="" group-title="US CANADA",CA: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58369
+#EXTINF:-1 tvg-ID="" tvg-name="===== CA: LOCAL =====" tvg-logo="" group-title="US CANADA",===== CA: LOCAL =====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58370
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV 2 VANCOUVER" tvg-logo="" group-title="US CANADA",CA: CTV 2 VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58371
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV HALIFAX" tvg-logo="" group-title="US CANADA",CA: CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58372
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV MONTREAL" tvg-logo="" group-title="US CANADA",CA: CTV MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58373
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV OTTAWA" tvg-logo="" group-title="US CANADA",CA: CTV OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58374
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV TORONTO" tvg-logo="" group-title="US CANADA",CA: CTV TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58375
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV VANCOUVER" tvg-logo="" group-title="US CANADA",CA: CTV VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58376
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV2 OTTAWA" tvg-logo="" group-title="US CANADA",CA: CTV2 OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58377
+#EXTINF:-1 tvg-ID="" tvg-name="CA: CTV NEWS NETWORK" tvg-logo="" group-title="US CANADA",CA: CTV NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/9rOUuaGQgeeT5fr/Y750vwjYLLg6Vug/58378
