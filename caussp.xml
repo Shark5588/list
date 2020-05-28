@@ -336,13 +336,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
-https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 1
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
-https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 2
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
-https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
-
-
+plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 3
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -703,13 +701,13 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  RMC Sport   RMC Sport   RMC Sport   RMC Sport   RMC Sport  RMC Sport <<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",[B][COLORorange]RMC Sport 1 HD[/B][/COLOR]
+EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",[B][COLORorange]RMC Sport 1 HD[/B][/COLOR]
 http://ndasat.net:2052/243790250289176/1593574628/15817
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",[B][COLORorange]RMC Sport 2 HD[/B][/COLOR]
+EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",[B][COLORorange]RMC Sport 2 HD[/B][/COLOR]
 http://ndasat.net:2052/243790250289176/1593574628/15818
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",[B][COLORorange]RMC Sport 3 HD[/B][/COLOR]
+EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",[B][COLORorange]RMC Sport 3 HD[/B][/COLOR]
 http://ndasat.net:2052/243790250289176/1593574628/15819
-#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",[B][COLORorange]RMC Sport 4 HD[/B][/COLOR]
+EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",[B][COLORorange]RMC Sport 4 HD[/B][/COLOR]
 http://ndasat.net:2052/243790250289176/1593574628/20606
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Setanta Sports   Setanta Sports   Setanta Sports   Setanta Sports     <<<<<<<<<<<<<<<<<<<<<<<<<<
