@@ -334,13 +334,12 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8&amp;streamtype=HLSRETRY&amp;name=Fox1
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_1_logo.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 1
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_2_logo.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 2
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 3
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -360,9 +359,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6yBq3jM_ou27HvGDlt7Dzhjks1soksHOEqcBE2n8H07tkhUOtzTibSw",[B][COLORorange]Fox Sports | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/fox/index.m3u8?token=test&amp;streamtype=HLSRETRY&amp;name=FOX
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Sport",[B][COLORorange]Fox Sports News[/B][/COLOR]
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-
-
+plugin://plugin.video.f4mTester/?url=http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8&amp;streamtype=HLSRETRY&amp;name=Fox
 ====================================================================== FOX 506 ====================================================================
 #EXTINF:-1 tvg-logo="https://dscxx9mer61ho.cloudfront.net/wp-content/uploads/TV-Fox506.png" ,[B][COLORorange]Fox Sports 506 HD | USA[/B][/COLOR]
 http://45.58.62.92:8080
