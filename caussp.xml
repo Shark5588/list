@@ -30,7 +30,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-usa/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
 http://live.highstream.club/live/BEINSPORTSESP/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-esp-us/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -41,10 +41,9 @@ http://live.highstream.club/live/BEINSPORTLALIGA/chunks.m3u8|Referer=http://myus
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=HLSRETRY&amp;name=Link
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]BEIN LA LIGA HD[/B][/COLOR]
-http://ott-cdn.ucom.am/s81/03.m3u8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+plugin://plugin.video.f4mTester/?url=http://ott-cdn.ucom.am/s81/03.m3u8&amp;streamtype=HLSRETRY&amp;name=LA LIGA
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",[COLOR orange][B]LA LIGA SPAIN[/B][/COLOR]
-http://92.43.140.249/s81/04.m3u8
+plugin://plugin.video.f4mTester/?url=http://92.43.140.249/s81/04.m3u8&amp;streamtype=HLSRETRY&amp;name=LA LIGA SPAIN
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) <<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
