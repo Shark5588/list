@@ -56,7 +56,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BoxNation BoxNation BoxNation BoxNation BoxNation <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/boxnationhd.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.180.221.206:25461/hls/30:34:D2:59:67:61/12863
@@ -82,22 +82,22 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://i.ibb.co/Y2SCKST/bt-sport-espn-98.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Canal+ Sport  Canal+ Sport  Canal+ Sport  Canal+ Sport      <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",[COLOR orange][B]Canal+ Sport[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",[COLOR orange][B]Canal+ Sport[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/qaDeUZMc1snMHax/bRw7IkL2CNMqYvi/42362
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< CBS SPORTS NETWORK  CBS SPORTS NETWORK  CBS SPORTS NETWORK  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -165,7 +165,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/SsPfXxs/3511.png",[COLOR orange][B]Espn Brasil HD[/B][/COLOR]
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/espn.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -335,6 +335,14 @@ EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
+https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
+https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
+https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8
+
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -479,7 +487,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2016/12/nbcgolf_logo-1140x570.png" group-title="USA",[B][COLORorange]NBC Golf | USA[/B][/COLOR]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2016/12/nbcgolf_logo-1140x570.png" group-title="USA",[B][COLORorange]NBC Golf | USA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2016/12/nbcgolf_logo-1140x570.png" group-title="USA",[B][COLORorange]NBC Golf | USA[/B][/COLOR]
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 plugin://plugin.video.f4mTester/?url=http://161.0.157.9/PLTV/88888888/224/3221226812/03.m3u8&amp;streamtype=HLSRETRY&amp;name=NBC Golf
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NESN  NESN  NESN  NESN  NESN  NESN NESN NESN   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -691,6 +700,17 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pyPHfPY/real-madrid-logo-png-24656.png" ,[B][COLORorange]Real Madrid | HD EN[/B][/COLOR]
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  RMC Sport   RMC Sport   RMC Sport   RMC Sport   RMC Sport  RMC Sport <<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/255.png",[B][COLORorange]RMC Sport 1 HD[/B][/COLOR]
+http://ndasat.net:2052/243790250289176/1593574628/15817
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/253.png",[B][COLORorange]RMC Sport 2 HD[/B][/COLOR]
+http://ndasat.net:2052/243790250289176/1593574628/15818
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/254.png",[B][COLORorange]RMC Sport 3 HD[/B][/COLOR]
+http://ndasat.net:2052/243790250289176/1593574628/15819
+#EXTINF:-1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/243.png",[B][COLORorange]RMC Sport 4 HD[/B][/COLOR]
+http://ndasat.net:2052/243790250289176/1593574628/20606
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Setanta Sports   Setanta Sports   Setanta Sports   Setanta Sports     <<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
