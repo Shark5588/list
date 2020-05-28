@@ -40,10 +40,10 @@ http://live.highstream.club/live/BEINSPORTLALIGA/chunks.m3u8|Referer=http://myus
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=HLSRETRY&amp;name=Link
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]BEIN LA LIGA HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://ott-cdn.ucom.am/s81/03.m3u8&amp;streamtype=HLSRETRY&amp;name=LA LIGA
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",[COLOR orange][B]LA LIGA SPAIN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://92.43.140.249/s81/04.m3u8&amp;streamtype=HLSRETRY&amp;name=LA LIGA SPAIN
+EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]BEIN LA LIGA HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA
+EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",[COLOR orange][B]LA LIGA SPAIN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA SPAIN
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) <<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -96,8 +96,8 @@ EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png"
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Canal+ Sport  Canal+ Sport  Canal+ Sport  Canal+ Sport      <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",[COLOR orange][B]Canal+ Sport[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvclub.live:25461/qaDeUZMc1snMHax/bRw7IkL2CNMqYvi/42362
+EXTINF:0 group-title="Canal sat"tvg-logo="http://logo.ddnb.tn/logochanel/202.png",[COLOR orange][B]Canal+ Sport[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< CBS SPORTS NETWORK  CBS SPORTS NETWORK  CBS SPORTS NETWORK  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -328,19 +328,21 @@ https://e7.cdn4.us/ingest666/fstwo.m3u8|Referer=https://box-live.stream/stream/4
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
-http://210.210.155.35/uq2663/h/h21/index1.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://210.210.155.35/uq2663/h/h21/index1.m3u8&amp;streamtype=HLSRETRY&amp;name=Fox Sports
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png",[COLOR orange][B]Fox Sports 3 | USA[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8&amp;streamtype=HLSRETRY&amp;name=Fox1
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 1
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 2
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/500-5005403_logo-canal-fox-sports-hd-png-download.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 3
+plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  Fox Sports  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -712,24 +714,22 @@ http://ndasat.net:2052/243790250289176/1593574628/20606
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Setanta Sports   Setanta Sports   Setanta Sports   Setanta Sports     <<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
-http://92.43.140.204:80/s81/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
-http://92.46.127.146:8080/SetantaSport/index.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
-http://178.124.183.14:80/hls/FWHTTL8YXU/variant.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
-http://ott-cdn.ucom.am/s81/03.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
-https://sportbar.biz/lba/123/g8/setantarus.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
-http://92.43.140.200/s82/04.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
-https://sportbar.biz/lba/123/g5/seteurasiaplus.m3u8
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports +[/B][/COLOR]
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
-
-http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://92.43.140.204:80/s81/index.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://92.46.127.146:8080/SetantaSport/index.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://178.124.183.14:80/hls/FWHTTL8YXU/variant.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://ott-cdn.ucom.am/s81/03.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=https://sportbar.biz/lba/123/g8/setantarus.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://92.43.140.200/s82/04.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports 2[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=https://sportbar.biz/lba/123/g5/seteurasiaplus.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" ,[B][COLORorange]Setanta Sports +[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=http://92.46.127.146:8080/SetantaSportPlus/index.m3u8&amp;streamtype=HLSRETRY&amp;name=Setanta
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Sky Sports   Sky Sports  Sky Sports   Sky Sports   Sky Sports  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
