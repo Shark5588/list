@@ -1,0 +1,46 @@
+
+
+<item>
+<title>[B][COLOR yellowgreen]•[/COLOR][COLOR cyan] VIKV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[makelist.param3]</title>
+  <link>$doregex[makelist2]</link>
+  <info>[makelist.param4]</info>
+  <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  data=re.findall('(?s)src="([^"]+).+?href="([^"]+).+?>([^<]+).+?summary">([^<]+)',re.findall('id="(?:main|content)"(?s)(.*?)page',page_data)[0].replace('&#8217;','\'').replace('&#8211;','-').replace('#038;',''))
+  for pn in xrange(2,10):
+    pages='https://vikv.net/page/'+str(pn)+'/';source=requests.get(pages,headers={'user-agent':'Mozilla/5.0','referer':'https://vikv.net/','accept':'*/*'},cookies=Cookie_Jar).content
+    data +=re.findall('(?s)src="([^"]+).+?href="([^"]+).+?>([^<]+).+?summary">([^<]+)',re.findall('id="(?:main|content)"(?s)(.*?)page',source)[0].replace('&#8217;','\'').replace('&#8211;','-').replace('#038;',''))
+  return data
+]]></expres>
+<page>https://vikv.net/</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[makelist2.param1]</title>
+  <link>[makelist2.param2]|user-agent=ipad</link>
+  <info>[makelist.param4]</info>
+  <thumbnail>[makelist.param1]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
+  link=re.findall('id=.video[\w\W]*?src="([^"]+)',page_data)[0]
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param2]'}).content
+  gimdb,ipAdd=re.findall('(?s)window.imdb.+?[\'"]([^\'"]+).+?window.ip.+?[\'"]([^\'"]+)',source)[0]
+  source=requests.post('https://api.hdv.fun/l1',headers={'user-agent':'Mozilla/5.0','referer':link,'x-requested-with':'XMLHttpRequest'},data={'imdb':gimdb,'ip':ipAdd,'hd':'true'}).content.replace('\\','')
+  return re.findall('"name":"([^"]+).+?"src":"([^"]+)","res":"1080',source)
+]]></expres>
+<page>[makelist.param2]</page>
+<referer>https://vikv.net/</referer>
+</regex>
+</item>
+
