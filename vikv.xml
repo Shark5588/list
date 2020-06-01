@@ -37,7 +37,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
   source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param2]'}).content
   gimdb,ipAdd=re.findall('(?s)window.imdb.+?[\'"]([^\'"]+).+?window.ip.+?[\'"]([^\'"]+)',source)[0]
   source=requests.post('https://api.hdv.fun/l1',headers={'user-agent':'Mozilla/5.0','referer':link,'x-requested-with':'XMLHttpRequest'},data={'imdb':gimdb,'ip':ipAdd,'hd':'true'}).content.replace('\\','')
-  return re.findall('"name":"([^"]+).+?"src":"([^"]+)","res":"1080',source)
+  return re.findall('"name":"([^"]+).+?"src":"([^"]+)',source)
 ]]></expres>
 <page>[makelist.param2]</page>
 <referer>https://vikv.net/</referer>
