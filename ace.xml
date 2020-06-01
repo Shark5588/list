@@ -13,14 +13,14 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bro5808y68x3y8j/acestream.jpg?dl=1" group-title="acestream",[B][COLOR lawngreen]• [COLOR white] •[/COLOR][COLOR deepskyblue]  << Ace Stream – P2P Multimedia Platform>>[/COLOR][/B]
 http://0.0.0.0:1234
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bro5808y68x3y8j/acestream.jpg?dl=1" group-title="acestream",[B][COLOR lawngreen]• [COLOR white] •[/COLOR][COLOR deepskyblue]  ACESTREAM LINKS ----[/COLOR][COLORgreen] OnLine 3/2/2020[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bro5808y68x3y8j/acestream.jpg?dl=1" group-title="acestream",[B][COLOR lawngreen]• [COLOR white] •[/COLOR][COLOR deepskyblue]  ACESTREAM LINKS ----[/COLOR][COLORgreen] OnLine 5/31/2020[/B][/COLOR]
 http://0.0.0.0:1234
 
 ==============================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
+EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://e144851c0780e19970a33c0555624301cb101209&name=My+acestream+channel
-#EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1» (Ace stream)[/COLOR][/B]
+EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1» (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=a80ed0069d84e5aaf19a10884f12bc00eea081a1&.mp4
 EXTINF:-1 tvg-logo="http://e1.365dm.com/17/07/16-9/20/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg?20170726113844",[B][COLORgold]«SKY SPORTS F1»  (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://fd931cb7b45614de6ee10eea838098892dd8a5de&name=My+acestream+channel
@@ -54,64 +54,62 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBOYa
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
 
 
-
-
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 1-2» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://b16313cd3aa6cfc07cb5f09b05097028acacc575&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://1231aff142dbf1159688a51fccf96c426c2f4c7a&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 3-4 » (Ace stream) 
-plugin://program.plexus/?mode=1&url=acestream://d73c2f4e6dc1a8bcc9bde1cfb175fa685cb3b351&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://7f0279c8ee78c09d7ec9ef71bab4a8cfdfad8d14&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 5-6 » (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://938c138d210258eab317f2cd2c7bb36faee83b7f&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://7352778a00689e8ac8aa89caf0edc7fa39902120&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 7-8» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://03d7b8e6cf3cf1ef413ffd856b35aa7de3ba9a13&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://660fd6283db49be83191e5f7f21b9a07a475871b&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 9-10» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://734d49254397ecf97b1c2fc97e44a5037161b15e&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://6e5e344251d59770b47155fb7ba47b68629f4016&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 11-12» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://6545842cde8df951170986d9c2af67938d6151bf&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://76f0e858b621c1dbb720f838942e44d893298d66&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 13-14» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://18a1c4a875b64c718129f353f84c462412005d5c&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://9eae7d8038c5bb8076eb2e8cf7a5acb6b368bc87&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 15-16 » (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://5b62c5d1b682494369041324dc938ba3417a9b9f&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://eec19e3e3a7a86ccfe484827b724b5b2192e856e&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 17-18» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://69c1b7c40942ef4efeb35750b9aa1eaa1a9e7599&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://811b478b3e22440b3178d5870fb54fcc7bf6b2a8&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 19-20» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://764a56523ebbe6c25976638a18d89d96c99a8fe3&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://5178725227a75a4172e52bbf4eb16391d6a6b3a7&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 21-22» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://d961cd461cb7220150e4bafebf62bbd92df857ad&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 23-24» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://3b3de77195d800466c72fa621b5c1578c450513b&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://d480a00edf946154b76d1103081f165bc7a0adcc&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 25-26» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://6a88cfb1db8b115637f6f7dffcfc38c75534c331&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://90bcc2ae4480e1835a0b0d55c97795d9a2406771&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 27-28» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://0acd2f2576a402a288dd8fb80721364d5150a134&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://d1391fa44521ccafccc36475479bbe6e634f1dd0&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 29-30» (Ace stream)  
-plugin://program.plexus/?mode=1&url=acestream://ff60ce4d378091eda002b85960b10c2ee1762585&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://1e3b3a1613db77c90a5a64e470db64be17578d14&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 31-32» (Ace stream)
-plugin://program.plexus/?mode=1&url=acestream://83522d78753747170923a6fc81be1996d39bc111&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://6caf83a58efbb7ae5d9f38ae462f139326785396&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 33-34» (Ace stream)
 plugin://program.plexus/?mode=1&url=acestream://da98f477f1ec5f59040c24e9a109e3005e406925&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 35-36» (Ace stream)
-plugin://program.plexus/?mode=1&url=acestream://40e9c7e95fb7ebf11a35bea112e90d958fd06edd&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://77c8e6d23b63ce9d83ad165c185f69312f267e82&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 37-38» (Ace stream)
-plugin://program.plexus/?mode=1&url=acestream://149b0e858b4febca2f4f1b342d660438431efadc&name=My+acestream+channel
+plugin://program.plexus/?mode=1&url=acestream://a6d932fe9dfec1a2f331235731e33f6a8adabbd4&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 39» (Ace stream)
 plugin://program.plexus/?mode=1&url=acestream://171d47e1d623c34a81878c72eccf6e1a7c876f87&name=My+acestream+channel
@@ -215,8 +213,8 @@ EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",[B][COLORgold]«ESP
 http://127.0.0.1:6878/ace/getstream?id=a733fed4a3c21af598f28e1fff166b707fde62ad&.mp4
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3512.png",[B][COLORgold]«ESPN2»«US»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=a30621ff26e00ca92fa0382f0062d5d05c3abf06&.mp4
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN»«?»«HD»  (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=7b9b2b77519f4b06db40615a0fb46770cfcf676d&.mp4
+EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN»«?»«HD»  (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-s6yGGHnPVpg/T5vO7dXVTRI/AAAAAAAAAGQ/l5GCXeBjY4g/s1600/espn.png",[B][COLORgold]«ESPN2»«US»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 EXTINF:-1 tvg-logo="https://i-cdn.phonearena.com/images/article/17998-image/WatchESPN-app-streams-live-sports-to-your-iPhone-or-iPod-Touch.jpg",[B][COLORgold]«ESPN NFL»«US»«HD»  (Ace stream)[/COLOR][/B]
@@ -276,8 +274,8 @@ plugin://program.plexus/?mode=1&url=acestream://5dfe41fcaf59af1bb9e3376f8ef304f5
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png"group-title="",[B][COLORgold]«Olympic Channel HD» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Pac-12_Networks_logo.png/150px-Pac-12_Networks_logo.png",[B][COLORorange]PAC-12 NATIONAL | USA[/B][/COLOR]
-http://127.0.0.1:6878/ace/getstream?id=af29f039772e99aac428d9d96d4e65b6284f3ec0&.mp4
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Pac-12_Networks_logo.png/150px-Pac-12_Networks_logo.png",[B][COLORorange]PAC-12 NATIONAL | USA[/B][/COLOR]
+http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 
 EXTINF:-1 tvg-logo="http://www.raisport.rai.it/dl/components/img/svg/RaiSport-logo-sito.png"group-title="",[B][COLORgold]«Rai Sport» Dual Audio (Ita,eng) (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
