@@ -16,7 +16,7 @@
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
   data=re.findall('(?s)src="([^"]+).+?href="([^"]+).+?>([^<]+).+?summary">([^<]+)',re.findall('id="(?:main|content)"(?s)(.*?)page',page_data)[0].replace('&#8217;','\'').replace('&#8211;','-').replace('#038;',''))
-  for pn in xrange(2,10):
+  for pn in xrange(2,60):
     pages='https://vikv.net/page/'+str(pn)+'/';source=requests.get(pages,headers={'user-agent':'Mozilla/5.0','referer':'https://vikv.net/','accept':'*/*'},cookies=Cookie_Jar).content
     data +=re.findall('(?s)src="([^"]+).+?href="([^"]+).+?>([^<]+).+?summary">([^<]+)',re.findall('id="(?:main|content)"(?s)(.*?)page',source)[0].replace('&#8217;','\'').replace('&#8211;','-').replace('#038;',''))
   return data
