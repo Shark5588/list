@@ -37,7 +37,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
   link=re.findall('id=.video[\w\W]*?src="([^"]+)',page_data)[0]
   source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'[makelist.param2]'}).content
   gimdb,ipAdd=re.findall('(?s)window.imdb.+?[\'"]([^\'"]+).+?window.ip.+?[\'"]([^\'"]+)',source)[0]
-  jdata=requests.post('https://api.hdv.fun/l1',headers={'user-agent':'Mozilla/5.0','referer':link,'x-requested-with':'XMLHttpRequest'},data={'imdb':gimdb,'ip':urllib.quote_plus(ipAdd),'hd':'true'}).content.replace('\\','')
+  jdata=requests.post('https://api.hdv.fun/l1',headers={'user-agent':'Mozilla/5.0','referer':link,'x-requested-with':'XMLHttpRequest'},data={'imdb':gimdb,'ip':str(ipAdd),'hd':'true'}).content.replace('\\','')
   title=re.findall('"name":"([^"]+).+?"src":".+?","res":',jdata)
   stream=re.findall('"name":".+?".+?src":"([^"]+)","res":',jdata)
   return zip(title,stream)
