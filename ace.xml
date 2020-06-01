@@ -54,20 +54,30 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiBOYa
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
 
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 1-2» (Ace stream)  
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 1-2» (Ace stream) 
 plugin://program.plexus/?mode=1&url=acestream://1231aff142dbf1159688a51fccf96c426c2f4c7a&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 1-2» (Ace stream) 
+http://127.0.0.1:6878/ace/getstream?id=1231aff142dbf1159688a51fccf96c426c2f4c7a&.mp4 
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 3-4 » (Ace stream) 
 plugin://program.plexus/?mode=1&url=acestream://7f0279c8ee78c09d7ec9ef71bab4a8cfdfad8d14&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 3-4 » (Ace stream) 
+http://127.0.0.1:6878/ace/getstream?id=7f0279c8ee78c09d7ec9ef71bab4a8cfdfad8d14&.mp4
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 5-6 » (Ace stream)  
 plugin://program.plexus/?mode=1&url=acestream://7352778a00689e8ac8aa89caf0edc7fa39902120&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 5-6 » (Ace stream)  
+http://127.0.0.1:6878/ace/getstream?id=7352778a00689e8ac8aa89caf0edc7fa39902120&.mp4
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 7-8» (Ace stream)  
 plugin://program.plexus/?mode=1&url=acestream://660fd6283db49be83191e5f7f21b9a07a475871b&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 7-8» (Ace stream)  
+http://127.0.0.1:6878/ace/getstream?id=660fd6283db49be83191e5f7f21b9a07a475871b&.mp4
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 9-10» (Ace stream)  
 plugin://program.plexus/?mode=1&url=acestream://6e5e344251d59770b47155fb7ba47b68629f4016&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 9-10» (Ace stream)  
+http://127.0.0.1:6878/ace/getstream?id=6e5e344251d59770b47155fb7ba47b68629f4016&.mp4
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg"group-title="",«ArenaVision 11-12» (Ace stream)  
 plugin://program.plexus/?mode=1&url=acestream://76f0e858b621c1dbb720f838942e44d893298d66&name=My+acestream+channel
