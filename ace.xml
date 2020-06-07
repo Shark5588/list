@@ -184,11 +184,11 @@ plugin://program.plexus/?mode=1&url=acestream://74ae297237d9b4010e91cce52dfad342
 EXTINF:-1 tvg-logo="http://eliplextv.xyz/Eliplex%20logos/Logos%20Channel/Bein%20Sports%20usa.jpg"group-title="",[B][COLORgold]«BEIN SPORTS 3» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://66a3be5086e2832119ef1154bc197d2e747762e2&name=My+acestream+channel
 
-EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 1» (Ace stream)[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 1» (Ace stream)[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0ac87ecd9fdf0d50d6331f29a2f01877f82a39f0&name=My+acestream+channel
 
-EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 1» HD (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=9<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
+#EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 1» HD (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=0ac87ecd9fdf0d50d6331f29a2f01877f82a39f0&.mp4
 
 EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 2» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
