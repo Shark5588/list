@@ -39,7 +39,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 
 
 <item>
-<title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] Sports Club[/COLOR][/B][/I]</title>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] Sports Club TV[/COLOR][/B][/I]</title>
 <thumbnail>http://sports24.club/images/logo.png</thumbnail>
 <link>$doregex[makelist]</link>
 <regex>
@@ -47,7 +47,7 @@ def GetLSProData(page_data,Cookie_Jar,m):# streamwatcher2013
 <listrepeat><![CDATA[
 <title>[COLOR gold][makelist.param1][/COLOR]</title>
 <link>$doregex[getUrl]|user-agent=iPad</link>
-<thumbnail>http://sports24.club/images/logo.png</thumbnail>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL._SY355_.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[btn-outline-primary.+?title\s*="(.*?)".*?href\s*="(.*?)"]]></expres>
 <page>http://sports24.club/tv/</page>
