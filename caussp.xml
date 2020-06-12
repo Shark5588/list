@@ -78,22 +78,22 @@ https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://sportsbay.org/stream/45629
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pluskor.com:8080/live/AyhanMert/AyhanMert/76916.ts
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= http://pluskor.com:8080/live/AyhanMert/AyhanMert/76917.ts
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pluskor.com:8080/live/AyhanMert/AyhanMert/76914.ts
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pluskor.com:8080/live/AyhanMert/AyhanMert/76911.ts
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Canal+ Sport  Canal+ Sport  Canal+ Sport  Canal+ Sport      <<<<<<<<<<<<<<<<<<<<<<<<
@@ -465,8 +465,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plus-tv.us:8080/live/1899/1899/14671.ts
-EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/27/27/14671.ts
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sports | Boston[/B][/COLOR]
@@ -1015,8 +1015,8 @@ http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8?fluxustv.m3u8
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plus-tv.us:8080/live/1899/1899/14674.ts
-EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE PPV HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.171.128.99:25461/live/phoenix/1212/123.ts
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/tY60d9m/wwe.jpg",[B][COLORorange]WWE Network HD[/B][/COLOR]
