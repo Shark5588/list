@@ -82,13 +82,13 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 https://sportsbay.org/watch/67185/1/bt-sport-1-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 https://sportsbay.org/watch/67186/1/bt-sport-2-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -240,7 +240,7 @@ http://hls.123tv.live/ch/IMmcZ-9FqkT7ekMaqDt1Hg/1591124605/sec.m3u8|Referer=http
 EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://gamecocksonline.com/images/2014/8/20/sec-network-plus-watchespn-864x487.png",[B][COLORorange]SEC Network | USA[/B][/COLOR]
-https://sportsbay.org/watch/46070/1/sec-network-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+https://e7.cdn4.us/ingest666/sec-network.m3u8|Referer=https://espn-live.stream/stream/46070.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN NEWS ESPN NEWS ESPN NEWS ESPN NEWS ESPN NEWS<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -375,7 +375,7 @@ http://45.58.62.92:8080
 EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
-https://e7.cdn4.us/ingest666/fsplus.m3u8|Referer=https://espn-live.stream/stream/56872.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+https://e7.cdn4.us/ingest666/fsplus.m3u8|https://espn-live.stream/stream/56872.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 ====================================================================== FTF NEXT ===================================================================
 EXTINF:-1 tvg-logo="https://secureservercdn.net/72.167.241.134/e04.416.myftpupload.com/wp-content/uploads/2019/06/White_FTF_Next.png" ,[B][COLORorange]FTF NEXT | USA[/B][/COLOR]
 https://streaming.sniffercat.com/scheduler/scheduleMaster/2/variant/3.m3u8|Referer=https://www.ftfnext.com/
@@ -669,9 +669,6 @@ plugin://plugin.video.f4mTester/?url=http://rdshdulive-lh.akamaihd.net/i/rdshdu1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  RDS Channel  RDS Channel  RDS Channel  RDS Channel  RDS Channel <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://loginto.live:80/EPJY3St56/K6s2ruk8O0/13869
-
 EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -681,8 +678,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://loginto.live:80/EPJY3St56/K6s2ruk8O0/13870
+EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -693,8 +690,11 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://loginto.live:80/EPJY3St56/K6s2ruk8O0/13871
+EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
@@ -972,10 +972,10 @@ plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/tsn5/index.m3u8?token
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://loginto.live:80/EPJY3St56/K6s2ruk8O0/4812
-#EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS 2| CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvpro.vision-new.org:8789/iptvpro2vod11122019/9100558528/43358
+EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS 2| CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://storage.tvasports.ca/v1/dynamic_resize/sws_path/tvasports_prod/74821d15-fb2a-4ebc-bbc8-b5e0ea5d3a7f_TVASPORTS_WEB.jpg?quality=80&size=1080x607.5x&version=1" ,[B][COLORorange]TVA SPORTS 2| CA[/B][/COLOR]
@@ -1041,8 +1041,8 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  YES_Network YES_Network YES_Network YES_Network YES_Network YES_Network <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png",[B][COLORorange]YES NETWORK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://plus-tv.us:8080/live/1899/1899/14667.ts
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png",[B][COLORorange]YES NETWORK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/YES_Network_logo.png",[B][COLORorange]YES NETWORK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
