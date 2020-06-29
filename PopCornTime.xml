@@ -24,7 +24,7 @@
 import xbmc
 import xbmcaddon
 import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
+def GetLSProData(page_data,Cookie_Jar,m):#Thanks to blackaddon codes
     dialog = xbmcgui.Dialog()
     d = dialog.input('Search Movie: ', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "-")
     return d
