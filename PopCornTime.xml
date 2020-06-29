@@ -1,8 +1,10 @@
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SetViewMode>55</SetViewMode>
+ <!-- TOP SEARCHERS-->
 
 
 <item>
-<title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered] PopCornTime [/COLOR][/B]</title>
+<title>  [B][COLOR orangered] PopCornTime [/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
@@ -35,7 +37,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR snow][makelist.param1][/COLOR] [COLOR red] Language:[B][makelist.param3][/B] [/COLOR][COLOR lightslategray] Quality:[makelist.param4][/COLOR]</title>
+<title>[COLOR snow][makelist.param1][/COLOR] [COLOR lightslategray] Language:[B][makelist.param3][/B] [/COLOR][COLOR red] Quality:[makelist.param4][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:[makelist.param2]</link>
 <thumbnail>[makelist2.param4]</thumbnail>
 ]]></listrepeat>
