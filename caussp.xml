@@ -16,7 +16,7 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COL
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 7/1/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 7/3/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
@@ -26,18 +26,16 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports FHD[/B][/COLOR]
-http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31141.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/31141
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
-http://live.highstream.club/live/BEINSPORTSUSA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-usa/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
-http://live.highstream.club/live/BEINSPORTSESP/chunks.m3u8|Referer=http://myustv.com/watch/bein-sports-esp-us/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORT LA LIGA esp[/B][/COLOR]
-http://live.highstream.club/live/BEINSPORTLALIGA/chunks.m3u8|Referer=http://myustv.com/watch/bein-sport-la-liga-esp/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
-
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=HLSRETRY&amp;name=Link
@@ -55,6 +53,13 @@ EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/120.png",[COLOR orange][B]Bei
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",[COLOR orange][B]Bein Sports 3 | FR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bek Sports Bek Sports Bek Sports Bek Sports Bek Sports <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
+#EXTINF:-1 tvg-logo="https://tv.mobistream.co.za/upload/source/bek_sports.png",[COLOR orange][B]Bek Sports East[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=Bek Sports East
+#EXTINF:-1 tvg-logo="https://tv.mobistream.co.za/upload/source/bek_sports.png",[COLOR orange][B]Bek Sports West[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=Bek Sports West
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BoxNation BoxNation BoxNation BoxNation BoxNation <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
