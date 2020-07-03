@@ -117,7 +117,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Spor
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/cbsshq.m3u8|Referer=https://sportsbay.org/stream/53069.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
 http://live.highstream.club/live/CBSSPORTSNETWORK/chunks.m3u8|Referer=http://myustv.com/watch/cbs-sports-network/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
@@ -383,8 +383,8 @@ plugin://plugin.video.f4mTester/?url=http://austchannel-live.akamaized.net/hls/l
 #EXTINF:-1 tvg-logo="https://dscxx9mer61ho.cloudfront.net/wp-content/uploads/TV-Fox506.png" ,[B][COLORorange]Fox Sports 506 HD | USA[/B][/COLOR]
 http://45.58.62.92:8080
 ====================================================================== Fox Soccer Plus ============================================================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://207.38.89.242:8080/live/1049/1049/14655.ts
+EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4UmcRQ.png" ,[B][COLORorange]Fox Soccer Plus | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/fsplus.m3u8|Referer=https://espn-live.stream/stream/56872.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 ====================================================================== FTF NEXT ===================================================================
@@ -599,7 +599,7 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Pac-12 Channel  Pac-12 Channel  Pac-12 Channel  Pac-12 Channel  Pac-12 Channel <<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://static.pac-12.com/images/logos/pac-12-arizona-logo.png",[B][COLORorange]Pac-12 Arizona | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/31171.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/31171
 EXTINF:-1 tvg-logo="https://static.pac-12.com/images/logos/pac-12-arizona-logo.png",[B][COLORorange]Pac-12 Arizona | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://static.pac-12.com/images/logos/pac-12-arizona-logo.png",[B][COLORorange]Pac-12 Arizona | USA[/B][/COLOR]
@@ -846,8 +846,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET EAST[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/31200
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONE[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -859,8 +859,8 @@ EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 
-EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/31207
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET ONTARIO[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -896,8 +896,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dna-iptv.com:999/aRqbtWMgol/mCZnbRT8DR/31206
 
 EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-NHL_1.png" group-title="USA/CA Channels",[B][COLORorange]SPORTSNET WORLD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -906,10 +906,12 @@ EXTINF:-1 tvg-logo="https://www.academy.ca/wp-content/uploads/2018/01/Sportsnet-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #########################################################################################################################################################
-EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" ,[B][COLORorange]Stadium | SD[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" ,[B][COLORorange]Stadium | SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8&amp;streamtype=HLSRETRY&amp;name=Stadium
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" ,[B][COLORorange]SUPER SOCCER TV | USA[/B][/COLOR]
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/o7EmBeD95dYCdetJTpYcOYHal1utdYGytKawi2TV_tZLVsePBkr7gr-o-1V0wRyG6BM=s180" ,[B][COLORorange]TDM Sports Macau[/B][/COLOR]
+rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 ########################################################################################################################################################
 ############################################################ Tennis Channels ############################################################################
 #EXTINF:-1 tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png",[B][COLORorange]Tennis Channel+ HD (720p)[/B][/COLOR]
