@@ -25,8 +25,8 @@ http://0.0.0.0:1234
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dz1/mannylopez/5391
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports 1[/B][/COLOR]
-http://46.105.233.106:8686/hls/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports FHD[/B][/COLOR]
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31141.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
@@ -87,13 +87,14 @@ https://sportsbay.org/watch/67185/1/bt-sport-1-live.html|Referer=https://sportsb
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-http://185.39.9.176:3399/live/aRqbtWMgol/mCZnbRT8DR/31156.m3u8?token=HkAFDQBDCkR2NHErICsoaFcGAldSAlNSWlYNVgALVAMBAFBcVQIHA18GAwEHUAACTgFXAlVbVk9TBwVqQ0Q=
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31156.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 https://sportsbay.org/watch/67186/1/bt-sport-2-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
+http://dna-iptv.com:999/live/aRqbtWMgol/mCZnbRT8DR/31155.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
