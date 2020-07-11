@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 7/2/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 7/11/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,727 +17,205 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-#EXTINF:-1,Sky Sports Premier League FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671301
-#EXTINF:-1,Sky Sports Main Event FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671299
-#EXTINF:-1,Sky Sports Arena FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671298
-#EXTINF:-1,Sky Sports News FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671300
-#EXTINF:-1,Sky Sports Football FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/625258
-#EXTINF:-1,Eleven Sports 1 FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53154
-#EXTINF:-1,Eir Sport 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6612
-#EXTINF:-1,Eir Sport 2 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6611
-#EXTINF:-1,Premier Sports HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/7915
-#EXTINF:-1,Premier Sports FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671297
-#EXTINF:-1,Premier Sports 2 FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671296
-#EXTINF:-1,Premier Sports 2 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6568
-#EXTINF:-1,BT Sport ESPN FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6643
-#EXTINF:-1,BT Sport 1 FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671278
-#EXTINF:-1,BT Sport 1 HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6646
-#EXTINF:-1,BT Sport 2 FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671279
-#EXTINF:-1,BT Sport 2 HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671280
-#EXTINF:-1,BT Sport 3 FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/671281
-#EXTINF:-1,BT Sport 3 HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6644
-#EXTINF:-1,BT Sport Extra 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6641
-#EXTINF:-1,BT Sport Extra 2 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/6640
-#EXTINF:-1,BT Sport Extra 3 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/7918
-#EXTINF:-1,BT Sport Extra 4 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/7917
-
-#EXTINF:-1,########## VIP ##########
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13850
-#EXTINF:-1,DAZN 1 Bar FHD DE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/661090
-#EXTINF:-1,DAZN 2 Bar FHD DE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/661089
-#EXTINF:-1,DAZN Bar 1 HD DE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/661088
-#EXTINF:-1,DAZN Bar 2 HD DE VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/661087
-#EXTINF:-1,Planet Sports 4 HD HR VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/663526
-#EXTINF:-1,Planet Sports 5 HD HR VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/663527
-#EXTINF:-1,Eleven Sports 1 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13774
-#EXTINF:-1,Eleven Sports 2 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13773
-#EXTINF:-1,Eleven Sports 3 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13772
-#EXTINF:-1,Eleven Sports 4 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13771
-#EXTINF:-1,Eleven Sports 5 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13770
-#EXTINF:-1,Eleven Sports 6 FHD PT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13769
-#EXTINF:-1,MySports FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13784
-#EXTINF:-1,MySports 1/Sky 1 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13783
-#EXTINF:-1,MySports 2/Sky 2 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13782
-#EXTINF:-1,MySports 3/Sky 3 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13781
-#EXTINF:-1,MySports 4/Sky 4 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13780
-#EXTINF:-1,MySports 5/Sky 5 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13779
-#EXTINF:-1,MySports 6/Sky 6 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13778
-#EXTINF:-1,MySports 7/Sky 7 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13777
-#EXTINF:-1,MySports 8/Sky 8 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13776
-#EXTINF:-1,MySports 9/Sky 9 FHD CH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13775
-#EXTINF:-1,Eleven Sports 1 FHD BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13768
-#EXTINF:-1,Eleven Sports 2 FHD BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13767
-#EXTINF:-1,Eleven Sports 1 FHD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13766
-#EXTINF:-1,Eleven Sports 2 FHD PL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13765
-#EXTINF:-1,beIN Sports 1 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13860
-#EXTINF:-1,beIN Sports 2 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13859
-#EXTINF:-1,beIN Sports 3 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53268
-#EXTINF:-1,beIN Sports 4 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13857
-#EXTINF:-1,beIN Sports 5 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/625256
-#EXTINF:-1,beIN Sports 6 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13855
-#EXTINF:-1,beIN Sports 7 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13854
-#EXTINF:-1,beIN Sports 8 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13853
-#EXTINF:-1,beIN Sports 9 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13852
-#EXTINF:-1,beIN Sports 10 FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13851
-#EXTINF:-1,beIN Sports News FHD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/13861
-#EXTINF:-1,beIN Sports 1 FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14096
-#EXTINF:-1,beIN Sports 2 FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14095
-#EXTINF:-1,beIN Sports 3 FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14094
-#EXTINF:-1,beIN Sports 4 FHD TR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14093
-#EXTINF:-1,Animal Planet FHD EN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14115
-#EXTINF:-1,MBC Variety HD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14112
-#EXTINF:-1,Rotana Aflam HD ARB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14111
-#EXTINF:-1,beIN Sports Max 1 FHD VIP FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/654671
-#EXTINF:-1,beIN Sports MAX 5 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/16933
-#EXTINF:-1,beIN Sports MAX 6 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/16932
-#EXTINF:-1,beIN Sports MAX 7 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/16931
-#EXTINF:-1,beIN Sports MAX 8 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/16930
-#EXTINF:-1,beIN Sports MAX 9 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/16929
-#EXTINF:-1,beIN Sports MAX 10 FHD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/16928
-#EXTINF:-1,ATG Live SE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/14243
-#EXTINF:-1,C More Junior VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17131
-#EXTINF:-1,C More Juniori VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17114
-#EXTINF:-1,C More Sport 1 VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17135
-#EXTINF:-1,C More Sport 1 FHD VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17115
-#EXTINF:-1,C More Sport 2 VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17134
-#EXTINF:-1,C More Sport HD VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17110
-#EXTINF:-1,C More Max HD VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17125
-#EXTINF:-1,Jim TV VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17132
-#EXTINF:-1,MTV 3 FHD VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17127
-#EXTINF:-1,Nat Geo Wild HD VIP SC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17013
-#EXTINF:-1,Nelonen VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17136
-#EXTINF:-1,Sub TV VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17133
-#EXTINF:-1,Viasat 4 VIP SC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17014
-#EXTINF:-1,Viasat Explore VIP SC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17077
-#EXTINF:-1,Viasat Golf HD VIP SC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17122
-#EXTINF:-1,Viasat Nature VIP NO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17103
-#EXTINF:-1,Viasat Series VIP NO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17101
-#EXTINF:-1,Yle TV 1 FHD VIP FI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17129
-#EXTINF:-1,Cooking Channel HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18958
-#EXTINF:-1,FOX Business HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18957
-#EXTINF:-1,Fox Sports Florida HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18938
-#EXTINF:-1,Fox Sports Ohio HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18947
-#EXTINF:-1,Fox Sports San Diego HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18945
-#EXTINF:-1,Fox Sports South HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/650574
-#EXTINF:-1,Fox Sports South East HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18943
-#EXTINF:-1,Fox Sports South West HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18942
-#EXTINF:-1,Fox Sports Sun HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18937
-#EXTINF:-1,Fox Sports West HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18940
-#EXTINF:-1,Fox Sports Wisconsin HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18939
-#EXTINF:-1,The Weather Channel HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18956
-#EXTINF:-1,Univision HD US VIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/18959
-#EXTINF:-1,Beout Sports 1 HD AR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/38509
-#EXTINF:-1,WGN America HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620791
-#EXTINF:-1,WWE Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620793
-#EXTINF:-1,Yes Network FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620794
-#EXTINF:-1,Telekom Eishockey 1 FHD DE [Live During Events Only]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620810
-#EXTINF:-1,Telekom Eishockey 2 FHD DE [Live During Events Only]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620809
-#EXTINF:-1,Telekom Eishockey 3 FHD DE [Live During Events Only]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620808
-#EXTINF:-1,Telekom Eishockey 4 FHD DE [Live During Events Only]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620807
-#EXTINF:-1,Telekom Eishockey 5 FHD DE [Live During Events Only]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620806
-#EXTINF:-1,Telekom Eishockey 6 FHD DE [Live During Events Only]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620805
-#EXTINF:-1,Telekom Eishockey 7 FHD DE [Live During Events Only]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/620804
-
-#EXTINF:-1,########## Canada ##########
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/8138
-#EXTINF:-1,ABC Spark CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17815
-#EXTINF:-1,ABC Spark (Backup) CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37011
-#EXTINF:-1,Amc CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12779
-#EXTINF:-1,Animal Planet HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37089
-#EXTINF:-1,Animal Planet CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632749
-#EXTINF:-1,Bravo CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12806
-#EXTINF:-1,City Calgary CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37107
-#EXTINF:-1,CBC Montreal CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17789
-#EXTINF:-1,CBC Montreal HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37104
-#EXTINF:-1,CBC Ottawa CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17787
-#EXTINF:-1,CBC Vancouver CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17786
-#EXTINF:-1,CBC Winnipeg HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37100
-#EXTINF:-1,CHCH CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12739
-#EXTINF:-1,CMT CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17780
-#EXTINF:-1,CNN International CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17778
-#EXTINF:-1,CP24 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12755
-#EXTINF:-1,CP24 (Backup) CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37077
-#EXTINF:-1,CPAC HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37076
-#EXTINF:-1,CPAC CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17796
-#EXTINF:-1,CTV Toronto CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12800
-#EXTINF:-1,City Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37082
-#EXTINF:-1,Comedy HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37079
-#EXTINF:-1,Discovery Science CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12798
-#EXTINF:-1,Discovery Science HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37073
-#EXTINF:-1,Disney JR CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37072
-#EXTINF:-1,Disney USA CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37071
-#EXTINF:-1,E! CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17767
-#EXTINF:-1,FX HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37064
-#EXTINF:-1,Fox HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37066
-#EXTINF:-1,HBO 1 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37061
-#EXTINF:-1,HGTV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12787
-#EXTINF:-1,HGTV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37059
-#EXTINF:-1,History CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12786
-#EXTINF:-1,History HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37057
-#EXTINF:-1,ICI Montreal CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17748
-#EXTINF:-1,ICI Montreal HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37055
-#EXTINF:-1,Mav TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17738
-#EXTINF:-1,NBA TV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37047
-#EXTINF:-1,OMNI 1 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17724
-#EXTINF:-1,OMNI 1 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37045
-#EXTINF:-1,OMNI 2 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17723
-#EXTINF:-1,OMNI 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37044
-#EXTINF:-1,OWN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17720
-#EXTINF:-1,OWN HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37042
-#EXTINF:-1,Shopping CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17711
-#EXTINF:-1,Shopping HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37039
-#EXTINF:-1,Slice HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37036
-#EXTINF:-1,SportsNet 360 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37030
-#EXTINF:-1,SportsNet East HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12741
-#EXTINF:-1,SportsNet One HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12742
-#EXTINF:-1,SportsNet Ontario HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12743
-#EXTINF:-1,TLC HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37028
-#EXTINF:-1,TSN 1 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17691
-#EXTINF:-1,TSN 1 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37023
-#EXTINF:-1,TSN 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37022
-#EXTINF:-1,TSN 3 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17689
-#EXTINF:-1,TSN 3 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37021
-#EXTINF:-1,TSN 4 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/17688
-#EXTINF:-1,TSN 4 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37020
-#EXTINF:-1,TSN 5 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37019
-#EXTINF:-1,TreeHouse HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37025
-#EXTINF:-1,Treehouse TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/12759
-#EXTINF:-1,WWE HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37016
-#EXTINF:-1,YTV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37013
-#EXTINF:-1,Canal Savoir CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53740
-#EXTINF:-1,Casa CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53738
-#EXTINF:-1,Disney La Chaine CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53737
-#EXTINF:-1,Frissons TV CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53736
-#EXTINF:-1,Max CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53735
-#EXTINF:-1,Meteo Media CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53734
-#EXTINF:-1,Moi ET Cie CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53733
-#EXTINF:-1,Musique Plus CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53732
-#EXTINF:-1,Prise CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53727
-#EXTINF:-1,RDI CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53731
-#EXTINF:-1,RDS 2 CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53728
-#EXTINF:-1,RDS CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53729
-#EXTINF:-1,RDS Info CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53730
-#EXTINF:-1,Series CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53726
-#EXTINF:-1,Super Ecran 1 CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53725
-#EXTINF:-1,Super Ecran 2 CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53724
-#EXTINF:-1,Super Ecran 3 CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53723
-#EXTINF:-1,Super Ecran 4 CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53722
-#EXTINF:-1,Tele Quebec CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53719
-#EXTINF:-1,TFO CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53713
-#EXTINF:-1,TMN 1 CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53712
-#EXTINF:-1,TMN 2 CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53711
-#EXTINF:-1,TV5 Quebec CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53708
-#EXTINF:-1,TVA Sports CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53716
-#EXTINF:-1,TVA Quebec CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53718
-#EXTINF:-1,UNIS TV CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53698
-#EXTINF:-1,VIE CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53707
-#EXTINF:-1,VRAK TV CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53705
-#EXTINF:-1,Yoopa CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53700
-#EXTINF:-1,Z-Tele CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53699
-#EXTINF:-1,Zeste CA-FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/53697
-#EXTINF:-1,YES CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624309
-#EXTINF:-1,W  Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624310
-#EXTINF:-1,SPORTSNET WEST CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624311
-#EXTINF:-1,Showtime East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624313
-#EXTINF:-1,Discovery Channel CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624318
-#EXTINF:-1,Cottage Tv Life CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624320
-#EXTINF:-1,AHC CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624321
-#EXTINF:-1,Space HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624758
-#EXTINF:-1,A&E HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632781
-#EXTINF:-1,ABC East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632752
-#EXTINF:-1,ABC West CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632751
-#EXTINF:-1,Addik TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632750
-#EXTINF:-1,APTN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632748
-#EXTINF:-1,BBC Canada CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632746
-#EXTINF:-1,BBC World News CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632744
-#EXTINF:-1,Bet CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632743
-#EXTINF:-1,BNN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632742
-#EXTINF:-1,BNN HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632754
-#EXTINF:-1,Book TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632741
-#EXTINF:-1,Bravo HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632780
-#EXTINF:-1,Canal D CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632740
-#EXTINF:-1,Canal Savoir CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632739
-#EXTINF:-1,Cartoon Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632738
-#EXTINF:-1,CBC French HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632778
-#EXTINF:-1,CBC HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632737
-#EXTINF:-1,CBC News HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632753
-#EXTINF:-1,CBC News CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632736
-#EXTINF:-1,CBC News Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632735
-#EXTINF:-1,CBC News Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632777
-#EXTINF:-1,CBC Ottawa HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632776
-#EXTINF:-1,CBC Toronto CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632734
-#EXTINF:-1,CBC Toronto HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632775
-#EXTINF:-1,CBC Vancouver HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632774
-#EXTINF:-1,CBS East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632733
-#EXTINF:-1,CBS West CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632732
-#EXTINF:-1,CITY MONTREAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632760
-#EXTINF:-1,City Toronto CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632730
-#EXTINF:-1,City Vancouver CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632729
-#EXTINF:-1,CNBC CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632728
-#EXTINF:-1,CNN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632727
-#EXTINF:-1,Cooking Channel CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632725
-#EXTINF:-1,CTV 2 Ottawa CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632715
-#EXTINF:-1,CTV 2 Vancouver CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632721
-#EXTINF:-1,CTV News Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632718
-#EXTINF:-1,CTV Ottawa CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632717
-#EXTINF:-1,CTV Vancouver CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632716
-#EXTINF:-1,CTV Comedy HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/676949
-#EXTINF:-1,CTV Sci-Fi HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/676945
-#EXTINF:-1,CW CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/676946
-#EXTINF:-1,CW 11 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632757
-#EXTINF:-1,Daystar TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632713
-#EXTINF:-1,Daystar TV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632756
-#EXTINF:-1,Disney French CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632711
-#EXTINF:-1,Disney HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632710
-#EXTINF:-1,Disney CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/624317
-#EXTINF:-1,Disney JR CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632709
-#EXTINF:-1,Diy CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632708
-#EXTINF:-1,Dtour CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632706
-#EXTINF:-1,E! HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632705
-#EXTINF:-1,Family CHRGD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632702
-#EXTINF:-1,Family Junior HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632773
-#EXTINF:-1,Fight Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632699
-#EXTINF:-1,Food Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632698
-#EXTINF:-1,Food Network HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632697
-#EXTINF:-1,Fox East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632696
-#EXTINF:-1,Fox News CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632695
-#EXTINF:-1,Fox West CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632694
-#EXTINF:-1,FTV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632693
-#EXTINF:-1,FYI CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632692
-#EXTINF:-1,Game TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632691
-#EXTINF:-1,Global Toronto CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632772
-#EXTINF:-1,Golf CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632687
-#EXTINF:-1,GSN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632686
-#EXTINF:-1,GSN HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632685
-#EXTINF:-1,Gusto CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632684
-#EXTINF:-1,H2 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632683
-#EXTINF:-1,MovieTime HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/676942
-#EXTINF:-1,HBO 1 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632682
-#EXTINF:-1,HBO 2 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632681
-#EXTINF:-1,HBO 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632680
-#EXTINF:-1,HBO HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632679
-#EXTINF:-1,Historio CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632678
-#EXTINF:-1,HLN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632677
-#EXTINF:-1,ICI Vancouver CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632674
-#EXTINF:-1,ID CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632673
-#EXTINF:-1,KTLA CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632670
-#EXTINF:-1,LCN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632669
-#EXTINF:-1,LifeTime CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632667
-#EXTINF:-1,Lifetime HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632771
-#EXTINF:-1,MavTV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632666
-#EXTINF:-1,Max CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632665
-#EXTINF:-1,Miracle CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632664
-#EXTINF:-1,MSNBC HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632769
-#EXTINF:-1,MTime CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632663
-#EXTINF:-1,MTV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632662
-#EXTINF:-1,Much Music CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632661
-#EXTINF:-1,NBA TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632658
-#EXTINF:-1,NBC East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632657
-#EXTINF:-1,NBC West CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632655
-#EXTINF:-1,Nick CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632654
-#EXTINF:-1,NTV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632653
-#EXTINF:-1,OLN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632652
-#EXTINF:-1,One CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632651
-#EXTINF:-1,Out TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632650
-#EXTINF:-1,Peach Tree HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632766
-#EXTINF:-1,RDI CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632647
-#EXTINF:-1,Showcase East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632646
-#EXTINF:-1,Silver Screen Classics CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632644
-#EXTINF:-1,Slice CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632643
-#EXTINF:-1,Space CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632641
-#EXTINF:-1,Spike TV / Paramount CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632640
-#EXTINF:-1,SportsNet 360 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632639
-#EXTINF:-1,SportsNet East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632638
-#EXTINF:-1,SportsNet Ontario CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632636
-#EXTINF:-1,SportsNet Pacific CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632765
-#EXTINF:-1,SportsNet West CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632764
-#EXTINF:-1,SportsNet World CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632635
-#EXTINF:-1,Super Channel Vault CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632632
-#EXTINF:-1,Super Ecran 1 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632631
-#EXTINF:-1,Super Ecran 2 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632630
-#EXTINF:-1,Super Ecran 3 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632629
-#EXTINF:-1,Super Ecran 4 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632628
-#EXTINF:-1,TCM CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632627
-#EXTINF:-1,Tele Toon East CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632625
-#EXTINF:-1,Z TELE CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632624
-#EXTINF:-1,TMN 1 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632622
-#EXTINF:-1,TMN 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/37026
-#EXTINF:-1,TMN 2 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632621
-#EXTINF:-1,TMN 3 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632620
-#EXTINF:-1,TMN 4 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632619
-#EXTINF:-1,TSN 1 SD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632617
-#EXTINF:-1,TSN 2 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632616
-#EXTINF:-1,TSN 5 CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632615
-#EXTINF:-1,TVO CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632613
-#EXTINF:-1,The Weather Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632762
-#EXTINF:-1,WFN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632609
-#EXTINF:-1,WGN CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632608
-#EXTINF:-1,Wild TV CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632607
-#EXTINF:-1,World HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632761
-#EXTINF:-1,WSBK CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632606
-#EXTINF:-1,Z Tele CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/632605
-#EXTINF:-1,CBC Calgary CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/665600
-#EXTINF:-1,Family Channel CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/665602
-#EXTINF:-1,ICI RDI CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/665603
-#EXTINF:-1,Telat (Tele Latino) CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/665604
-#EXTINF:-1,Shopping Network CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/665605
-#EXTINF:-1,Crave HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.rent:8080/dcus7xr1v/ouguqnmitf/676944
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15215
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114476
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15260
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30230
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3051
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ADDIK (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114485
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AHC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30227
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15193
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3066
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stariptv.top:2086/7899/7899/20302
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114492
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ANIMAL-PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3065
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",APTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30226
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Addik.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15168
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="Religious",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Undefined",Amazing Discoveries TV,CA | Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Animal.Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15214
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/dNQUbok.png" group-title="Undefined",Assemblee Nationale du Quebec,CA | Assemblee Nationale du Quebec
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://diffusionm3.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30223
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114498
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="Undefined",BBC Toronto Gaunda Punjab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30222
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114499
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC.Canada
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15251
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC.Earth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15219
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC.News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15262
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC.World.News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15261
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114502
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3062
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3061
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Bnn.Blomberg
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15266
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15241
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Undefined",CA | CNTV,CNTV
+https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wwmapsS.png" group-title="Undefined",CA | CPAC,CPAC,CPAC Francais
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="Undefined",CA | Canadian Arab TV,Canadian Arab TV,Canadian Arab TV (Canada)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.226.228.32:8080/hls/catv/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/dSvUExH.png" group-title="Undefined",CA | Canal Savoir,Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/HRqcIcR.png" group-title="Undefined",CA | EMCI TV,EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="Undefined",CA | EWTN Canada,EWTN Canada
+https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/bcHP3Vg.png" group-title="Undefined",CA | Global British Columbia,Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/MtSURrQ.png" group-title="Undefined",CA | Global Calgary,Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/7R10c5i.png" group-title="Undefined",CA | Global Edmonton,Global Edmonton
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="Undefined",CA | Global News,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Undefined",CA | Global Toronto,Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Undefined",CA | IIPC TV,IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/4gL9GEa.png" group-title="Undefined",CA | Legislative Assembly of Ontario,Legislative Assembly of Ontario
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:0 tvg-country="CA;US" tvg-logo="https://i.imgur.com/J9EMPjf.png" group-title="Undefined",CA | NTV,NTV,NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Undefined",CA | QVTV,QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious;Undefined",CA | Salt + Light Television,Salt + Light Television
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:0 tvg-country="CA;PK" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",CA | TAG TV,TAG TV,Tag TV (Opt-1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Undefined",CA | Urdu TV Toronto,Urdu TV Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CANADIAN ARAB TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114511
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CANAL D (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114513
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CANAL VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114518
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114519
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114520
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30217
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15259
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC CALGARY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114523
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30216
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30214
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30213
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC WINDSOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114543
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114542
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC-EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3060
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC-NEWS-NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3059
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC.Calgary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15270
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC.Halifax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15271
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC.Montreal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15269
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC.News.Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15274
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC.Ottawa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15272
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC.Vancouver
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15273
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15258
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30210
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3058
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114549
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CINEPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30209
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30099
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30113
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30208
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TORONTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114556
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3057
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15223
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15263
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3056
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30204
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN.International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15264
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3055
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mhiptv.com:8888/naeem/naeem123/15267
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3053
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3052
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 4 / TMN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30143
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRIME INVEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30199
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="News",CTV
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3050
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/3049
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.dynamicvod.tv:18181/Stefan/Stefan/114585
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.hdflix.live:8880/HJ6M1029/htap1h5Cy8/30197
