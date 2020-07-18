@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 6/19/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 7/18/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,379 +17,393 @@ http://0.0.0.0:1234
 
 
 #EXTM3U
-#EXTINF:-1,TF1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/100007317
-#EXTINF:-1,LOC OCS GEANTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997136
-#EXTINF:-1,LOC CANAL  CINEMA HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/724
-#EXTINF:-1,LOC BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997134
-#EXTINF:-1,LOC MTV HITS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997135
-#EXTINF:-1,LOC TRACE URBAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997270
-#EXTINF:-1,LOC RMC SPORT NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997272
-#EXTINF:-1,LOC OL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997271
-#EXTINF:-1,LOC BET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997116
-#EXTINF:-1,LOC VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997269
-#EXTINF:-1,LOC RMC SPORT 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997967
-#EXTINF:-1,FR: SPORT.365-FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/202559
-#EXTINF:-1,LOC BFM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997120
-#EXTINF:-1,LOC BRAVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997127
-#EXTINF:-1,LOC CHASSE&PECHE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997122
-#EXTINF:-1,LOC DISCOVERY INVESTIGATION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997111
-#EXTINF:-1,LOC DISNEY CHANNEL+1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997117
-#EXTINF:-1,LOC EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997108
-#EXTINF:-1,LOC MANGAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997114
-#EXTINF:-1,LOC OCS CHOC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997121
-#EXTINF:-1,LOC OCS GEANTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997124
-#EXTINF:-1,LOC TOUTE L'HISTOIRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997123
-#EXTINF:-1,LOC C NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995275
-#EXTINF:-1,LOC SERIE CLUB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997013
-#EXTINF:-1,LOC PARAMOUNT DECALE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997011
-#EXTINF:-1,LOC DISCOVERY INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99994648
-#EXTINF:-1,LOC OCS CITY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997006
-#EXTINF:-1,LOC M6 MUSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997010
-#EXTINF:-1,LOC OCS MAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997007
-#EXTINF:-1,LOC PARIS PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997005
-#EXTINF:-1,LOC TOONAMI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997008
-#EXTINF:-1,LOC C8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995274
-#EXTINF:-1,LOC J.ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995370
-#EXTINF:-1,LOC NICKELODEON JUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996983
-#EXTINF:-1,LOC  CANAL 31
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996948
-#EXTINF:-1,LOC  GONG MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996944
-#EXTINF:-1,LOC  GRANDE LILLE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996938
-#EXTINF:-1,LOC  MYZEN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996947
-#EXTINF:-1,LOC  ONE TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996967
-#EXTINF:-1,LOC  SFR SPORT 4  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996951
-#EXTINF:-1,LOC  TF1+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996871
-#EXTINF:-1,LOC  TMC+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996872
-#EXTINF:-1,LOC  VH1 CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996955
-#EXTINF:-1,LOC BE CURIOUS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996974
-#EXTINF:-1,LOC C STAR HITS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996941
-#EXTINF:-1,LOC CANAL ALPHA JU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996975
-#EXTINF:-1,LOC DISCOVERY  FAMILY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996949
-#EXTINF:-1,LOC IDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996939
-#EXTINF:-1,LOC LA CHAINE PARLEMENTAIRE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996940
-#EXTINF:-1,LOC MELODY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996958
-#EXTINF:-1,LOC MULTISPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996976
-#EXTINF:-1,LOC MULTISPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996978
-#EXTINF:-1,LOC MULTISPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996979
-#EXTINF:-1,LOC MULTISPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996980
-#EXTINF:-1,LOC MULTISPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996981
-#EXTINF:-1,LOC MULTISPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996977
-#EXTINF:-1,LOC MUSCULATION TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996946
-#EXTINF:-1,LOC NICKELODEON+1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996950
-#EXTINF:-1,LOC NOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996973
-#EXTINF:-1,LOC NOVELAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996942
-#EXTINF:-1,LOC OKLM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996952
-#EXTINF:-1,LOC TELETOON+1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996943
-#EXTINF:-1,LOC TRACE SPORT FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996945
-#EXTINF:-1,LOC TV8 MONT BLANC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99996970
-#EXTINF:-1,LOC WEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995276
-#EXTINF:-1,LOC 13EME RUE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995101
-#EXTINF:-1,LOC 6TER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995108
-#EXTINF:-1,LOC BEL AB1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995107
-#EXTINF:-1,LOC  BEL AB3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995106
-#EXTINF:-1,LOC ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995154
-#EXTINF:-1,LOC ANIMAUX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995137
-#EXTINF:-1,LOC ARTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995164
-#EXTINF:-1,LOC  ALTICE STUDIO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995680
-#EXTINF:-1,LOC  GAME ONE+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995678
-#EXTINF:-1,LOC  ONZEO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995684
-#EXTINF:-1,LOC  GIRONDINS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995683
-#EXTINF:-1,LOC  WARNER TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995681
-#EXTINF:-1,LOC LA CHAINE METEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995676
-#EXTINF:-1,LOC MOTORSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995679
-#EXTINF:-1,LOC MY CUISINE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995677
-#EXTINF:-1,LOC NO STOP PEOPLE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995682
-#EXTINF:-1,LOC BEINSPORT-MAX-6FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995671
-#EXTINF:-1,LOC BEINSPORT-MAX-7FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995672
-#EXTINF:-1,LOC BEINSPORT-MAX-8FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995673
-#EXTINF:-1,LOC BEINSPORT-MAX-9FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995674
-#EXTINF:-1,LOC BEINSPORT-MAX-10FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995675
-#EXTINF:-1,LOC VICELAND FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995185
-#EXTINF:-1,LOC TRACE TROPICAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995161
-#EXTINF:-1,LOC BFM TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995162
-#EXTINF:-1,LOC BOING HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995176
-#EXTINF:-1,LOC BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995177
-#EXTINF:-1,LOC CANAL  CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995093
-#EXTINF:-1,LOC CANAL  DECALE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995095
-#EXTINF:-1,LOC CANAL  FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995096
-#EXTINF:-1,LOC CANAL  SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995094
-#EXTINF:-1,LOC CANAL  SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995092
-#EXTINF:-1,LOC CANAL J HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995175
-#EXTINF:-1,LOC POLAR+ FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995165
-#EXTINF:-1,LOC CANAL8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995115
-#EXTINF:-1,LOC CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995168
-#EXTINF:-1,LOC CHERIE 25 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995104
-#EXTINF:-1,LOC CINE   PREMIER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995090
-#EXTINF:-1,LOC CINE  CLASSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995158
-#EXTINF:-1,LOC CINE  CLUB HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995091
-#EXTINF:-1,LOC CINE  EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995160
-#EXTINF:-1,LOC CINE  FAMIZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995159
-#EXTINF:-1,LOC CINE  FRISSON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995089
-#EXTINF:-1,LOC CINE FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995157
-#EXTINF:-1,LOC COMEDY CENTRAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995156
-#EXTINF:-1,LOC COMEDIE  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995098
-#EXTINF:-1,LOC CRIME DISTRICT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995144
-#EXTINF:-1,LOC CSTAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995116
-#EXTINF:-1,LOC DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995151
-#EXTINF:-1,LOC DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995150
-#EXTINF:-1,LOC DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995179
-#EXTINF:-1,LOC DISNEY CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995178
-#EXTINF:-1,LOC DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995181
-#EXTINF:-1,LOC DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995180
-#EXTINF:-1,LOC E! ENTERTAINMENT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995152
-#EXTINF:-1,LOC ELLE GIRL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995099
-#EXTINF:-1,LOC EQUIDIA LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995192
-#EXTINF:-1,LOC EQUIDIA LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995191
-#EXTINF:-1,LOC EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995131
-#EXTINF:-1,LOC EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995130
-#EXTINF:-1,LOC EXTREME SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995193
-#EXTINF:-1,LOC FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995122
-#EXTINF:-1,LOC FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995121
-#EXTINF:-1,LOC FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995120
-#EXTINF:-1,LOC FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995119
-#EXTINF:-1,LOC FRANCE O HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995118
-#EXTINF:-1,LOC GAME ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995169
-#EXTINF:-1,LOC GOLF  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995195
-#EXTINF:-1,LOC SUNDANCE TV FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995194
-#EXTINF:-1,LOC GULLI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995167
-#EXTINF:-1,LOC TF1 FILM ET SERIE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995111
-#EXTINF:-1,LOC HISTOIRE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995140
-#EXTINF:-1,LOC I24 NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995163
-#EXTINF:-1,LOC INFOSPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995125
-#EXTINF:-1,LOC L'EQUIPE 21 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995196
-#EXTINF:-1,LOC LCI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995166
-#EXTINF:-1,LOC M6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995123
-#EXTINF:-1,LOC MANGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995170
-#EXTINF:-1,LOC MCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995190
-#EXTINF:-1,LOC MCM TOP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995189
-#EXTINF:-1,LOC MEZZO LIVE HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995182
-#EXTINF:-1,LOC MOTORSPORT.TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995126
-#EXTINF:-1,LOC MTV FRANCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995187
-#EXTINF:-1,LOC TRACE AFRICA FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995183
-#EXTINF:-1,LOC NATIONAL GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995148
-#EXTINF:-1,LOC NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995149
-#EXTINF:-1,LOC NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995172
-#EXTINF:-1,LOC NRJ12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995113
-#EXTINF:-1,LOC TFX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995112
-#EXTINF:-1,LOC NUMERO 23 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995105
-#EXTINF:-1,LOC MUSEUM CHANNEL FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995184
-#EXTINF:-1,LOC PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995153
-#EXTINF:-1,LOC PIWI  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995174
-#EXTINF:-1,LOC PLANETE  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995147
-#EXTINF:-1,LOC PLANETE AE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995146
-#EXTINF:-1,LOC PLANETE CI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995145
-#EXTINF:-1,LOC RFM TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995188
-#EXTINF:-1,LOC RMC DECOUVERTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995139
-#EXTINF:-1,LOC RTL9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995103
-#EXTINF:-1,LOC RTS DEUX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995109
-#EXTINF:-1,LOC RTS UN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995110
-#EXTINF:-1,LOC SCIENCES & VIE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995143
-#EXTINF:-1,LOC SEASON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995136
-#EXTINF:-1,LOC SFR SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995135
-#EXTINF:-1,LOC SFR SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995134
-#EXTINF:-1,LOC SFR SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995133
-#EXTINF:-1,LOC SFR SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995132
-#EXTINF:-1,LOC SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995100
-#EXTINF:-1,LOC TCM CINEMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995155
-#EXTINF:-1,LOC TELETOON  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995173
-#EXTINF:-1,LOC TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995124
-#EXTINF:-1,LOC TIJI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995171
-#EXTINF:-1,LOC TMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995114
-#EXTINF:-1,LOC A+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995186
-#EXTINF:-1,LOC TREK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995138
-#EXTINF:-1,LOC TV BREIZH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995102
-#EXTINF:-1,LOC USHUAIA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995142
-#EXTINF:-1,LOC VOYAGE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995141
-#EXTINF:-1,LOCAL BEINFR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995282
-#EXTINF:-1,LOCAL BEINFR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995283
-#EXTINF:-1,LOCAL BEINFR 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995284
-#EXTINF:-1,LOC W9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995117
-#EXTINF:-1,LOC GOLF CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99997009
-#EXTINF:-1,FR: OCS.GEANTS-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/201397
+#EXTINF:-1,CA - A & E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40783
+#EXTINF:-1,CA - ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40782
+#EXTINF:-1,CA - ABC SPARK CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40781
+#EXTINF:-1,CA - ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40780
+#EXTINF:-1,CA - ADDIK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40778
+#EXTINF:-1,CA - AHC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40777
+#EXTINF:-1,CA - AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40776
+#EXTINF:-1,CA - ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40775
+#EXTINF:-1,CA - APTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40774
+#EXTINF:-1,CA - ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40773
+#EXTINF:-1,CA - BBC CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40771
+#EXTINF:-1,CA - BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40770
+#EXTINF:-1,CA - BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40769
+#EXTINF:-1,CA - BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40768
+#EXTINF:-1,CA - BOOK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40767
+#EXTINF:-1,CA - BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40766
+#EXTINF:-1,CA - CANAL D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40765
+#EXTINF:-1,CA - CANAL SAVOIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40764
+#EXTINF:-1,CA - CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40763
+#EXTINF:-1,CA - CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40762
+#EXTINF:-1,CA - CBC CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40579
+#EXTINF:-1,CA - CBC MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40761
+#EXTINF:-1,CA - CBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40760
+#EXTINF:-1,CA - CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40759
+#EXTINF:-1,CA - CBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40758
+#EXTINF:-1,CA - CBC VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40757
+#EXTINF:-1,CA - CBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40756
+#EXTINF:-1,CA - CBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40755
+#EXTINF:-1,CA - CHCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40754
+#EXTINF:-1,CA - CINEPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40753
+#EXTINF:-1,CA - CITY CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40578
+#EXTINF:-1,CA - CITY MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40598
+#EXTINF:-1,CA - CITY TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40752
+#EXTINF:-1,CA - CITY VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40751
+#EXTINF:-1,CA - CMT CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40750
+#EXTINF:-1,CA - CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40749
+#EXTINF:-1,CA - CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40748
+#EXTINF:-1,CA - CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40747
+#EXTINF:-1,CA - COMEDY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40746
+#EXTINF:-1,CA - COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40743
+#EXTINF:-1,CA - COTTAGE LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40741
+#EXTINF:-1,CA - CP24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40740
+#EXTINF:-1,CA - CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40739
+#EXTINF:-1,CA - CPAC FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40738
+#EXTINF:-1,CA - CRAVE 1 / TMN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40656
+#EXTINF:-1,CA - CRAVE 2 / TMN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40655
+#EXTINF:-1,CA - CRAVE 3 / TMN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40654
+#EXTINF:-1,CA - CRAVE 4 / TMN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40653
+#EXTINF:-1,CA - CRIME   INVEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40737
+#EXTINF:-1,CA - CTV 2 VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40736
+#EXTINF:-1,CA - CTV CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40577
+#EXTINF:-1,CA - CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40595
+#EXTINF:-1,CA - CTV MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40585
+#EXTINF:-1,CA - CTV NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40735
+#EXTINF:-1,CA - CTV OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40734
+#EXTINF:-1,CA - CTV TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40733
+#EXTINF:-1,CA - CTV VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40732
+#EXTINF:-1,CA - CTV2 OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40731
+#EXTINF:-1,CA - CW 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40730
+#EXTINF:-1,CA - DAYSTAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40729
+#EXTINF:-1,CA - DEJAVIEW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40728
+#EXTINF:-1,CA - DISCOVERY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40727
+#EXTINF:-1,CA - DISCOVERY SCIENCE CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40726
+#EXTINF:-1,CA - DISNEY CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40725
+#EXTINF:-1,CA - DISNEY FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40724
+#EXTINF:-1,CA - DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40723
+#EXTINF:-1,CA - DIY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40722
+#EXTINF:-1,CA - DOCUMENTARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40721
+#EXTINF:-1,CA - DTOUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40720
+#EXTINF:-1,CA - E! CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40719
+#EXTINF:-1,CA - ENCORE 1 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40718
+#EXTINF:-1,CA - ENCORE 2 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40717
+#EXTINF:-1,CA - EVASION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40716
+#EXTINF:-1,CA - FAMILY CHRGD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40715
+#EXTINF:-1,CA - FAMILY Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40714
+#EXTINF:-1,CA - FAMILY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40713
+#EXTINF:-1,CA - FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40711
+#EXTINF:-1,CA - FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40710
+#EXTINF:-1,CA - FOX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40709
+#EXTINF:-1,CA - FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40708
+#EXTINF:-1,CA - FOX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40707
+#EXTINF:-1,CA - FTV CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40706
+#EXTINF:-1,CA - FYI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40705
+#EXTINF:-1,CA - Game TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40704
+#EXTINF:-1,CA - CBC HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40570
+#EXTINF:-1,CA - GLOBAL CALGARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40576
+#EXTINF:-1,CA - GLOBAL TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40703
+#EXTINF:-1,CA - GLOBAL VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40702
+#EXTINF:-1,CA - GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40701
+#EXTINF:-1,CA - GSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40700
+#EXTINF:-1,CA - GUSTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40699
+#EXTINF:-1,CA - H2 CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40698
+#EXTINF:-1,CA - HBO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40697
+#EXTINF:-1,CA - HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40696
+#EXTINF:-1,CA - HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40695
+#EXTINF:-1,CA - HISTORIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40694
+#EXTINF:-1,CA - HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40693
+#EXTINF:-1,CA - HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40692
+#EXTINF:-1,CA - HOPE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40593
+#EXTINF:-1,CA - ICI MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40691
+#EXTINF:-1,CA - ICI VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40690
+#EXTINF:-1,CA - ID CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40689
+#EXTINF:-1,CA - IFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40688
+#EXTINF:-1,CA - KNOWLEDGE KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40687
+#EXTINF:-1,CA - KTLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40686
+#EXTINF:-1,CA - LCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40685
+#EXTINF:-1,CA - LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40684
+#EXTINF:-1,CA - MAKEFUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40597
+#EXTINF:-1,CA - MAVTV CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40583
+#EXTINF:-1,CA - MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40683
+#EXTINF:-1,CA - MEDIASET ITALIA CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40581
+#EXTINF:-1,CA - METEO Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40682
+#EXTINF:-1,CA - MIRACLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40681
+#EXTINF:-1,CA - MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40596
+#EXTINF:-1,CA - MOI CIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40680
+#EXTINF:-1,CA - MTIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40679
+#EXTINF:-1,CA - MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40678
+#EXTINF:-1,CA - MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40677
+#EXTINF:-1,CA - MUCH MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40676
+#EXTINF:-1,CA - MUSIQUE PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40675
+#EXTINF:-1,CA - NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40674
+#EXTINF:-1,CA - NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40601
+#EXTINF:-1,CA - NBC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40600
+#EXTINF:-1,CA - NBC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40599
+#EXTINF:-1,CA - NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40584
+#EXTINF:-1,CA - NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40586
+#EXTINF:-1,CA - NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40643
+#EXTINF:-1,CA - OLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40642
+#EXTINF:-1,CA - OMNI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40641
+#EXTINF:-1,CA - OMNI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40640
+#EXTINF:-1,CA - ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40637
+#EXTINF:-1,CA - OUTTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40636
+#EXTINF:-1,CA - OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40635
+#EXTINF:-1,CA - PBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40634
+#EXTINF:-1,CA - PEACH TREE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40632
+#EXTINF:-1,CA - PRISE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40631
+#EXTINF:-1,CA - RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40630
+#EXTINF:-1,CA - RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40629
+#EXTINF:-1,CA - RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40628
+#EXTINF:-1,CA - RDS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40627
+#EXTINF:-1,CA - SERIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40626
+#EXTINF:-1,CA - SHOPPING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40625
+#EXTINF:-1,CA - SHOWCASE EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40624
+#EXTINF:-1,CA - SILVER SCREEN CLASSICS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40623
+#EXTINF:-1,CA - SLICE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40622
+#EXTINF:-1,CA - SMITHSONIAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40621
+#EXTINF:-1,CA - SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40620
+#EXTINF:-1,CA - SPIKE TV / PARAMOUNT CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40619
+#EXTINF:-1,CA - SPORTSMAN CHANNEL CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40575
+#EXTINF:-1,CA - SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40618
+#EXTINF:-1,CA - SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40617
+#EXTINF:-1,CA - SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40616
+#EXTINF:-1,CA - SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40615
+#EXTINF:-1,CA - SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40614
+#EXTINF:-1,CA - SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40613
+#EXTINF:-1,CA - SUPER CHANNEL FUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40573
+#EXTINF:-1,CA - SUPER CHANNEL HEART & HOME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40572
+#EXTINF:-1,CA - SUPER CHANNEL VAULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40571
+#EXTINF:-1,CA - SUPER ECRAN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40612
+#EXTINF:-1,CA - SUPER ECRAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40611
+#EXTINF:-1,CA - SUPER ECRAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40610
+#EXTINF:-1,CA - SUPER ECRAN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40609
+#EXTINF:-1,CA - TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40608
+#EXTINF:-1,CA - TELE LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40607
+#EXTINF:-1,CA - TELE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40606
+#EXTINF:-1,CA - TELE TOON EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40605
+#EXTINF:-1,CA - TELE TOON FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40604
+#EXTINF:-1,CA - TFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40659
+#EXTINF:-1,CA - THE WEATHER NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40658
+#EXTINF:-1,CA - TLC CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40657
+#EXTINF:-1,CA - TRAVEL   ESCAPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40580
+#EXTINF:-1,CA - TREEHOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40652
+#EXTINF:-1,CA - TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40651
+#EXTINF:-1,CA - TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40650
+#EXTINF:-1,CA - TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40649
+#EXTINF:-1,CA - TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40648
+#EXTINF:-1,CA - TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40647
+#EXTINF:-1,CA - TV5 QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40646
+#EXTINF:-1,CA - TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40645
+#EXTINF:-1,CA - TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40644
+#EXTINF:-1,CA - UNIS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40588
+#EXTINF:-1,CA - VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40673
+#EXTINF:-1,CA - VISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40672
+#EXTINF:-1,CA - VRAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40671
+#EXTINF:-1,CA - W NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40670
+#EXTINF:-1,CA - WFN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40669
+#EXTINF:-1,CA - WGN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40668
+#EXTINF:-1,CA - Wild TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40667
+#EXTINF:-1,CA - WSBK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40666
+#EXTINF:-1,CA - YES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40665
+#EXTINF:-1,CA - YOOPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40664
+#EXTINF:-1,CA - YTV E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40663
+#EXTINF:-1,CA - YTV West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40662
+#EXTINF:-1,CA - Z TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40661
+#EXTINF:-1,CA - ZESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://securetv.net:8080/zguyMk8K8P/7602260256/40660
