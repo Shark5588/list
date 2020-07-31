@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 7/18/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 7/31/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -16,186 +16,249 @@ http://0.0.0.0:1234
 
 ################################################################ LIST  ############################################################
 
-#EXTM3U
-#EXTINF:-1,CA: A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10400
-#EXTINF:-1,CA: ABC EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10399
-#EXTINF:-1,CA: ABC Spark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10398
-#EXTINF:-1,CA: ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10395
-#EXTINF:-1,CA:BBC World News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10393
-#EXTINF:-1,CA: BNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10391
-#EXTINF:-1,CA: CANAL SAVOIR (French) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10390
-#EXTINF:-1,CA: CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10389
-#EXTINF:-1,CA: CBC CALGARY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10388
-#EXTINF:-1,CA: CBC MONTREAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10385
-#EXTINF:-1,CA: CBC NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10384
-#EXTINF:-1,CA: CBC TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10382
-#EXTINF:-1,CA: CBC VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10381
-#EXTINF:-1,CA: CBS East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10379
-#EXTINF:-1,CA: CBS West HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10377
-#EXTINF:-1,CA: CHCH FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10376
-#EXTINF:-1,CA: CITY TORONTO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10373
-#EXTINF:-1,CA:CMT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10370
-#EXTINF:-1,CA: CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10369
-#EXTINF:-1,CA:CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10368
-#EXTINF:-1,CA:CNN INTERNATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10367
-#EXTINF:-1,CA: COMEDY Network HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10365
-#EXTINF:-1,CA: COOKING CHANNEL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10363
-#EXTINF:-1,CA: CP24 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10362
-#EXTINF:-1,CA: CPAC (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10361
-#EXTINF:-1,CA: CTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10360
-#EXTINF:-1,CA: CTV 2 VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10359
-#EXTINF:-1,CA: CTV News Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10357
-#EXTINF:-1,CA: CTV VANCOUVER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10353
-#EXTINF:-1,CA: CW HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10351
-#EXTINF:-1,CA: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10350
-#EXTINF:-1,CA: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10349
-#EXTINF:-1,CA: DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10348
-#EXTINF:-1,CA: DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10347
-#EXTINF:-1,CA: DISNEY JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10346
-#EXTINF:-1,CA: DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10345
-#EXTINF:-1,CA: E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10344
-#EXTINF:-1,CA: TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/779
-#EXTINF:-1,CA: TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/780
-#EXTINF:-1,CA: TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/781
-#EXTINF:-1,CA: TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/782
-#EXTINF:-1,CA: TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/783
-#EXTINF:-1,CA: SPORTSNET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10268
-#EXTINF:-1,CA: SPORTSNET EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10295
-#EXTINF:-1,CA: SPORTSNET ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10267
-#EXTINF:-1,CA: SPORTSNET ONTARIO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10293
-#EXTINF:-1,CA: SPORTSNET PACIFIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10292
-#EXTINF:-1,CA: SPORTSNET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10291
-#EXTINF:-1,CA: SPORTSNET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10290
-#EXTINF:-1,CA: FIGHT NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10341
-#EXTINF:-1,CA: FOX NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10339
-#EXTINF:-1,CA:GLOBAL TORONTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10333
-#EXTINF:-1,CA: GLOBAL CALGARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10332
-#EXTINF:-1,CA: GOLF CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10331
-#EXTINF:-1,CA: GSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10330
-#EXTINF:-1,CA: HBO 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10329
-#EXTINF:-1,CA: HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10328
-#EXTINF:-1,CA: HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10326
-#EXTINF:-1,CA: HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10325
-#EXTINF:-1,CA: MUCH MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10317
-#EXTINF:-1,CA: NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10316
-#EXTINF:-1,CA: NAT GEO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10315
-#EXTINF:-1,CA: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10314
-#EXTINF:-1,CA: NBA TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10313
-#EXTINF:-1,CA: NBC East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10312
-#EXTINF:-1,CA: OLN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10311
-#EXTINF:-1,CA: OMNI 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10310
-#EXTINF:-1,CA: OMNI 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10308
-#EXTINF:-1,CA:OUTDOOR LIFE NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10306
-#EXTINF:-1,CA: OWN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10305
-#EXTINF:-1,CA: PARAMOUNT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10304
-#EXTINF:-1,CA: PBS East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10303
-#EXTINF:-1,CA: PEACH TREE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10302
-#EXTINF:-1,CA: PEACH TREE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10301
-#EXTINF:-1,CA: SHOWCASE EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10300
-#EXTINF:-1,CA: SILVER SCREEN CLASSICS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10299
-#EXTINF:-1,CA: SLICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10298
-#EXTINF:-1,CA: SPACE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10297
-#EXTINF:-1,CA: SUPER ECRAN 1 (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10287
-#EXTINF:-1,CA: SUPER ECRAN 2 (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10286
-#EXTINF:-1,CA: SUPER ECRAN 3 (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10285
-#EXTINF:-1,CA: SUPER ECRAN 4 (French)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10284
-#EXTINF:-1,CA: Tele Toon East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10283
-#EXTINF:-1,CA: THE SHOPPING CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10281
-#EXTINF:-1,CA:THE WEATHER NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10279
-#EXTINF:-1,CA: TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10278
-#EXTINF:-1,CA: TREEHOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10277
-#EXTINF:-1,CA: TVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10276
-#EXTINF:-1,CA: World Fishing Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10273
-#EXTINF:-1,CA: YES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10271
-#EXTINF:-1,CA: YTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zionx.eu:8080/joni/joni/10270
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS FULL HD (SIFIR GECIKMELI) 50FPS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS FULL HD (SIFIR GECIKMELI) 50FPS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/6279
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS FULL HD (SIFIR GECIKMELI) ALTERNATIF" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS FULL HD (SIFIR GECIKMELI) ALTERNATIF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4643
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 720p HD (SIFIR GECIKMELI) 50FPS" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 720p HD (SIFIR GECIKMELI) 50FPS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4635
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS SD (SIFIR GECIKMELI)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS SD (SIFIR GECIKMELI)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/7183
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 1 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4647
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 2 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4646
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 3 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4645
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 4 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4644
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS MAX 1 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4638
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS MAX 2 Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4637
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 PREMiUM+ Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 1 PREMiUM+ Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/7173
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 PREMiUM+ Full HD " tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 2 PREMiUM+ Full HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8112
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 FULL HD (HEVC)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 1 FULL HD (HEVC)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8091
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 HD (720p)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 1 HD (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4636
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 SD (VIP)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 1 SD (VIP)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4634
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 HD 720p" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 2 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4633
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 HD 720p" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 3 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4632
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 HD 720p" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS 4 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4631
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="BEIN SPORTS MAX 1 HD 720p" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",BEIN SPORTS MAX 1 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4625
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="BEIN SPORTS MAX 2 HD 720p" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",BEIN SPORTS MAX 2 HD 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4624
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",beIN SPORTS HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4626
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",TIVIBUSPOR 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4620
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",TIVIBUSPOR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4619
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBUSPOR 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",TIVIBUSPOR 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4618
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT Full HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",S SPORT Full HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4623
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",S SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4622
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT FULL HD PREMIUM+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",S SPORT FULL HD PREMIUM+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4621
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 FULL HD Premium+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",S SPORT 2 FULL HD Premium+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8307
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT 2 HD (720p)" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",S SPORT 2 HD (720p)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4713
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR FULL HD Premium+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",SMART SPOR FULL HD Premium+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4613
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",SMART SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/4612
+#EXTINF:-1 tvg-id="" tvg-name="SMART SPOR 2 FULL HD Premium+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",SMART SPOR 2 FULL HD Premium+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8306
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FULL HD PREMIUM+" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",EUROSPORT 1 FULL HD PREMIUM+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8302
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV LEAGUE PASS LIVE DURING GAMES ONLY" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com/webtv/icon2.png" group-title="SPOR KANALLARI",NBA TV LEAGUE PASS LIVE DURING GAMES ONLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8303
+
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: SKY SPORTS F1" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/7935
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: PT Sports 1" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: PT Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8140
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: PT Sports 2" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: PT Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8141
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: PT Sports 3" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: PT Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8142
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: PT Sports 4" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: PT Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8143
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: PT Sports 5" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: PT Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8144
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: WWE" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8147
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: DAZN 1" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8145
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: DAZN 2" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8146
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: Bundesliga Sports 1" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: Bundesliga Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8149
+#EXTINF:-1 tvg-id="" tvg-name="DE:ARD HD" tvg-logo="" group-title="ALMAN KANALLARI",DE:ARD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8148
+#EXTINF:-1 tvg-id="" tvg-name="DE:FOX HD" tvg-logo="" group-title="ALMAN KANALLARI",DE:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8160
+#EXTINF:-1 tvg-id="" tvg-name="DE:SAT 1 HD" tvg-logo="" group-title="ALMAN KANALLARI",DE:SAT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8165
+#EXTINF:-1 tvg-id="" tvg-name="DE:Kabel Eins HD" tvg-logo="" group-title="ALMAN KANALLARI",DE:Kabel Eins HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8168
+#EXTINF:-1 tvg-id="" tvg-name="DE:PRO  7 HD" tvg-logo="" group-title="ALMAN KANALLARI",DE:PRO  7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8169
+#EXTINF:-1 tvg-id="" tvg-name="DE:VOX  HD" tvg-logo="" group-title="ALMAN KANALLARI",DE:VOX  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8171
+#EXTINF:-1 tvg-id="" tvg-name="DE:RTL HD 1080P" tvg-logo="" group-title="ALMAN KANALLARI",DE:RTL HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8173
+#EXTINF:-1 tvg-id="" tvg-name="DE:RTL 2 HD 1080P" tvg-logo="" group-title="ALMAN KANALLARI",DE:RTL 2 HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8174
+#EXTINF:-1 tvg-id="" tvg-name="DE:SIXX HD 1080P" tvg-logo="" group-title="ALMAN KANALLARI",DE:SIXX HD 1080P
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8182
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky 1 HD" tvg-logo="" group-title="ALMAN KANALLARI",DE:Sky 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8193
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8452
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8453
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8454
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports GOLF" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8455
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Premier League
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8456
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8457
+#EXTINF:-1 tvg-id="" tvg-name="UK:  BBC First" tvg-logo="" group-title="INGILIZ KANALLARI",UK:  BBC First
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8458
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8459
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8460
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Europe" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT Sport Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8461
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8462
+#EXTINF:-1 tvg-id="" tvg-name="UK: British Eurosport" tvg-logo="" group-title="INGILIZ KANALLARI",UK: British Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8463
+#EXTINF:-1 tvg-id="" tvg-name="UK: British Eurosport 2" tvg-logo="" group-title="INGILIZ KANALLARI",UK: British Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8464
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Premier Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8465
+#EXTINF:-1 tvg-id="" tvg-name="UK: Racing UK" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Racing UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8466
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eir Sport 1" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Eir Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8467
+#EXTINF:-1 tvg-id="" tvg-name="UK: Chelsea" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Chelsea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8468
+#EXTINF:-1 tvg-id="" tvg-name="UK: BoxNation" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BoxNation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8469
+#EXTINF:-1 tvg-id="" tvg-name="UK: Liverpool" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Liverpool
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8470
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport ESPN" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT Sport ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8471
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Main Event HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8472
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8473
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8474
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports GOLF HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8475
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports Premier League HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8476
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8477
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports F1 HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8478
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8479
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8480
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport europe HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BT Sport europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8481
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8482
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 2 HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8483
+#EXTINF:-1 tvg-id="" tvg-name="UK: FIGHTBOX HD" tvg-logo="" group-title="INGILIZ KANALLARI",UK: FIGHTBOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8484
+#EXTINF:-1 tvg-id="" tvg-name="UK: At The Races" tvg-logo="" group-title="INGILIZ KANALLARI",UK: At The Races
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8485
+#EXTINF:-1 tvg-id="" tvg-name="UK: Motor Sports TV" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Motor Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8486
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Select" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8487
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Scifi and horror" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Scifi and horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8488
+#EXTINF:-1 tvg-id="" tvg-name="UK: Universal Channel" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8489
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Premier" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8490
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky ShowCase" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky ShowCase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8491
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Greats" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8492
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Family" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8493
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Drama" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8494
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Action" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8495
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Thriller" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8496
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Comedy" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8497
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8498
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 1" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8499
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC 2" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8500
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8501
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Two" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8502
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arts" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8503
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Living" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8504
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Atlantic" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8505
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC News" tvg-logo="" group-title="INGILIZ KANALLARI",UK: BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8506
+#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 5" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8507
+#EXTINF:-1 tvg-id="" tvg-name="UK: Channel 4" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8508
+#EXTINF:-1 tvg-id="" tvg-name="UK: More 4" tvg-logo="" group-title="INGILIZ KANALLARI",UK: More 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8509
+#EXTINF:-1 tvg-id="" tvg-name="UK: ,5*" tvg-logo="" group-title="INGILIZ KANALLARI",UK: ,5*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8510
+#EXTINF:-1 tvg-id="" tvg-name="UK: Watch" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8511
+#EXTINF:-1 tvg-id="" tvg-name="UK: Universal Channel" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8512
+#EXTINF:-1 tvg-id="" tvg-name="UK: Movies 4 Men" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Movies 4 Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8513
+#EXTINF:-1 tvg-id="" tvg-name="UK: Gold" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8514
+#EXTINF:-1 tvg-id="" tvg-name="UK: Syfy" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8515
+#EXTINF:-1 tvg-id="" tvg-name="UK: Comedy Central" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8516
+#EXTINF:-1 tvg-id="" tvg-name="UK: Food Network" tvg-logo="" group-title="INGILIZ KANALLARI",UK: Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8517
+#EXTINF:-1 tvg-id="" tvg-name="bein1 25fps aktarma" tvg-logo="" group-title="DUNYA SPOR KANALLARI",bein1 25fps aktarma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8518
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA SPOR: FR: Bein Sports 1 HD" tvg-logo="" group-title="DUNYA SPOR KANALLARI",DUNYA SPOR: FR: Bein Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://premium.mfreetv.com:80/gamemme/12345678/8156
