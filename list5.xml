@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 5/25/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 8/8/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -18,602 +18,333 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:
 
 
 
-#EXTM3U
-#EXTINF:-1 ,ABC News International
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
-#EXTINF:-1 ,TULALIP TV
-https://5c19aea334357.streamlock.net/tulalip/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 ,360 North
-https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
-#EXTINF:-1 ,Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 ,Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
-#EXTINF:-1 ,Channel 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://radio.7chan.org:8000/CH7
-#EXTINF:-1 ,Channel V6
-https://media.ksl.com/watchit/vod/41534/playlist.m3u8
-#EXTINF:-1 ,CONtv
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 ,Dancestar TV
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-#EXTINF:-1 ,Ditty TV
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 ,FailArmy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 ,Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 ,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-#EXTINF:-1 ,Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,KMTV Omaha
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:-1 ,Nothing Scripted
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 ,Mo Laughter TV
-https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
-#EXTINF:-1 ,Peace TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1 ,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 ,Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-#EXTINF:-1 ,Smart Lifestyle TV
-https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
-#EXTINF:-1 ,Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
-#EXTINF:-1 ,Temple TV
-https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
-#EXTINF:-1 ,The Beach Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 ,The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 ,UN Web TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-#EXTINF:-1 ,WABI 5 - Bangor - Maine
-https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
-#EXTINF:-1 ,**************** USA Local TV **********
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,Atlanta Channel
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV - Panama City
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV - Florida - Alabama
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV - Key West - Florida Keys
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 ,Beach TV - Myrtle Beach - Grand Strand
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 ,Capital City Connection Montgomery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
-#EXTINF:-1 ,CT-N TV  - Conneticut
-https://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
-#EXTINF:-1 ,CVTV Channel 21
-https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/playlist.m3u8
-#EXTINF:-1 ,CVTV Channel 23
-https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
-#EXTINF:-1 ,Darcizzle Offshore
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 ,Fairfax Ch. 16 - Virginia
-https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
-#EXTINF:-1 ,Greenbelt TV
-https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
-#EXTINF:-1 ,Greensboro TV Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
-#EXTINF:-1 ,HTV 1 - Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
-#EXTINF:-1 ,HTV 2 - Houston Television
-https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-#EXTINF:-1 ,Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
-#EXTINF:-1 ,NO TV - New Orleans Television
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 ,NAU-TV - Northern Arizona University
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.ec.nau.edu/live/amlst:channelfour/playlist.m3u8
-#EXTINF:-1 ,PCC-TV - Pinellas County Florida
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
-#EXTINF:-1 ,Red Apple 21 - Fairfax County Public Schools - Virginia
-https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
-#EXTINF:-1 ,Rye TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,Seattle Channel - Washington
-https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
-#EXTINF:-1 ,The Rockville Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
-#EXTINF:-1 ,UCTV - University of California
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 ,WHOH TV - Hastings-On-Hudson - NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-#EXTINF:-1 ,******************* KANADA ************
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,5AAB TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 ,BBC Toronto Gaunda Punjab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 ,Assemblee Nationale du Quebec
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,Canada One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 ,Canada Star TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist_w565131793_b2800000.m3u8
-#EXTINF:-1 ,Canal 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1 ,CNTV
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1 ,EET TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:-1 ,EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-#EXTINF:-1 ,Francophonie 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 ,ICI RDI HD
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 ,ICI T�l� HD
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_2500.m3u8
-#EXTINF:-1 ,IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 ,Legislative Assembly of Ontario
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 ,Montreal Greek TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 ,NTV CA
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
-#EXTINF:-1 ,NTV Newfoundland
-https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 ,Pardesi TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Prime Asia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Prime Canada TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 ,QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 ,Sardari TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 ,Space
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 ,TAG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 ,Tamil Vision TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 ,Tele Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist.m3u8
-#EXTINF:-1 ,Tele-V
-https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:-1 ,Toronto 360
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 ,TV 16 Toronto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 ,Tele-Quebec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 ,VBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
-#EXTINF:-1 ,BET HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29042.m3u8
-#EXTINF:-1 ,AXS TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29037.m3u8
-#EXTINF:-1 ,Cinemax East HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13680.m3u8
-#EXTINF:-1 ,Golf Channel US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13687.m3u8
-#EXTINF:-1 ,MSNBC HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16841.m3u8
-#EXTINF:-1 ,NHL Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13688.m3u8
-#EXTINF:-1 ,Showtime East HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13666.m3u8
-#EXTINF:-1 ,Starz Encore East HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13677.m3u8
-#EXTINF:-1 ,A&E HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10350.m3u8
-#EXTINF:-1 ,Tennis Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18386.m3u8
-#EXTINF:-1 ,ABC WJLA Washington HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9026.m3u8
-#EXTINF:-1 ,AMC HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13104.m3u8
-#EXTINF:-1 ,C-SPAN US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10701.m3u8
-#EXTINF:-1 ,CBS Sports Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10347.m3u8
-#EXTINF:-1 ,CNN FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9029.m3u8
-#EXTINF:-1 ,Comedy Central US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13102.m3u8
-#EXTINF:-1 ,DIY Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13101.m3u8
-#EXTINF:-1 ,E! HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9021.m3u8
-#EXTINF:-1 ,ESPN HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9023.m3u8
-#EXTINF:-1 ,ESPN 2 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9022.m3u8
-#EXTINF:-1 ,FOX News HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13100.m3u8
-#EXTINF:-1 ,FOX Sports 1 HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9031.m3u8
-#EXTINF:-1 ,FOX Sports 2 HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9030.m3u8
-#EXTINF:-1 ,FX HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13098.m3u8
-#EXTINF:-1 ,FXX HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13097.m3u8
-#EXTINF:-1 ,Hallmark Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9025.m3u8
-#EXTINF:-1 ,HBO Family FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9017.m3u8
-#EXTINF:-1 ,HBO Signature US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9016.m3u8
-#EXTINF:-1 ,Lifetime Movies HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9078.m3u8
-#EXTINF:-1 ,MLB Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10699.m3u8
-#EXTINF:-1 ,NBA TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9010.m3u8
-#EXTINF:-1 ,NBC WRC HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9009.m3u8
-#EXTINF:-1 ,Nick FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9012.m3u8
-#EXTINF:-1 ,Syfy HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13095.m3u8
-#EXTINF:-1 ,USA Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13105.m3u8
-#EXTINF:-1 ,VH1 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/12058.m3u8
-#EXTINF:-1 ,Animal Planet HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/12060.m3u8
-#EXTINF:-1 ,Discovery Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15717.m3u8
-#EXTINF:-1 ,History HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15712.m3u8
-#EXTINF:-1 ,National Geographic HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15714.m3u8
-#EXTINF:-1 ,PBS US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15715.m3u8
-#EXTINF:-1 ,FreeForm HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/14294.m3u8
-#EXTINF:-1 ,Oprah Winfrey Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16295.m3u8
-#EXTINF:-1 ,NASA Live US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16585.m3u8
-#EXTINF:-1 ,Nasa TV UHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/30314.m3u8
-#EXTINF:-1 ,TNT US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/15366.m3u8
-#EXTINF:-1 ,The Weather Channel US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/17427.m3u8
-#EXTINF:-1 ,Fight Sports US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/17883.m3u8
-#EXTINF:-1 ,American Heroes Channel US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18064.m3u8
-#EXTINF:-1 ,CBS 9 WUSA Washington HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18075.m3u8
-#EXTINF:-1 ,Disney Junior US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18065.m3u8
-#EXTINF:-1 ,Game Show Network FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18069.m3u8
-#EXTINF:-1 ,IFC FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18070.m3u8
-#EXTINF:-1 ,Investigation Discovery FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18071.m3u8
-#EXTINF:-1 ,Lifetime HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18072.m3u8
-#EXTINF:-1 ,MTV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18076.m3u8
-#EXTINF:-1 ,Reelz HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18074.m3u8
-#EXTINF:-1 ,TLC HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18079.m3u8
-#EXTINF:-1 ,ABC KTNV Las Vegas HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18179.m3u8
-#EXTINF:-1 ,BBC America US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18181.m3u8
-#EXTINF:-1 ,Big Ten Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18182.m3u8
-#EXTINF:-1 ,Bloomberg TV US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18183.m3u8
-#EXTINF:-1 ,CBSN HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18184.m3u8
-#EXTINF:-1 ,Destination America HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18189.m3u8
-#EXTINF:-1 ,ESPN U US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18190.m3u8
-#EXTINF:-1 ,Food Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18191.m3u8
-#EXTINF:-1 ,FXM HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18166.m3u8
-#EXTINF:-1 ,Hallmark Movies & Mysteries HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18198.m3u8
-#EXTINF:-1 ,HLN US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18199.m3u8
-#EXTINF:-1 ,Oxygen HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18176.m3u8
-#EXTINF:-1 ,Telemundo 20 HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18174.m3u8
-#EXTINF:-1 ,Travel Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18173.m3u8
-#EXTINF:-1 ,Tru TV US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18172.m3u8
-#EXTINF:-1 ,TV Land HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18171.m3u8
-#EXTINF:-1 ,UniMás Este HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18169.m3u8
-#EXTINF:-1 ,SEC Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18175.m3u8
-#EXTINF:-1 ,Olympic Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18850.m3u8
-#EXTINF:-1 ,NBC Sports Boston HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18853.m3u8
-#EXTINF:-1 ,PAC 12 Los Angeles HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18856.m3u8
-#EXTINF:-1 ,PAC 12 Networks HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18857.m3u8
-#EXTINF:-1 ,PAC 12 Mountain HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18858.m3u8
-#EXTINF:-1 ,PAC 12 Oregon HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18859.m3u8
-#EXTINF:-1 ,PAC 12 Washington HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18860.m3u8
-#EXTINF:-1 ,FOX Soccer Plus HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/18675.m3u8
-#EXTINF:-1 ,Fight Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19654.m3u8
-#EXTINF:-1 ,ESPN News HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19637.m3u8
-#EXTINF:-1 ,MLB Network HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/21298.m3u8
-#EXTINF:-1 ,Disney Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/22823.m3u8
-#EXTINF:-1 ,OAN TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23152.m3u8
-#EXTINF:-1 ,Fuse HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23262.m3u8
-#EXTINF:-1 ,ESPN Deportes HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23260.m3u8
-#EXTINF:-1 ,FOX Sports Southeast HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23258.m3u8
-#EXTINF:-1 ,FOX Sports North HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23257.m3u8
-#EXTINF:-1 ,FOX Sports Midwest HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23256.m3u8
-#EXTINF:-1 ,FOX Sports Detroit HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23255.m3u8
-#EXTINF:-1 ,FOX Sports Arizona HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23254.m3u8
-#EXTINF:-1 ,CBS 11 KTVT Dallas HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23246.m3u8
-#EXTINF:-1 ,CBS 13 WJZ Baltimore HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23247.m3u8
-#EXTINF:-1 ,CBS 2 WCBS New York HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23250.m3u8
-#EXTINF:-1 ,CBS 4 WFOR Miami HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23251.m3u8
-#EXTINF:-1 ,CBS 47 WJAX Jacksonville HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23253.m3u8
-#EXTINF:-1 ,CBS 62 WWJ Detroit HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23252.m3u8
-#EXTINF:-1 ,ABC 10 WPLG Miami HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23234.m3u8
-#EXTINF:-1 ,ABC 5 KOCO HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23235.m3u8
-#EXTINF:-1 ,ABC 9 WCPO Cincinnati HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23236.m3u8
-#EXTINF:-1 ,ABC 15 KNXV Phoenix HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23238.m3u8
-#EXTINF:-1 ,ABC 2 WMAR Baltimore HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23240.m3u8
-#EXTINF:-1 ,ABC 6 WPVI Philadelphia HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23241.m3u8
-#EXTINF:-1 ,ABC 7 WLS Chicago HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23242.m3u8
-#EXTINF:-1 ,ABC 7 KMGH Denver HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23243.m3u8
-#EXTINF:-1 ,ABC 7 KABC Los Angeles HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23244.m3u8
-#EXTINF:-1 ,ABC 7 WABC New York HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23245.m3u8
-#EXTINF:-1 ,CNBC World HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23222.m3u8
-#EXTINF:-1 ,NBC 10 WBTS Boston HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23233.m3u8
-#EXTINF:-1 ,NBC 10 WCAU Philadelphia HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23232.m3u8
-#EXTINF:-1 ,NBC 4 KNBC Los Angeles HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23229.m3u8
-#EXTINF:-1 ,NBC 5 WMAQ Chicago HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23227.m3u8
-#EXTINF:-1 ,NBC 4 WNBC New York HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23228.m3u8
-#EXTINF:-1 ,NBC 5 KXAS Dallas HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23226.m3u8
-#EXTINF:-1 ,NBC 6 WTVJ Miami HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23225.m3u8
-#EXTINF:-1 ,NBC KING Seattle HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23224.m3u8
-#EXTINF:-1 ,NBC 11 WXIA Atlanta HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23223.m3u8
-#EXTINF:-1 ,NBC Sports California FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23220.m3u8
-#EXTINF:-1 ,NBCSN HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9008.m3u8
-#EXTINF:-1 ,NBC Sports Philadelphia FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23218.m3u8
-#EXTINF:-1 ,Discovery Family HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23424.m3u8
-#EXTINF:-1 ,CW KVCW FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23660.m3u8
-#EXTINF:-1 ,WWE Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/16572.m3u8
-#EXTINF:-1 ,NFL Network US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9077.m3u8
-#EXTINF:-1 ,Stadium HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26264.m3u8
-#EXTINF:-1 ,We TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26275.m3u8
-#EXTINF:-1 ,Yes TV HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26274.m3u8
-#EXTINF:-1 ,Universal Kids HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26273.m3u8
-#EXTINF:-1 ,SportsNet New York HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26271.m3u8
-#EXTINF:-1 ,BBC World News HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26270.m3u8
-#EXTINF:-1 ,Hallmark Drama HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26268.m3u8
-#EXTINF:-1 ,Ginx eSports TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26267.m3u8
-#EXTINF:-1 ,FOX Deportes HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26266.m3u8
-#EXTINF:-1 ,NBC Sports Bay Area FHD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/23221.m3u8
-#EXTINF:-1 ,Discovery Life HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27036.m3u8
-#EXTINF:-1 ,FightBox US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27188.m3u8
-#EXTINF:-1 ,UFC TV US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27221.m3u8
-#EXTINF:-1 ,MTV U HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27305.m3u8
-#EXTINF:-1 ,MSG HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27453.m3u8
-#EXTINF:-1 ,MSG+ HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27452.m3u8
-#EXTINF:-1 ,World Fishing Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27454.m3u8
-#EXTINF:-1 ,Gol TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27455.m3u8
-#EXTINF:-1 ,Nick Jr. US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27456.m3u8
-#EXTINF:-1 ,TeenNick HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27459.m3u8
-#EXTINF:-1 ,TVG HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27461.m3u8
-#EXTINF:-1 ,NBC Universo Este HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27462.m3u8
-#EXTINF:-1 ,Sony Movie Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27463.m3u8
-#EXTINF:-1 ,National Geographic Mundo HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27464.m3u8
-#EXTINF:-1 ,National Geographic Wild HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27465.m3u8
-#EXTINF:-1 ,Boomerang HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27466.m3u8
-#EXTINF:-1 ,Cine Sony HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27467.m3u8
-#EXTINF:-1 ,Cozi TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27470.m3u8
-#EXTINF:-1 ,FOX Life Latin HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27471.m3u8
-#EXTINF:-1 ,FYI HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27472.m3u8
-#EXTINF:-1 ,FOX College Sports Pacific HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27475.m3u8
-#EXTINF:-1 ,FOX College Sports Central HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27474.m3u8
-#EXTINF:-1 ,FOX 4 Dallas KDFW HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27564.m3u8
-#EXTINF:-1 ,ABC 8 WFAA Dallas HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27563.m3u8
-#EXTINF:-1 ,FOX 5 WNYW NY HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/27544.m3u8
-#EXTINF:-1 ,Outdoor Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28161.m3u8
-#EXTINF:-1 ,MTV 2 HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28185.m3u8
-#EXTINF:-1 ,Fox Sports South HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28217.m3u8
-#EXTINF:-1 ,Fox Sports Southwest HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28216.m3u8
-#EXTINF:-1 ,Fox Sports San Diego HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28218.m3u8
-#EXTINF:-1 ,FOX 5 Atlanta WAGA HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28219.m3u8
-#EXTINF:-1 ,ABC 2 WSB Atlanta HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28220.m3u8
-#EXTINF:-1 ,VOA US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28224.m3u8
-#EXTINF:-1 ,Longhorn Network HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28223.m3u8
-#EXTINF:-1 ,Motor Trend HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28222.m3u8
-#EXTINF:-1 ,MTV Live HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28235.m3u8
-#EXTINF:-1 ,Sportsman Channel HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28391.m3u8
-#EXTINF:-1 ,ESPN + HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28741.m3u8
-#EXTINF:-1 ,Telemundo 47 WNJU (New York) HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28847.m3u8
-#EXTINF:-1 ,Telemundo 62 WWSI (Philadelphia) HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/28848.m3u8
-#EXTINF:-1 ,TSN 1 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9032.m3u8
-#EXTINF:-1 ,TSN 2 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9033.m3u8
-#EXTINF:-1 ,TSN 4 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9035.m3u8
-#EXTINF:-1 ,TSN 5 HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/9036.m3u8
-#EXTINF:-1 ,SportsNet Pacific HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10342.m3u8
-#EXTINF:-1 ,SportsNet One HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10344.m3u8
-#EXTINF:-1 ,SportsNet West HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/10345.m3u8
-#EXTINF:-1 ,SportsNet East HD CA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/13692.m3u8
-#EXTINF:-1 ,CBS 4 WCCO Minneapolis HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29495.m3u8
-#EXTINF:-1 ,FOX Sports Oklahoma HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29498.m3u8
-#EXTINF:-1 ,FOX Sports West HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/29499.m3u8
-#EXTINF:-1 ,Telemundo 51 WSVC (Miami) HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/32688.m3u8
-#EXTINF:-1 ,BabyFirst TV US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33944.m3u8
-#EXTINF:-1 ,Smithsonian Channel US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/25559.m3u8
-#EXTINF:-1 ,HBO 2 HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33945.m3u8
-#EXTINF:-1 ,Starz Comedy HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33947.m3u8
-#EXTINF:-1 ,Starz Encore Classic HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33955.m3u8
-#EXTINF:-1 ,Starz Encore Westerns HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33957.m3u8
-#EXTINF:-1 ,Starz Encore Family HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33958.m3u8
-#EXTINF:-1 ,Starz Encore Suspense HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/33959.m3u8
-#EXTINF:-1 ,Epix 2 HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19606.m3u8
-#EXTINF:-1 ,Sundance TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/19607.m3u8
-#EXTINF:-1 ,Pop TV HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/26997.m3u8
-#EXTINF:-1 ,Epix HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/34023.m3u8
-#EXTINF:-1 ,Epix Drive-In HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/34024.m3u8
-#EXTINF:-1 ,TCM HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35216.m3u8
-#EXTINF:-1 ,FOX 9 KMSP Minneapolis HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35217.m3u8
-#EXTINF:-1 ,NBC 9 KUSA Denver HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35343.m3u8
-#EXTINF:-1 ,NBC Sports Northwest HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35525.m3u8
-#EXTINF:-1 ,CW New York WPIX 11 US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/35526.m3u8
-#EXTINF:-1 ,Showtime 2 HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvkuben.tvip.xyz:80/live/Tempest/8q16VZ72/37838.m3u8
+#EXTINF:-1,CINE 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836321
+#EXTINF:-1,CINE 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836322
+#EXTINF:-1,CINE 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836323
+#EXTINF:-1,CINE 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836324
+#EXTINF:-1,CINE 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836325
+#EXTINF:-1,CINE 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836326
+#EXTINF:-1,CINE 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836327
+#EXTINF:-1,CINE 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836328
+#EXTINF:-1,CINE 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836329
+#EXTINF:-1,CINE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836330
+#EXTINF:-1,CINE SKY 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836331
+#EXTINF:-1,CINE SKY 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836332
+#EXTINF:-1,CINE SKY 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836333
+#EXTINF:-1,CINE SKY 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836334
+#EXTINF:-1,CINE SKY 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836335
+#EXTINF:-1,CINE SKY 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836336
+#EXTINF:-1,CINE SKY 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836337
+#EXTINF:-1,CINE SKY 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836338
+#EXTINF:-1,CINE SKY 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836339
+#EXTINF:-1,CINE SKY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836340
+#EXTINF:-1,ASSEMBLEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836894
+#EXTINF:-1,Boa Vontade TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836895
+#EXTINF:-1,Canção Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836896
+#EXTINF:-1,EVANGELIZAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836897
+#EXTINF:-1,EVANGELIZAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836898
+#EXTINF:-1,Gostei Gospel Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836899
+#EXTINF:-1,IMPD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836900
+#EXTINF:-1,Novo Tempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836901
+#EXTINF:-1,REDE GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836902
+#EXTINF:-1,REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836903
+#EXTINF:-1,REDE VIDA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836904
+#EXTINF:-1,TV APARECIDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836905
+#EXTINF:-1,Tv Assembléia Ceará
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836906
+#EXTINF:-1,TV Igreja Mundial
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836907
+#EXTINF:-1,TV PAI ETERNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836908
+#EXTINF:-1,TV PAI ETERNO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836909
+#EXTINF:-1,Yin Yang Yo! $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836910
+#EXTINF:-1,Padrinhos Mágicos $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836911
+#EXTINF:-1,101 Dalmatas $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836912
+#EXTINF:-1,A Formiga Atômica $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836913
+#EXTINF:-1,A hora do rock $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836914
+#EXTINF:-1,a pequena sereia $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836915
+#EXTINF:-1,A Vaca e o Frango $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836916
+#EXTINF:-1,A.Casa.do.Mickey.Mouse $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836917
+#EXTINF:-1,A.Guarda.do.Lea $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836918
+#EXTINF:-1,A.Lenda.De.Korra $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836919
+#EXTINF:-1,Aladdin $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836920
+#EXTINF:-1,ALF o ETeimoso $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836921
+#EXTINF:-1,American Dad $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836922
+#EXTINF:-1,Angry Birds $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836923
+#EXTINF:-1,As Aventuras De Jackie Chan $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836924
+#EXTINF:-1,As Aventuras de Ladybug $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836925
+#EXTINF:-1,As Aventuras De Tintim $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836926
+#EXTINF:-1,As.Meninas.Superpoderosas $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836927
+#EXTINF:-1,BabyFirst $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836928
+#EXTINF:-1,BabyLooneyTunes $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836929
+#EXTINF:-1,Ben 10 $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836930
+#EXTINF:-1,Ben e Holly $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836931
+#EXTINF:-1,beyblade $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836932
+#EXTINF:-1,Bingo $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836933
+#EXTINF:-1,Bob o trem $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836934
+#EXTINF:-1,Bob Zoom $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836935
+#EXTINF:-1,Bob.Esponja $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836936
+#EXTINF:-1,Cadillacs E Dinossauros $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836937
+#EXTINF:-1,Caillou $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836938
+#EXTINF:-1,Canção de som animal $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836939
+#EXTINF:-1,Capitao Planeta $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836940
+#EXTINF:-1,Capitão Caverna $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836941
+#EXTINF:-1,Cartoons for Children $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836942
+#EXTINF:-1,Cavalo de Fogo $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836943
+#EXTINF:-1,Caverna do Dragão $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836944
+#EXTINF:-1,Chapolin $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836945
+#EXTINF:-1,Chaves $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836946
+#EXTINF:-1,coxinha e doquinha $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836947
+#EXTINF:-1,denis o pimentinha $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836948
+#EXTINF:-1,Desenhos da bíblia $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836949
+#EXTINF:-1,Donald Duck $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836950
+#EXTINF:-1,Dragons.Rescue.Riders $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836951
+#EXTINF:-1,Dudu e Edu $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836952
+#EXTINF:-1,Duck Tales $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836953
+#EXTINF:-1,Faísca e Fumaça $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836954
+#EXTINF:-1,Galinha Pintadinha $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836955
+#EXTINF:-1,Gato Felix $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836956
+#EXTINF:-1,Histórias da Bíblia $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836957
+#EXTINF:-1,Johnny Test $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836958
+#EXTINF:-1,Jonny Quest $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836959
+#EXTINF:-1,kiko e sua turma $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836960
+#EXTINF:-1,KND- A Turma do Bairro $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836961
+#EXTINF:-1,Manda Chuva $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836962
+#EXTINF:-1,Marinheiro Popeye $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836963
+#EXTINF:-1,Masha e o Urso $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836964
+#EXTINF:-1,Medabots $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836965
+#EXTINF:-1,Meu Amigãozão $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836966
+#EXTINF:-1,Mickey Mouse $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836967
+#EXTINF:-1,Moranguinho $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836968
+#EXTINF:-1,Mulekada $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836969
+#EXTINF:-1,Música Infantil $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836970
+#EXTINF:-1,Naruto $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836971
+#EXTINF:-1,Naruto $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836972
+#EXTINF:-1,O Chefinho $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836973
+#EXTINF:-1,o show dos looney tunes $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836974
+#EXTINF:-1,Os Flintstones $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836975
+#EXTINF:-1,Os Gárgulas $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836976
+#EXTINF:-1,Os Jetsons $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836977
+#EXTINF:-1,Os Simpsons $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836978
+#EXTINF:-1,Patrulha.Canina $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836979
+#EXTINF:-1,Peppa Pig $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836980
+#EXTINF:-1,Pica-Pau $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836981
+#EXTINF:-1,Power Rangers $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836982
+#EXTINF:-1,Power Rangers $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836983
+#EXTINF:-1,Projeto Zeta $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836984
+#EXTINF:-1,Robocop - A Série Animada $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836985
+#EXTINF:-1,Scooby.Doo $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836986
+#EXTINF:-1,Super Onze $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836987
+#EXTINF:-1,Sítio do Picapau Amarelo $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836988
+#EXTINF:-1,Tom&Jerry $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836989
+#EXTINF:-1,Turma da Mônica $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836990
+#EXTINF:-1,Turma do Cristãozinho $
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836991
+#EXTINF:-1,Ursinhos Carinhosos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/836992
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837065
+#EXTINF:-1,SBT NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837070
+#EXTINF:-1,SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837072
+#EXTINF:-1,LEGO DC: Shazam – Magia e Monstros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/movie/miguelito/miguelito/837073.mkv
+#EXTINF:-1,Heróis de uma Guerra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/movie/miguelito/miguelito/837074.mkv
+#EXTINF:-1,Bacurau no Mapa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/movie/miguelito/miguelito/837075.mkv
+#EXTINF:-1,A Grande Família
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837076
+#EXTINF:-1,a praça e nossa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837077
+#EXTINF:-1,Apenas Um Show
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837078
+#EXTINF:-1,Arnold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837079
+#EXTINF:-1,Caca Fantasma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837080
+#EXTINF:-1,Câmeras Escondidas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837081
+#EXTINF:-1,Jaspion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837082
+#EXTINF:-1,jiraya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837083
+#EXTINF:-1,KarateKid
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837084
+#EXTINF:-1,Moisés
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837085
+#EXTINF:-1,Mr. Bean
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837086
+#EXTINF:-1,Os Trapalhões
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837087
+#EXTINF:-1,Pegadinhas do João Kleber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837088
+#EXTINF:-1,Pesadelo.na.Cozinha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837089
+#EXTINF:-1,Sai de Baixo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837090
+#EXTINF:-1,Show_do_Ze
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837091
+#EXTINF:-1,Speed.Racer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837092
+#EXTINF:-1,Street Fighter II
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837093
+#EXTINF:-1,Todo Mundo Odeia o Cris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837094
+#EXTINF:-1,Um Maluco no Pedaço
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837095
+#EXTINF:-1,W.I.T.C.H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837096
+#EXTINF:-1,X-Men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vipeiptv.com:25461/miguelito/miguelito/837097
+#EXTINF:-1,A Criança Zombie (2019)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837098.mkv
+#EXTINF:-1,Através do Fogo (2019)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837099.mkv
+#EXTINF:-1,Banho de sangue
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837100.mkv
+#EXTINF:-1,Desejos Ocultos (2019)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837101.mkv
+#EXTINF:-1,Fração de Segundos (2019)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837102.mkv
+#EXTINF:-1,No Coração da Escuridão (2018)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837103.mkv
+#EXTINF:-1,Presságio (2020)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837104.mkv
+#EXTINF:-1,Harry Potter e a Câmara Secreta (2002)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837105.mp4
+#EXTINF:-1,Harry Potter e a Ordem da Fênix (2007)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837106.mp4
+#EXTINF:-1,Harry Potter e a Pedra Filosofal (2001)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837107.mp4
+#EXTINF:-1,Harry Potter e as Relíquias da Morte - Parte 1 (2010)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837108.mp4
+#EXTINF:-1,Harry Potter e as Relíquias da Morte - Parte 2 (2011)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837109.mp4
+#EXTINF:-1,Harry Potter e o Cálice de Fogo (2005)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837110.mp4
+#EXTINF:-1,Harry Potter e o Enigma do Príncipe (2009)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837111.mp4
+#EXTINF:-1,Harry Potter e o Prisioneiro de Azkaban (2004)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837112.mp4
+#EXTINF:-1,O Senhor dos Anéis: A Sociedade do Anel (2001)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837291.mp4
+#EXTINF:-1,O Senhor dos Anéis: As Duas Torres (2002)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837292.mp4
+#EXTINF:-1,O Senhor dos Anéis: O Retorno do Rei (2003)
+http://vipeiptv.com:25461/movie/miguelito/miguelito/837293.mp4
