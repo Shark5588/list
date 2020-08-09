@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 8/7/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 8/9/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -18,195 +18,1577 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-1,PREMIERE 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/839
-#EXTINF:-1,PREMIERE 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/840
-#EXTINF:-1,PREMIERE 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/861
-#EXTINF:-1,PREMIERE 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/862
-#EXTINF:-1,PREMIERE 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/864
-#EXTINF:-1,PREMIERE 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/886
-#EXTINF:-1,PREMIERE CLUBES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/914
-#EXTINF:-1,COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/967
-#EXTINF:-1,GLOBO NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/1475
-#EXTINF:-1,BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/1506
-#EXTINF:-1,GLOBO RPC MARINGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/1517
-#EXTINF:-1,GLOBO BRASILIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/1542
-#EXTINF:-1,GLOBO RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/1684
-#EXTINF:-1,GLOBO RPC CURITIBA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/1699
-#EXTINF:-1,GLOBO SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/1702
-#EXTINF:-1,GLOBO NSC TV CHAPECO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/2834
-#EXTINF:-1,GLOBO RPC FOZ DO IGUACU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3244
-#EXTINF:-1,GLOBO TV CLUBE TERESINA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3440
-#EXTINF:-1,GLOBO TV GAZETA VITÓRIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3764
-#EXTINF:-1,GLOBO TV SERGIPE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3767
-#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3769
-#EXTINF:-1,GLOBO MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3783
-#EXTINF:-1,GLOBO NORDESTE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3809
-#EXTINF:-1,GLOBO NSC TV FLORIANOPOLIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3824
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3835
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3896
-#EXTINF:-1,GLOBO TV BAHIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3897
-#EXTINF:-1,GLOBO TV MIRANTE SAO LUIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3898
-#EXTINF:-1,GLOBO TV MORENA CAMPO GRANDE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3901
-#EXTINF:-1,GLOBO TV TEM S. J. RIO PRETO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3904
-#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3906
-#EXTINF:-1,GLOBO TV GAZETA SUL ES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3908
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3910
-#EXTINF:-1,GLOBO INTER TV ALTO LITORAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3911
-#EXTINF:-1,GLOBO INTER TV DOS VALES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3914
-#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3917
-#EXTINF:-1,GLOBO INTER TV SERRA MAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3920
-#EXTINF:-1,GLOBO NSC TV BLUMENAU FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3923
-#EXTINF:-1,GLOBO RBS TV CAXIAS DO SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3926
-#EXTINF:-1,GLOBO NSC TV JOINVILLE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3929
-#EXTINF:-1,GLOBO RBS TV PELOTAS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3932
-#EXTINF:-1,GLOBO TV CABO BRANCO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3935
-#EXTINF:-1,GLOBO TV RIO SUL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3938
-#EXTINF:-1,GLOBO TV SANTA CRUZ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/3941
-#EXTINF:-1,SPORTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4018
-#EXTINF:-1,SPORTV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4019
-#EXTINF:-1,SPORTV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4020
-#EXTINF:-1,FOX SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4021
-#EXTINF:-1,FOX SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4022
-#EXTINF:-1,BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4023
-#EXTINF:-1,ESPN 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4266
-#EXTINF:-1,ESPN Extra FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4274
-#EXTINF:-1,ESPN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4307
-#EXTINF:-1,ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4332
-#EXTINF:-1,OFF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/4460
-#EXTINF:-1,DISCOVERY KIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/12939
-#EXTINF:-1,PLAYKIDS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/12961
-#EXTINF:-1,TV RA TIM BUM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/12965
-#EXTINF:-1,DISCOVERY CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13128
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13134
-#EXTINF:-1,DISCOVERY THEATER FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13137
-#EXTINF:-1,DISCOVERY WORLD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13140
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13149
-#EXTINF:-1,SMITHSONIAN CHANNEL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13158
-#EXTINF:-1,TV GAZETA SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13200
-#EXTINF:-1,CURTA! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13239
-#EXTINF:-1,E! FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13249
-#EXTINF:-1,FOOD NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13254
-#EXTINF:-1,MAIS GLOBOSAT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13263
-#EXTINF:-1,TLC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13271
-#EXTINF:-1,TRUTV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13274
-#EXTINF:-1,VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13277
-#EXTINF:-1,WOOHOO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13280
-#EXTINF:-1,EPTV CAMPINAS FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13595
-#EXTINF:-1,TV VITORIA ES FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13636
-#EXTINF:-1,RBTV ES FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13656
-#EXTINF:-1,TV EVAGILIZAR ES FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13688
-#EXTINF:-1,Premiere5 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13721
-#EXTINF:-1,PREMIERE 2 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13722
-#EXTINF:-1,PREMIERE 3 FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13723
-#EXTINF:-1,Premiere Clubes FHD H265
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/13724
-#EXTINF:-1,FLA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/15509
-#EXTINF:-1,CNN Brasil FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/22584
-#EXTINF:-1,CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/22586
-#EXTINF:-1,GLOBO GAZETA SUL ES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/22655
-#EXTINF:-1,CINE SKY 01 (CH281)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/35868
-#EXTINF:-1,CINE SKY 02 (CH282)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/35869
-#EXTINF:-1,CINE SKY 03 (CH283)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/35870
-#EXTINF:-1,FLU TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/51441
-#EXTINF:-1,REDE TV FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/52475
-#EXTINF:-1,OFF FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/52491
-#EXTINF:-1,FOX SPORTS FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/52499
-#EXTINF:-1,BAND SPORTS FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/52500
-#EXTINF:-1,FOX SPORTS 2 FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/52501
-#EXTINF:-1,COMBATE FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/52509
-#EXTINF:-1,HBO FHD [ALTERNATIVO]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://udq.me:80/bora/bora123/52531
+#EXTINF:-1,ENG | NBC New-York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/442
+#EXTINF:-1,ENG | MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/425
+#EXTINF:-1,ENG | Lifetime HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/428
+#EXTINF:-1,ENG | Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/445
+#EXTINF:-1,SPORTS | FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/433
+#EXTINF:-1,ENG | CNN US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/421
+#EXTINF:-1,ENG | OWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1284
+#EXTINF:-1,ENG | WE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2781
+#EXTINF:-1,ENG | ActionMax East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2790
+#EXTINF:-1,ENG | TV Land HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2794
+#EXTINF:-1,ENG | CNBC US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/424
+#EXTINF:-1,ENG | CBS New-York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/441
+#EXTINF:-1,ENG | ABC New-York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/440
+#EXTINF:-1,ENG | FOX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/419
+#EXTINF:-1,ENG | USA Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/101
+#EXTINF:-1,ENG | Universal Channel HD USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/164
+#EXTINF:-1,ENG | WGN America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/678
+#EXTINF:-1,ENG | TRT World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/687
+#EXTINF:-1,ENG | RT US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/677
+#EXTINF:-1,ENG | RT UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/684
+#EXTINF:-1,ENG | Destination America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1117
+#EXTINF:-1,ENG | Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/691
+#EXTINF:-1,ENG | CHching!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/699
+#EXTINF:-1,ENG | BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20374
+#EXTINF:-1,ENG | CBS News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/676
+#EXTINF:-1,ENG | Bloomberg TV UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/685
+#EXTINF:-1,ENG | Al Jazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/692
+#EXTINF:-1,ENG | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/94
+#EXTINF:-1,ENG | TLC HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/52
+#EXTINF:-1,ENG | TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/55
+#EXTINF:-1,ENG | SYFY USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/163
+#EXTINF:-1,ENG | SPIKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/161
+#EXTINF:-1,ENG | PBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/98
+#EXTINF:-1,ENG | Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/71
+#EXTINF:-1,ENG | HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/12
+#EXTINF:-1,ENG | H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/15
+#EXTINF:-1,ENG | Hallmark HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1285
+#EXTINF:-1,ENG | FX HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/53
+#EXTINF:-1,KIDS | Nick 2 HD SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/490
+#EXTINF:-1,KIDS | Disney XD LATINO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/486
+#EXTINF:-1,KIDS | Disney Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/485
+#EXTINF:-1,KIDS | Disney Channel USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/484
+#EXTINF:-1,KIDS | Cartoon Network ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/488
+#EXTINF:-1,KIDS | Boomerang ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/487
+#EXTINF:-1,KIDS | Nickelodeon ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/489
+#EXTINF:-1,ENG | FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/37
+#EXTINF:-1,ENG | Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/9
+#EXTINF:-1,ENG | E! HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/57
+#EXTINF:-1,ENG | DIY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/75
+#EXTINF:-1,KIDS | Disney XD ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/24
+#EXTINF:-1,KIDS | Disney HD USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/22
+#EXTINF:-1,ENG | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/40
+#EXTINF:-1,ENG | NATIONAL GEOGRAPHIC HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/28
+#EXTINF:-1,ENG | History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/72
+#EXTINF:-1,ENG | Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2
+#EXTINF:-1,ENG | Discovery Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/106
+#EXTINF:-1,ENG | DISCOVERY HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/38
+#EXTINF:-1,ENG | ANIMAL PLANET HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/41
+#EXTINF:-1,ENG | CTV Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/10
+#EXTINF:-1,ENG | Comedy Central HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/89
+#EXTINF:-1,SPORTS | Tennis Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/36
+#EXTINF:-1,ENG | CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/116
+#EXTINF:-1,ENG | CBSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/88
+#EXTINF:-1,ENG | CBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/134
+#EXTINF:-1,ENG | CBC HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/33
+#EXTINF:-1,ENG | BRAVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/54
+#EXTINF:-1,ENG | AMC USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/48
+#EXTINF:-1,ENG | ABC NEW YORK HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/34
+#EXTINF:-1,ENG | HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1
+#EXTINF:-1,ENG | News Westchester
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1166
+#EXTINF:-1,ENG | SHOWTIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/141
+#EXTINF:-1,USA PPV | MOREMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7557
+#EXTINF:-1,ENG | HBO Zone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/455
+#EXTINF:-1,ENG | HBO Signature ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/450
+#EXTINF:-1,ENG | HBO Family ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/453
+#EXTINF:-1,ENG | HBO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/448
+#EXTINF:-1,ENG | HBO 2  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/449
+#EXTINF:-1,ENG | Starz Edge ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/473
+#EXTINF:-1,ENG | Starz East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/471
+#EXTINF:-1,ENG | Starz Comedy ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/475
+#EXTINF:-1,ENG | Showtime 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/462
+#EXTINF:-1,ENG | Showtime Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/467
+#EXTINF:-1,SPORTS | BIG TEN NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/465
+#EXTINF:-1,ENG | Showtime West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/461
+#EXTINF:-1,ENG | Showtime 2 ENG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/463
+#EXTINF:-1,ENG | Lifetime Movie Network  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/482
+#EXTINF:-1,ENG | Cinemax  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/456
+#EXTINF:-1,ENG | Cinemax More HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/872
+#EXTINF:-1,NEWS | CBS 4 News (Indianapolis)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20463
+#EXTINF:-1,NEWS | Fox 5 News (Washington DC)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20455
+#EXTINF:-1,NEWS | NBC 5 News (Chicago)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20467
+#EXTINF:-1,NEWS | WCCB News (Charlotte)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20468
+#EXTINF:-1,NEWS | WGN 9 News (Chicago)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20466
+#EXTINF:-1,NEWS | WVIT 30 News (Hartford)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20464
+#EXTINF:-1,SPORTS | Special Events 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/874
+#EXTINF:-1,SPORTS | Special Events 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/875
+#EXTINF:-1,SPORTS | Special Events 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/876
+#EXTINF:-1,SPORTS | Special Events 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/988
+#EXTINF:-1,SPORTS | Special Events 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/989
+#EXTINF:-1,SPORTS | Special Events 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/990
+#EXTINF:-1,SPORTS | UFC Fight Pass
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2541
+#EXTINF:-1,SPORTS | PPV SPECIALS EVENTS 1 HD - UFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1220
+#EXTINF:-1,SPORTS | PPV SPECIALS EVENTS 2 HD - WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1221
+#EXTINF:-1,SPORTS | Pac12 Arizona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1130
+#EXTINF:-1,SPORTS | Pac12 Bay Area
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1131
+#EXTINF:-1,SPORTS | Pac12 Los Angeles
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1133
+#EXTINF:-1,SPORTS | Pac12 Oregon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1135
+#EXTINF:-1,SPORTS | Pac12 Washington
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1136
+#EXTINF:-1,SPORTS | Bein Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1227
+#EXTINF:-1,SPORTS | Bein Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1228
+#EXTINF:-1,SPORTS | Bein Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1229
+#EXTINF:-1,SPORTS | Bein Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1230
+#EXTINF:-1,SPORTS | Bein Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1231
+#EXTINF:-1,SPORTS | Bein Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1232
+#EXTINF:-1,SPORTS | Bein Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1233
+#EXTINF:-1,SPORTS | Bein Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1234
+#EXTINF:-1,SPORTS | Bein Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1235
+#EXTINF:-1,SPORTS | Bein Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1236
+#EXTINF:-1,SPORTS | BOXNation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1170
+#EXTINF:-1,ENG | WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/26
+#EXTINF:-1,SPORTS | NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/275
+#EXTINF:-1,SPORTS | FOX Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/435
+#EXTINF:-1,SPORTS | MLB Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/436
+#EXTINF:-1,SPORTS | Fox Sports 1 US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/273
+#EXTINF:-1,SPORTS | Fox Sports 2 HD US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/274
+#EXTINF:-1,SPORTS | BT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1122
+#EXTINF:-1,SPORTS | BT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/310
+#EXTINF:-1,SPORTS | BT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/309
+#EXTINF:-1,ENG | A&E USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/58
+#EXTINF:-1,SPORTS | ESPN US
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1121
+#EXTINF:-1,SPORTS | ESPN 2 US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/270
+#EXTINF:-1,SPORTS | BEIN SPORTS US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/289
+#EXTINF:-1,SPORTS | NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/277
+#EXTINF:-1,SPORTS | MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/276
+#EXTINF:-1,SPORTS | TSN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/278
+#EXTINF:-1,SPORTS | TSN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/279
+#EXTINF:-1,SPORTS | TSN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/280
+#EXTINF:-1,SPORTS | TSN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/281
+#EXTINF:-1,SPORTS | TSN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/282
+#EXTINF:-1,SPORTS | CBS Sports Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/333
+#EXTINF:-1,SPORTS | NHL NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/336
+#EXTINF:-1,SPORTS | SPORTSNET Pacific HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/68
+#EXTINF:-1,SPORTS | Sportsnet Ontario HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/284
+#EXTINF:-1,SPORTS | Sportsnet 360 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/283
+#EXTINF:-1,SPORTS | SPORTSNET EAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1207
+#EXTINF:-1,SPORTS | SPORTSNET ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1209
+#EXTINF:-1,SPORTS | SPORTSNET WEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1208
+#EXTINF:-1,SPORTS | SPORTSNET WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1210
+#EXTINF:-1,PPV | PACQUIAO VS BRONER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/207014
+#EXTINF:-1,NFL | NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204062
+#EXTINF:-1,NFL | NOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204061
+#EXTINF:-1,NFL | REDZONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204060
+#EXTINF:-1,MUSIC | Videos 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/706
+#EXTINF:-1,MUSIC | Videos 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/707
+#EXTINF:-1,MUSIC | Videos 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/709
+#EXTINF:-1,MUSIC | Videos 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/711
+#EXTINF:-1,CA | ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7612
+#EXTINF:-1,CA | AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7611
+#EXTINF:-1,CA | BNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7610
+#EXTINF:-1,CA | BRAVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7609
+#EXTINF:-1,CA | CBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7608
+#EXTINF:-1,CA | CBC NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7607
+#EXTINF:-1,CA | CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7606
+#EXTINF:-1,CA | CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7605
+#EXTINF:-1,CA | CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7604
+#EXTINF:-1,CA | CP 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7603
+#EXTINF:-1,CA | CTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7601
+#EXTINF:-1,CA | CW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7600
+#EXTINF:-1,CA | DISNEY JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7599
+#EXTINF:-1,CA | DIY NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7598
+#EXTINF:-1,CA | E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7597
+#EXTINF:-1,CA | Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7596
+#EXTINF:-1,CA | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7595
+#EXTINF:-1,CA | GLOBAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7592
+#EXTINF:-1,CA | GSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7591
+#EXTINF:-1,CA | HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7590
+#EXTINF:-1,CA | HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7589
+#EXTINF:-1,CA | HGTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7588
+#EXTINF:-1,CA | HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7587
+#EXTINF:-1,CA | HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7586
+#EXTINF:-1,CA | Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7585
+#EXTINF:-1,CA | ME TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7584
+#EXTINF:-1,CA | MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7582
+#EXTINF:-1,CA | NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7581
+#EXTINF:-1,CA | NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7580
+#EXTINF:-1,CA | NBC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7579
+#EXTINF:-1,CA | OWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7578
+#EXTINF:-1,CA | PBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7576
+#EXTINF:-1,CA | PEACH TREE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7574
+#EXTINF:-1,CA | SHOWCASE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7573
+#EXTINF:-1,CA | SLICE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7572
+#EXTINF:-1,CA | SN ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7571
+#EXTINF:-1,CA | SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7570
+#EXTINF:-1,CA | THE WEATHER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7614
+#EXTINF:-1,CA | TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7569
+#EXTINF:-1,CA | BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7568
+#EXTINF:-1,LATINO CL |  Warner Channel SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/546
+#EXTINF:-1,LATINO CL |  Univision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/494
+#EXTINF:-1,SPORTS | Univision Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/530
+#EXTINF:-1,LATINO CL |  Universal Channel America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/549
+#EXTINF:-1,LATINO CL |  UniMAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/498
+#EXTINF:-1,LATINO CL |  Tru TV America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/562
+#EXTINF:-1,LATINO CL |  TNT Series SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/558
+#EXTINF:-1,LATINO CL |  TNT America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/580
+#EXTINF:-1,LATINO CL |  Tlnovelas America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/502
+#EXTINF:-1,LATINO CL |  Telemundo Los Angeles HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/497
+#EXTINF:-1,LATINO CL |  Telemundo Internacional
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/504
+#EXTINF:-1,LATINO |  TELEMUNDO MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/505
+#EXTINF:-1,LATINO CL | TDN Mexico
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/527
+#EXTINF:-1,LATINO CL |  TCM America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/587
+#EXTINF:-1,LATINO CL |  RCN Novelas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/503
+#EXTINF:-1,Colombia | RCN Colombia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/880
+#EXTINF:-1,Colombia | CARACOL Colombia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/878
+#EXTINF:-1,CUBA | AmericaTeve MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1251
+#EXTINF:-1,KIDS | Nickelodeon SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/534
+#EXTINF:-1,KIDS | Nick Jr SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/535
+#EXTINF:-1,LATINO CL |  MTV SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/568
+#EXTINF:-1,LATINO CL |  MTV Hits SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/569
+#EXTINF:-1,LATINO CL |  HBO Este
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/599
+#EXTINF:-1,LATINO CL |  FX Latino FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/548
+#EXTINF:-1,LATINO CL |  FOX Life FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/559
+#EXTINF:-1,LATINO CL |  Fox SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/550
+#EXTINF:-1,LATINO CL |  FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/590
+#EXTINF:-1,KIDS | Disney XD Norte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/532
+#EXTINF:-1,KIDS | Disney Junior SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/533
+#EXTINF:-1,KIDS | Disney Channel SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/531
+#EXTINF:-1,KIDS | Discovery Kids America Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/536
+#EXTINF:-1,LATINO CL |  Canal 5 HD Latino America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1361
+#EXTINF:-1,LATINO CL |  Distrito Comedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1362
+#EXTINF:-1,LATINO CL |  GOLDEN EDGE Latino America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1352
+#EXTINF:-1,SPORTS | Claro Sports Colombia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/526
+#EXTINF:-1,Colombia | WIN Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/870
+#EXTINF:-1,LATINO CL | Cinema Dinamita
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/572
+#EXTINF:-1,KIDS | Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/539
+#EXTINF:-1,KIDS | Boomerang SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/538
+#EXTINF:-1,SPORTS | Bein Sports SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/525
+#EXTINF:-1,LATINO CL |  Antena 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/507
+#EXTINF:-1,LATINO CL |  AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/585
+#EXTINF:-1,LATINO DM | TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17656
+#EXTINF:-1,LATINO DM | A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17647
+#EXTINF:-1,LATINO DM | ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17652
+#EXTINF:-1,LATINO DM | ARTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17616
+#EXTINF:-1,LATINO DM | AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17651
+#EXTINF:-1,LATINO DM | BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17624
+#EXTINF:-1,LATINO DM | BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17623
+#EXTINF:-1,LATINO DM | GOLDEN PREMIER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17657
+#EXTINF:-1,LATINO DM | CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17626
+#EXTINF:-1,LATINO DM | CANAL 5 MX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17662
+#EXTINF:-1,LATINO DM | CINE LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17600
+#EXTINF:-1,LATINO DM | CINECANAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17602
+#EXTINF:-1,LATINO DM | ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17666
+#EXTINF:-1,LATINO DM | MAXPRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17668
+#EXTINF:-1,LATINO DM | SONY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17667
+#EXTINF:-1,LATINO DM | TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17669
+#EXTINF:-1,LATINO DM | CLARO SPORTS LATINOAMERICA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17612
+#EXTINF:-1,LATINO DM | CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17604
+#EXTINF:-1,LATINO DM | CNN ESPAÑOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17608
+#EXTINF:-1,LATINO DM | CNN INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17607
+#EXTINF:-1,LATINO DM | COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17638
+#EXTINF:-1,LATINO DM | DISCOVERY H&H FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17644
+#EXTINF:-1,LATINO DM | DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17621
+#EXTINF:-1,LATINO DM | DISCOVERY KIDS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17625
+#EXTINF:-1,LATINO DM | DISNEY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17631
+#EXTINF:-1,LATINO DM | DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17630
+#EXTINF:-1,LATINO DM | DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17629
+#EXTINF:-1,LATINO DM | LAS ESTRELLAS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17663
+#EXTINF:-1,LATINO DM | E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17640
+#EXTINF:-1,LATINO DM | ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17611
+#EXTINF:-1,LATINO DM | ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17610
+#EXTINF:-1,LATINO DM | ESPN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17609
+#EXTINF:-1,LATINO DM | DHE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17634
+#EXTINF:-1,LATINO DM | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17655
+#EXTINF:-1,LATINO DM | FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17641
+#EXTINF:-1,LATINO DM | FOX PREMIUM ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17590
+#EXTINF:-1,LATINO DM | FOX PREMIUM SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17671
+#EXTINF:-1,LATINO DM | FOX PREMIUM FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17589
+#EXTINF:-1,LATINO DM | FX MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17599
+#EXTINF:-1,LATINO DM | FOX PREMIUM COMEDY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17591
+#EXTINF:-1,LATINO DM | FOX PREMIUM MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17592
+#EXTINF:-1,LATINO DM | FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17614
+#EXTINF:-1,LATINO DM | FOX SPORTS 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17613
+#EXTINF:-1,LATINO DM | FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17615
+#EXTINF:-1,LATINO DM | FX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17650
+#EXTINF:-1,LATINO DM | H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17617
+#EXTINF:-1,LATINO DM | HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17596
+#EXTINF:-1,LATINO DM | HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17594
+#EXTINF:-1,LATINO DM | HBO PLUS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17593
+#EXTINF:-1,LATINO DM | HBO2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17595
+#EXTINF:-1,LATINO DM | HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17618
+#EXTINF:-1,LATINO DM | HTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17633
+#EXTINF:-1,LATINO DM | INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17645
+#EXTINF:-1,LATINO DM | LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17642
+#EXTINF:-1,LATINO DM | MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17637
+#EXTINF:-1,LATINO DM | NATGEO WILD FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17619
+#EXTINF:-1,LATINO DM | NATIONAL GEOGRAFIC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17620
+#EXTINF:-1,LATINO DM | NICK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17628
+#EXTINF:-1,LATINO DM | NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17627
+#EXTINF:-1,LATINO DM | ONCE NIÑOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17632
+#EXTINF:-1,LATINO DM | PARAMOUNT FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17597
+#EXTINF:-1,LATINO DM | STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17598
+#EXTINF:-1,Adult: SEXTREME Dish Mex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17586
+#EXTINF:-1,LATINO DM | SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17649
+#EXTINF:-1,LATINO DM | SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17648
+#EXTINF:-1,LATINO DM | TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17643
+#EXTINF:-1,LATINO DM | UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17654
+#EXTINF:-1,LATINO DM | AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17670
+#EXTINF:-1,LATINO DM | TNT SERIES FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17659
+#EXTINF:-1,Adult: VENUS Dish Mex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17587
+#EXTINF:-1,LATINO DM | VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17635
+#EXTINF:-1,LATINO DM | AZTECA 7 Mexico Latino America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1359
+#EXTINF:-1,LATINO DM | AZTECA Corazon Latino America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1356
+#EXTINF:-1,LATINO DM | AZTECA Mundo Latino America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1355
+#EXTINF:-1,LATINO DM | AZTECA 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/1354
+#EXTINF:-1,LATINO HQ | A&E MUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205379
+#EXTINF:-1,LATINO HQ | AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205290
+#EXTINF:-1,LATINO HQ | ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205293
+#EXTINF:-1,LATINO HQ | ANTENA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205296
+#EXTINF:-1,LATINO HQ | AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205315
+#EXTINF:-1,LATINO HQ | AZCORAZON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205288
+#EXTINF:-1,LATINO HQ | AZMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205309
+#EXTINF:-1,LATINO HQ | BABYTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205287
+#EXTINF:-1,LATINO HQ | BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205338
+#EXTINF:-1,LATINO HQ | BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205330
+#EXTINF:-1,LATINO HQ | CABLE NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205266
+#EXTINF:-1,LATINO HQ | CANAL CLARO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205294
+#EXTINF:-1,LATINO HQ | CANAL DE LAS ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205304
+#EXTINF:-1,LATINO HQ | CANAL UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205257
+#EXTINF:-1,LATINO HQ | CARACOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205277
+#EXTINF:-1,LATINO HQ | CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205346
+#EXTINF:-1,LATINO HQ | CINE LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205345
+#EXTINF:-1,LATINO HQ | CINECANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205336
+#EXTINF:-1,LATINO HQ | CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205314
+#EXTINF:-1,LATINO HQ | CITY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205256
+#EXTINF:-1,LATINO HQ | CLARO SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205387
+#EXTINF:-1,LATINO HQ | CLARO SPORTS COL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205274
+#EXTINF:-1,LATINO HQ | CNN ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205329
+#EXTINF:-1,LATINO HQ | CNN INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205375
+#EXTINF:-1,LATINO HQ | COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205289
+#EXTINF:-1,LATINO HQ | CONCERT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205317
+#EXTINF:-1,LATINO HQ | DEPELICULA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205247
+#EXTINF:-1,LATINO HQ | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205324
+#EXTINF:-1,LATINO HQ | DISCOVERY HOME HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205323
+#EXTINF:-1,LATINO HQ | DISCOVERY KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205362
+#EXTINF:-1,LATINO HQ | DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205365
+#EXTINF:-1,LATINO HQ | DISCOVERY THEATER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205335
+#EXTINF:-1,LATINO HQ | DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205363
+#EXTINF:-1,LATINO HQ | DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205378
+#EXTINF:-1,LATINO HQ | DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205382
+#EXTINF:-1,LATINO HQ | DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205349
+#EXTINF:-1,LATINO HQ | DW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205367
+#EXTINF:-1,LATINO HQ | E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205310
+#EXTINF:-1,LATINO HQ | ENLACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205259
+#EXTINF:-1,LATINO HQ | ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205263
+#EXTINF:-1,LATINO HQ | FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205299
+#EXTINF:-1,LATINO HQ | FOX ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205384
+#EXTINF:-1,LATINO HQ | FOX CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205339
+#EXTINF:-1,LATINO HQ | FOX CLASSICS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205340
+#EXTINF:-1,LATINO HQ | FOX FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205279
+#EXTINF:-1,LATINO HQ | FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205344
+#EXTINF:-1,LATINO HQ | FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205356
+#EXTINF:-1,LATINO HQ | FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205273
+#EXTINF:-1,LATINO HQ | FOX SPORTS 1 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205390
+#EXTINF:-1,LATINO HQ | FOX SPORTS 2 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205389
+#EXTINF:-1,LATINO HQ | FOX SPORTS 3 MX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205388
+#EXTINF:-1,LATINO HQ | FOX SPORTS2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205271
+#EXTINF:-1,LATINO HQ | FOX SPORTS3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205272
+#EXTINF:-1,LATINO HQ | FOX1 SUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205270
+#EXTINF:-1,LATINO HQ | FOXFAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205386
+#EXTINF:-1,LATINO HQ | FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205352
+#EXTINF:-1,LATINO HQ | GOLDEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205358
+#EXTINF:-1,LATINO HQ | GOLDEN PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205357
+#EXTINF:-1,LATINO HQ | GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205269
+#EXTINF:-1,LATINO HQ | GOURMET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205333
+#EXTINF:-1,LATINO HQ | H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205327
+#EXTINF:-1,LATINO HQ | HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205318
+#EXTINF:-1,LATINO HQ | HBO FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205353
+#EXTINF:-1,LATINO HQ | HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205385
+#EXTINF:-1,LATINO HQ | HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205328
+#EXTINF:-1,LATINO HQ | HOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205366
+#EXTINF:-1,LATINO HQ | HTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205383
+#EXTINF:-1,LATINO HQ | ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205265
+#EXTINF:-1,LATINO HQ | ISAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205246
+#EXTINF:-1,LATINO HQ | LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205341
+#EXTINF:-1,LATINO HQ | MAX UP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205319
+#EXTINF:-1,LATINO HQ | MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205307
+#EXTINF:-1,LATINO HQ | MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205303
+#EXTINF:-1,LATINO HQ | NAT GEO KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205360
+#EXTINF:-1,LATINO HQ | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205343
+#EXTINF:-1,LATINO HQ | NATGEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205326
+#EXTINF:-1,LATINO HQ | NICK JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205320
+#EXTINF:-1,LATINO HQ | NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205355
+#EXTINF:-1,LATINO HQ | PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205295
+#EXTINF:-1,LATINO HQ | PASIONES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205305
+#EXTINF:-1,LATINO HQ | RCN TELENOVELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205291
+#EXTINF:-1,LATINO HQ | SONY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205311
+#EXTINF:-1,LATINO HQ | SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205373
+#EXTINF:-1,LATINO HQ | STUDIO UNIVERSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205297
+#EXTINF:-1,LATINO HQ | SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205332
+#EXTINF:-1,LATINO HQ | TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205391
+#EXTINF:-1,LATINO HQ | TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205316
+#EXTINF:-1,LATINO HQ | TELECAFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205254
+#EXTINF:-1,LATINO HQ | TELECARIBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205253
+#EXTINF:-1,LATINO HQ | TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205250
+#EXTINF:-1,LATINO HQ | TLNOVELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205321
+#EXTINF:-1,LATINO HQ | TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205351
+#EXTINF:-1,LATINO HQ | TNT SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205350
+#EXTINF:-1,LATINO HQ | TOONCAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205312
+#EXTINF:-1,LATINO HQ | TRU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205276
+#EXTINF:-1,LATINO HQ | UNIVERSAL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205313
+#EXTINF:-1,LATINO HQ | VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205348
+#EXTINF:-1,LATINO HQ | VH1 CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205377
+#EXTINF:-1,LATINO HQ | WARNER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/205342
+#EXTINF:-1,PR | UNIVISION PUERTO RICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/21656
+#EXTINF:-1,PR | WAPA PUERTO RICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/21657
+#EXTINF:-1,INT | Ve Plus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/851
+#EXTINF:-1,INT | Valle TV de Aconcagua
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/793
+#EXTINF:-1,INT | TV Sur Canal 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/750
+#EXTINF:-1,CUBA | ACN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204075
+#EXTINF:-1,CUBA | CONTRIBUCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204074
+#EXTINF:-1,CUBA | CUBAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204073
+#EXTINF:-1,CUBA | CUBAVISION INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204072
+#EXTINF:-1,CUBA | EDUCATIVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204070
+#EXTINF:-1,CUBA | EDUCATIVO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204069
+#EXTINF:-1,CUBA | MEGATV MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204065
+#EXTINF:-1,CUBA | TELE REBELDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/204063
+#EXTINF:-1,ARG | TV Maná Argentina SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/802
+#EXTINF:-1,FR | TV 5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/860
+#EXTINF:-1,INT | TRA Digital
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/816
+#EXTINF:-1,INT | Telesistema Canal 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/815
+#EXTINF:-1,INT | TeleMax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/840
+#EXTINF:-1,Colombia | Telecafé
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/779
+#EXTINF:-1,INT | RNN Canal 27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/820
+#EXTINF:-1,INT | Red Advenir
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/760
+#EXTINF:-1,SPAIN | Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/727
+#EXTINF:-1,LATINO DM | RCG Televisión
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/835
+#EXTINF:-1,LATINO DM | Milenio Televisión
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/837
+#EXTINF:-1,SPAIN | La Sexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/720
+#EXTINF:-1,LATINO CL |  Euronews en Español
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://euronews-es-p-cdn.hexaglobe.net/18a389506a5aabf68043e9f77b07f93b/599d42d9/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_720p.m3u8
+#EXTINF:-1,ARG | DXTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/862
+#EXTINF:-1,LATINO CL |  DW Latinoamerica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/859
+#EXTINF:-1,ARG | Canal 26 Argentina HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/803
+#EXTINF:-1,INT | Canal 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/819
+#EXTINF:-1,INT | Canal 2 Nicaragua
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/748
+#EXTINF:-1,INT | Belarus 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/827
+#EXTINF:-1,INT | Canal 17 El Salvador
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/832
+#EXTINF:-1,SPAIN | 7 TV Región de Murcia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/741
+#EXTINF:-1,SPAIN | VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/966
+#EXTINF:-1,SPAIN | TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/967
+#EXTINF:-1,SPAIN | TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/977
+#EXTINF:-1,SPAIN | TELEDEPORTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/940
+#EXTINF:-1,SPAIN | TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/891
+#EXTINF:-1,SPAIN | TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/914
+#EXTINF:-1,SPAIN | SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/919
+#EXTINF:-1,SPAIN | RADIO MONTE-CARLO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/968
+#EXTINF:-1,SPAIN | MOVISTAR DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/911
+#EXTINF:-1,SPAIN | PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/958
+#EXTINF:-1,SPAIN | ODISEA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/953
+#EXTINF:-1,SPAIN | NRJ12 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/970
+#EXTINF:-1,SPAIN | NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/897
+#EXTINF:-1,SPAIN | NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/957
+#EXTINF:-1,SPAIN | NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/894
+#EXTINF:-1,SPAIN | NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/955
+#EXTINF:-1,SPAIN | NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/956
+#EXTINF:-1,SPAIN | MTV MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/972
+#EXTINF:-1,SPAIN | MOVISTAR XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/909
+#EXTINF:-1,SPAIN | MOVISTAR SERIES Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/908
+#EXTINF:-1,SPAIN | MOVISTAR SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/907
+#EXTINF:-1,SPAIN | MOVISTAR F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/944
+#EXTINF:-1,SPAIN | MOVISTAR ESTRENOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/906
+#EXTINF:-1,SPAIN | MOVISTAR DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/905
+#EXTINF:-1,SPAIN | MOVISTAR DCINE ESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/910
+#EXTINF:-1,SPAIN | MOVISTAR COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/904
+#EXTINF:-1,SPAIN | MOVISTAR ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/903
+#EXTINF:-1,SPAIN | Movistar Moto GP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/945
+#EXTINF:-1,SPAIN | Mega
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/893
+#EXTINF:-1,SPAIN | M20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/976
+#EXTINF:-1,SPAIN | LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/892
+#EXTINF:-1,SPAIN | LA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/888
+#EXTINF:-1,SPAIN | LA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/887
+#EXTINF:-1,SPAIN | Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/954
+#EXTINF:-1,SPAIN | HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/912
+#EXTINF:-1,SPAIN | HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/952
+#EXTINF:-1,SPAIN | FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/918
+#EXTINF:-1,SPAIN | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/917
+#EXTINF:-1,SPAIN | FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/895
+#EXTINF:-1,SPAIN | ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/898
+#EXTINF:-1,SPAIN | DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/896
+#EXTINF:-1,SPAIN | DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/978
+#EXTINF:-1,SPAIN | DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/960
+#EXTINF:-1,SPAIN | DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/959
+#EXTINF:-1,SPAIN | DISCOVERY CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/948
+#EXTINF:-1,SPAIN | DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/950
+#EXTINF:-1,SPAIN | CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/890
+#EXTINF:-1,SPAIN | COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/922
+#EXTINF:-1,SPAIN | COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/921
+#EXTINF:-1,SPAIN | CANAL COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/947
+#EXTINF:-1,SPAIN | MOVISTAR GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/943
+#EXTINF:-1,SPAIN | MOVISTAR FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/924
+#EXTINF:-1,SPAIN | CANAL DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/941
+#EXTINF:-1,SPAIN | CANAL  DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/942
+#EXTINF:-1,SPAIN | CALLE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/920
+#EXTINF:-1,SPAIN | BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/961
+#EXTINF:-1,SPAIN | BEIN SPORT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/931
+#EXTINF:-1,SPAIN | BEIN LA LIGA 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/926
+#EXTINF:-1,SPAIN | BABY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/962
+#EXTINF:-1,SPAIN | AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/916
+#EXTINF:-1,SPAIN | AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/915
+#EXTINF:-1,SPAIN | ANTENA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/889
+#EXTINF:-1,SPAIN | ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/923
+#EXTINF:-1,SPAIN | AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/913
+#EXTINF:-1,SPAIN | ATRESERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/900
+#EXTINF:-1,SPAIN | A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/949
+#EXTINF:-1,SPAIN | #O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/902
+#EXTINF:-1,Adult: Blacked
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/631
+#EXTINF:-1,Adult: RedLight HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/881
+#EXTINF:-1,Adult: RedLight HD 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/886
+#EXTINF:-1,Adult: SeXtreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/634
+#EXTINF:-1,Adult: Jasmin TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/629
+#EXTINF:-1,Adult: DESIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/662
+#EXTINF:-1,Adult: Adult HD VIDEOS ONDEMAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/716
+#EXTINF:-1,Adult: HOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/717
+#EXTINF:-1,Adult: Hustler FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20414
+#EXTINF:-1,Adult: MOVIESINEMA-EROTIK-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20413
+#EXTINF:-1,Adult: MOVIESINEMA-EROTIK-5-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20410
+#EXTINF:-1,Adult: Variate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/719
+#EXTINF:-1,Colombia | Cable Noticias HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2937
+#EXTINF:-1,Colombia | Claro Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2936
+#EXTINF:-1,Colombia | Canal UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2935
+#EXTINF:-1,Colombia | Caracol 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2933
+#EXTINF:-1,Colombia | Caracol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2932
+#EXTINF:-1,Colombia | Cosmovision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2930
+#EXTINF:-1,Colombia | El Tiempo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2929
+#EXTINF:-1,Colombia | Telecaribe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2928
+#EXTINF:-1,Colombia | Telecaribe Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2927
+#EXTINF:-1,Colombia | RCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2926
+#EXTINF:-1,Colombia | RCN Novelas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2924
+#EXTINF:-1,Colombia | Teleantioquia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2921
+#EXTINF:-1,Colombia | Teleislas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2918
+#EXTINF:-1,Colombia | Telemedellin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2917
+#EXTINF:-1,Colombia | RCN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2915
+#EXTINF:-1,Colombia | CANAL CNC MEDELLIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2914
+#EXTINF:-1,Colombia | CALI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2913
+#EXTINF:-1,ARG | AMERICA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2948
+#EXTINF:-1,ARG | CANAL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2946
+#EXTINF:-1,ARG | FOX SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2943
+#EXTINF:-1,ARG | TELEFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2947
+#EXTINF:-1,ARG | DIRECT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2944
+#EXTINF:-1,ARG | TYC Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2938
+#EXTINF:-1,ARG | Canal 4 Argentina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2956
+#EXTINF:-1,ARG | CANAL 26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2953
+#EXTINF:-1,SPORTS | NBC Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/2958
+#EXTINF:-1,ENG | VELOCITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3051
+#EXTINF:-1,SPORTS | Bein Sports Ñ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3337
+#EXTINF:-1,SPORTS | FOX Deportes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3340
+#EXTINF:-1,SPORTS | ESPN U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3341
+#EXTINF:-1,PERU | AMERICA TELEVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3417
+#EXTINF:-1,PERU | ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3418
+#EXTINF:-1,PERU | FRECUENCIA LATINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3419
+#EXTINF:-1,PERU | PANAMERICANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3420
+#EXTINF:-1,PERU | PERU MAGICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3421
+#EXTINF:-1,PERU | TV PERU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3422
+#EXTINF:-1,CHILE | CNN CHILE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3435
+#EXTINF:-1,CHILE | 13 Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20401
+#EXTINF:-1,CHILE | CDF Premiun Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20398
+#EXTINF:-1,CHILE | CDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20402
+#EXTINF:-1,CHILE | Chilevison
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20399
+#EXTINF:-1,CHILE | Cnn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20397
+#EXTINF:-1,CHILE | Mega Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20396
+#EXTINF:-1,CHILE | TVN Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20400
+#EXTINF:-1,CHILE | CDF Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20492
+#EXTINF:-1,CHILE | El Pinguino | Punta Arenas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20489
+#EXTINF:-1,CHILE | VTV | Aconcagua
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20487
+#EXTINF:-1,FR | 13EME RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3708
+#EXTINF:-1,FR | 6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3707
+#EXTINF:-1,FR | AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3706
+#EXTINF:-1,FR | AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3705
+#EXTINF:-1,FR | ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3704
+#EXTINF:-1,FR | ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3703
+#EXTINF:-1,FR | BEIN MAX 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3702
+#EXTINF:-1,FR | BEIN MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3701
+#EXTINF:-1,FR | BEIN MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3700
+#EXTINF:-1,FR | BEIN MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3699
+#EXTINF:-1,FR | BEIN MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3698
+#EXTINF:-1,FR | BEIN MAX 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3697
+#EXTINF:-1,FR | BEIN MAX 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3696
+#EXTINF:-1,FR | BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3695
+#EXTINF:-1,FR | BEIN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3694
+#EXTINF:-1,FR | BEIN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3693
+#EXTINF:-1,FR | BFM TV BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3691
+#EXTINF:-1,FR | BFMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3690
+#EXTINF:-1,FR | BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3689
+#EXTINF:-1,FR | BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3688
+#EXTINF:-1,FR | C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3687
+#EXTINF:-1,FR | CANAL  CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3684
+#EXTINF:-1,FR | CANAL  DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3683
+#EXTINF:-1,FR | CANAL  FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3682
+#EXTINF:-1,FR | CANAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3681
+#EXTINF:-1,FR | CANAL  SERIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3679
+#EXTINF:-1,FR | CANAL  SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3678
+#EXTINF:-1,FR | CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3677
+#EXTINF:-1,FR | CHASSE ET PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3676
+#EXTINF:-1,FR | CHERIE 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3675
+#EXTINF:-1,FR | CINE  CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3671
+#EXTINF:-1,FR | CINE  CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3670
+#EXTINF:-1,FR | CINE  EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3669
+#EXTINF:-1,FR | CINE  FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3668
+#EXTINF:-1,FR | CINE  FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3667
+#EXTINF:-1,FR | CINE  PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3666
+#EXTINF:-1,FR | CINE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3674
+#EXTINF:-1,FR | CINE FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3673
+#EXTINF:-1,FR | CINE POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3672
+#EXTINF:-1,FR | CLUB RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3664
+#EXTINF:-1,FR | CNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3663
+#EXTINF:-1,FR | COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3662
+#EXTINF:-1,FR | CSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3661
+#EXTINF:-1,FR | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3660
+#EXTINF:-1,FR | DISCOVERY SC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3659
+#EXTINF:-1,FR | DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3658
+#EXTINF:-1,FR | DISNEY CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3657
+#EXTINF:-1,FR | DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3656
+#EXTINF:-1,FR | DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3655
+#EXTINF:-1,FR | E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3654
+#EXTINF:-1,FR | ELLE GIRL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3653
+#EXTINF:-1,FR | EQUIDIA LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3652
+#EXTINF:-1,FR | EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3650
+#EXTINF:-1,FR | EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3649
+#EXTINF:-1,FR | EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3648
+#EXTINF:-1,FR | FOOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3647
+#EXTINF:-1,FR | FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3646
+#EXTINF:-1,FR | FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3645
+#EXTINF:-1,FR | FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3644
+#EXTINF:-1,FR | FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3643
+#EXTINF:-1,FR | FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3642
+#EXTINF:-1,FR | FRANCE INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3641
+#EXTINF:-1,FR | FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3640
+#EXTINF:-1,FR | GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3638
+#EXTINF:-1,FR | GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3639
+#EXTINF:-1,FR | GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3637
+#EXTINF:-1,FR | TF1 Series Films
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3636
+#EXTINF:-1,FR | HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3635
+#EXTINF:-1,FR | I24 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3634
+#EXTINF:-1,FR | INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3633
+#EXTINF:-1,FR | L'EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3632
+#EXTINF:-1,FR | LA DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3631
+#EXTINF:-1,FR | LA TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3630
+#EXTINF:-1,FR | LA UNE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3629
+#EXTINF:-1,FR | LATELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3628
+#EXTINF:-1,FR | LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3627
+#EXTINF:-1,FR | LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3626
+#EXTINF:-1,FR | Lucky Jack TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3625
+#EXTINF:-1,FR | M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3624
+#EXTINF:-1,FR | M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3623
+#EXTINF:-1,FR | MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3622
+#EXTINF:-1,FR | MCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3621
+#EXTINF:-1,FR | MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3620
+#EXTINF:-1,FR | MEZZO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3619
+#EXTINF:-1,FR | MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3618
+#EXTINF:-1,FR | MTV FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3616
+#EXTINF:-1,FR | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3615
+#EXTINF:-1,FR | NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3614
+#EXTINF:-1,FR | NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3613
+#EXTINF:-1,FR | NICKELODEON JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3612
+#EXTINF:-1,FR | NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3610
+#EXTINF:-1,FR | NRJ Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3609
+#EXTINF:-1,FR | NT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3608
+#EXTINF:-1,FR | NUMERO 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3607
+#EXTINF:-1,FR | OCS CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3606
+#EXTINF:-1,FR | OCS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3605
+#EXTINF:-1,FR | OCS GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3604
+#EXTINF:-1,FR | OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3603
+#EXTINF:-1,FR | PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3602
+#EXTINF:-1,FR | PARIS PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3601
+#EXTINF:-1,FR | PIWI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3600
+#EXTINF:-1,FR | PLANETE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3597
+#EXTINF:-1,FR | PLANETE A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3599
+#EXTINF:-1,FR | PLANETE C.I
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3598
+#EXTINF:-1,FR | PLUG RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3596
+#EXTINF:-1,FR | RADIO MONTE-CARLO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3595
+#EXTINF:-1,FR | RMC DECOUVERT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3594
+#EXTINF:-1,FR | RTL-TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3593
+#EXTINF:-1,FR | RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3592
+#EXTINF:-1,FR | RTS DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3591
+#EXTINF:-1,FR | RTS UN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3590
+#EXTINF:-1,FR | SCIENCE ET VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3589
+#EXTINF:-1,FR | SEASON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3588
+#EXTINF:-1,FR | SERIE CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3587
+#EXTINF:-1,FR | SFR1 SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3586
+#EXTINF:-1,FR | SFR2 SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3585
+#EXTINF:-1,FR | SFR3 SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3584
+#EXTINF:-1,FR | SFR5 SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3583
+#EXTINF:-1,FR | SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3581
+#EXTINF:-1,FR | TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3580
+#EXTINF:-1,FR | TELETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3577
+#EXTINF:-1,FR | TEVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3576
+#EXTINF:-1,FR | TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3575
+#EXTINF:-1,FR | TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3574
+#EXTINF:-1,FR | TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3573
+#EXTINF:-1,FR | TOUTE L`HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3572
+#EXTINF:-1,FR | TV BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3571
+#EXTINF:-1,FR | TV LUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3570
+#EXTINF:-1,FR | TVM3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3569
+#EXTINF:-1,FR | USHUAIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3568
+#EXTINF:-1,FR | VIVOLTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3567
+#EXTINF:-1,FR | VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3566
+#EXTINF:-1,FR | W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3565
+#EXTINF:-1,FR | WEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3564
+#EXTINF:-1,FR | ZIGGO GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3563
+#EXTINF:-1,FR | ZOUZOUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/3562
+#EXTINF:-1,MUSIC PPV - MC Play
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7949
+#EXTINF:-1,USA PPV | CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7999
+#EXTINF:-1,USA PPV | CINEMAX ACTIONMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7998
+#EXTINF:-1,USA PPV | CINEMAX MOREMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7997
+#EXTINF:-1,USA PPV | CINEMAX THRILLERMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7996
+#EXTINF:-1,USA PPV | HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/8006
+#EXTINF:-1,USA PPV | HBO COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/8005
+#EXTINF:-1,USA PPV | HBO Direct local east
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/8004
+#EXTINF:-1,USA PPV | HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/8003
+#EXTINF:-1,USA PPV | HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/8002
+#EXTINF:-1,USA PPV | HBO SIGNATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/8001
+#EXTINF:-1,USA PPV | HBO ZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/8000
+#EXTINF:-1,USA PPV | SHOWTIME 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7995
+#EXTINF:-1,USA PPV | SHOWTIME EXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7994
+#EXTINF:-1,USA PPV | SHOWTIME EAST Direct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7993
+#EXTINF:-1,USA PPV | SHOWTIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7992
+#EXTINF:-1,USA PPV | STARZ ENCORE SUSPENSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7989
+#EXTINF:-1,USA PPV | STARZ ENCORE KIDS & FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7987
+#EXTINF:-1,USA PPV | STARZ COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7986
+#EXTINF:-1,USA PPV | STARZ EDGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7985
+#EXTINF:-1,USA PPV | STARZ WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/7984
+#EXTINF:-1,Adult: Video HD Anal 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17676
+#EXTINF:-1,PT | SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17678
+#EXTINF:-1,PT | SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17677
+#EXTINF:-1,PT | AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17686
+#EXTINF:-1,PT | AXN BLACK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17685
+#EXTINF:-1,PT | BENEFICA TV 1 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17696
+#EXTINF:-1,PT | CARTOON  NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17684
+#EXTINF:-1,PT | DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17683
+#EXTINF:-1,PT | DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17682
+#EXTINF:-1,PT | CM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17681
+#EXTINF:-1,PT | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17680
+#EXTINF:-1,PT | PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17695
+#EXTINF:-1,PT | SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17694
+#EXTINF:-1,PT | SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17693
+#EXTINF:-1,PT | SPORT TV 2 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17692
+#EXTINF:-1,PT | SPORT TV 3 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17691
+#EXTINF:-1,PT | SPORT TV 4 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17690
+#EXTINF:-1,PT | SPORT TV 5 HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17689
+#EXTINF:-1,PT | Sporting TV HD 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17688
+#EXTINF:-1,PT | RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20406
+#EXTINF:-1,PT | RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20407
+#EXTINF:-1,PT | RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20408
+#EXTINF:-1,PT | RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20409
+#EXTINF:-1,PT | TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/20405
+#EXTINF:-1,PT | TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17687
+#EXTINF:-1,Adult: Video HD Orgy 720p
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17698
+#EXTINF:-1,LATINO DM | Unicable HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17713
+#EXTINF:-1,PT | A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17701
+#EXTINF:-1,PT | TV CINE 1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17704
+#EXTINF:-1,PT | TV CINE 2  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17705
+#EXTINF:-1,PT | TV CINE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17706
+#EXTINF:-1,PT | TV CINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17707
+#EXTINF:-1,PT | TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/17708
+#EXTINF:-1,US | MLB Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/21652
+#EXTINF:-1,US | MLB Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/21653
+#EXTINF:-1,PR | TELEMUNDO PUERTO RICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/21659
+#EXTINF:-1,LATINO DM |  Univision TDN Back
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/203918
+#EXTINF:-1,Latin 70 | Cinecanal - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206784
+#EXTINF:-1,Latin 70 | Canal Sony - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206775
+#EXTINF:-1,Latin 70 | Cartoon Network - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206780
+#EXTINF:-1,Latin 70 | Claro Sports - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206787
+#EXTINF:-1,Latin 70 | Comedy Central - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206778
+#EXTINF:-1,Latin 70 | Discovery Home and Health - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206783
+#EXTINF:-1,Latin 70 | Discovery Theather - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206781
+#EXTINF:-1,Latin 70 | ESPN  - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206789
+#EXTINF:-1,Latin 70 | Fox - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206774
+#EXTINF:-1,Latin 70 | Fox Sports 2 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206788
+#EXTINF:-1,Latin 70 | History - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206782
+#EXTINF:-1,Latin 70 | Hola! TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206777
+#EXTINF:-1,Latin 70 | MTV - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206791
+#EXTINF:-1,Latin 70 | Nickelodeon - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206779
+#EXTINF:-1,Latin 70 | TNT - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206785
+#EXTINF:-1,Latin 70 | VH1 - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206790
+#EXTINF:-1,Latin 70 | Warner Channel - HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/206776
+#EXTINF:-1,ENG | ELEVEN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/208237
+#EXTINF:-1,Latin 70 | Multimedios Monterrey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/209306
+#EXTINF:-1,SPORTS | NBC SPORTS NETWORKS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/215310
+#EXTINF:-1,SPAIN | Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://system.fpiptv.com:8080/richard/richard123/215613
