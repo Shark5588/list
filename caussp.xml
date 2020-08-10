@@ -29,8 +29,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Spo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports | USA[/B][/COLOR]
+https://e10.julinewr.xyz/ingestnb4s/beinenie/master.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
@@ -89,8 +89,8 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 https://sportsbay.org/watch/67185/1/bt-sport-1-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
-#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stariptv.top:2086/live/659/659/24818.ts
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
@@ -99,8 +99,8 @@ EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://stariptv.top:2086/live/659/659/24821.ts
+EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN HD | UK[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsportespnhd.png",[B][COLORorange]BT Sport ESPN SD | UK[/B][/COLOR]
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -171,9 +171,9 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA
 EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 #EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
-https://e7.cdn4.us/ingest666/accn.m3u8|Referer=https://espn-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
-EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+https://e10.julinewr.xyz/ingestnb4s/accn/d.m3u8|Referer=https://espn-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://e10.julinewr.xyz/ingestx/887/caca/1spbayxx.ts
 EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
@@ -475,10 +475,10 @@ EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-lo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 http://live.highstream.club/live/NBCSN/chunks.m3u8
+EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+https://e10.julinewr.xyz/ingest09/33455.m3u8?sf=NThwczEwU2JE&token=9Qz3I-rahzA_KTKGYHDa2w&expires=1597031570&rnd=
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-https://e10.julinewr.xyz/ingest09/33455.m3u8
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-https://e10.cdn4.us/ingest09/33455.m3u8?sf=NThwczEwU2JE&token=A5iXHzOI7iDJ2iT3xzHU2w&expires=1595612666&rnd=|Referer=https://telerium.tv/embed/33455.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
+https://e10.julinewr.xyz/ingest09/33455.m3u8?sf=NThwczEwU2JE&token=9Qz3I-rahzA_KTKGYHDa2w&expires=1597031570&rnd=|Referer=https://telerium.tv/embed/33455.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN NBCSN   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
