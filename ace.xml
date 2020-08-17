@@ -280,10 +280,10 @@ plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbirdswatcher.com%2Ffiles%2F2016%2F05%2Fmlb-winter-meetings.jpg&c=sc&w=850&h=560",[B][COLORgold]« MLB Network » (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>&.mp4
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » (Ace stream)[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://65783290d4224591417e1eb0a6007f4ac9953363&name=NBCSN
-EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » HD (Ace stream)[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://fb91b7ae2c49e00cd853e80a89dd08999a54d20e&name=NBCSN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » (Ace stream)[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=acestream://0ac87ecd9fdf0d50d6331f29a2f01877f82a39f0&name=NBCSN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8Pt5d9/3516.png",[B][COLORgold]« NBCSN » HD (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=0ac87ecd9fdf0d50d6331f29a2f01877f82a39f0&.mp4
 
 EXTINF:-1 tvg-logo="https://static.nfl.com/static/content/public/static/img/navigation/shields/header-shield.png",[B][COLORgold]« NFL ONE » (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=391d7ed6d791bd0a2b2124827323a13ffff7d1c1&.mp4
