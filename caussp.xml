@@ -336,15 +336,14 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | US
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=https://e10.julinewr.xyz/ingestx/887/rata/0fxbayxx.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://201.87.232.214:25461/marcondes/101010/14352
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
-http://live.highstream.club/live/FS2/chunks.m3u8|Referer=http://myustv.com/watch/fox-sports-2/|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
 https://e10.julinewr.xyz/ingestnb4s/fs2/c.m3u8|Referer=https://espn-live.stream/stream/45460.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JdCC90z/3514.png",[COLOR orange][B]FS2 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=https://e10.julinewr.xyz/ingestnb4s/fs2/c.m3u8&amp;streamtype=HLSRETRY&amp;name=FS2
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 FS3 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
