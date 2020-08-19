@@ -64,50 +64,6 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 </item>
 
 <item>
-<title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] 24/7 CHANNELS[/COLOR][/B][/I]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/ufPFRHv.png</thumbnail>
-<fanart></fanart>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-    <title>[COLOR gold][makelist.param2][/COLOR]</title>
-    <link>$doregex[playplay]</link>
-	<thumbnail>https://cnet4.cbsistatic.com/img/lMsIVuCyYrKkCWBBZ-1hffIxLQ0=/940x0/2014/05/15/7c54cf4e-f062-4c87-9362-5dca850b36da/2014-youtube-logo-offices.jpg</thumbnail>
-	<fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import re
-    e = re.findall('(?s)<a class="btn(?:.*?href)="([^"]*)(?:.*?i>)([^<]*)', page_data)
-    sort = [('https://daddylive.live'+i[0],i[1]) for i in e]
-    return sort
-]]></expres>
-<page>https://daddylive.live/24-hours-channels.php</page>
-</regex>
-<regex>
-<name>playplay</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import jsunpack
-    import re
-    e = re.findall('eval\(function(.+?m3u8.+)',page_data)[0]
-    js = jsunpack.unpack(e)
-    u = re.findall('source:\s*[\'"]([^\'"]*)', js)[0]
-    return u + '|User-Agent=iPad'
-]]></expres>
-<page>$doregex[embed]</page>
-<referer>[makelist.param1]</referer>
-</regex>
-<regex>
-<name>embed</name>
-<expres><![CDATA[<iframe src="([^"]*)]]></expres>
-<page>[makelist.param1]</page>
-<referer>https://daddylive.live/</referer>
-</regex>
-</item>
-
-<item>
 <title>[B][COLORchartreuse]Sports Classic[/COLOR][I][COLORorange] HD Streams Club[/COLOR][/B][/I]</title>
 <link>$doregex[makelist]</link>
 <regex>
