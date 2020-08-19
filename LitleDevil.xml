@@ -226,49 +226,21 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR gold][makelist.param1][makelist.param2][/COLOR]</title>
-<link>$doregex[getUrl]</link>
+<title>[COLOR gold][makelist.param1][/COLOR]</title>
+<link>$doregex[getUrl]|user-agent=iPad</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/614sWQDJGNL._SY355_.png</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):
- list = re.findall('<div class="btn.*?>(?s).+?class="card-text">\s{8}(.+?)( -.*?)\n.*?href="(.*?)"',page_data)
- return list
-]]></expres>
-<page>http://sports24.club/soccer.php/</page>
+<expres><![CDATA[btn-outline-primary.+?title\s*="(.*?)".*?href\s*="(.*?)"]]></expres>
+<page>http://sports24.club/tv/</page>
 </regex>
 <regex>
 <name>getUrl</name>
-<listrepeat><![CDATA[
-<title>[makelist.param1] - [COLOR gold][getUrl.param2][/COLOR]</title>
-<link>$doregex[PlayStream]</link>
-<thumbnail>https://i.vimeocdn.com/portrait/5110937_300x300</thumbnail>
-]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
- game = '[makelist.param1]'
- link = 'https://sports24.club/soccer/'+'-'.join('[makelist.param1]'.lower().split()).replace('.','')
- php = re.findall('href="(\/soc.*?php)',page_data)[0]
- source = requests.get('http://sports24.club'+php, headers={'user-agent':'Mozilla/5.0','accept':'*/*'}).content
- servers = re.findall('href=".soccer.*?(\/.*?html)"(?s).+?i>.(.*?)<',re.findall('%s(?s)(.*?)rel="nofollow"'%game,source)[0])
- return servers
-]]></expres>
-<page>http://sports24.club</page>
-<thumbnail>https://i.vimeocdn.com/portrait/5110937_300x300</thumbnail>
-</regex>
-<regex>
-<name>PlayStream</name>
-<expres><![CDATA[#$pyFunction
-import re,requests,xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
- source = requests.get('https://sports24.club/soccer'+'[getUrl.param1]',headers={'user-agent':'Mozilla/5.0'}).content
- if 'atob' in source:
-    url = re.findall("xurl\s*=\s*atob\('(.*?)'",source)[0].decode('base64').replace('https://','').replace('//','');url='sports24.club'+url if url.startswith('/') else url
-    return 'https://'+url+'|user-agent=iPad&referer=https://sports24.club/'
- else:
-    l1="Message from Peterpan"; l2="A Bit Too Hard For Me To Decode!"
-    return xbmcgui.Dialog().ok(l1,l2)
+ source = requests.get('http://sports24.club/tv/[makelist.param2]',headers={'user-agent':'Mozilla/5.0'}).content
+ url= re.findall("xurl\s*=\s*atob\('(.*?)'",source)[0].decode('base64')
+ return url
 ]]></expres>
 <page></page>
 </regex>
