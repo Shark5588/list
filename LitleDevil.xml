@@ -182,7 +182,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
   <title>[COLOR dodgerblue][makelist.param1] | [COLOR gold][makelist.param3] vs. [makelist.param4][COLOR snow] ([makelist.param2])[/COLOR]</title>
   <link>$doregex[getUrl]</link>
-  <thumbnail></thumbnail>
+  <thumbnail>https://www.freelogovector.com/wp-content/uploads/2017/06/64%20-%20PNG%20soccer%20copy.jpg</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re
@@ -209,7 +209,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#streamwatcher2013
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>https://betterhomesva.com/wp-content/uploads/2017/09/Matbet.jpg</thumbnail>
+<thumbnail>https://www.freelogovector.com/wp-content/uploads/2017/06/64%20-%20PNG%20soccer%20copy.jpg</thumbnail>
 <fanart>https://i-ly.top/wp-content/uploads/2019/11/bahis1.jpg</fanart>
 </item>
 
