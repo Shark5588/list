@@ -30,8 +30,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra[/B][/COLOR]
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORTS  | ESP[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]BEIN SPORT LA LIGA esp[/B][/COLOR]
@@ -45,7 +44,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA
 EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",[COLOR orange][B]LA LIGA SPAIN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA SPAIN
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra[/B][/COLOR]
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sport Extra[/B][/COLOR]
 https://bein-plutolive-vo.akamaized.net/m/hlslive/bein.m3u8?chname=bein&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=bein-plutolive-vo.akamaized.net%2Fm&userParams=ccp%3DeyJkZXZpY2VJZCI6ImI3MDIxODFhLWMxZDYtNGVlMi05NDgxLTc1M2Y0NzFlMmNlNyIsImRldmljZVZlcnNpb24iOiI2Ni4wLjM1MTUuNDQiLCJhcHBWZXJzaW9uIjoiMi45LjMtYjg3OWU0MDBkNWRmN2E5NjlkNGJmZjg4NjNmZTVjYjAyYzcxMjBlNiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiT3BlcmEiLCJhZHZlcnRpc2luZ0lkIjoiIiwiZGV2aWNlTGF0IjoiNDAuODM2NCIsImRldmljZUxvbiI6Ii03NC4xNDAzIiwiZGV2aWNlRE5UIjoiMCIsImRldmljZU1vZGVsIjoiT3BlcmEiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi4zNy4zIiwic3RpdGNoZXJSZXFJZCI6IjdhMTU3MTAzLTFkMmEtNDAxYi04YWU2LTg1NTM3ZTdhYWVkMiIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMjAwMTplNjg6NTQwNDpmMGYxOjQ4OWQ6ZjE4OTo4MjQwOjllYjUiLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFBpeGVsIDIgWEwpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83NC4wLjM3MjkuMTg2IE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBQaXhlbCAyIFhMKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzQuMC4zNzI5LjE4NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjIwMDE6ZTY4OjU0MDQ6ZjBmMTo0ODlkOmYxODk6ODI0MDo5ZWI1IiwiY2hJZCI6IjVkZjk3NWUyYjI3Y2Y1MDAwOTIxYzEwMiIsInRpbWVsaW5lSWQiOiI1ZjA4YzFjNTg5YWY2ZjAwMDdkMTAyMWIiLCJjbGlwSWQiOiI1ZTNlMDYyNjIxMmE4NTAwMDk3M2JhMWQiLCJzZXNzaW9uSWQiOiI4NTVkNjgwMS1jOTEyLTQyOGQtYjYyMC1lZGU0ZGQwYzNiMTUiLCJlcGlzb2RlSWQiOiI1ZjA4YjkzZjkwYWMzMjAwMDc2ZjVmYjciLCJwYXJ0bmVyQ29kZSI6ImJlSU4gU3BvcnRzIiwicGFydG5lcl9pZCI6IjVlNDczMjMwN2NiZjM4MDAwOWNhMDZmNiIsIm9yaWdpbiI6ImFkU3BhcngiLCJmcm9tX3N0aXRjaGVyIjp0cnVlfQ%3D%3D
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) Bein Sports(FR) <<<<<<<<<<<<<<<<<<<<<<<<<
