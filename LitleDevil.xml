@@ -287,6 +287,45 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <jsonrpc>plugin://plugin.video.SportsDevil/?item=url=livesports/dimsports.eu.cfg&amp;mode=1</jsonrpc>
 <thumbnail>http://cdn88.cdnco.us/cdnnew/dim/logo.png</thumbnail>
 </item>
+
+
+
+<item>
+<title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]Streameast[/COLOR][/B][/I]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://www.streameast.live/streameast.png</thumbnail>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[makelist.param3]</title>
+    <link>$doregex[playplay]|user-agent=iPad</link>
+    <thumbnail>[makelist.param2]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    r = page_data.split('SD Streams', 1)[-1]
+    e = re.findall('(?s)<div class="container">(?:.*?location=.*?)\'([^\']*)(?:.*?src.*?)="([^"]*)(?:.*?<p>.*?){2}([^<]*)', r)
+    sort = [(i[0],i[1],i[2]) for i in e]
+    return sort
+]]></expres>
+<page>https://www.streameast.live/</page>
+</regex>
+<regex>
+<name>playplay</name>
+<expres><![CDATA[source:\s"([^"]*)]]></expres>
+<page>$doregex[embed]</page>
+<referer>[makelist.param1]</referer>
+</regex>
+<regex>
+<name>embed</name>
+<expres><![CDATA[<iframe.*?src="([^"]*)]]></expres>
+<page>[makelist.param1]</page>
+<referer>https://www.streameast.live/</referer>
+</regex>
+</item>
+
+
 <!----------------------------------------------------------------------------------
 <item>
 <title>[B][COLORchartreuse]Sports Classic[/COLOR][COLORorange][I]MamaHD [/COLOR][/B][/I]</title>
