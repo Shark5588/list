@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 9/6/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 9/8/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -18,623 +18,828 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://0.0.0.0:
 
 
 
-#EXTM3U
-#EXTINF:-1,[ES]  ARAGON TV INT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/155428
-#EXTINF:-1,[ES]   EXTREMADURA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93304
-#EXTINF:-1,[ES] CANAL SUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93300
-#EXTINF:-1,[ES]  CANAL SUR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93301
-#EXTINF:-1,[ES]  CMM FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93302
-#EXTINF:-1,[ES]  .Play Muzic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119119
-#EXTINF:-1,[ES]    TRECE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119120
-#EXTINF:-1,[ES]   DJING tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119121
-#EXTINF:-1,[ES]    RETRO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119123
-#EXTINF:-1,[ES]    GGTN ESPANOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119124
-#EXTINF:-1,[ES]   MURCIA 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119125
-#EXTINF:-1,[ES]   ALCARRIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119126
-#EXTINF:-1,[ES]  MusicTop HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119127
-#EXTINF:-1,[ES]   7 TeleValencia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119128
-#EXTINF:-1,[ES]  Rtv Ce
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119129
-#EXTINF:-1,[ES]  Telemax TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119131
-#EXTINF:-1,[ES]   MULTIVISION FEDRAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119132
-#EXTINF:-1,[ES]  TV CLIPES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119133
-#EXTINF:-1,[ES]   WOW TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119134
-#EXTINF:-1,AUTO  Gran Hermano HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119136
-#EXTINF:-1,[ES]  MARTI TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/119137
-#EXTINF:-1,AUTO  InterAlmeria TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93317
-#EXTINF:-1,[ES]  TELEMADRID FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93307
-#EXTINF:-1,[ES]  Lebrija TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93315
-#EXTINF:-1,[ES]  Teleonuba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93316
-#EXTINF:-1,[ES]   324
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93310
-#EXTINF:-1,[ES]  324 Exclusiu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93311
-#EXTINF:-1,[ES] 33
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93314
-#EXTINF:-1,[ES] LA OTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93305
-#EXTINF:-1,[ES]  13 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93298
-#EXTINF:-1,[ES]  8Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93291
-#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SPANISH CHANNELS ☆▆ ▅ ▄ ▂ ▁
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://
-#EXTINF:-1,[ES]  24 HORAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109894
-#EXTINF:-1,[ES]: LA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/115756
-#EXTINF:-1,[ES]  LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93170
-#EXTINF:-1,[ES]  LA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93171
-#EXTINF:-1,[ES]  LA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93172
-#EXTINF:-1,[ES] La 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93173
-#EXTINF:-1,[ES]  ANTENA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93174
-#EXTINF:-1,[ES]  ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184129
-#EXTINF:-1,[ES]  ANTENA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93175
-#EXTINF:-1,[ES] CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/113906
-#EXTINF:-1,[ES]  CUATRO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93177
-#EXTINF:-1,[ES]  CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184130
-#EXTINF:-1,[ES]  TELECINCO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93178
-#EXTINF:-1,[ES]  TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184131
-#EXTINF:-1,[ES]  TELECINCO FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93179
-#EXTINF:-1,[ES]  LA SEXTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93180
-#EXTINF:-1,[ES]  LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184132
-#EXTINF:-1,[ES]  LA SEXTA  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93181
-#EXTINF:-1,[ES]  DARK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/95838
-#EXTINF:-1,[ES]  MOVISTAR  0#
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93183
-#EXTINF:-1,[ES]  MOVISTAR 0# HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93146
-#EXTINF:-1,[ES]  MOVISTAR 0# FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93184
-#EXTINF:-1,[ES]  MOVISTAR ESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93185
-#EXTINF:-1,[ES]  MOVISTAR ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184133
-#EXTINF:-1,[ES]  MOVISTAR ESTRENOS FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93186
-#EXTINF:-1,[ES] MOVISTAR ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/95848
-#EXTINF:-1,[ES]  MOVISTAR ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184134
-#EXTINF:-1,[ES] MOVISTAR ACCION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93188
-#EXTINF:-1,[ES] MOVISTAR DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109739
-#EXTINF:-1,[ES] MOVISTAR DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109738
-#EXTINF:-1,[ES]  MOVISTAR DRAMA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93192
-#EXTINF:-1,[ES]  MOVISTAR COMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93189
-#EXTINF:-1,[ES]  MOVISTAR COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184135
-#EXTINF:-1,[ES]  MOVISTAR COMEDIA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93190
-#EXTINF:-1,[ES]  MOVISTAR DCINE Ñ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93194
-#EXTINF:-1,[ES]  MOVISTAR CINEDOC&ROLL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93195
-#EXTINF:-1,[ES]  MOVISTAR CINEDOC&ROLL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93196
-#EXTINF:-1,[ES]  MOVISTAR CINEDOC&ROLL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184136
-#EXTINF:-1,[ES]  HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93198
-#EXTINF:-1,[ES]  HOLLYWOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184137
-#EXTINF:-1,[ES]  HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93199
-#EXTINF:-1,[ES]  TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93200
-#EXTINF:-1,[ES]  TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184138
-#EXTINF:-1,[ES] TCM FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93202
-#EXTINF:-1,[ES] SUNDANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93203
-#EXTINF:-1,[ES]  SUNDANCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184139
-#EXTINF:-1,[ES]  SUNDANCE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93204
-#EXTINF:-1,[ES]  XTREM SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93206
-#EXTINF:-1,[ES]  XTREM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184140
-#EXTINF:-1,[ES]  XTREM FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93207
-#EXTINF:-1,[ES]  SOMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93208
-#EXTINF:-1,[ES] COSMOPOLITAN  FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109742
-#EXTINF:-1,[ES]  MOVISTAR SERIES SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93211
-#EXTINF:-1,[ES]  MOVISTAR SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184141
-#EXTINF:-1,[ES]  MOVISTAR SERIES FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93212
-#EXTINF:-1,[ES] MOVISTAR SERIESMANIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184142
-#EXTINF:-1,[ES] MOVISTAR SERIESMANIA FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93214
-#EXTINF:-1,[ES] CALLE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93215
-#EXTINF:-1,[ES] CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184143
-#EXTINF:-1,[ES]  CALLE 13 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93216
-#EXTINF:-1,[ES]  FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93217
-#EXTINF:-1,[ES] FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184144
-#EXTINF:-1,[ES]  FOX FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93218
-#EXTINF:-1,[ES]  FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93219
-#EXTINF:-1,[ES]  FOX LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93152
-#EXTINF:-1,[ES ] AXN  WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/137432
-#EXTINF:-1,[ES ] AXN WAHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/137433
-#EXTINF:-1,[ES ] AXN  WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/137434
-#EXTINF:-1,[ES]  AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93221
-#EXTINF:-1,[ES] AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184146
-#EXTINF:-1,[ES]  AXN FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93222
-#EXTINF:-1,[ES]  AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93225
-#EXTINF:-1,[ES]  AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93226
-#EXTINF:-1,[ES]  TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93227
-#EXTINF:-1,[ES] TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184148
-#EXTINF:-1,[ES] TNT FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93228
-#EXTINF:-1,[ES]  SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93230
-#EXTINF:-1,[ES] SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184149
-#EXTINF:-1,[ES]  SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93231
-#EXTINF:-1,[ES]  COSMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93232
-#EXTINF:-1,[ES] COSMOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/135721
-#EXTINF:-1,[ES]  COMEDY  CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93234
-#EXTINF:-1,[ES] COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184151
-#EXTINF:-1,[ES] COMEDY CENTRAL FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109736
-#EXTINF:-1,[ES]  MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93236
-#EXTINF:-1,[ES] FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93237
-#EXTINF:-1,FDF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/197972
-#EXTINF:-1,Paramount Channel SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/194811
-#EXTINF:-1,[ES]  DKISS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93238
-#EXTINF:-1,[ES]  A3SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93239
-#EXTINF:-1,[ES]  MEGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93241
-#EXTINF:-1,[ES]  ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93242
-#EXTINF:-1,[ES] CRIMEN  + INVESTIGACION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93244
-#EXTINF:-1,[ES]  DECASA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93245
-#EXTINF:-1,[ES] DECASA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184152
-#EXTINF:-1,[ES]  SOL Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93294
-#EXTINF:-1,[ES]  MEZZO LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93295
-#EXTINF:-1,[ES] MEZZO LIVE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93296
-#EXTINF:-1,[ES]  DECASA FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93246
-#EXTINF:-1,[ES]  CANAL COCINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93247
-#EXTINF:-1,[ES] CANAL COCINA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184153
-#EXTINF:-1,[ES]  CANAL COCINA FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93248
-#EXTINF:-1,[ES]  BE MAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93249
-#EXTINF:-1,[ES] BE MAD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184154
-#EXTINF:-1,[ES]  NEOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93251
-#EXTINF:-1,[ES]  NOVA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93252
-#EXTINF:-1,[ES]   Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210713
-#EXTINF:-1,MOVISTAR DISNEY +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184337
-#EXTINF:-1,[ES]  MOVISTAR DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93254
-#EXTINF:-1,[ES]  DIVINITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109897
-#EXTINF:-1,[ES]  DISNEY  XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93255
-#EXTINF:-1,[ES]  DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93257
-#EXTINF:-1,DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184155
-#EXTINF:-1,[ES]  DISNEY CHANNEL FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93258
-#EXTINF:-1,[ES] CLAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93259
-#EXTINF:-1,[ES] CLAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184156
-#EXTINF:-1,[ES]  CLAN FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93260
-#EXTINF:-1,[ES]  BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93262
-#EXTINF:-1,[ES]  CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93263
-#EXTINF:-1,[ES] CANAL PANDA FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/135117
-#EXTINF:-1,[ES]  DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93155
-#EXTINF:-1,[ES] CLAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93160
-#EXTINF:-1,[ES]  BABY  TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93264
-#EXTINF:-1,[ES]  NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93265
-#EXTINF:-1,[ES] NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184157
-#EXTINF:-1,[ES] NICKELODEON FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93266
-#EXTINF:-1,[ES]  NICK JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93267
-#EXTINF:-1,[ES]  HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93269
-#EXTINF:-1,HISTORIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184158
-#EXTINF:-1,[ES] HISTORIA FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93270
-#EXTINF:-1,[ES]  DISCOVERY  CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93271
-#EXTINF:-1,[ES] ODISEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93272
-#EXTINF:-1,[ES]  NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93274
-#EXTINF:-1,[ES] NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184159
-#EXTINF:-1,[ES] NATIONAL GEOGRAPHIC FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93275
-#EXTINF:-1,[ES] NATIONAL GEOGRAFIC WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/135064
-#EXTINF:-1,NATIONAL GEOGRAFIC WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/135065
-#EXTINF:-1,[ES] NATIONAL GEOGRAFIC WILD FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/135066
-#EXTINF:-1,[ES]  BE MAD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93164
-#EXTINF:-1,[ES]  DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93280
-#EXTINF:-1,[ES]  TEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93281
-#EXTINF:-1,[ES]  BLAZE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93282
-#EXTINF:-1,[ES]  Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93283
-#EXTINF:-1,[ES]  VIAJAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/115820
-#EXTINF:-1,[ES]  VIAJAR FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93285
-#EXTINF:-1,[ES]  CAZA  Y PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93286
-#EXTINF:-1,CAZA Y PESCA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184161
-#EXTINF:-1,[ES] CAZA Y PESCA FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93287
-#EXTINF:-1,[ES]  Iberalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93288
-#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ SPANISH SPORT☆▆ ▅ ▄ ▂ ▁
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/24723
-#EXTINF:-1,[ES] BARCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/155427
-#EXTINF:-1,ES :SP LIGA TV BAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93328
-#EXTINF:-1,ES :SP  LIGA TV BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109896
-#EXTINF:-1,ES SP: LIGA TV BAR FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/129763
-#EXTINF:-1,ES :SP LIGA TV 1 BAR (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93330
-#EXTINF:-1,ES :SP LIGA TV BAR 3 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93331
-#EXTINF:-1,ES :SP LIGA TV BAR 4 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93384
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93385
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/138439
-#EXTINF:-1,ES :SP MOVISTAR LALIGA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109741
-#EXTINF:-1,ES :SP MOVISTAR #VAMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93326
-#EXTINF:-1,ES :SP MOVISTAR VAMOS BAR  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93134
-#EXTINF:-1,ES :SP MOVISTAR VAMOS BAR  FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93327
-#EXTINF:-1,ES :SP MOVISTAR LALIGA 1 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93333
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93334
-#EXTINF:-1,ES :SP MOVISTAR  LALIGA 2 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93335
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 2 FHD (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93336
-#EXTINF:-1,ES :SP MOVISTAR  LA LIGA 3 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93337
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 4 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93338
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 5 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93339
-#EXTINF:-1,ES :SP  MOVISTAR LA LIGA 6 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93340
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 7 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93341
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 10 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93386
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93387
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 9 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93388
-#EXTINF:-1,ES :SP MOVISTAR LA LIGA 8 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93342
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/107322
-#EXTINF:-1,ES :SP MOVISTAR LIGA DE CAMPEONES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/135067
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93345
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 1 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93346
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 1 FULLHD (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93347
-#EXTINF:-1,ES :SP MOVISTAR LIGA DE CAMPEONES 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93348
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 2 FULLHD (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93349
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 3  (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93350
-#EXTINF:-1,ES :SP MOVISTAR LIGA DE CAMPEONES 4 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93351
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 5 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93352
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 6 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93353
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 7 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93354
-#EXTINF:-1,ES :SP MOVISTAR LIGA CAMPEONES 8 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93355
-#EXTINF:-1,ES :SP MOVISTAR  GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109740
-#EXTINF:-1,[ES] MOVISTAR GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184165
-#EXTINF:-1,ES :SP MOVISTAR  DEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109732
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93142
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/109734
-#EXTINF:-1,ES :SP GOL TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93377
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 1 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93359
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93360
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 2 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93361
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 3 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93362
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 4 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93363
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 5 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93364
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 6 (Solo Eventos)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93365
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93382
-#EXTINF:-1,ES :SP MOVISTAR DEPORTE 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93383
-#EXTINF:-1,ES :SP EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93367
-#EXTINF:-1,[ES] EUROSPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184164
-#EXTINF:-1,ES :SP EUROSPORT FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93368
-#EXTINF:-1,ES :SP Eurosport  2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93370
-#EXTINF:-1,ES :SP ESPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93381
-#EXTINF:-1,ES :SP M. FORMULA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93371
-#EXTINF:-1,ES :SP MOVISTAR F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93139
-#EXTINF:-1,ES :SP M. FORMULA 1 FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93372
-#EXTINF:-1,ES :SP MOVISTAR GOLF FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93374
-#EXTINF:-1,ES :SP TELEDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93378
-#EXTINF:-1,ES :SP  TELEDEPORTE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93128
-#EXTINF:-1,[ES] TELEDEPORTE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184166
-#EXTINF:-1,ES :SP MOVISTAR  TOROS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93379
-#EXTINF:-1,[ES] MOVISTAR TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/184167
-#EXTINF:-1,ES :SP MOVISTAR TOROS FULLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/93380
-#EXTINF:-1,TAQUILLA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/132601
-#EXTINF:-1,TAQUILLA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/132602
-#EXTINF:-1,TAQUILLA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/132603
-#EXTINF:-1,TAQUILLA 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/132604
-#EXTINF:-1,TAQUILLA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210711
-#EXTINF:-1,TAQUILLA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210712
-#EXTINF:-1,TAQUILLA X MEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210703
-#EXTINF:-1,TAQUILLA ACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210704
-#EXTINF:-1,TAQUILLA X-MEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210705
-#EXTINF:-1,24/7 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210706
-#EXTINF:-1,24/7 La casa de papel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210707
-#EXTINF:-1,24/7 Dragon Ball Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210708
-#EXTINF:-1,24/7 Dragon Ball GT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210709
-#EXTINF:-1,24/7 Dragon Ball Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/210710
-#EXTINF:-1,TAQUILLA HARRY POTTER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/132605
-#EXTINF:-1,TAQUILLA STAR WARS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/132606
 
-#EXTINF:-1,VIP2: DAZN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145153
-#EXTINF:-1,VIP2: DAZN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145154
-#EXTINF:-1,VIP2: DAZN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145155
-#EXTINF:-1,VIP2: DAZN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145156
-#EXTINF:-1,VIP2: DAZN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145157
-#EXTINF:-1,VIP2: DAZN 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145158
-#EXTINF:-1,VIP2: DAZN 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145160
-#EXTINF:-1,VIP2: DAZN 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145161
-#EXTINF:-1,VIP2: DAZN 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145162
-#EXTINF:-1,VIP2: DAZN 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/145163
-#EXTINF:-1,ADULT: BRAZZERS TV EUROPE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222963
-#EXTINF:-1,ADULT: O LA LA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222964
-#EXTINF:-1,ADULT: DORCEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222965
-#EXTINF:-1,ADULT: HUSTLER HD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222966
-#EXTINF:-1,ADULT: SEX TO SENSO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222967
-#EXTINF:-1,ADULT: HUSTLER TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222968
-#EXTINF:-1,ADULT: PINKO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222969
-#EXTINF:-1,ADULT: PRIVATE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222970
-#EXTINF:-1,ADULT: SCT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222971
-#EXTINF:-1,ADULT: CENTO X CENTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222972
-#EXTINF:-1,ADULT: REDLIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222973
-#EXTINF:-1,ADULT: NUART TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222974
-#EXTINF:-1,ADULT: BLUE HUSTLER TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222975
-#EXTINF:-1,ADULT: JASMIN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222976
-#EXTINF:-1,ADULT: PLAYBOY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222977
-#EXTINF:-1,ADULT: CANDY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222978
-#EXTINF:-1,ADULT: VIVID RED TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222979
-#EXTINF:-1,ADULT: RUSSKAYA NOCH TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222980
-#EXTINF:-1,ADULT: OH AH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222981
-#EXTINF:-1,ADULT: EGOIST TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222982
-#EXTINF:-1,ADULT: EROX HD TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222983
-#EXTINF:-1,ADULT: SHALUN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222984
-#EXTINF:-1,ADULT: PENTHOUSE 1 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222985
-#EXTINF:-1,ADULT: PENTHOUSE 2 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222986
-#EXTINF:-1,ADULT: FAB TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222987
-#EXTINF:-1,ADULT: FAB 2 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222988
-#EXTINF:-1,ADULT: FAB 3 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222989
-#EXTINF:-1,ADULT: FAB ANAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222990
-#EXTINF:-1,ADULT: FAB PARODY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222991
-#EXTINF:-1,ADULT: FAB TEENS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222992
-#EXTINF:-1,ADULT: FAB LESBIAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222993
-#EXTINF:-1,ADULT: FAB COMPILATION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://bymovistar.es:8080/domingo/1234/222994
+#EXTINF:-1,FR_---Cinema---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8016
+#EXTINF:-1,Fr_TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/207
+#EXTINF:-1,Fr_TF1.Series.Films
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/258
+#EXTINF:-1,Fr_TFX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/213
+#EXTINF:-1,Fr_France.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/209
+#EXTINF:-1,Fr_France.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/210
+#EXTINF:-1,Fr_France.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/219
+#EXTINF:-1,Fr_France.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/211
+#EXTINF:-1,Fr_France.O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/212
+#EXTINF:-1,Fr_M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/208
+#EXTINF:-1,Fr_Canal+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/200
+#EXTINF:-1,Fr_Canal+.Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/201
+#EXTINF:-1,Fr_Canal+.Decele
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/203
+#EXTINF:-1,Fr_Canal+.Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/204
+#EXTINF:-1,Fr_Canal+.Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/205
+#EXTINF:-1,Fr_Canal+.Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/202
+#EXTINF:-1,Fr_Cine+.Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/623
+#EXTINF:-1,Fr_Cine+.Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9709
+#EXTINF:-1,Fr_Cine+.Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/741
+#EXTINF:-1,Fr_Cine+.Famiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/624
+#EXTINF:-1,Fr_Cine+.Frison
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/270
+#EXTINF:-1,Fr_Cine+.Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/275
+#EXTINF:-1,Fr_OCS.Choc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/226
+#EXTINF:-1,Fr_OCS.City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/259
+#EXTINF:-1,Fr_OCS.Geants
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/625
+#EXTINF:-1,Fr_OCS.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/626
+#EXTINF:-1,Fr_13eme.Rue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/256
+#EXTINF:-1,Fr_6Ter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/262
+#EXTINF:-1,Fr_A+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9710
+#EXTINF:-1,Fr_AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/284
+#EXTINF:-1,Fr_AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/291
+#EXTINF:-1,Fr_Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/318
+#EXTINF:-1,Fr_ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/216
+#EXTINF:-1,Fr_Altice.Studio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9680
+#EXTINF:-1,Fr_Bet.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9672
+#EXTINF:-1,Fr_C8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/223
+#EXTINF:-1,Fr_Comedie+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/264
+#EXTINF:-1,Fr_CStar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/228
+#EXTINF:-1,Fr_Cherie.25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/319
+#EXTINF:-1,Fr_NRJ.12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/214
+#EXTINF:-1,Fr_One.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9676
+#EXTINF:-1,Fr_Paramount.Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/321
+#EXTINF:-1,Fr_Paris.Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/274
+#EXTINF:-1,Fr_RMC.Story
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/320
+#EXTINF:-1,Fr_RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/282
+#EXTINF:-1,Fr_Rouge.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9677
+#EXTINF:-1,Fr_Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/237
+#EXTINF:-1,Fr_Serie.Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/233
+#EXTINF:-1,Fr_TCM.Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/627
+#EXTINF:-1,Fr_TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/217
+#EXTINF:-1,Fr_TV.Breizh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/322
+#EXTINF:-1,Fr_Tv8.Mont.Blanc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9678
+#EXTINF:-1,Fr_W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/220
+#EXTINF:-1,Fr_Warner.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9673
+#EXTINF:-1,Fr_Weo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9665
+#EXTINF:-1,FR_A.La.Carte.01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/693
+#EXTINF:-1,FR_A.La.Carte.02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/694
+#EXTINF:-1,FR_A.La.Carte.03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/695
+#EXTINF:-1,FR_A.La.Carte.04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/696
+#EXTINF:-1,FR_A.La.Carte.05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/697
+#EXTINF:-1,FR_A.La.Carte.06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/698
+#EXTINF:-1,FR_A.La.Carte.07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/699
+#EXTINF:-1,FR_A.La.Carte.08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/711
+#EXTINF:-1,FR_A.La.Carte.09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/728
+#EXTINF:-1,FR_A.La.Carte.10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/730
+#EXTINF:-1,FR_---Documentaire---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8017
+#EXTINF:-1,Fr_Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/277
+#EXTINF:-1,Fr_Chasse.Et.Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/283
+#EXTINF:-1,Fr_Crime.District
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9668
+#EXTINF:-1,Fr_Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/241
+#EXTINF:-1,Fr_Discovery.Sciences
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/229
+#EXTINF:-1,Fr_Discovery.Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9664
+#EXTINF:-1,Fr_Discovery.ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9663
+#EXTINF:-1,Fr_E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/628
+#EXTINF:-1,Fr_ES1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9681
+#EXTINF:-1,Fr_Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9667
+#EXTINF:-1,Fr_My.Cuisine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/630
+#EXTINF:-1,Fr_National.Geo.Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/238
+#EXTINF:-1,Fr_National.Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/235
+#EXTINF:-1,Fr_Planete+.CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/629
+#EXTINF:-1,Fr_Planete+.AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9669
+#EXTINF:-1,Fr_Planete+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/234
+#EXTINF:-1,Fr_RMC.Decouverte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/739
+#EXTINF:-1,Fr_Science.et.Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/278
+#EXTINF:-1,Fr_Seasons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9670
+#EXTINF:-1,Fr_Teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/230
+#EXTINF:-1,Fr_TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/279
+#EXTINF:-1,Fr_TV5.Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9707
+#EXTINF:-1,Fr_Toute.L.Histoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/280
+#EXTINF:-1,Fr_Ushuaia.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/242
+#EXTINF:-1,Fr_Voyage
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/236
+#EXTINF:-1,FR_---Sports---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8018
+#EXTINF:-1,Fr_TELEFOOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9675
+#EXTINF:-1,Fr_RMC.Sport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/685
+#EXTINF:-1,Fr_RMC.Sport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/686
+#EXTINF:-1,Fr_RMC.Sport.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/687
+#EXTINF:-1,Fr_RMC.Sport.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9322
+#EXTINF:-1,Fr_beIN.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/119
+#EXTINF:-1,Fr_beIN.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/120
+#EXTINF:-1,Fr_beIN.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/206
+#EXTINF:-1,Fr_AB.Moteurs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/324
+#EXTINF:-1,Fr_Equidia.Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/268
+#EXTINF:-1,Fr_Eurosport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/743
+#EXTINF:-1,Fr_Eurosport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/744
+#EXTINF:-1,Fr_Extreme.Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9698
+#EXTINF:-1,Fr_Foot+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/920
+#EXTINF:-1,Fr_Golf+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9659
+#EXTINF:-1,Fr_Golf.Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/290
+#EXTINF:-1,Fr_Infosprt+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/325
+#EXTINF:-1,Fr_L.Equipe.21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/267
+#EXTINF:-1,Fr_Motorsport.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9660
+#EXTINF:-1,Fr_Nautical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9671
+#EXTINF:-1,Fr_OL.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9661
+#EXTINF:-1,Fr_RMC.Sport.News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9706
+#EXTINF:-1,Fr_Teleclub.Zoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9662
+#EXTINF:-1,Fr_beIN.4.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9204
+#EXTINF:-1,Fr_beIN.5.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9205
+#EXTINF:-1,Fr_beIN.6.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9206
+#EXTINF:-1,Fr_beIN.7.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9650
+#EXTINF:-1,Fr_beIN.8.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9649
+#EXTINF:-1,Fr_beIN.9.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9648
+#EXTINF:-1,Fr_beIN.10.Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9647
+#EXTINF:-1,FR_---Disney---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8019
+#EXTINF:-1,Fr_Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/326
+#EXTINF:-1,Fr_Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9684
+#EXTINF:-1,Fr_Canal.J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/260
+#EXTINF:-1,Fr_Cartoon.Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/240
+#EXTINF:-1,Fr_Disney.Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/631
+#EXTINF:-1,Fr_Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/265
+#EXTINF:-1,Fr_Disney.Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/257
+#EXTINF:-1,Fr_Disney.XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/239
+#EXTINF:-1,Fr_Game.One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/327
+#EXTINF:-1,Fr_Gulli
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/222
+#EXTINF:-1,Fr_J.One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9683
+#EXTINF:-1,Fr_Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/281
+#EXTINF:-1,Fr_Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/328
+#EXTINF:-1,Fr_Nickelodeon.Teen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/329
+#EXTINF:-1,Fr_Nickelodeon.Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/330
+#EXTINF:-1,Fr_Piwi+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/331
+#EXTINF:-1,Fr_Teletoon+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/276
+#EXTINF:-1,Fr_TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/332
+#EXTINF:-1,Fr_Toonami
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9685
+#EXTINF:-1,Fr_Zouzous.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9682
+#EXTINF:-1,FR_---News---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8020
+#EXTINF:-1,Fr_BFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/218
+#EXTINF:-1,Fr_BFM.Business
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/263
+#EXTINF:-1,Fr_Euronews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9699
+#EXTINF:-1,Fr_i24.News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9700
+#EXTINF:-1,Fr_France.24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/498
+#EXTINF:-1,Fr_France.Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9269
+#EXTINF:-1,Fr_CNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/333
+#EXTINF:-1,Fr_LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/334
+#EXTINF:-1,Fr_LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/245
+#EXTINF:-1,FR_---Music---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8021
+#EXTINF:-1,Fr_Brava.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9653
+#EXTINF:-1,Fr_LFM.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9658
+#EXTINF:-1,Fr_M6.Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/632
+#EXTINF:-1,Fr_MCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/335
+#EXTINF:-1,Fr_MCM.Top
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9701
+#EXTINF:-1,Fr_MTV.Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9703
+#EXTINF:-1,Fr_MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/224
+#EXTINF:-1,Fr_MTV.HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/336
+#EXTINF:-1,Fr_MTV.Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9704
+#EXTINF:-1,Fr_Mezzo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9702
+#EXTINF:-1,Fr_Mezzo.Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9651
+#EXTINF:-1,Fr_NRJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9705
+#EXTINF:-1,Fr_NRJ.Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9711
+#EXTINF:-1,Fr_RFM.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9652
+#EXTINF:-1,Fr_Radio.105.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/633
+#EXTINF:-1,Fr_Sundance.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9679
+#EXTINF:-1,Fr_Trace.Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9656
+#EXTINF:-1,Fr_Trace.Tropical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9655
+#EXTINF:-1,Fr_Trace.Urban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9657
+#EXTINF:-1,Fr_VH1.Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9708
+#EXTINF:-1,Fr_Virgin.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/634
+#EXTINF:-1,FR_---Suisse---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8022
+#EXTINF:-1,Fr_RTS.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/912
+#EXTINF:-1,Fr_RTS.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/913
+#EXTINF:-1,Fr_RSI.LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1344
+#EXTINF:-1,Fr_RSI.LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1345
+#EXTINF:-1,Fr_SRF.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/910
+#EXTINF:-1,Fr_SRF.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/911
+#EXTINF:-1,Fr_TVM3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9654
+#EXTINF:-1,FR_---Telesat.Belgique---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8023
+#EXTINF:-1,Fr_La.Une
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/822
+#EXTINF:-1,Fr_La.Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/819
+#EXTINF:-1,Fr_La.Trois
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/821
+#EXTINF:-1,Fr_Club-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/848
+#EXTINF:-1,Fr_Plug-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/836
+#EXTINF:-1,Fr_RTL-TVi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/837
+
+#EXTINF:-1,IT_---Italia---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8028
+#EXTINF:-1,IT_Sky.Cinema.UNO.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/635
+#EXTINF:-1,IT_Sky.Cinema.Suspense
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/636
+#EXTINF:-1,IT_Sky.Cinema.Hits.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/637
+#EXTINF:-1,IT_Sky.Cinema.Cult.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/638
+#EXTINF:-1,IT_Sky.Cinema.Comedy.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/639
+#EXTINF:-1,IT_Sky.Cinema.Classic.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/640
+#EXTINF:-1,IT_Sky.Atlantic.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/641
+#EXTINF:-1,IT_Sky.Max.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/642
+#EXTINF:-1,IT_Sky.Family.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/643
+#EXTINF:-1,IT_Sky.Uno.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/644
+#EXTINF:-1,IT_Premium.Cinema.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/669
+#EXTINF:-1,IT_Premium.Cinema.2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/670
+#EXTINF:-1,IT_Premium.Crime.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/671
+#EXTINF:-1,IT_Premium.Action.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/672
+#EXTINF:-1,IT_Premium.Cinema.Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/673
+#EXTINF:-1,IT_Fox.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/645
+#EXTINF:-1,IT_Fox.Life.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/646
+#EXTINF:-1,IT_Fox.Crime.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/647
+#EXTINF:-1,IT_Fox.Animation.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/648
+#EXTINF:-1,IT_E!.Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/649
+#EXTINF:-1,IT_Sky.Sport.1.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/650
+#EXTINF:-1,IT_Sky.Sport.2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/651
+#EXTINF:-1,IT_Sky.Sport.3.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/652
+#EXTINF:-1,IT_Sky.Sport.24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9243
+#EXTINF:-1,IT_Sky.Fox.Sports.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/653
+#EXTINF:-1,IT_Sky.Sport.F1.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/654
+#EXTINF:-1,IT_Sky.Supercalcio.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/655
+#EXTINF:-1,IT_Sky.Calcio.1.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9244
+#EXTINF:-1,IT_Sky.Calcio.2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9245
+#EXTINF:-1,IT_Sky.Calcio.3.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9246
+#EXTINF:-1,IT_Sky.Calcio.4.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9247
+#EXTINF:-1,IT_Sky.Calcio.5.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9248
+#EXTINF:-1,IT_Sky.Calcio.6.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9249
+#EXTINF:-1,IT_Sky.Calcio.7.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9250
+#EXTINF:-1,IT_Sky.Calcio.8.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9251
+#EXTINF:-1,IT_Sky.Calcio.9.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9252
+#EXTINF:-1,IT_Sky.Calcio.10.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9253
+#EXTINF:-1,IT_Premium.Calcio.1.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9254
+#EXTINF:-1,IT_Premium.Calcio.3.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9256
+#EXTINF:-1,IT_Premium.Calcio.4.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9257
+#EXTINF:-1,IT_Premium.Calcio.5.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9258
+#EXTINF:-1,IT_Premium.Calcio.6.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9259
+#EXTINF:-1,IT_Premium.Calcio.7.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/9260
+#EXTINF:-1,IT_Discovery.Channel.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/656
+#EXTINF:-1,IT_Discovery.Science.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/657
+#EXTINF:-1,IT_Animal.Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/658
+#EXTINF:-1,IT_Sky.History.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/659
+#EXTINF:-1,IT_Discovery.focus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/660
+#EXTINF:-1,IT_Discovery.Travel.-.Living.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/661
+#EXTINF:-1,IT_Nat.Geo.Wild.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/662
+#EXTINF:-1,IT_National.Geo.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/663
+#EXTINF:-1,IT_Nat.Geo.People.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/664
+#EXTINF:-1,IT_Caccia.e.Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/665
+#EXTINF:-1,IT_Disney.Channel.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/666
+#EXTINF:-1,IT_Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/668
+#EXTINF:-1,IT_Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1343
+#EXTINF:-1,IT_Rai.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1316
+#EXTINF:-1,IT_Rai.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1317
+#EXTINF:-1,IT_Rai.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1318
+#EXTINF:-1,IT_Rai.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1332
+#EXTINF:-1,IT_Rai.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/436
+#EXTINF:-1,IT_Rai.Gulp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1339
+#EXTINF:-1,IT_Rai.Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1331
+#EXTINF:-1,IT_Rai.News.24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1310
+#EXTINF:-1,IT_Rai.Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1337
+#EXTINF:-1,IT_Rai.Sport+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1315
+#EXTINF:-1,IT_Rai.Yoyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/667
+#EXTINF:-1,IT_Canale.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1309
+#EXTINF:-1,IT_Cielo.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/426
+#EXTINF:-1,IT_DMAX.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/428
+#EXTINF:-1,IT_Eurosport.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/429
+#EXTINF:-1,IT_Eurosport.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/447
+#EXTINF:-1,IT_Focus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1335
+#EXTINF:-1,IT_Giallo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1334
+#EXTINF:-1,IT_Italia1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1340
+#EXTINF:-1,IT_Italian.Fishing.Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/431
+#EXTINF:-1,IT_JOi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/432
+#EXTINF:-1,IT_La5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1311
+#EXTINF:-1,IT_La7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/433
+#EXTINF:-1,IT_MTV8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1333
+#EXTINF:-1,IT_Mediaset.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1312
+#EXTINF:-1,IT_Mediaset.Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1314
+#EXTINF:-1,IT_NOVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/434
+#EXTINF:-1,IT_Paramount.Channel.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/435
+#EXTINF:-1,IT_RTL.102.5.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/438
+#EXTINF:-1,IT_Rete.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1313
+#EXTINF:-1,IT_Sportitalia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/439
+#EXTINF:-1,IT_Studio.Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/441
+#EXTINF:-1,IT_TV2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/445
+#EXTINF:-1,IT_Top.Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1342
+#EXTINF:-1,IT_Primafila.01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/732
+#EXTINF:-1,IT_Primafila.02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/737
+#EXTINF:-1,IT_Primafila.03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/738
+#EXTINF:-1,IT_Primafila.04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/740
+#EXTINF:-1,IT_Primafila.05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/746
+#EXTINF:-1,IT_Primafila.06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/751
+#EXTINF:-1,IT_Primafila.07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/753
+#EXTINF:-1,IT_Primafila.08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/757
+#EXTINF:-1,IT_Primafila.09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/762
+#EXTINF:-1,IT_Primafila.10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/771
+#EXTINF:-1,IT_Primafila.11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/773
+#EXTINF:-1,IT_Primafila.12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/787
+#EXTINF:-1,IT_Primafila.13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/798
+#EXTINF:-1,IT_Primafila.14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/800
+#EXTINF:-1,IT_Primafila.15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/803
+#EXTINF:-1,IT_Primafila.16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/804
+#EXTINF:-1,IT_Primafila.17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/805
+#EXTINF:-1,IT_Primafila.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/806
+#EXTINF:-1,IT_Primafila.19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/807
+#EXTINF:-1,IT_Primafila.20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/808
+#EXTINF:-1,IT_Primafila.21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/809
+#EXTINF:-1,IT_Primafila.22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/820
+#EXTINF:-1,IT_Primafila.23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/830
+#EXTINF:-1,IT_Primafila.24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/831
+#EXTINF:-1,IT_Primafila.25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/832
+#EXTINF:-1,IT_Primafila.26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/838
+#EXTINF:-1,IT_Primafila.27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/840
+#EXTINF:-1,IT_Primafila.28
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/850
+#EXTINF:-1,IT_Primafila.29
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/851
+#EXTINF:-1,IT_Primafila.30
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/852
+#EXTINF:-1,UK_---UK---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8027
+#EXTINF:-1,UK_ABN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/372
+#EXTINF:-1,UK_Animal.Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/906
+#EXTINF:-1,UK_BBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/373
+#EXTINF:-1,UK_BBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/374
+#EXTINF:-1,UK_BBC4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/375
+#EXTINF:-1,UK_BT.EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/376
+#EXTINF:-1,UK_BT.Sport.1.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/377
+#EXTINF:-1,UK_BT.Sport.2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/378
+#EXTINF:-1,UK_BT.Sport.3.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/379
+#EXTINF:-1,UK_CBBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/380
+#EXTINF:-1,UK_CBS.Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/381
+#EXTINF:-1,UK_CBS.Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/382
+#EXTINF:-1,UK_CBS.Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/383
+#EXTINF:-1,UK_Channels.24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/384
+#EXTINF:-1,UK_CITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/385
+#EXTINF:-1,UK_CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/386
+#EXTINF:-1,UK_Disc.Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/387
+#EXTINF:-1,UK_Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/935
+#EXTINF:-1,UK_Discovery.History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/934
+#EXTINF:-1,UK_Discovery.Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/923
+#EXTINF:-1,UK_Disney.Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/936
+#EXTINF:-1,UK_Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/957
+#EXTINF:-1,UK_Disney.XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/388
+#EXTINF:-1,UK_ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/389
+#EXTINF:-1,UK_FOTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/390
+#EXTINF:-1,UK_FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/905
+#EXTINF:-1,UK_Horse.&amp;.Country
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/391
+#EXTINF:-1,UK_Informationtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/392
+#EXTINF:-1,UK_ITV.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/393
+#EXTINF:-1,UK_ITV2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/394
+#EXTINF:-1,UK_ITV4.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/395
+#EXTINF:-1,UK_ITVBe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/396
+#EXTINF:-1,UK_Movies4men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/397
+#EXTINF:-1,UK_Premier.Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/398
+#EXTINF:-1,UK_S4C.Digidol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/399
+#EXTINF:-1,UK_Setanta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/403
+#EXTINF:-1,UK_Setanta.Sports.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/407
+#EXTINF:-1,UK_Sky.Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/917
+#EXTINF:-1,UK_Sky.Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/919
+#EXTINF:-1,UK_Sky.Disney
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/958
+#EXTINF:-1,UK_Sky.Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/924
+#EXTINF:-1,UK_Sky.Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/412
+#EXTINF:-1,UK_Sky.Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/925
+#EXTINF:-1,UK_Sky.Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/907
+#EXTINF:-1,UK_Sky.Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/909
+#EXTINF:-1,UK_Sky.Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/918
+#EXTINF:-1,UK_Sky.Sports.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/922
+#EXTINF:-1,UK_Sky.Sports.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/937
+#EXTINF:-1,UK_Sky.Sports.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/914
+#EXTINF:-1,UK_Sky.Sports.4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/915
+#EXTINF:-1,UK_Sky.Sports.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/916
+#EXTINF:-1,UK_Sky1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/413
+#EXTINF:-1,UK_Sky2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/422
+#EXTINF:-1,UK_SyFy.Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/908
+#EXTINF:-1,UK_TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/956
+#EXTINF:-1,UK_Travel.Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/423
+#EXTINF:-1,UK_Tru.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/424
+
+#EXTINF:-1,ES_---Espania---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/8029
+#EXTINF:-1,ES_AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/448
+#EXTINF:-1,ES_ANTENA.3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/449
+#EXTINF:-1,ES_AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/450
+#EXTINF:-1,ES_BARCA.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/451
+#EXTINF:-1,ES_CALLE.13.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/456
+#EXTINF:-1,ES_CANAL.COCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1209
+#EXTINF:-1,ES_COSMO.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/466
+#EXTINF:-1,ES_CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1212
+#EXTINF:-1,ES_Canal.Toros
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/533
+#EXTINF:-1,ES_DISNEY.SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1201
+#EXTINF:-1,ES_DMAX.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/472
+#EXTINF:-1,ES_FOX.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/482
+#EXTINF:-1,ES_FOX.LIFE.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/484
+#EXTINF:-1,ES_GOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/490
+#EXTINF:-1,ES_HOLLYWOOD.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1211
+#EXTINF:-1,ES_LA.1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1213
+#EXTINF:-1,ES_LA.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1214
+#EXTINF:-1,ES_LA.SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/502
+#EXTINF:-1,ES_Liga.De.Campiones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/505
+#EXTINF:-1,ES_M.ACCION.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/506
+#EXTINF:-1,ES_M.COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/507
+#EXTINF:-1,ES_M.DCINE.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/508
+#EXTINF:-1,ES_M.DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/509
+#EXTINF:-1,ES_M.ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/518
+#EXTINF:-1,ES_M.GOLF.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/522
+#EXTINF:-1,ES_M.SERIES.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/523
+#EXTINF:-1,ES_M.XTRA.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1210
+#EXTINF:-1,ES_MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/524
+#EXTINF:-1,ES_NAT.GEO.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1216
+#EXTINF:-1,ES_NAT.GEO.WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/525
+#EXTINF:-1,ES_NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/526
+#EXTINF:-1,ES_NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/528
+#EXTINF:-1,ES_PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/529
+#EXTINF:-1,ES_Real.Madrid.TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/530
+#EXTINF:-1,ES_SYFY.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/531
+#EXTINF:-1,ES_TCM.SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1204
+#EXTINF:-1,ES_TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1217
+#EXTINF:-1,ES_TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1208
+#EXTINF:-1,ES_TNT.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/532
+#EXTINF:-1,ES_Viajar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/1206
+#EXTINF:-1,ES_beIN.SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://proiptv.net:1234/01234/01234/454
