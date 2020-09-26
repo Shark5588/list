@@ -4,6 +4,33 @@
 <channels>
 
 <channel>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] Bein Sports[/COLOR][/B] (OffLine)</name>
+<thumbnail>https://reparting.cloudplane.xyz/images/teams/Logo-BEIN.png</thumbnail>
+<fanart></fanart>
+    <items>
+        <title>[B][COLOR lightslategray] Bein Sports[/COLOR][/B]</title>
+        <thumbnail>https://reparting.cloudplane.xyz/images/teams/Logo-BEIN.png</thumbnail>
+        <fanart></fanart>
+            <items>            
+                <item>
+                <title>[COLORff008080]Link 1[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://sportsbay.org/embed/68949/1/bein-sports-live.html</link>
+                <thumbnail>https://reparting.cloudplane.xyz/images/teams/Logo-BEIN.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 2[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <thumbnail>https://reparting.cloudplane.xyz/images/teams/Logo-BEIN.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 3[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <thumbnail>https://reparting.cloudplane.xyz/images/teams/Logo-BEIN.png</thumbnail>
+                </item>
+            </items>	
+        </channel>
+
+<channel>
 <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] Box Nation[/COLOR][/B] (OffLine)</name>
 <thumbnail>https://i.imgur.com/XKdB7dN.png</thumbnail>
 <fanart></fanart>
@@ -274,7 +301,7 @@
         </channel>
 
 <channel>
-<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] NBCSN[/COLOR][/B] (OffLine)</name>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] NBCSN[/COLOR][/B]</name>
 <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png</thumbnail>
 <fanart></fanart>
     <items>
@@ -289,11 +316,11 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 2[/COLOR]</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://telerium.tv/embed/33455.html</link>
                 <thumbnail>https://i.ibb.co/m8Pt5d9/3516.png</thumbnail>
                 </item>
                 <item>
-                <title>[COLORff008080]Link 3[/COLOR]</title>
+                <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
                 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
                 <thumbnail>https://i.ibb.co/m8Pt5d9/3516.png</thumbnail>
                 </item>
