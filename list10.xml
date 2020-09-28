@@ -7,9 +7,794 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 8/18/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 9/28/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 ################################################################ LIST 10 ###########################################################################################
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="♣♦♣----|TR|   TV   TURKISH   | TR|  ---♣♦♣" tvg-logo="http://globe2.midomed.com/images/771.jpg" group-title="TURKEY",♣♦♣----|TR|   TV   TURKISH   | TR|  ---♣♦♣
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/676
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 1 HD" tvg-logo="http://globe2.midomed.com/images2/TRT1tr.png" group-title="TURKEY",|TR| TRT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3251
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT 2 HD" tvg-logo="http://globe2.midomed.com/images2/TRT2TR.png" group-title="TURKEY",|TR| TRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3254
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SHOW TV" tvg-logo="http://globe2.midomed.com/images2/ShowTVtr.png" group-title="TURKEY",|TR| SHOW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3255
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Star TV HD" tvg-logo="http://globe2.midomed.com/images2/StarTVtr.png" group-title="TURKEY",|TR| Star TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3257
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL D HD" tvg-logo="http://globe2.midomed.com/images2/KanalDtr.png" group-title="TURKEY",|TR| KANAL D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3258
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ATV HD" tvg-logo="http://globe2.midomed.com/images2/atvhd.png" group-title="TURKEY",|TR| ATV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3259
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8 INT HD" tvg-logo="http://globe2.midomed.com/images/Tr tV_8 tv.png" group-title="TURKEY",|TR| TV 8 INT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3260
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Show Max HD" tvg-logo="http://globe2.midomed.com/images3/showmax.png" group-title="TURKEY",|TR| Show Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3262
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Teve2 HD" tvg-logo="http://globe2.midomed.com/images2/teve2.png" group-title="TURKEY",|TR| Teve2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3263
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Tele 1" tvg-logo="http://globe2.midomed.com/images2/tele1.png" group-title="TURKEY",|TR| Tele 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3265
+#EXTINF:-1 tvg-id="" tvg-name="|TR| LALEGUL TV" tvg-logo="http://globe2.midomed.com/images2/lalegultv.png" group-title="TURKEY",|TR| LALEGUL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3266
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SEMERKAND TV" tvg-logo="http://globe2.midomed.com/images2/SemerkandTVtr.png" group-title="TURKEY",|TR| SEMERKAND TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3267
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NR1 HD" tvg-logo="http://globe2.midomed.com/images2/nr1turc.png" group-title="TURKEY",|TR| NR1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3268
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Euro Star HD" tvg-logo="http://globe2.midomed.com/images3/eurostar.png" group-title="TURKEY",|TR| Euro Star HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3269
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NICk JUNIOR HD" tvg-logo="http://globe2.midomed.com/images2/nickelodeonjr.png" group-title="TURKEY",|TR| NICk JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3270
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 24" tvg-logo="http://globe2.midomed.com/images/kanal24.jpg" group-title="TURKEY",|TR| Kanal 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3271
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT DIYANET HD" tvg-logo="http://globe2.midomed.com/images2/TRTDiyanet.tr.png" group-title="TURKEY",|TR| TRT DIYANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3272
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 4 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports4qa.png" group-title="TURKEY",|TR| BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3274
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Beyaz TV HD" tvg-logo="http://globe2.midomed.com/images2/BeyazTVtr.png" group-title="TURKEY",|TR| Beyaz TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3275
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EuroSport 2 HD" tvg-logo="http://globe2.midomed.com/images2/eurosport2.png" group-title="TURKEY",|TR| EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3279
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 3" tvg-logo="http://globe2.midomed.com/images/smart.png" group-title="TURKEY",|TR| TIVIBU SPOR 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3280
+#EXTINF:-1 tvg-id="" tvg-name="|TR| EUROSPORT 1 HD" tvg-logo="http://globe2.midomed.com/images2/eurosport1.png" group-title="TURKEY",|TR| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3282
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT Spor HD" tvg-logo="http://globe2.midomed.com/images2/TRTSpor.tr.png" group-title="TURKEY",|TR| TRT Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3285
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S SPORTS TV HD" tvg-logo="http://globe2.midomed.com/images2/SSport.tr.png" group-title="TURKEY",|TR| S SPORTS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3286
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Bein Sports Haber" tvg-logo="xxxhttp://globe2.midomed.com/images/Ntvspor.png" group-title="TURKEY",|TR| Bein Sports Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3287
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A Spor HD" tvg-logo="http://globe2.midomed.com/images2/ASpor.tr.png" group-title="TURKEY",|TR| A Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3289
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT World TV" tvg-logo="http://globe2.midomed.com/images2/TRTWorld.tr.png" group-title="TURKEY",|TR| TRT World TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3291
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT BELGESEL HD" tvg-logo="http://globe2.midomed.com/images2/trtbelgesel.png" group-title="TURKEY",|TR| TRT BELGESEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3292
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT Cocuk HD" tvg-logo="http://globe2.midomed.com/images2/trtcocuk.png" group-title="TURKEY",|TR| TRT Cocuk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3299
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Cocuk SMART HD" tvg-logo="http://globe2.midomed.com/images2/cockutsmart.png" group-title="TURKEY",|TR| Cocuk SMART HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3301
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Minika Go HD" tvg-logo="http://globe2.midomed.com/images/minika.jpg" group-title="TURKEY",|TR| Minika Go HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3302
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Minika Cocuk" tvg-logo="http://globe2.midomed.com/images2/minikaCocuk.tr.png" group-title="TURKEY",|TR| Minika Cocuk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3303
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Disney Channel" tvg-logo="http://globe2.midomed.com/images2/DisneyChannel.fr.png" group-title="TURKEY",|TR| Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3304
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CARTOON NETWORK HD" tvg-logo="http://globe2.midomed.com/images2/CARTOONNETWORK.png" group-title="TURKEY",|TR| CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3305
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series SCI-FI HD" tvg-logo="http://globe2.midomed.com/images2/beINSeries1qa.png" group-title="TURKEY",|TR| beIN Series SCI-FI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3307
+#EXTINF:-1 tvg-id="360" tvg-name="|TR| 360 TV HD" tvg-logo="http://globe2.midomed.com/images/TR;360TV.png" group-title="TURKEY",|TR| 360 TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3308
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A2 HD" tvg-logo="http://globe2.midomed.com/images2/a2tvtr.png" group-title="TURKEY",|TR| A2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3310
+#EXTINF:-1 tvg-id="" tvg-name="|TR| VIZYON TURKTV" tvg-logo="http://globe2.midomed.com/images/vizyon turk.jpg" group-title="TURKEY",|TR| VIZYON TURKTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3311
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ULKE" tvg-logo="http://globe2.midomed.com/images2/UlkeTVtr.png" group-title="TURKEY",|TR| ULKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3312
+#EXTINF:-1 tvg-id="TVNET" tvg-name="|TR| TV 4" tvg-logo="http://globe2.midomed.com/images/TR tvnet.png" group-title="TURKEY",|TR| TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3314
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SINEMA TURK" tvg-logo="http://globe2.midomed.com/images2/sinematv.png" group-title="TURKEY",|TR| SINEMA TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3317
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Sinema TV HD" tvg-logo="http://globe2.midomed.com/images2/sinematv.png" group-title="TURKEY",|TR| Sinema TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3318
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SiNEMA TV YERLi HD" tvg-logo="http://globe2.midomed.com/images/tv4.png" group-title="TURKEY",|TR| SiNEMA TV YERLi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3319
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DA VINCİ KIDS HD" tvg-logo="http://globe2.midomed.com/images/davincilearning.png" group-title="TURKEY",|TR| DA VINCİ KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3329
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Medine HD" tvg-logo="http://globe2.midomed.com/images/medine.png" group-title="TURKEY",|TR| Medine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3331
+#EXTINF:-1 tvg-id="" tvg-name="|TR| MAVI KARADENIZ TV" tvg-logo="http://globe2.midomed.com/images2/mavikaradeniz.png" group-title="TURKEY",|TR| MAVI KARADENIZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3333
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kral POP HD" tvg-logo="http://globe2.midomed.com/images2/kralpop.tr.png" group-title="TURKEY",|TR| Kral POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3337
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BBC Earth" tvg-logo="http://globe2.midomed.com/images2/bbcearth.png" group-title="TURKEY",|TR| BBC Earth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3338
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Animal Planet HD" tvg-logo="http://globe2.midomed.com/images2/ANIMALPLANET.png" group-title="TURKEY",|TR| Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3340
+#EXTINF:-1 tvg-id="" tvg-name="|TR| 38 KENT TV" tvg-logo="xxxhttp://globe2.midomed.com/images/TvFIL_TV.jpg" group-title="TURKEY",|TR| 38 KENT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3342
+#EXTINF:-1 tvg-id="" tvg-name="|TR| History HD" tvg-logo="http://globe2.midomed.com/images2/HISTORY.png" group-title="TURKEY",|TR| History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3348
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KIBRIS " tvg-logo="http://globe2.midomed.com/images2/kibristvlogo.png" group-title="TURKEY",|TR| KIBRIS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3349
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Euro D HD" tvg-logo="http://globe2.midomed.com/images3/eurod.png" group-title="TURKEY",|TR| Euro D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3360
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL AVRUPA HD" tvg-logo="http://globe2.midomed.com/images2/KanalAvrupa.png" group-title="TURKEY",|TR| KANAL AVRUPA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3361
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KON TV" tvg-logo="http://globe2.midomed.com/images2/kontv.png" group-title="TURKEY",|TR| KON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3373
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NATIONAL GEOGRAPHIC HD" tvg-logo="http://globe2.midomed.com/images2/natgeo.png" group-title="TURKEY",|TR| NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3377
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Nat Geo Wild HD" tvg-logo="http://globe2.midomed.com/images2/NATGEOWILD.png" group-title="TURKEY",|TR| Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3378
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NATIONAL GEO PEOPLE HD" tvg-logo="http://globe2.midomed.com/images2/natgeopeople.png" group-title="TURKEY",|TR| NATIONAL GEO PEOPLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3379
+#EXTINF:-1 tvg-id="" tvg-name="|TR| POWER TV HD" tvg-logo="http://globe2.midomed.com/images2/powertv.png" group-title="TURKEY",|TR| POWER TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3385
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Dost TV" tvg-logo="http://globe2.midomed.com/images2/DostTV.tr.png" group-title="TURKEY",|TR| Dost TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3386
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Discovery Science HD" tvg-logo="http://globe2.midomed.com/images3/Discovery_Science.png" group-title="TURKEY",|TR| Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3388
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 68" tvg-logo="http://globe2.midomed.com/images/kanalt.png" group-title="TURKEY",|TR| KANAL 68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3391
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CAY TV HD" tvg-logo="http://globe2.midomed.com/images2/caytv.png" group-title="TURKEY",|TR| CAY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3392
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Discovery Channel HD" tvg-logo="http://globe2.midomed.com/images3/discoverychannel.png" group-title="TURKEY",|TR| Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3397
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DIYANET TV HD" tvg-logo="http://globe2.midomed.com/images/diyanettv.png" group-title="TURKEY",|TR| DIYANET TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3422
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BeIN IZ HD" tvg-logo="http://globe2.midomed.com/images2/beINiztr.png" group-title="TURKEY",|TR| BeIN IZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3423
+#EXTINF:-1 tvg-id="" tvg-name="|TR| GS TV HD" tvg-logo="http://globe2.midomed.com/images2/gs-tv-logo-png.png" group-title="TURKEY",|TR| GS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3432
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YOL TV" tvg-logo="http://globe2.midomed.com/images2/yoltv.png" group-title="TURKEY",|TR| YOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3437
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 8.5" tvg-logo="http://globe2.midomed.com/images2/TV8tr.png" group-title="TURKEY",|TR| TV 8.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3439
+#EXTINF:-1 tvg-id="" tvg-name="|TR| DREAM TURK HD" tvg-logo="http://globe2.midomed.com/images2/dreamturk.png" group-title="TURKEY",|TR| DREAM TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3443
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca1" tvg-logo="http://globe2.midomed.com/images/789.png" group-title="TURKEY",|TR| Loca1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3453
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca2" tvg-logo="http://globe2.midomed.com/images/790.png" group-title="TURKEY",|TR| Loca2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3452
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Loca3" tvg-logo="http://globe2.midomed.com/images/791.png" group-title="TURKEY",|TR| Loca3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3451
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BeIN MOVIES TURK HD" tvg-logo="http://globe2.midomed.com/images2/beINMoviesTurktr.png" group-title="TURKEY",|TR| BeIN MOVIES TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3467
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BeIN MOVIES STARS HD" tvg-logo="http://globe2.midomed.com/images2/beINMoviesStarstr.png" group-title="TURKEY",|TR| BeIN MOVIES STARS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3461
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BeIN MOVIES FAMILY HD" tvg-logo="http://globe2.midomed.com/images2/beINMoviesFamilytr.png" group-title="TURKEY",|TR| BeIN MOVIES FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3460
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FB TV HD" tvg-logo="http://globe2.midomed.com/images/TR  FB_TV.jpg" group-title="TURKEY",|TR| FB TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3454
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV8 HD" tvg-logo="http://globe2.midomed.com/images2/TV8tr.png" group-title="TURKEY",|TR| TV8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3466
+#EXTINF:-1 tvg-id="" tvg-name="|TR| ULUSAL Kanal HD" tvg-logo="http://globe2.midomed.com/images2/UlusalKanal.tr.png" group-title="TURKEY",|TR| ULUSAL Kanal HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3469
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT HABER HD" tvg-logo="http://globe2.midomed.com/images2/TRTHabertr.png" group-title="TURKEY",|TR| TRT HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3470
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TGRT Haber HD" tvg-logo="http://globe2.midomed.com/images2/TGRTharber.png" group-title="TURKEY",|TR| TGRT Haber HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3472
+#EXTINF:-1 tvg-id="" tvg-name="|TR| NTV HD" tvg-logo="http://globe2.midomed.com/images2/ntv.png" group-title="TURKEY",|TR| NTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3473
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kanal 24 HD" tvg-logo="http://globe2.midomed.com/images/kanal24.jpg" group-title="TURKEY",|TR| Kanal 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3476
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HaberTurk HD" tvg-logo="http://globe2.midomed.com/images2/Haberturk.tr.png" group-title="TURKEY",|TR| HaberTurk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3477
+#EXTINF:-1 tvg-id="" tvg-name="|TR| CNN TURK HD" tvg-logo="http://globe2.midomed.com/images2/cnnturk.png" group-title="TURKEY",|TR| CNN TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3479
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Bloomberg HT HD" tvg-logo="http://globe2.midomed.com/images2/bloomberght.png" group-title="TURKEY",|TR| Bloomberg HT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3480
+#EXTINF:-1 tvg-id="" tvg-name="|TR| A Haber HD" tvg-logo="http://globe2.midomed.com/images2/AHabertr.png" group-title="TURKEY",|TR| A Haber HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3481
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 1 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports1qa.png" group-title="TURKEY",|TR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2832
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 2 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports2qa.png" group-title="TURKEY",|TR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2833
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEIN SPORTS 3 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports3qa.png" group-title="TURKEY",|TR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2834
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 1" tvg-logo="http://globe2.midomed.com/images/tivibu spor.jpg" group-title="TURKEY",|TR| TIVIBU SPOR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2836
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TIVIBU SPOR 2" tvg-logo="http://globe2.midomed.com/images/tivibuspor2.png" group-title="TURKEY",|TR| TIVIBU SPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2837
+#EXTINF:-1 tvg-id="" tvg-name="|KU|  TRT  KURDI" tvg-logo="http://globe2.midomed.com/images/trt-kurdi.jpg" group-title="SYRIAN  IRAQ  KURD",|KU|  TRT  KURDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2831
+#EXTINF:-1 tvg-id="" tvg-name="|KU| TRT KURDI HD" tvg-logo="http://globe2.midomed.com/images/trt-hd.png" group-title="SYRIAN  IRAQ  KURD",|KU| TRT KURDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/1699
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SPORTS TV HD" tvg-logo="http://globe2.midomed.com/images2/Sporttv_logo.png" group-title="TURKEY",|TR| SPORTS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/1700
+#EXTINF:-1 tvg-id="" tvg-name="|TR| HALK TV" tvg-logo="http://globe2.midomed.com/images3/halktv.png" group-title="TURKEY",|TR| HALK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/1718
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KANAL 7 HD" tvg-logo="http://globe2.midomed.com/images2/Kanal7tr.png" group-title="TURKEY",|TR| KANAL 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/1702
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FOX TV HD" tvg-logo="http://globe2.midomed.com/images2/fox.png" group-title="TURKEY",|TR| FOX TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/1721
+#EXTINF:-1 tvg-id="" tvg-name="|TR| SUROYO HD" tvg-logo="http://globe2.midomed.com/images/SUROYO.jpg" group-title="TURKEY",|TR| SUROYO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/11305
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TJK HD" tvg-logo="" group-title="TURKEY",|TR| TJK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51757
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Spor Smart HD" tvg-logo="http://globe2.midomed.com/images2/smart_spor900b.png" group-title="TURKEY",|TR| Spor Smart HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51758
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TRT SPOR 2 HD" tvg-logo="http://globe2.midomed.com/images2/TRTSpor.tr.png" group-title="TURKEY",|TR| TRT SPOR 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51759
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S SPORT 2" tvg-logo="http://globe2.midomed.com/images2/SSport2tr.png" group-title="TURKEY",|TR| S SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51760
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEINSPORTS MAX 1 HD" tvg-logo="http://globe2.midomed.com/images2/beINSportsMax1tr.png" group-title="TURKEY",|TR| BEINSPORTS MAX 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51761
+#EXTINF:-1 tvg-id="" tvg-name="|TR| BEINSPORTS MAX 2 HD" tvg-logo="http://globe2.midomed.com/images2/beINSportsMax2tr.png" group-title="TURKEY",|TR| BEINSPORTS MAX 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51762
+#EXTINF:-1 tvg-id="" tvg-name="|TR| AKIT TV HD" tvg-logo="http://globe2.midomed.com/images2/akittvtr.png" group-title="TURKEY",|TR| AKIT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51763
+#EXTINF:-1 tvg-id="" tvg-name="|TR| KRT TV" tvg-logo="http://globe2.midomed.com/images2/krtkaradeniztv.png" group-title="TURKEY",|TR| KRT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51764
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN GURME HD" tvg-logo="http://globe2.midomed.com/images2/beingurme.png" group-title="TURKEY",|TR| beIN GURME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51765
+#EXTINF:-1 tvg-id="" tvg-name="|TR| YABAN TV HD" tvg-logo="" group-title="TURKEY",|TR| YABAN TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51766
+#EXTINF:-1 tvg-id="" tvg-name="|TR| OUTDOOR HD" tvg-logo="" group-title="TURKEY",|TR| OUTDOOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51767
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES PREMIERE HD" tvg-logo="http://globe2.midomed.com/images2/beINMoviesPremiertr.png" group-title="TURKEY",|TR| beIN MOVIES PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51768
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES PREMIERE 2 HD" tvg-logo="http://globe2.midomed.com/images2/beINMoviesPremiere2tr.png" group-title="TURKEY",|TR| beIN MOVIES PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51769
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES ACTION HD" tvg-logo="http://globe2.midomed.com/images2/beINMoviesActiontr.png" group-title="TURKEY",|TR| beIN MOVIES ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51770
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN MOVIES ACTION 2 HD" tvg-logo="http://globe2.midomed.com/images2/beINMoviesAction2tr.png" group-title="TURKEY",|TR| beIN MOVIES ACTION 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51771
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN SERIES DRAMA HD" tvg-logo="http://globe2.midomed.com/images2/beINSeriesDrama.tr.png" group-title="TURKEY",|TR| beIN SERIES DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51772
+#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Series COMEDY HD" tvg-logo="http://globe2.midomed.com/images2/beINSeriesComedytr.png" group-title="TURKEY",|TR| beIN Series COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51773
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 5 HD" tvg-logo="http://globe2.midomed.com/images3/tv5.png" group-title="TURKEY",|TR| TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51774
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TLC HD" tvg-logo="http://globe2.midomed.com/images3/tlc_tv.png" group-title="TURKEY",|TR| TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51775
+#EXTINF:-1 tvg-id="" tvg-name="|TR| TV 41" tvg-logo="" group-title="TURKEY",|TR| TV 41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51776
+#EXTINF:-1 tvg-id="" tvg-name="|TR| FX HD" tvg-logo="http://globe2.midomed.com/images3/FX.png" group-title="TURKEY",|TR| FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/51777
+#EXTINF:-1 tvg-id="sfr.sport.1.fr" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSport1.fr.png" group-title="FRENCH  ",|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3550
+#EXTINF:-1 tvg-id="sfr.sport.2.fr" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSport2.fr.png" group-title="FRENCH  ",|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/5782
+#EXTINF:-1 tvg-id="sfr.sport.3.fr" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSport3.fr.png" group-title="FRENCH  ",|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/5783
+#EXTINF:-1 tvg-id="C1400.api.telerama.fr" tvg-name="|FR| RMC Decouverte FHD" tvg-logo="http://globe2.midomed.com/images2/RMCdecouverte.fr.png" group-title="FRENCH  ",|FR| RMC Decouverte FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16739
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="|FR| RMC Decouverte HD" tvg-logo="http://globe2.midomed.com/images2/RMCdecouverte.fr.png" group-title="FRENCH  ",|FR| RMC Decouverte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2533
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1 FHD" tvg-logo="http://globe2.midomed.com/images2/RMCSport1.fr.png" group-title="FRENCH  ",|FR| RMC SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16725
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 FHD" tvg-logo="http://globe2.midomed.com/images2/RMCSport2.fr.png" group-title="FRENCH  ",|FR| RMC SPORT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16724
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 3 FHD" tvg-logo="http://globe2.midomed.com/images2/RMCSport3.fr.png" group-title="FRENCH  ",|FR| RMC SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16723
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSport4.fr.png" group-title="FRENCH  ",|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16789
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 10 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive10.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16807
+#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT LIVE 11 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive11.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16806
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 12 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive12.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16805
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 13 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive13.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16804
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 14 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive14.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16803
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 15 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive15.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16802
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 16 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive16.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16801
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 5 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive5.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16812
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 6 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive6.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16811
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 7 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive7.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16810
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 8 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive8.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16809
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT LIVE 9 HD" tvg-logo="http://globe2.midomed.com/images2/RMCSportLive9.fr.png" group-title="FRENCH  ",|FR| RMC SPORT LIVE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16808
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT NEWS HD" tvg-logo="http://globe2.midomed.com/images2/rmcsportnews.png" group-title="FRENCH  ",|FR| RMC SPORT NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16790
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="|FR| RMC Story HD" tvg-logo="http://globe2.midomed.com/images3/rmcstory.png" group-title="FRENCH  ",|FR| RMC Story HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16813
+#EXTINF:-1 tvg-id="" tvg-name="♣♦♣-----|FR| CANALSAT |FR|----♣♦♣" tvg-logo="http://globe2.midomed.com/images/fr.png" group-title="FRENCH  ",♣♦♣-----|FR| CANALSAT |FR|----♣♦♣
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/324
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 HD" tvg-logo="http://globe2.midomed.com/images2/TF1.fr.png" group-title="FRENCH  ",|FR| TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/81
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="|FR| TF1 FHD" tvg-logo="http://globe2.midomed.com/images2/TF1.fr.png" group-title="FRENCH  ",|FR| TF1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16609
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 HD" tvg-logo="http://globe2.midomed.com/images2/France2.fr.png" group-title="FRENCH  ",|FR| FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/83
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2  FHD" tvg-logo="http://globe2.midomed.com/images2/France2.fr.png" group-title="FRENCH  ",|FR| FRANCE 2  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16614
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3 HD" tvg-logo="http://globe2.midomed.com/images2/France3.fr.png" group-title="FRENCH  ",|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/84
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="|FR| FRANCE 3  FHD" tvg-logo="http://globe2.midomed.com/images2/France3.fr.png" group-title="FRENCH  ",|FR| FRANCE 3  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16613
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4 HD" tvg-logo="http://globe2.midomed.com/images2/France4.fr.png" group-title="FRENCH  ",|FR| FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/85
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="|FR| FRANCE 4  FHD" tvg-logo="http://globe2.midomed.com/images2/France4.fr.png" group-title="FRENCH  ",|FR| FRANCE 4  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16612
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE 5 HD" tvg-logo="http://globe2.midomed.com/images2/France5.fr.png" group-title="FRENCH  ",|FR| FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/86
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="|FR| FRANCE  5 FHD" tvg-logo="http://globe2.midomed.com/images2/France5.fr.png" group-title="FRENCH  ",|FR| FRANCE  5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16611
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="|FR| FRANCE O HD" tvg-logo="http://globe2.midomed.com/images2/FranceO.fr.png" group-title="FRENCH  ",|FR| FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/87
+#EXTINF:-1 tvg-id="FranceO.fr" tvg-name="|FR| FRANCE O FHD" tvg-logo="http://globe2.midomed.com/images2/FranceO.fr.png" group-title="FRENCH  ",|FR| FRANCE O FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16610
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 HD" tvg-logo="http://globe2.midomed.com/images2/M6HD.png" group-title="FRENCH  ",|FR| M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/82
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="|FR| M6 FHD" tvg-logo="http://globe2.midomed.com/images2/M6.fr.png" group-title="FRENCH  ",|FR| M6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16608
+#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-name="|FR| ARTE HD" tvg-logo="http://globe2.midomed.com/images2/ARTE.fr.png" group-title="FRENCH  ",|FR| ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2507
+#EXTINF:-1 tvg-id="C111.api.telerama.fr" tvg-name="|FR| ARTE FHD" tvg-logo="http://globe2.midomed.com/images2/ARTE.fr.png" group-title="FRENCH  ",|FR| ARTE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16782
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="|FR| RTS UN HD" tvg-logo="http://globe2.midomed.com/images2/rts1.png" group-title="FRENCH  ",|FR| RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10463
+#EXTINF:-1 tvg-id="C202.api.telerama.fr" tvg-name="|FR| RTS UN FHD" tvg-logo="http://globe2.midomed.com/images2/rts1.png" group-title="FRENCH  ",|FR| RTS UN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16781
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="|FR| RTS DEUX HD" tvg-logo="http://globe2.midomed.com/images2/rts2.png" group-title="FRENCH  ",|FR| RTS DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10464
+#EXTINF:-1 tvg-id="C183.api.telerama.fr" tvg-name="|FR| RTS DEUX  FHD" tvg-logo="http://globe2.midomed.com/images2/rts2.png" group-title="FRENCH  ",|FR| RTS DEUX  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16780
+#EXTINF:-1 tvg-id="" tvg-name="•●★---|FR| CH. CANAL+ |FR|---★●•" tvg-logo="http://globe2.midomed.com/images/canal+.jpg" group-title="FRENCH  ",•●★---|FR| CH. CANAL+ |FR|---★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16582
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="|FR| CANAL+ HD" tvg-logo="http://globe2.midomed.com/images2/CanalPlus.fr.png" group-title="FRENCH  ",|FR| CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/92
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="|FR| Canal+ FHD" tvg-logo="http://globe2.midomed.com/images2/CanalPlus.fr.png" group-title="FRENCH  ",|FR| Canal+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16643
+#EXTINF:-1 tvg-id="Canal+ cinéma" tvg-name="|FR| CANAL+ CINEMA HD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusCinema.fr.png" group-title="FRENCH  ",|FR| CANAL+ CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/94
+#EXTINF:-1 tvg-id="C1105.api.telerama.fr" tvg-name="|FR| Canal+ Cinema FHD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusCinema.fr.png" group-title="FRENCH  ",|FR| Canal+ Cinema FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16646
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT HD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusSport.fr.png" group-title="FRENCH  ",|FR| CANAL+ SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/110
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="|FR| CANAL+ SPORT  FHD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusSport.fr.png" group-title="FRENCH  ",|FR| CANAL+ SPORT  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16641
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="|FR| CANAL+ SERIES HD" tvg-logo="http://globe2.midomed.com/images2/CanalplusSeries.fr.png" group-title="FRENCH  ",|FR| CANAL+ SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/409
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="|FR| Canal+ Series FHD" tvg-logo="http://globe2.midomed.com/images2/CanalplusSeries.fr.png" group-title="FRENCH  ",|FR| Canal+ Series FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16642
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="|FR| CANAL+ FAMILY HD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusFamily.fr.png" group-title="FRENCH  ",|FR| CANAL+ FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/93
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="|FR| Canal+ Family FHD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusFamily.fr.png" group-title="FRENCH  ",|FR| Canal+ Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16644
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="|FR| CANAL+ DECALE HD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusDecale.fr.png" group-title="FRENCH  ",|FR| CANAL+ DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/91
+#EXTINF:-1 tvg-id="CanalPlusDecale.fr" tvg-name="|FR| Canal+ Decale FHD" tvg-logo="http://globe2.midomed.com/images2/CanalPlusDecale.fr.png" group-title="FRENCH  ",|FR| Canal+ Decale FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16645
+#EXTINF:-1 tvg-id="" tvg-name="•●★-----|FR| CINEMA |FR|-----★●•" tvg-logo="http://globe2.midomed.com/images/cinema.jpg" group-title="FRENCH  ",•●★-----|FR| CINEMA |FR|-----★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16583
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="|FR| CINE+ PREMIER HD" tvg-logo="http://globe2.midomed.com/images2/CinePlusPremier.fr.png" group-title="FRENCH  ",|FR| CINE+ PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/90
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="|FR| Cine+ Premier FHD" tvg-logo="http://globe2.midomed.com/images2/CinePlusPremier.fr.png" group-title="FRENCH  ",|FR| Cine+ Premier FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16775
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| CINE+ FRISSON HD" tvg-logo="http://globe2.midomed.com/images2/CinePlusFrisson.fr.png" group-title="FRENCH  ",|FR| CINE+ FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/97
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| Cine+ Frisson FHD" tvg-logo="http://globe2.midomed.com/images2/CinePlusFrisson.fr.png" group-title="FRENCH  ",|FR| Cine+ Frisson FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16638
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="|FR| Cine+ Frisson**" tvg-logo="http://globe2.midomed.com/images2/CinePlusFrisson.fr.png" group-title="FRENCH  ",|FR| Cine+ Frisson**
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2535
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| CINE+ EMOTION HD" tvg-logo="http://globe2.midomed.com/images2/CinePlusEmotion.fr.png" group-title="FRENCH  ",|FR| CINE+ EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/99
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="|FR| Cine+ Emotion FHD" tvg-logo="http://globe2.midomed.com/images2/CinePlusEmotion.fr.png" group-title="FRENCH  ",|FR| Cine+ Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16639
+#EXTINF:-1 tvg-id="C401.api.telerama.fr" tvg-name="|FR| Cine+ Famiz HD" tvg-logo="http://globe2.midomed.com/images2/CinePlusFamiz.fr.png" group-title="FRENCH  ",|FR| Cine+ Famiz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2512
+#EXTINF:-1 tvg-id="C401.api.telerama.fr" tvg-name="|FR| Cine+ Famiz FHD" tvg-logo="http://globe2.midomed.com/images2/CinePlusFamiz.fr.png" group-title="FRENCH  ",|FR| Cine+ Famiz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16777
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="|FR| Cine+ Club HD" tvg-logo="http://globe2.midomed.com/images2/CinePlusClub.fr.png" group-title="FRENCH  ",|FR| Cine+ Club HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/17012
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR| Cine+ Classic HD" tvg-logo="http://globe2.midomed.com/images2/CinePlusClassic.fr.png" group-title="FRENCH  ",|FR| Cine+ Classic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2511
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="|FR| Cine+ Classic FHD" tvg-logo="http://globe2.midomed.com/images2/CinePlusClassic.fr.png" group-title="FRENCH  ",|FR| Cine+ Classic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16778
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="|FR| OCS MAX HD" tvg-logo="http://globe2.midomed.com/images2/OCSMax.fr.png" group-title="FRENCH  ",|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/406
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="|FR| OCS MAX FHD" tvg-logo="http://globe2.midomed.com/images2/OCSMax.fr.png" group-title="FRENCH  ",|FR| OCS MAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16772
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="|FR| OCS CITY HD" tvg-logo="http://globe2.midomed.com/images2/OCSCity.fr.png" group-title="FRENCH  ",|FR| OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/480
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="|FR| OCS CITY FHD" tvg-logo="http://globe2.midomed.com/images2/OCSCity.fr.png" group-title="FRENCH  ",|FR| OCS CITY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16628
+#EXTINF:-1 tvg-id="ocs.choc.fr" tvg-name="|FR| OCS CHOC HD" tvg-logo="http://globe2.midomed.com/images2/OCSChoc.fr.png" group-title="FRENCH  ",|FR| OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/907
+#EXTINF:-1 tvg-id="C732.api.telerama.fr" tvg-name="|FR| OCS CHOC FHD" tvg-logo="http://globe2.midomed.com/images2/OCSChoc.fr.png" group-title="FRENCH  ",|FR| OCS CHOC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16774
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="|FR| OCS GEANTS HD" tvg-logo="http://globe2.midomed.com/images2/OCSGeants.fr.png" group-title="FRENCH  ",|FR| OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/407
+#EXTINF:-1 tvg-id="OCSGeants.fr" tvg-name="|FR| OCS GEANTS FHD" tvg-logo="http://globe2.midomed.com/images2/OCSGeants.fr.png" group-title="FRENCH  ",|FR| OCS GEANTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16773
+#EXTINF:-1 tvg-id="C2320.api.telerama.fr" tvg-name="|FR| Altice Studio HD" tvg-logo="http://globe2.midomed.com/images2/AlticeStudio.fr.png" group-title="FRENCH  ",|FR| Altice Studio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16616
+#EXTINF:-1 tvg-id="C2320.api.telerama.fr" tvg-name="|FR| Altice Studio FHD" tvg-logo="http://globe2.midomed.com/images2/AlticeStudio.fr.png" group-title="FRENCH  ",|FR| Altice Studio FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16779
+#EXTINF:-1 tvg-id="C652.api.telerama.fr" tvg-name="|FR| Disney Cinema HD" tvg-logo="http://globe2.midomed.com/images2/DisneyChannel.fr.png" group-title="FRENCH  ",|FR| Disney Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/13071
+#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="|FR| Paramount Channel HD" tvg-logo="http://globe2.midomed.com/images2/ParamountChannel.fr.png" group-title="FRENCH  ",|FR| Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2516
+#EXTINF:-1 tvg-id="C1562.api.telerama.fr" tvg-name="|FR| Paramount Channel FHD" tvg-logo="http://globe2.midomed.com/images2/ParamountChannel.fr.png" group-title="FRENCH  ",|FR| Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16771
+#EXTINF:-1 tvg-id="C10.api.telerama.fr" tvg-name="|FR| Action HD" tvg-logo="http://globe2.midomed.com/images2/Action.fr.png" group-title="FRENCH  ",|FR| Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2538
+#EXTINF:-1 tvg-id="C10.api.telerama.fr" tvg-name="|FR| Action FHD" tvg-logo="http://globe2.midomed.com/images2/Action.fr.png" group-title="FRENCH  ",|FR| Action FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16660
+#EXTINF:-1 tvg-id="" tvg-name="•●★---|FR| CANAL PLAY |FR|---★●•" tvg-logo="http://globe2.midomed.com/images/canalplay.jpg" group-title="FRENCH  ",•●★---|FR| CANAL PLAY |FR|---★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16584
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 1" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8229
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 2" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8228
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 3" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8227
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 4" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8226
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 5" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8225
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 6" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8224
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 7" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8223
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 8" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8222
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 9" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8221
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| Canal Play 10" tvg-logo="http://globe2.midomed.com/images3/canalplay.png" group-title="FRENCH  ",|FR| Canal Play 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8220
+#EXTINF:-1 tvg-id="" tvg-name="•●★-|FR| DIVERTISSEMENT |FR|-★●•" tvg-logo="http://globe2.midomed.com/images/divertissement.png" group-title="FRENCH  ",•●★-|FR| DIVERTISSEMENT |FR|-★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16585
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| COMEDIE+ HD" tvg-logo="http://globe2.midomed.com/images2/ComediePlus.fr.png" group-title="FRENCH  ",|FR| COMEDIE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/275
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="|FR| Comedie+ FHD" tvg-logo="http://globe2.midomed.com/images2/ComediePlus.fr.png" group-title="FRENCH  ",|FR| Comedie+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16765
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| 13 RUE HD" tvg-logo="http://globe2.midomed.com/images2/13Rue.fr.png" group-title="FRENCH  ",|FR| 13 RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/410
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| 13EME RUE FHD" tvg-logo="http://globe2.midomed.com/images2/13Rue.fr.png" group-title="FRENCH  ",|FR| 13EME RUE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16769
+#EXTINF:-1 tvg-id="C2326.api.telerama.fr" tvg-name="|FR| Polar+ HD" tvg-logo="http://globe2.midomed.com/images2/Polar.fr.png" group-title="FRENCH  ",|FR| Polar+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2525
+#EXTINF:-1 tvg-id="C2326.api.telerama.fr" tvg-name="|FR| Polar+ FHD" tvg-logo="http://globe2.midomed.com/images2/Polar.fr.png" group-title="FRENCH  ",|FR| Polar+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16758
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="|FR| SYFY HD" tvg-logo="http://globe2.midomed.com/images2/Syfy.fr.png" group-title="FRENCH  ",|FR| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/408
+#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="|FR| SyFy FHD" tvg-logo="http://globe2.midomed.com/images2/Syfy.fr.png" group-title="FRENCH  ",|FR| SyFy FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16756
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| SERIE CLUB HD" tvg-logo="http://globe2.midomed.com/images2/serieclub.fr.png" group-title="FRENCH  ",|FR| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/446
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| Serie Club FHD" tvg-logo="http://globe2.midomed.com/images2/serieclub.fr.png" group-title="FRENCH  ",|FR| Serie Club FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16625
+#EXTINF:-1 tvg-id="C403.api.telerama.fr" tvg-name="|FR| WEO HD" tvg-logo="http://globe2.midomed.com/images3/weo.png" group-title="FRENCH  ",|FR| WEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16633
+#EXTINF:-1 tvg-id="C405.api.telerama.fr" tvg-name="|FR| E! Entertainment HD" tvg-logo="http://globe2.midomed.com/images2/EE.png" group-title="FRENCH  ",|FR| E! Entertainment HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2532
+#EXTINF:-1 tvg-id="C403.api.telerama.fr" tvg-name="|FR| E! Entertainment FHD" tvg-logo="http://globe2.midomed.com/images2/EE.png" group-title="FRENCH  ",|FR| E! Entertainment FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16763
+#EXTINF:-1 tvg-id="C87.api.telerama.fr" tvg-name="|FR| Game One HD" tvg-logo="http://globe2.midomed.com/images2/GameOne.fr.png" group-title="CARTOON",|FR| Game One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/13073
+#EXTINF:-1 tvg-id="C87.api.telerama.fr" tvg-name="|FR| GAME ONE FHD" tvg-logo="http://globe2.midomed.com/images2/GameOne.fr.png" group-title="FRENCH  ",|FR| GAME ONE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16762
+#EXTINF:-1 tvg-id="C6.api.telerama.fr" tvg-name="|FR| Mangas HD" tvg-logo="http://globe2.midomed.com/images2/Mangas.fr.png" group-title="CARTOON",|FR| Mangas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/13072
+#EXTINF:-1 tvg-id="C5.api.telerama.fr" tvg-name="|FR| AB1 HD" tvg-logo="http://globe2.midomed.com/images2/AB1.fr.png" group-title="FRENCH  ",|FR| AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2526
+#EXTINF:-1 tvg-id="C5.api.telerama.fr" tvg-name="|FR| AB1 FHD" tvg-logo="http://globe2.midomed.com/images2/AB1.fr.png" group-title="FRENCH  ",|FR| AB1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16768
+#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="|FR| AB3 HD" tvg-logo="http://globe2.midomed.com/images2/AB3.fr.png" group-title="FRENCH  ",|FR| AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2520
+#EXTINF:-1 tvg-id="C254.api.telerama.fr" tvg-name="|FR| AB3 FHD" tvg-logo="http://globe2.midomed.com/images2/AB3.fr.png" group-title="FRENCH  ",|FR| AB3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16767
+#EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-name="|FR| TV Breizh HD" tvg-logo="http://globe2.midomed.com/images2/TvBreizh.fr.png" group-title="FRENCH  ",|FR| TV Breizh HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2523
+#EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-name="|FR| TV Breizh FHD" tvg-logo="http://globe2.midomed.com/images2/TvBreizh.fr.png" group-title="FRENCH  ",|FR| TV Breizh FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16750
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR| TEVA HD" tvg-logo="http://globe2.midomed.com/images2/Teva.fr.png" group-title="FRENCH  ",|FR| TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/95
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="|FR| Teva FHD" tvg-logo="http://globe2.midomed.com/images2/Teva.fr.png" group-title="FRENCH  ",|FR| Teva FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16754
+#EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-name="|FR| Paris Premiere HD" tvg-logo="http://globe2.midomed.com/images2/ParisPremiere.fr.png" group-title="FRENCH  ",|FR| Paris Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2515
+#EXTINF:-1 tvg-id="C145.api.telerama.fr" tvg-name="|FR| Paris Premiere FHD" tvg-logo="http://globe2.midomed.com/images2/ParisPremiere.fr.png" group-title="FRENCH  ",|FR| Paris Premiere FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16759
+#EXTINF:-1 tvg-id="C115.api.telerama.fr" tvg-name="|FR| RTL9 HD" tvg-logo="http://globe2.midomed.com/images2/rtl99.fr.png" group-title="FRENCH  ",|FR| RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2506
+#EXTINF:-1 tvg-id="C115.api.telerama.fr" tvg-name="|FR| RTL9 FHD" tvg-logo="http://globe2.midomed.com/images2/rtl99.fr.png" group-title="FRENCH  ",|FR| RTL9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16757
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR| C8 HD" tvg-logo="http://globe2.midomed.com/images2/C8.fr.png" group-title="FRENCH  ",|FR| C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/466
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="|FR| C8 FHD" tvg-logo="http://globe2.midomed.com/images2/C8.fr.png" group-title="FRENCH  ",|FR| C8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16647
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 HD" tvg-logo="http://globe2.midomed.com/images2/W9.fr.png" group-title="FRENCH  ",|FR| W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/88
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="|FR| W9 FHD" tvg-logo="http://globe2.midomed.com/images2/W9.fr.png" group-title="FRENCH  ",|FR| W9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16718
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="|FR| TMC HD" tvg-logo="http://globe2.midomed.com/images2/TMC.fr.png" group-title="FRENCH  ",|FR| TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2531
+#EXTINF:-1 tvg-id="C195.api.telerama.fr" tvg-name="|FR| TMC FHD" tvg-logo="http://globe2.midomed.com/images2/TMC.fr.png" group-title="FRENCH  ",|FR| TMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16751
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="|FR| TFX HD" tvg-logo="http://globe2.midomed.com/images2/TFX.fr.png" group-title="FRENCH  ",|FR| TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2529
+#EXTINF:-1 tvg-id="C446.api.telerama.fr" tvg-name="|FR| TFX FHD" tvg-logo="http://globe2.midomed.com/images2/TFX.fr.png" group-title="FRENCH  ",|FR| TFX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16752
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR| NRJ12 HD" tvg-logo="http://globe2.midomed.com/images2/NRJ12.fr.png" group-title="FRENCH  ",|FR| NRJ12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/279
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="|FR| NRJ12 FHD" tvg-logo="http://globe2.midomed.com/images2/NRJ12.fr.png" group-title="FRENCH  ",|FR| NRJ12 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16761
+#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="|FR| CSTAR HD" tvg-logo="http://globe2.midomed.com/images2/CStar.fr.png" group-title="FRENCH  ",|FR| CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2505
+#EXTINF:-1 tvg-id="C458.api.telerama.fr" tvg-name="|FR| CSTAR FHD" tvg-logo="http://globe2.midomed.com/images2/CStar.fr.png" group-title="FRENCH  ",|FR| CSTAR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16764
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="|FR| TF1 Series Films HD" tvg-logo="http://globe2.midomed.com/images2/TF1-Series-Films-HD.png" group-title="FRENCH  ",|FR| TF1 Series Films HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2528
+#EXTINF:-1 tvg-id="C1404.api.telerama.fr" tvg-name="|FR| TF1 Series Films FHD" tvg-logo="http://globe2.midomed.com/images2/TF1SeriesFilms.fr.png" group-title="FRENCH  ",|FR| TF1 Series Films FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16753
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="|FR| 6TER HD" tvg-logo="http://globe2.midomed.com/images2/6ter.fr.png" group-title="FRENCH  ",|FR| 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2508
+#EXTINF:-1 tvg-id="C1403.api.telerama.fr" tvg-name="|FR| 6TER FHD" tvg-logo="http://globe2.midomed.com/images2/6ter.fr.png" group-title="FRENCH  ",|FR| 6TER FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16770
+#EXTINF:-1 tvg-id="C2037.api.telerama.fr" tvg-name="|FR| Crime District HD" tvg-logo="http://globe2.midomed.com/images2/CrimeDistrict.fr.png" group-title="FRENCH  ",|FR| Crime District HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10465
+#EXTINF:-1 tvg-id="C2037.api.telerama.fr" tvg-name="|FR| Crime District FHD" tvg-logo="http://globe2.midomed.com/images2/CrimeDistrict.fr.png" group-title="FRENCH  ",|FR| Crime District FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16760
+#EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="|FR| Cherie 25 HD" tvg-logo="http://globe2.midomed.com/images2/Cherie25.fr.png" group-title="FRENCH  ",|FR| Cherie 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10466
+#EXTINF:-1 tvg-id="C1399.api.telerama.fr" tvg-name="|FR| Cherie 25 FHD" tvg-logo="http://globe2.midomed.com/images2/Cherie25.fr.png" group-title="FRENCH  ",|FR| Cherie 25 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16766
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="|FR| TV5 MONDE EUROPE HD" tvg-logo="http://globe2.midomed.com/images2/TV5Monde.fr.png" group-title="FRENCH  ",|FR| TV5 MONDE EUROPE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/492
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="|FR| Tv5 Monde Europe" tvg-logo="http://globe2.midomed.com/images2/TV5Monde.fr.png" group-title="FRENCH  ",|FR| Tv5 Monde Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16755
+#EXTINF:-1 tvg-id="" tvg-name="|FR| WEO HD" tvg-logo="http://globe2.midomed.com/images3/weo.png" group-title="FRENCH  ",|FR| WEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2510
+#EXTINF:-1 tvg-id="" tvg-name="•●★---|FR| DECOUVERTE |FR|---★●•" tvg-logo="http://globe2.midomed.com/images/decouverte.png" group-title="FRENCH  ",•●★---|FR| DECOUVERTE |FR|---★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16586
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| Planete+ HD" tvg-logo="http://globe2.midomed.com/images2/PlanetePlus.fr.png" group-title="FRENCH  ",|FR| Planete+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2540
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="|FR| Planete+ FHD" tvg-logo="http://globe2.midomed.com/images2/PlanetePlus.fr.png" group-title="FRENCH  ",|FR| Planete+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16720
+#EXTINF:-1 tvg-id="C662.api.telerama.fr" tvg-name="|FR| Planete+ CI HD" tvg-logo="http://globe2.midomed.com/images2/PLANETEJustice.fr.png" group-title="FRENCH  ",|FR| Planete+ CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2541
+#EXTINF:-1 tvg-id="C662.api.telerama.fr" tvg-name="|FR| Planet+ CI" tvg-logo="http://globe2.midomed.com/images2/PLANETEJustice.fr.png" group-title="FRENCH  ",|FR| Planet+ CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16746
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="|FR| Planete+ A&E HD" tvg-logo="http://globe2.midomed.com/images2/PlaneteAction.fr.png" group-title="FRENCH  ",|FR| Planete+ A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16626
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| NATIONAL GEOGRAPHIC HD" tvg-logo="http://globe2.midomed.com/images2/NatGeo.fr.png" group-title="FRENCH  ",|FR| NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/152
+#EXTINF:-1 tvg-id="" tvg-name="|FR| National Geographic FHD" tvg-logo="http://globe2.midomed.com/images2/NatGeo.fr.png" group-title="FRENCH  ",|FR| National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16630
+#EXTINF:-1 tvg-id="" tvg-name="|FR| NAT GEO WILD HD" tvg-logo="http://globe2.midomed.com/images2/NatGeoWild.fr.png" group-title="FRENCH  ",|FR| NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/598
+#EXTINF:-1 tvg-id="C719.api.telerama.fr" tvg-name="|FR| Nat Geo Wild FHD" tvg-logo="http://globe2.midomed.com/images2/NatGeo.fr.png" group-title="FRENCH  ",|FR| Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16744
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="|FR| Discovery Channel HD" tvg-logo="http://globe2.midomed.com/images2/DiscoveryChannel.fr.png" group-title="FRENCH  ",|FR| Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/7994
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="|FR| Discovery Channel FHD" tvg-logo="http://globe2.midomed.com/images2/DiscoveryChannel.fr.png" group-title="FRENCH  ",|FR| Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16747
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="|FR| Discovery Science HD" tvg-logo="http://globe2.midomed.com/images2/DiscoveryScience.fr.png" group-title="FRENCH  ",|FR| Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2519
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="|FR| Discovery Science FHD" tvg-logo="http://globe2.midomed.com/images/Discovery_SC_HD.png" group-title="FRENCH  ",|FR| Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8373
+#EXTINF:-1 tvg-id="" tvg-name="|FR| My Cuisine HD" tvg-logo="http://globe2.midomed.com/images2/MyCuisine.fr.png" group-title="FRENCH  ",|FR| My Cuisine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16462
+#EXTINF:-1 tvg-id="" tvg-name="|FR| My Cuisine FHD" tvg-logo="http://globe2.midomed.com/images2/MyCuisine.fr.png" group-title="FRENCH  ",|FR| My Cuisine FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16745
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="|FR| Voyage HD" tvg-logo="http://globe2.midomed.com/images2/Voyage.fr.png" group-title="FRENCH  ",|FR| Voyage HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2539
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="|FR| VOYAGE FHD" tvg-logo="http://globe2.midomed.com/images2/Voyage.fr.png" group-title="FRENCH  ",|FR| VOYAGE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16719
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| USHUAIA HD" tvg-logo="http://globe2.midomed.com/images2/UshuaiaTV.fr.png" group-title="FRENCH  ",|FR| USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/98
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="|FR| Ushuaia FHD" tvg-logo="http://globe2.midomed.com/images2/UshuaiaTV.fr.png" group-title="FRENCH  ",|FR| Ushuaia FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16738
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="|FR| Histoire HD" tvg-logo="http://globe2.midomed.com/images2/Histoire.fr.png" group-title="FRENCH  ",|FR| Histoire HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16632
+#EXTINF:-1 tvg-id="toute.l.histoire.fr" tvg-name="|FR| Toute l'histoire HD" tvg-logo="http://globe2.midomed.com/images2/TouteHistoire.fr.png" group-title="FRENCH  ",|FR| Toute l'histoire HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2542
+#EXTINF:-1 tvg-id="C7.api.telerama.fr" tvg-name="|FR| Toute l'histoire FHD" tvg-logo="http://globe2.midomed.com/images2/TouteHistoire.fr.png" group-title="FRENCH  ",|FR| Toute l'histoire FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16741
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="|FR| Sciences et Vie HD" tvg-logo="http://globe2.midomed.com/images2/ScienceAndVie.png" group-title="FRENCH  ",|FR| Sciences et Vie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2820
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="|FR| Sciences et Vie FHD" tvg-logo="http://globe2.midomed.com/images2/ScienceAndVie.fr.png" group-title="FRENCH  ",|FR| Sciences et Vie FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16740
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| Animaux HD" tvg-logo="http://globe2.midomed.com/images2/Animaux.tr.png" group-title="FRENCH  ",|FR| Animaux HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2821
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="|FR| ANIMAUX FHD" tvg-logo="http://globe2.midomed.com/images2/Animaux.tr.png" group-title="FRENCH  ",|FR| ANIMAUX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16749
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| TREK HD" tvg-logo="http://globe2.midomed.com/images2/Trek.fr.png" group-title="FRENCH  ",|FR| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/278
+#EXTINF:-1 tvg-id="C1776.api.telerama.fr" tvg-name="|FR| Trek FHD" tvg-logo="http://globe2.midomed.com/images2/Trek.fr.png" group-title="FRENCH  ",|FR| Trek FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16742
+#EXTINF:-1 tvg-id="C173.api.telerama.fr" tvg-name="|FR| Season HD" tvg-logo="http://globe2.midomed.com/images2/Seasons.fr.png" group-title="FRENCH  ",|FR| Season HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2514
+#EXTINF:-1 tvg-id="C173.api.telerama.fr" tvg-name="|FR| Season FHD" tvg-logo="http://globe2.midomed.com/images2/Seasons.fr.png" group-title="FRENCH  ",|FR| Season FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16743
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="|FR| Chasse et peche HD" tvg-logo="http://globe2.midomed.com/images2/ChassePeche.fr.png" group-title="FRENCH  ",|FR| Chasse et peche HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2822
+#EXTINF:-1 tvg-id="C38.api.telerama.fr" tvg-name="|FR| CHASSE ET PECHE FHD" tvg-logo="http://globe2.midomed.com/images2/ChassePeche.fr.png" group-title="FRENCH  ",|FR| CHASSE ET PECHE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16748
+#EXTINF:-1 tvg-id="" tvg-name="•●★---|FR| INFORMATION |FR|--★●•" tvg-logo="http://globe2.midomed.com/images/information.png" group-title="FRENCH  ",•●★---|FR| INFORMATION |FR|--★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16587
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="|FR| CNEWS HD" tvg-logo="http://globe2.midomed.com/images2/CNews.fr.png" group-title="FRENCH  ",|FR| CNEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2509
+#EXTINF:-1 tvg-id="C226.api.telerama.fr" tvg-name="|FR| CNEWS FHD" tvg-logo="http://globe2.midomed.com/images2/CNews.fr.png" group-title="FRENCH  ",|FR| CNEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16637
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM TV HD" tvg-logo="http://globe2.midomed.com/images2/BFMTV.fr.png" group-title="FRENCH  ",|FR| BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/280
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="|FR| BFM TV FHD" tvg-logo="http://globe2.midomed.com/images2/BFMTV.fr.png" group-title="FRENCH  ",|FR| BFM TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16737
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| LCI HD" tvg-logo="http://globe2.midomed.com/images2/LCI.fr.png" group-title="FRENCH  ",|FR| LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/261
+#EXTINF:-1 tvg-id="C112.api.telerama.fr" tvg-name="|FR| LCI FHD" tvg-logo="http://globe2.midomed.com/images2/LCI.fr.png" group-title="FRENCH  ",|FR| LCI FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16734
+#EXTINF:-1 tvg-id="C2111.api.telerama.fr" tvg-name="|FR| FRANCE INFO  HD" tvg-logo="http://globe2.midomed.com/images2/logo-france-info-septembre-2016.png" group-title="FRENCH  ",|FR| FRANCE INFO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16615
+#EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-name="|FR| EuroNews HD" tvg-logo="http://globe2.midomed.com/images2/Euronews.fr.png" group-title="FRENCH  ",|FR| EuroNews HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/5928
+#EXTINF:-1 tvg-id="C140.api.telerama.fr" tvg-name="|FR| EuroNews FHD" tvg-logo="http://globe2.midomed.com/images2/Euronews.fr.png" group-title="FRENCH  ",|FR| EuroNews FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16736
+#EXTINF:-1 tvg-id="france.24.fr" tvg-name="|FR| FRANCE 24" tvg-logo="http://globe2.midomed.com/images2/France24.fr.png" group-title="FRENCH  ",|FR| FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/493
+#EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="|FR| i24News HD" tvg-logo="http://globe2.midomed.com/images2/i24.png" group-title="FRENCH  ",|FR| i24News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10431
+#EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="|FR| i24News FHD" tvg-logo="http://globe2.midomed.com/images2/i24.png" group-title="FRENCH  ",|FR| i24News FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16735
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| TV5 infos HD" tvg-logo="http://globe2.midomed.com/images/TV5_infos.png" group-title="FRENCH  ",|FR| TV5 infos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2543
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| TV5 MAGREB HD" tvg-logo="http://globe2.midomed.com/images2/TV5Monde.fr.png" group-title="FRENCH  ",|FR| TV5 MAGREB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2524
+#EXTINF:-1 tvg-id="" tvg-name="•●★------|FR| SPORT |FR|-----★●•" tvg-logo="http://globe2.midomed.com/images/sport.jpg" group-title="FRENCH  ",•●★------|FR| SPORT |FR|-----★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16588
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports1qa.png" group-title="SPORTS",|FR| BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/258
+#EXTINF:-1 tvg-id="C1290.api.telerama.fr" tvg-name="|FR| BEIN SPORT 1 FHD" tvg-logo="http://globe2.midomed.com/images2/beinsports1.png" group-title="FRENCH  ",|FR| BEIN SPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16659
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports2qa.png" group-title="SPORTS",|FR| BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/259
+#EXTINF:-1 tvg-id="C1304.api.telerama.fr" tvg-name="|FR| BEIN SPORT 2  FHD" tvg-logo="http://globe2.midomed.com/images2/beinsports2hd.png" group-title="FRENCH  ",|FR| BEIN SPORT 2  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16658
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports3qa.png" group-title="SPORTS",|FR| BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/265
+#EXTINF:-1 tvg-id="C1335.api.telerama.fr" tvg-name="|FR| BEIN SPORT 3 FHD" tvg-logo="http://globe2.midomed.com/images2/beinsports3hd.png" group-title="FRENCH  ",|FR| BEIN SPORT 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16657
+#EXTINF:-1 tvg-id="C1336.api.telerama.fr" tvg-name="|FR| BeIN Sports Max 4 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports4qa.png" group-title="SPORTS",|FR| BeIN Sports Max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8211
+#EXTINF:-1 tvg-id="C1336.api.telerama.fr" tvg-name="|FR| BEIN SPORTS MAX  4 FHD" tvg-logo="http://globe2.midomed.com/images2/beINSports4qa.png" group-title="FRENCH  ",|FR| BEIN SPORTS MAX  4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16656
+#EXTINF:-1 tvg-id="C1337.api.telerama.fr" tvg-name="|FR| BeIN Sports Max 5 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports5qa.png" group-title="SPORTS",|FR| BeIN Sports Max 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8210
+#EXTINF:-1 tvg-id="C1337.api.telerama.fr" tvg-name="|FR| BEIN SPORTS MAX  5  FHD" tvg-logo="http://globe2.midomed.com/images2/beINSports5qa.png" group-title="FRENCH  ",|FR| BEIN SPORTS MAX  5  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16655
+#EXTINF:-1 tvg-id="C1338.api.telerama.fr" tvg-name="|FR| BeIN Sports Max 6 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports6qa.png" group-title="SPORTS",|FR| BeIN Sports Max 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8209
+#EXTINF:-1 tvg-id="C1338.api.telerama.fr" tvg-name="|FR| BEIN SPORTS MAX 6  FHD" tvg-logo="http://globe2.midomed.com/images2/beINSports6qa.png" group-title="FRENCH  ",|FR| BEIN SPORTS MAX 6  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16654
+#EXTINF:-1 tvg-id="C1339.api.telerama.fr" tvg-name="|FR| BeIN Sports Max 7 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports7qa.png" group-title="SPORTS",|FR| BeIN Sports Max 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8208
+#EXTINF:-1 tvg-id="C1339.api.telerama.fr" tvg-name="|FR| BEIN SPORTS MAX 7  FHD" tvg-logo="http://globe2.midomed.com/images2/beINSports7qa.png" group-title="FRENCH  ",|FR| BEIN SPORTS MAX 7  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16653
+#EXTINF:-1 tvg-id="C1340.api.telerama.fr" tvg-name="|FR| BeIN Sports Max 8 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports8qa.png" group-title="SPORTS",|FR| BeIN Sports Max 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8207
+#EXTINF:-1 tvg-id="C1340.api.telerama.fr" tvg-name="|FR| BEIN SPORTS MAX 8  FHD" tvg-logo="http://globe2.midomed.com/images2/beINSports8qa.png" group-title="FRENCH  ",|FR| BEIN SPORTS MAX 8  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16652
+#EXTINF:-1 tvg-id="C1341.api.telerama.fr" tvg-name="|FR| BeIN Sports Max 9 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports9qa.png" group-title="SPORTS",|FR| BeIN Sports Max 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8206
+#EXTINF:-1 tvg-id="C1341.api.telerama.fr" tvg-name="|FR| BEIN SPORTS MAX 9 FHD" tvg-logo="http://globe2.midomed.com/images2/beINSports9qa.png" group-title="FRENCH  ",|FR| BEIN SPORTS MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16651
+#EXTINF:-1 tvg-id="C1342.api.telerama.fr" tvg-name="|FR| BeIN Sports Max 10 HD" tvg-logo="http://globe2.midomed.com/images2/beINSports10qa.png" group-title="SPORTS",|FR| BeIN Sports Max 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8205
+#EXTINF:-1 tvg-id="C1342.api.telerama.fr" tvg-name="|FR| BEIN SPORTS MAX 10  FHD" tvg-logo="http://globe2.midomed.com/images2/beINSports10qa.png" group-title="FRENCH  ",|FR| BEIN SPORTS MAX 10  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16650
+#EXTINF:-1 tvg-id="C94.api.telerama.fr" tvg-name="|FR| InfoSport+ HD" tvg-logo="http://globe2.midomed.com/images2/InfosportPlus.fr.png" group-title="FRENCH  ",|FR| InfoSport+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2537
+#EXTINF:-1 tvg-id="C94.api.telerama.fr" tvg-name="|FR| INFOSPORT+ FHD" tvg-logo="http://globe2.midomed.com/images2/InfosportPlus.fr.png" group-title="FRENCH  ",|FR| INFOSPORT+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16631
+#EXTINF:-1 tvg-id="C76.api.telerama.fr" tvg-name="|FR| EuroSport HD" tvg-logo="http://globe2.midomed.com/images2/Eurosport1.fr.png" group-title="FRENCH  ",|FR| EuroSport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2517
+#EXTINF:-1 tvg-id="C76.api.telerama.fr" tvg-name="|FR| EUROSPORT 1  FHD" tvg-logo="http://globe2.midomed.com/images2/eurosport1.png" group-title="FRENCH  ",|FR| EUROSPORT 1  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16731
+#EXTINF:-1 tvg-id="" tvg-name="|FR| EUROSPORT 2 HD" tvg-logo="http://globe2.midomed.com/images2/Eurosport2.fr.png" group-title="FRENCH  ",|FR| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/263
+#EXTINF:-1 tvg-id="C439.api.telerama.fr" tvg-name="|FR| EUROSPORT 2  FHD" tvg-logo="http://globe2.midomed.com/images2/Eurosport2.fr.png" group-title="FRENCH  ",|FR| EUROSPORT 2  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16730
+#EXTINF:-1 tvg-id="ab.moteurs.fr" tvg-name="|FR| AB MOTEURS HD" tvg-logo="http://globe2.midomed.com/images2/ABMoteurs.fr.png" group-title="FRENCH  ",|FR| AB MOTEURS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/276
+#EXTINF:-1 tvg-id="C15.api.telerama.fr" tvg-name="|FR| Ab Moteurs" tvg-logo="http://globe2.midomed.com/images2/ABMoteurs.fr.png" group-title="FRENCH  ",|FR| Ab Moteurs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16733
+#EXTINF:-1 tvg-id="C1146.api.telerama.fr" tvg-name="|FR| EQUIDIA LIVE HD" tvg-logo="http://globe2.midomed.com/images2/Equidia.fr.png" group-title="FRENCH  ",|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/7993
+#EXTINF:-1 tvg-id="C1146.api.telerama.fr" tvg-name="|FR| EQUIDIA LIVE FHD" tvg-logo="http://globe2.midomed.com/images2/Equidia.fr.png" group-title="FRENCH  ",|FR| EQUIDIA LIVE FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16732
+#EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="|FR| Golf HD" tvg-logo="http://globe2.midomed.com/images2/Golf.fr.png" group-title="FRENCH  ",|FR| Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10432
+#EXTINF:-1 tvg-id="C1166.api.telerama.fr" tvg-name="|FR| Golf  FHD" tvg-logo="http://globe2.midomed.com/images2/Golf.fr.png" group-title="FRENCH  ",|FR| Golf  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16729
+#EXTINF:-1 tvg-id="C1295.api.telerama.fr" tvg-name="|FR| Golf+ FHD" tvg-logo="http://globe2.midomed.com/images2/GolfPlus.fr.png" group-title="FRENCH  ",|FR| Golf+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10445
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="|FR| MTV HD" tvg-logo="http://globe2.midomed.com/images2/MTV.fr.png" group-title="FRENCH  ",|FR| MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/12850
+#EXTINF:-1 tvg-id="C234.api.telerama.fr" tvg-name="|FR| LCP" tvg-logo="http://globe2.midomed.com/images3/lcp.png" group-title="FRENCH  ",|FR| LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16726
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="|FR| L'equipe HD" tvg-logo="http://globe2.midomed.com/images2/LEquipe21.fr.png" group-title="FRENCH  ",|FR| L'equipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2530
+#EXTINF:-1 tvg-id="C1401.api.telerama.fr" tvg-name="|FR|  L'EQUIPE 21  FHD" tvg-logo="http://globe2.midomed.com/images2/LEquipe21.fr.png" group-title="FRENCH  ",|FR|  L'EQUIPE 21  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16727
+#EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+ HD" tvg-logo="http://globe2.midomed.com/images2/FootPlus24.fr.png" group-title="FRENCH  ",|FR| FOOT+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/100
+#EXTINF:-1 tvg-id="C100.api.telerama.fr" tvg-name="|FR| FOOT+ 24/24  FHD" tvg-logo="http://globe2.midomed.com/images2/FootPlus24.fr.png" group-title="FRENCH  ",|FR| FOOT+ 24/24  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16728
+#EXTINF:-1 tvg-id="tv.archive" tvg-name="|FR| RMC SPORT NEWS FHD" tvg-logo="http://globe2.midomed.com/images2/RMCSportNews.fr.png" group-title="FRENCH  ",|FR| RMC SPORT NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/7809
+#EXTINF:-1 tvg-id="" tvg-name="•●★----|FR| JEUNESSE |FR|----★●•" tvg-logo="http://globe2.midomed.com/images/jeunesse.png" group-title="FRENCH  ",•●★----|FR| JEUNESSE |FR|----★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16589
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="http://globe2.midomed.com/images2/DisneyJunior.fr.png" group-title="CARTOON",|FR| DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/273
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="|FR| DISNEY JUNIOR FHD" tvg-logo="http://globe2.midomed.com/images2/DisneyJunior.fr.png" group-title="FRENCH  ",|FR| DISNEY JUNIOR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16634
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI+ HD" tvg-logo="http://globe2.midomed.com/images2/PIWI.fr.png" group-title="CARTOON",|FR| PIWI+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/115
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="|FR| PIWI+ FHD" tvg-logo="http://globe2.midomed.com/images2/PIWI.fr.png" group-title="CARTOON",|FR| PIWI+ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16627
+#EXTINF:-1 tvg-id="NickJr.fr" tvg-name="|FR| NICKELODEON JUNIOR HD" tvg-logo="http://globe2.midomed.com/images2/nickelodeonjr.png" group-title="CARTOON",|FR| NICKELODEON JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/262
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="|FR| TIJI HD" tvg-logo="http://globe2.midomed.com/images2/Tiji.fr.png" group-title="CARTOON",|FR| TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/10539
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| Boomerang HD" tvg-logo="http://globe2.midomed.com/images2/Boomerang.fr.png" group-title="CARTOON",|FR| Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/8010
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="|FR| BOOMERANG  FHD" tvg-logo="http://globe2.midomed.com/images2/Boomerang.fr.png" group-title="FRENCH  ",|FR| BOOMERANG  FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16648
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK HD" tvg-logo="http://globe2.midomed.com/images2/CartoonNetwork.fr.png" group-title="CARTOON",|FR| CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/411
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="|FR| CARTOON NETWORK FHD" tvg-logo="http://globe2.midomed.com/images2/CartoonNetwork.fr.png" group-title="FRENCH  ",|FR| CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16640
+#EXTINF:-1 tvg-id="C1746.api.telerama.fr" tvg-name="|FR| nicklodeon teen" tvg-logo="http://globe2.midomed.com/images2/Nickelodeon4Teen.fr.png" group-title="FRENCH  ",|FR| nicklodeon teen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16635
+#EXTINF:-1 tvg-id="TeleToonPlus.fr" tvg-name="|FR| TELETOON+ HD" tvg-logo="http://globe2.midomed.com/images2/TeleToonPlus.fr.png" group-title="CARTOON",|FR| TELETOON+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/260
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="|FR| DISNEY XD HD" tvg-logo="http://globe2.midomed.com/images2/DisneyXD.fr.png" group-title="CARTOON",|FR| DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/264
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="|FR| CANAL J HD" tvg-logo="http://globe2.midomed.com/images2/CanalJ.fr.png" group-title="CARTOON",|FR| CANAL J HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/906
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="|FR| Boing HD" tvg-logo="http://globe2.midomed.com/images2/Boing.fr.png" group-title="FRENCH  ",|FR| Boing HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16649
+#EXTINF:-1 tvg-id="C2040.api.telerama.fr" tvg-name="|FR| TOONAMI HD" tvg-logo="http://globe2.midomed.com/images2/Toonami.fr.png" group-title="FRENCH  ",|FR| TOONAMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2534
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL HD" tvg-logo="http://globe2.midomed.com/images2/DisneyChannel.fr.png" group-title="CARTOON",|FR| DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/112
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="|FR| DISNEY CHANNEL FHD" tvg-logo="http://globe2.midomed.com/images2/DisneyChannel.fr.png" group-title="FRENCH  ",|FR| DISNEY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16636
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="|FR| Gulli HD" tvg-logo="http://globe2.midomed.com/images2/Gulli.fr.png" group-title="CARTOON",|FR| Gulli HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/3497
+#EXTINF:-1 tvg-id="" tvg-name="•●★-----|FR| MUSIQUE |FR|----★●•" tvg-logo="http://globe2.midomed.com/images/musique.jpg" group-title="FRENCH  ",•●★-----|FR| MUSIQUE |FR|----★●•
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16590
+#EXTINF:-1 tvg-id="M6Music.fr" tvg-name="|FR| M6 Music HD" tvg-logo="http://globe2.midomed.com/images2/M6Music.fr.png" group-title="FRENCH  ",|FR| M6 Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/2521
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="|FR| Nrj Hits HD" tvg-logo="http://globe2.midomed.com/images2/NRJHits.fr.png" group-title="FRENCH  ",|FR| Nrj Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/16629
+#EXTINF:-1 tvg-id="trace.urban.fr" tvg-name="|FR| TRACE URBAN HD" tvg-logo="http://globe2.midomed.com/images2/traceurban.png" group-title="FRENCH  ",|FR| TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/911
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT HD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52723
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT   UHD  4K" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT   UHD  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52722
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 1 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52724
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 2 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52725
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 3 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52726
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 4 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52727
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 5 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52728
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 6 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52729
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 7 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52730
+#EXTINF:-1 tvg-id="" tvg-name="|FR| TELEFOOT STADIUM 8 FHD" tvg-logo="" group-title="FRENCH  ",|FR| TELEFOOT STADIUM 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://links.gpro.cc:80/walidcaSsdres/SDEcfv20365/52731
