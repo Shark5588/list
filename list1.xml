@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 8/30/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 10/20/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -18,701 +18,1081 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-1,*NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/170
-#EXTINF:-1,*CBS SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/169
-#EXTINF:-1,*TSN 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/138
-#EXTINF:-1,*TSN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/139
-#EXTINF:-1,*TSN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/140
-#EXTINF:-1,*TSN 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/141
-#EXTINF:-1,*TSN 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/142
-#EXTINF:-1,*ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/143
-#EXTINF:-1,ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/144
-#EXTINF:-1,ESPN ACC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/86092
-#EXTINF:-1,ESPN NEWS HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59038
-#EXTINF:-1,BIG 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3950
-#EXTINF:-1,FOX COLLEGE ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59885
-#EXTINF:-1,FOX COLLEGE PACIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59886
-#EXTINF:-1,*FOX SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/145
-#EXTINF:-1,*FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/146
-#EXTINF:-1,PAC 12 ARIZONA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9691
-#EXTINF:-1,PAC 12 BAY AREA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9690
-#EXTINF:-1,PAC 12 LOS ANGELES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9692
-#EXTINF:-1,PAC 12 MOUNTAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9689
-#EXTINF:-1,PAC 12 NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9687
-#EXTINF:-1,PAC 12 OREGON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9688
-#EXTINF:-1,*SPORTSNET ONT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/148
-#EXTINF:-1,*SPORTSNET ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/149
-#EXTINF:-1,SPORTSNET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/8890
-#EXTINF:-1,*SPORTSNET PACIFIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2434
-#EXTINF:-1,*SPORTSNET 360 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/147
-#EXTINF:-1,*SPORTSNET WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/150
-#EXTINF:-1,*NFL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/157
-#EXTINF:-1,*NHL NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/156
-#EXTINF:-1,LEAFS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59039
-#EXTINF:-1,*NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/165
-#EXTINF:-1,MSG HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/10052
-#EXTINF:-1,YES NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/10034
-#EXTINF:-1,MLB NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2193
-#EXTINF:-1,GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/166
-#EXTINF:-1,WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/168
-#EXTINF:-1,NESN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/96372
-#EXTINF:-1,TENNIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/167
-#EXTINF:-1,MAVTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/68854
-#EXTINF:-1,WILLOW CRICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/198
-#EXTINF:-1,WILLOW XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9630
-#EXTINF:-1,FIGHT - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71284
-#EXTINF:-1,*BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/171
-#EXTINF:-1,TVG - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59036
-#EXTINF:-1,TVG 2 - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/81931
-#EXTINF:-1,LADBROKES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80390
-#EXTINF:-1,KANAL 75 INT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80388
-#EXTINF:-1,SIS ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80387
-#EXTINF:-1,SIS TWO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80386
-#EXTINF:-1,SIS RACING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80385
-#EXTINF:-1,ATG LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80384
-#EXTINF:-1,RACING.COM (AU)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80783
-#EXTINF:-1,WFN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/26231
-#EXTINF:-1,OUTDOOR CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9049
-#EXTINF:-1,SPORTSMAN NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9050
-#EXTINF:-1,BT SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/225
-#EXTINF:-1,BT SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/226
-#EXTINF:-1,BT SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/232
-#EXTINF:-1,BT SPORTS ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/233
-#EXTINF:-1,NBC HD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7
-#EXTINF:-1,CBS HD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/8
-#EXTINF:-1,ABC HD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/10
-#EXTINF:-1,FOX HD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9
-#EXTINF:-1,*CP24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/11
-#EXTINF:-1,CP24 (H264)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71459
-#EXTINF:-1,OMNI 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/12
-#EXTINF:-1,OMNI 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/13
-#EXTINF:-1,CITY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/14
-#EXTINF:-1,*GLOBAL EAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/15
-#EXTINF:-1,*CTV EAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/16
-#EXTINF:-1,CTV NORTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/17
-#EXTINF:-1,CTV KITCHNER - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71277
-#EXTINF:-1,CBC EAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/18
-#EXTINF:-1,CBC WINDSOR - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71279
-#EXTINF:-1,CBC HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4075
-#EXTINF:-1,CTV HALIFAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4074
-#EXTINF:-1,CBC ATLANTIC - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71278
-#EXTINF:-1,CBC CHARLOTTETOWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/72691
-#EXTINF:-1,CTV MONCTON - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71282
-#EXTINF:-1,CTV NB - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71283
-#EXTINF:-1,CTV2 ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71425
-#EXTINF:-1,CTV2 LONDON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/88493
-#EXTINF:-1,NTV (NEWFOUNDLAND) - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/68073
-#EXTINF:-1,CBC OTTAWA - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/45499
-#EXTINF:-1,CTV OTTAWA - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/65625
-#EXTINF:-1,CTV 2 OTTAWA - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59130
-#EXTINF:-1,CBC WINNIPEG - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/46716
-#EXTINF:-1,CTV WINNIPEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/63327
-#EXTINF:-1,CITY WINNIPEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71424
-#EXTINF:-1,CBC EDMONTON - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/46715
-#EXTINF:-1,CTV EDMONTON - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/65628
-#EXTINF:-1,GLOBAL EDMONTON - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/65627
-#EXTINF:-1,NBC HD WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/303
-#EXTINF:-1,ABC HD WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/306
-#EXTINF:-1,CBS HD WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/304
-#EXTINF:-1,FOX HD WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/305
-#EXTINF:-1,CBC CALGARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7339
-#EXTINF:-1,CTV CALGARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7338
-#EXTINF:-1,CITY CALGARY - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71280
-#EXTINF:-1,GLOBAL LETHBRIDGE - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71285
-#EXTINF:-1,OMNI CALGARY - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71286
-#EXTINF:-1,OMNI PRAIRIES - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71288
-#EXTINF:-1,BC1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/307
-#EXTINF:-1,GLOBAL BC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/308
-#EXTINF:-1,CTV VANCOUVER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/310
-#EXTINF:-1,CTV 2 VANCOUVER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2418
-#EXTINF:-1,CITY VANCOUVER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/311
-#EXTINF:-1,CBC VANCOUVER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/309
-#EXTINF:-1,OMNI BC - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71287
-#EXTINF:-1,CHEK VANCOUVER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2419
-#EXTINF:-1,CBC HD (MTL)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/15074
-#EXTINF:-1,CTV HD (MTL)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2398
-#EXTINF:-1,CITY HD (MTL)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/15073
-#EXTINF:-1,GLOBAL HD (MTL)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2397
-#EXTINF:-1,*USA NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/312
-#EXTINF:-1,GSN HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/12769
-#EXTINF:-1,TV LAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/313
-#EXTINF:-1,DEJAVIEW  - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/48517
-#EXTINF:-1,BEACON TV - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/56247
-#EXTINF:-1,METV HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/15072
-#EXTINF:-1,YES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/6962
-#EXTINF:-1,FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/314
-#EXTINF:-1,FXX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/315
-#EXTINF:-1,TRU TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/340
-#EXTINF:-1,COMEDY NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/316
-#EXTINF:-1,*TBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/317
-#EXTINF:-1,PARAMOUNT NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/318
-#EXTINF:-1,*DISCOVERY HD (CDN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/319
-#EXTINF:-1,DISCOVERY HD (USA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/56250
-#EXTINF:-1,DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/320
-#EXTINF:-1,SMITHSONIAN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3951
-#EXTINF:-1,*HALLMARK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/321
-#EXTINF:-1,*HALLMARK MOVIES MYSTERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4599
-#EXTINF:-1,HALLMARK DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/83349
-#EXTINF:-1,OXYGEN HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59037
-#EXTINF:-1,ION HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59033
-#EXTINF:-1,*HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/322
-#EXTINF:-1,*ID HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/324
-#EXTINF:-1,LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/325
-#EXTINF:-1,*LIFETIME MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/326
-#EXTINF:-1,IFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/327
-#EXTINF:-1,POP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/82603
-#EXTINF:-1,*TLC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/328
-#EXTINF:-1,DIY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/329
-#EXTINF:-1,FYI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/42684
-#EXTINF:-1,OLN - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67103
-#EXTINF:-1,LOVE NATURE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1258
-#EXTINF:-1,MAKEFUL - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67102
-#EXTINF:-1,NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/330
-#EXTINF:-1,*NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/331
-#EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/332
-#EXTINF:-1,COOKING CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/6108
-#EXTINF:-1,FOOD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/333
-#EXTINF:-1,FOOD HD (USA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80508
-#EXTINF:-1,GUSTO - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67101
-#EXTINF:-1,APTN - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67104
-#EXTINF:-1,OUT TV - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67116
-#EXTINF:-1,GINX (CDN) - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67115
-#EXTINF:-1,MOTOR TREND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/367
-#EXTINF:-1,VICELAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/323
-#EXTINF:-1,AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/334
-#EXTINF:-1,ELREY HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/10046
-#EXTINF:-1,SUNDANCE HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/10039
-#EXTINF:-1,*HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/335
-#EXTINF:-1,HGTV HD (CDN)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/42685
-#EXTINF:-1,COTTAGE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/42394
-#EXTINF:-1,PEACHTREE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/337
-#EXTINF:-1,WGN HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9163
-#EXTINF:-1,E! HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/338
-#EXTINF:-1,BOOK - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67100
-#EXTINF:-1,SYFY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/339
-#EXTINF:-1,CTV-SCIFI HD (SPACE)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/8110
-#EXTINF:-1,TNT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/341
-#EXTINF:-1,WE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/342
-#EXTINF:-1,SLICE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/343
-#EXTINF:-1,W NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/344
-#EXTINF:-1,SHOWCASE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/346
-#EXTINF:-1,*A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/347
-#EXTINF:-1,OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/348
-#EXTINF:-1,QVC - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67097
-#EXTINF:-1,TSC - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67098
-#EXTINF:-1,TRAVEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/349
-#EXTINF:-1,DESTINATION AMERICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7482
-#EXTINF:-1,MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/350
-#EXTINF:-1,MTV 2 HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/69011
-#EXTINF:-1,BET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/351
-#EXTINF:-1,BET HER HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/69008
-#EXTINF:-1,REVOLT HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/10042
-#EXTINF:-1,CMT HD  - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/12266
-#EXTINF:-1,MUCH MUSIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4141
-#EXTINF:-1,BRAVO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/353
-#EXTINF:-1,*VH1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/354
-#EXTINF:-1,VH1 (US) - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/70262
-#EXTINF:-1,VISION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/355
-#EXTINF:-1,PBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/356
-#EXTINF:-1,CHCH HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/358
-#EXTINF:-1,CW11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/359
-#EXTINF:-1,CW11 HD WEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2421
-#EXTINF:-1,BBC CANADA - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/46724
-#EXTINF:-1,BBC AMERICA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/357
-#EXTINF:-1,*CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/360
-#EXTINF:-1,CBC NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/361
-#EXTINF:-1,CTV NEWS NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2423
-#EXTINF:-1,HLN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/362
-#EXTINF:-1,*FOX NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/363
-#EXTINF:-1,CBS NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3078
-#EXTINF:-1,ABC NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3077
-#EXTINF:-1,CNBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/364
-#EXTINF:-1,TRT WORLD HD (TR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/27136
-#EXTINF:-1,FOX NEWS BUSINESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4600
-#EXTINF:-1,BLOOMBERG HD (NA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1662
-#EXTINF:-1,BNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/366
-#EXTINF:-1,MSNBC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/365
-#EXTINF:-1,DW NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67410
-#EXTINF:-1,EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67409
-#EXTINF:-1,WEATHER CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3079
-#EXTINF:-1,WEATHER USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3080
-#EXTINF:-1,ALJAZEERA ENGLISH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1661
-#EXTINF:-1,FRANCE 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4796
-#EXTINF:-1,CCTV NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3965
-#EXTINF:-1,BBC WORLD NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9546
-#EXTINF:-1,RTE NEWS NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7191
-#EXTINF:-1,RT NEWS ENGLISH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/512
-#EXTINF:-1,RT DOCUMENTARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/3075
-#EXTINF:-1,COVID-19 UPDATE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/90825
-#EXTINF:-1,COVID-19 UPDATE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/90826
-#EXTINF:-1,TCM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/368
-#EXTINF:-1,MOVIE TIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/369
-#EXTINF:-1,ADULT SWIM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/370
-#EXTINF:-1,FXM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/56246
-#EXTINF:-1,PPV MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/8784
-#EXTINF:-1,SCIENCE FICTION NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/8887
-#EXTINF:-1,007 4 LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7493
-#EXTINF:-1,80'S ACTION HITZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7497
-#EXTINF:-1,80'S COMEDY HITZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7496
-#EXTINF:-1,80'S DRAMA HITZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7495
-#EXTINF:-1,80'S HORROR HITZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7494
-#EXTINF:-1,CRAVE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9505
-#EXTINF:-1,CRAVE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9506
-#EXTINF:-1,CRAVE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9507
-#EXTINF:-1,HBO 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/26321
-#EXTINF:-1,HBO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/26322
-#EXTINF:-1,HBO EAST HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/371
-#EXTINF:-1,HBO COMEDY HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/373
-#EXTINF:-1,HBO FAMILY HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4829
-#EXTINF:-1,HBO SIGNATURE HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/372
-#EXTINF:-1,HBO ZONE HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4828
-#EXTINF:-1,CINEMAX EAST HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/380
-#EXTINF:-1,ACTION MAX HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/383
-#EXTINF:-1,MOREMAX HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/381
-#EXTINF:-1,THRILLER MAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/80332
-#EXTINF:-1,5STAR MAX HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/382
-#EXTINF:-1,SHOWTIME EAST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/11361
-#EXTINF:-1,SHOWTIME 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/11362
-#EXTINF:-1,SHOWTIME BEYOND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/11363
-#EXTINF:-1,SHOWTIME WOMEN HD (NEW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/11359
-#EXTINF:-1,SHOWTIME EXTREME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/11358
-#EXTINF:-1,SHOWTIME NEXT HD (NEW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/11360
-#EXTINF:-1,SUPER CHANNEL FUSE - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/71289
-#EXTINF:-1,VAULT (CDN) - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/67114
-#EXTINF:-1,STARZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/374
-#EXTINF:-1,STARZ EDGE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/377
-#EXTINF:-1,STARZ COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/376
-#EXTINF:-1,STARZ BLACK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/378
-#EXTINF:-1,ENCORE WESTERN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/379
-#EXTINF:-1,EPIX EAST HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/69016
-#EXTINF:-1,EPIX 2 HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/69014
-#EXTINF:-1,EPIX DRIVE IN'S HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/69012
-#EXTINF:-1,EPIX HITS HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/69013
-#EXTINF:-1,TRUE MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1786
-#EXTINF:-1,SKY MOVIES ACTION & ADVENTURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1738
-#EXTINF:-1,SKY MOVIES COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1737
-#EXTINF:-1,SKY MOVIES DRAMA & ROMANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1779
-#EXTINF:-1,SKY MOVIES PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1733
-#EXTINF:-1,SKY MOVIES THRILLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1742
-#EXTINF:-1,SKY NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1755
-#EXTINF:-1,SKY NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1756
-#EXTINF:-1,SKY ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1760
-#EXTINF:-1,SKY TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1785
-#EXTINF:-1,SKY TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1790
-#EXTINF:-1,SKY HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1758
-#EXTINF:-1,SKY H2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1754
-#EXTINF:-1,SKY REALLY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1757
-#EXTINF:-1,SKY ARTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/2196
-#EXTINF:-1,SKY QUEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1768
-#EXTINF:-1,SKY TRU TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1723
-#EXTINF:-1,SKY TBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1722
-#EXTINF:-1,SKY FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1788
-#EXTINF:-1,SKY LIVING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1739
-#EXTINF:-1,SKY HOME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1718
-#EXTINF:-1,SKY FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1741
-#EXTINF:-1,SKY EDEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1789
-#EXTINF:-1,SKY DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1764
-#EXTINF:-1,SKY DISCOVERY HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1765
-#EXTINF:-1,SKY DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1766
-#EXTINF:-1,SKY DISCOVERY SHED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1761
-#EXTINF:-1,SKY DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1767
-#EXTINF:-1,SKY DAVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1775
-#EXTINF:-1,SKY COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1748
-#EXTINF:-1,SKY BBC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1783
-#EXTINF:-1,SKY BBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1784
-#EXTINF:-1,SKY BBC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4848
-#EXTINF:-1,SKY ITV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4865
-#EXTINF:-1,SKY ITV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4864
-#EXTINF:-1,SKY ITV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4863
-#EXTINF:-1,SKY ITV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4862
-#EXTINF:-1,SKY ITV BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4860
-#EXTINF:-1,SKY RTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4859
-#EXTINF:-1,SKY RTE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4858
-#EXTINF:-1,SKY ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1740
-#EXTINF:-1,SKY ALIBI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1774
-#EXTINF:-1,SKY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1749
-#EXTINF:-1,CBS ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7184
-#EXTINF:-1,CBS DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7186
-#EXTINF:-1,CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7187
-#EXTINF:-1,SKY 5 STAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7181
-#EXTINF:-1,SKY CRIME AND INVESTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7190
-#EXTINF:-1,SKY E4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7178
-#EXTINF:-1,SKY FILM4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7189
-#EXTINF:-1,SKY HORROR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7179
-#EXTINF:-1,SKY E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7192
-#EXTINF:-1,SKY SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7174
-#EXTINF:-1,SKY NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7173
-#EXTINF:-1,SKY CHANNEL 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7175
-#EXTINF:-1,SKY CHANNEL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7176
-#EXTINF:-1,SKY MORE4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7177
-#EXTINF:-1,SKY SONY MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/1771
-#EXTINF:-1,TVO HD (NA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/391
-#EXTINF:-1,PBS KIDS - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/15071
-#EXTINF:-1,YTV HD (NA)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/390
-#EXTINF:-1,DISCOVERY FAMILY HD - NEW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/59034
-#EXTINF:-1,DISNEY HD EAST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/392
-#EXTINF:-1,ABC SPARK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/4063
-#EXTINF:-1,TREEHOUSE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/393
-#EXTINF:-1,MAGIC SCHOOL BUS 24x7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/8092
-#EXTINF:-1,BABY EINSTEIN 24X7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/8089
-#EXTINF:-1,PEPPA PIG 24x7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9737
-#EXTINF:-1,PAW PATROL 24x7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/9736
-#EXTINF:-1,SONIC BOOM 24x7 (NEW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/42215
-#EXTINF:-1,PJ MASK 24x7 (NEW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/42216
-#EXTINF:-1,SUPER WINGS 24x7 (NEW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/38759
-#EXTINF:-1,TROLLHUNTERS 24x7 (NEW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/43224
-#EXTINF:-1,TRANSFORMER - RETRO 24x7 (NEW)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/65803
-#EXTINF:-1,NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/394
-#EXTINF:-1,CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/395
-#EXTINF:-1,FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/396
-#EXTINF:-1,DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/397
-#EXTINF:-1,DISNEY ALL DAY 24X7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://f.ok2.se:8000/Fonzi/Fonzi/7804
+#EXTINF:-1,US: Comet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43639
+#EXTINF:-1,US: Discovery Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43640
+#EXTINF:-1,US: Ginx eSports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43641
+#EXTINF:-1,US: Logo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43642
+#EXTINF:-1,US: Paramount HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43643
+#EXTINF:-1,US: TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43644
+#EXTINF:-1,US: Fox Soccer Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43645
+#EXTINF:-1,US: Bet Her HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43646
+#EXTINF:-1,US: Bet Jams HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43647
+#EXTINF:-1,US: Bet Soul HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43648
+#EXTINF:-1,US: MTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43649
+#EXTINF:-1,US: MTV Classic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43650
+#EXTINF:-1,US: MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43651
+#EXTINF:-1,US: MTV U HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43652
+#EXTINF:-1,US: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43653
+#EXTINF:-1,US: Nick Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43654
+#EXTINF:-1,US: Teen Nick HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43655
+#EXTINF:-1,US: ESPN PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43656
+#EXTINF:-1,US: American Heroes HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43657
+#EXTINF:-1,US: Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43658
+#EXTINF:-1,US: Baby TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43659
+#EXTINF:-1,US: BBC America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43660
+#EXTINF:-1,US: BBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43661
+#EXTINF:-1,US: Bein 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43662
+#EXTINF:-1,US: Fishing SP1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43663
+#EXTINF:-1,US: BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43664
+#EXTINF:-1,US: Bloomberg TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43665
+#EXTINF:-1,US: Bravo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43666
+#EXTINF:-1,US: BTN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43667
+#EXTINF:-1,US: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43668
+#EXTINF:-1,US: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43669
+#EXTINF:-1,US: CBS 5 KPHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43670
+#EXTINF:-1,US: CBS Albuquerque HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43671
+#EXTINF:-1,US: CBS Baltimore HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43672
+#EXTINF:-1,US: CBS Boston HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43673
+#EXTINF:-1,US: CBS Columbus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43674
+#EXTINF:-1,US: CBS Kansas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43675
+#EXTINF:-1,US: CBS KTVT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43676
+#EXTINF:-1,US: CBS Los Angeles HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43677
+#EXTINF:-1,US: CBS Los Angeles HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43678
+#EXTINF:-1,US: CBS Miami HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43679
+#EXTINF:-1,US: CBS New Orleans HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43680
+#EXTINF:-1,US: CBS New York HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43681
+#EXTINF:-1,US: CBS New York Area HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43682
+#EXTINF:-1,US: CBS Philadelphia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43683
+#EXTINF:-1,US: CBS San Fransisco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43684
+#EXTINF:-1,US: CBS SN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43685
+#EXTINF:-1,US: CBS Sports News HQ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43686
+#EXTINF:-1,US: CBS Tampa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43687
+#EXTINF:-1,US: CBS Washington HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43688
+#EXTINF:-1,US: CBS Wisconsin HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43689
+#EXTINF:-1,US: CBS WKMG Orlando HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43690
+#EXTINF:-1,US: Cheddar HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43691
+#EXTINF:-1,US: Chelsea TV HD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43692
+#EXTINF:-1,US: Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43693
+#EXTINF:-1,US: Cinemax Actionmax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43694
+#EXTINF:-1,US: Cinemax Moremax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43695
+#EXTINF:-1,US: Cinemax West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43696
+#EXTINF:-1,US: CMT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43697
+#EXTINF:-1,US: CNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43698
+#EXTINF:-1,US: CNBC World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43699
+#EXTINF:-1,US: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43700
+#EXTINF:-1,US: CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43701
+#EXTINF:-1,US: Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43702
+#EXTINF:-1,US: Cooking Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43703
+#EXTINF:-1,US: Cozi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43704
+#EXTINF:-1,US: Crime & Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43705
+#EXTINF:-1,US: CSN SN Boston HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43706
+#EXTINF:-1,US: CSN SN Cleveland WOIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43707
+#EXTINF:-1,US: CW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43708
+#EXTINF:-1,US: CW Chicago HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43709
+#EXTINF:-1,US: CW Philadelphia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43710
+#EXTINF:-1,US: CW San Fransisco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43711
+#EXTINF:-1,US: CW Tampa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43712
+#EXTINF:-1,US: Destination America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43713
+#EXTINF:-1,US: Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43714
+#EXTINF:-1,US: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43715
+#EXTINF:-1,US: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43716
+#EXTINF:-1,US: Disney JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43717
+#EXTINF:-1,US: Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43718
+#EXTINF:-1,US: Fishing Sp2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43719
+#EXTINF:-1,US: DIY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43720
+#EXTINF:-1,US: E! Entertainment HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43721
+#EXTINF:-1,US: Eleven Sports Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43722
+#EXTINF:-1,US: Epix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43723
+#EXTINF:-1,US: Epix 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43724
+#EXTINF:-1,US: Fantasy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43725
+#EXTINF:-1,US: Fightnet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43726
+#EXTINF:-1,US: Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43727
+#EXTINF:-1,US: Fox 10 KSAZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43728
+#EXTINF:-1,US: Fox 13 KSTU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43729
+#EXTINF:-1,US: Fox 29 Philadelphia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43730
+#EXTINF:-1,US: Fox 4 Kansas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43731
+#EXTINF:-1,US: Fox 47 WMSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43732
+#EXTINF:-1,US: Fox 5 NY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43733
+#EXTINF:-1,US: Fox Atlanta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43734
+#EXTINF:-1,US: Fox Atlanta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43735
+#EXTINF:-1,US: Fox Baltimore HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43736
+#EXTINF:-1,US: Fox Bufalo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43737
+#EXTINF:-1,US: Fox Business Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43738
+#EXTINF:-1,US: Fox Chicago HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43739
+#EXTINF:-1,US: Fox Cleveland WJW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43740
+#EXTINF:-1,US: Fox College Sports Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43741
+#EXTINF:-1,US: Fox Indianapolis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43742
+#EXTINF:-1,US: Fox Jacksonville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43743
+#EXTINF:-1,US: Fox KDFW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43744
+#EXTINF:-1,US: Fox KTVU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43745
+#EXTINF:-1,US: Fox Los Angeles HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43746
+#EXTINF:-1,US: Fox Miami HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43747
+#EXTINF:-1,US: Fox New Orleans HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43748
+#EXTINF:-1,US: Fox New York HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43749
+#EXTINF:-1,US: Fox News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43750
+#EXTINF:-1,US: Fox Oakland HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43751
+#EXTINF:-1,US: Fox Portland HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43752
+#EXTINF:-1,US: Fox Soccer HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43753
+#EXTINF:-1,US: Fox Sports SUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43754
+#EXTINF:-1,US: Fox Sports Carolinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43755
+#EXTINF:-1,US: Fox Sports Tenness HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43756
+#EXTINF:-1,US: Fox Sports Ohaio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43757
+#EXTINF:-1,US: Fox Sports Detroit HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43758
+#EXTINF:-1,US: Fox Sports indiana plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43759
+#EXTINF:-1,US: Fox Sports FS2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43760
+#EXTINF:-1,US: Fox Sports Florida HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43761
+#EXTINF:-1,US: Fox Sports Indiana HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43762
+#EXTINF:-1,US: Fox Sports Kansas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43763
+#EXTINF:-1,US: Fox Sports Oklahoma HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43764
+#EXTINF:-1,US: Fox Sports Ohio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43765
+#EXTINF:-1,US: Fox Sports FS1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43766
+#EXTINF:-1,US: Fox Sports Southeast HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43767
+#EXTINF:-1,US: Fox Sports Southwest HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43768
+#EXTINF:-1,US: Fox Sports Tampa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43769
+#EXTINF:-1,US: Fox Sports West HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43770
+#EXTINF:-1,US: Fox Sports Wisconsin HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43771
+#EXTINF:-1,US: FreeForm HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43772
+#EXTINF:-1,US: FSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43773
+#EXTINF:-1,US: Fuse HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43774
+#EXTINF:-1,US: Fusion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43775
+#EXTINF:-1,US: FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43776
+#EXTINF:-1,US: FXM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43777
+#EXTINF:-1,US: FXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43778
+#EXTINF:-1,US: FYI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43779
+#EXTINF:-1,US: Gol TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43780
+#EXTINF:-1,US: Golf Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43781
+#EXTINF:-1,US: GSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43782
+#EXTINF:-1,US: Hallmark Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43783
+#EXTINF:-1,US: Hallmark HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43784
+#EXTINF:-1,US: Hallmark Movies & Mysteries HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43785
+#EXTINF:-1,US: HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43786
+#EXTINF:-1,US: HBO Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43787
+#EXTINF:-1,US: HBO East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43788
+#EXTINF:-1,US: HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43789
+#EXTINF:-1,US: HBO Signature East HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43790
+#EXTINF:-1,US: HBO Zone HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43791
+#EXTINF:-1,US: HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43792
+#EXTINF:-1,US: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43793
+#EXTINF:-1,US: IFC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43794
+#EXTINF:-1,US: Inspirational HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43795
+#EXTINF:-1,US: Investigation Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43796
+#EXTINF:-1,US: KICU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43797
+#EXTINF:-1,US: KOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43798
+#EXTINF:-1,US: Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43799
+#EXTINF:-1,US: Liftime Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43800
+#EXTINF:-1,US: Longhorn Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43801
+#EXTINF:-1,US: Mav TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43802
+#EXTINF:-1,US: Mav TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43803
+#EXTINF:-1,US: Motorsport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43804
+#EXTINF:-1,US: MSG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43805
+#EXTINF:-1,US: MSG 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43806
+#EXTINF:-1,US: MSG 2 Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43807
+#EXTINF:-1,US: MSG Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43808
+#EXTINF:-1,US: MSNBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43809
+#EXTINF:-1,US: Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43810
+#EXTINF:-1,US: Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43811
+#EXTINF:-1,US: NBA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43812
+#EXTINF:-1,US: NBC 10 Philadelphia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43813
+#EXTINF:-1,US: NBC 12 KPNX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43814
+#EXTINF:-1,US: NBC Baltimore HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43815
+#EXTINF:-1,US: NBC Bufalo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43816
+#EXTINF:-1,US: NBC Carolinas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43817
+#EXTINF:-1,US: NBC Chicago HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43818
+#EXTINF:-1,US: NBC Kansas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43819
+#EXTINF:-1,US: NBC KSL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43820
+#EXTINF:-1,US: NBC KXAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43821
+#EXTINF:-1,US: NBC Los Angeles HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43822
+#EXTINF:-1,US: NBC Michigan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43823
+#EXTINF:-1,US: NBC New Orleans HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43824
+#EXTINF:-1,US: NBC New York HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43825
+#EXTINF:-1,US: NBC Portland HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43826
+#EXTINF:-1,US: NBC San Fransisco HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43827
+#EXTINF:-1,US: NBC SN Bay Area HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43828
+#EXTINF:-1,US: NBC SN Bay Area Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43829
+#EXTINF:-1,US: NBC SN California HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43830
+#EXTINF:-1,US: NBC SN Chicago HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43831
+#EXTINF:-1,US: NBC SN Chicago HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43832
+#EXTINF:-1,US: NBC SN Chicago Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43833
+#EXTINF:-1,US: NBC SN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43834
+#EXTINF:-1,US: NBC SN Northwest HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43835
+#EXTINF:-1,US: NBC SN Philadelphia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43836
+#EXTINF:-1,US: NBC SN Philadelphia Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43837
+#EXTINF:-1,US: NBC SN Washington HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43838
+#EXTINF:-1,US: NBC SN Washington Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43839
+#EXTINF:-1,US: NBC Universo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43840
+#EXTINF:-1,US: NBC Washington HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43841
+#EXTINF:-1,US: NBC WESH Orlando HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43842
+#EXTINF:-1,US: NBC WLBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43843
+#EXTINF:-1,US: NBC WMTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43844
+#EXTINF:-1,US: NCB Jacksonville HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43845
+#EXTINF:-1,US: NECN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43846
+#EXTINF:-1,US: NESN Boston HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43847
+#EXTINF:-1,US: NESN Maine HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43848
+#EXTINF:-1,US: NESN Maine Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43849
+#EXTINF:-1,US: NESN Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43850
+#EXTINF:-1,US: NFL Redzone HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43851
+#EXTINF:-1,US: NHL Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43852
+#EXTINF:-1,US: Nick JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43853
+#EXTINF:-1,US: Nicktoons HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43854
+#EXTINF:-1,US: Olympic Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43855
+#EXTINF:-1,US: Outdoor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43856
+#EXTINF:-1,US: Outside HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43857
+#EXTINF:-1,US: OWN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43858
+#EXTINF:-1,US: Pac 12 Arizona HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43859
+#EXTINF:-1,US: Pac 12 Bay Area HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43860
+#EXTINF:-1,US: Pac 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43861
+#EXTINF:-1,US: Pac 12 Los Angeles HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43862
+#EXTINF:-1,US: Pac 12 Mountain HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43863
+#EXTINF:-1,US: Pac 12 Oregon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43864
+#EXTINF:-1,US: Pac 12 Washington HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43865
+#EXTINF:-1,US: People TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43866
+#EXTINF:-1,US: POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43867
+#EXTINF:-1,US: Reelz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43868
+#EXTINF:-1,US: Revolt HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43869
+#EXTINF:-1,US: Showtime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43870
+#EXTINF:-1,US: Showtime 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43871
+#EXTINF:-1,US: Showtime Beyond HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43872
+#EXTINF:-1,US: Showtime Extreme HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43873
+#EXTINF:-1,US: Showtime Showcase HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43874
+#EXTINF:-1,US: Showtime WEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43875
+#EXTINF:-1,US: Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43876
+#EXTINF:-1,US: Sportsman HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43877
+#EXTINF:-1,US: Sportsnet Y HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43878
+#EXTINF:-1,US: Stadium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43879
+#EXTINF:-1,US: Stadium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43880
+#EXTINF:-1,US: Stadium 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43881
+#EXTINF:-1,US: Stadium 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43882
+#EXTINF:-1,US: MovieMax HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43883
+#EXTINF:-1,US: Sundance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43884
+#EXTINF:-1,US: SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43885
+#EXTINF:-1,US: TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43886
+#EXTINF:-1,US: TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43887
+#EXTINF:-1,US: Tennis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43888
+#EXTINF:-1,US: BEIN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43889
+#EXTINF:-1,US: Yes Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43890
+#EXTINF:-1,US: WSBK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43891
+#EXTINF:-1,US: World Fishing Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43892
+#EXTINF:-1,US: WMFP Boston HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43893
+#EXTINF:-1,US: Willow Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43894
+#EXTINF:-1,US: WGN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43895
+#EXTINF:-1,US: Weather Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43896
+#EXTINF:-1,US: WE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43897
+#EXTINF:-1,US: WBFS Miami HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43898
+#EXTINF:-1,US: Viceland HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43899
+#EXTINF:-1,US: Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43900
+#EXTINF:-1,US: USA Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43901
+#EXTINF:-1,US: Universal Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43902
+#EXTINF:-1,US: UFC Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43903
+#EXTINF:-1,US: TV One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43904
+#EXTINF:-1,US: TV Land HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43905
+#EXTINF:-1,US: Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43906
+#EXTINF:-1,US: Tru TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43907
+#EXTINF:-1,US: Travel Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43908
+#EXTINF:-1,US: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43909
+#EXTINF:-1,US: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43910
+#EXTINF:-1,US: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43911
+#EXTINF:-1,US: MLB Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43912
+#EXTINF:-1,US: WAPA America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43913
+#EXTINF:-1,US: Wapa HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43914
+#EXTINF:-1,US: VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43915
+#EXTINF:-1,US: USA Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43916
+#EXTINF:-1,US: Univisión HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43917
+#EXTINF:-1,US: Unimas HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43918
+#EXTINF:-1,US: TNT USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43919
+#EXTINF:-1,US: The Weather Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43920
+#EXTINF:-1,US: THE CW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43921
+#EXTINF:-1,US: Televisión Domunicana HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43922
+#EXTINF:-1,US: Telesistema Canal 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43923
+#EXTINF:-1,US: Telemundo International HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43924
+#EXTINF:-1,US: Telemundo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43925
+#EXTINF:-1,US: Telemicro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43926
+#EXTINF:-1,US: Super Canal 33 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43927
+#EXTINF:-1,US: PPV Events HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43928
+#EXTINF:-1,US: Pasiones HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43929
+#EXTINF:-1,US: Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43930
+#EXTINF:-1,US: NESN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43931
+#EXTINF:-1,US: NBCSB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43932
+#EXTINF:-1,US: NBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43933
+#EXTINF:-1,US: MY38 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43934
+#EXTINF:-1,US: MLB Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43935
+#EXTINF:-1,US: Home And Health HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43936
+#EXTINF:-1,US: Hgtv HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43937
+#EXTINF:-1,US: HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43938
+#EXTINF:-1,US: HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43939
+#EXTINF:-1,US: HBO Signature Latino HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43940
+#EXTINF:-1,US: HBO Latino HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43941
+#EXTINF:-1,US: HBO Family USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43942
+#EXTINF:-1,US: HBO Family Latino HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43943
+#EXTINF:-1,US: HBO Comedy USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43944
+#EXTINF:-1,US: HBO 2 USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43945
+#EXTINF:-1,US: HBO 2 Latino HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43946
+#EXTINF:-1,US: FOX Action Latino HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43947
+#EXTINF:-1,US: FOX 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43948
+#EXTINF:-1,US: Disney xD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43949
+#EXTINF:-1,US: Disney JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43950
+#EXTINF:-1,US: Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43951
+#EXTINF:-1,US: Discovery Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43952
+#EXTINF:-1,US: Discovery Channel USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43953
+#EXTINF:-1,US: CDN Sport Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43954
+#EXTINF:-1,US: CDN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43955
+#EXTINF:-1,US: CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43956
+#EXTINF:-1,US: Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43957
+#EXTINF:-1,US: Boston 7 News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43958
+#EXTINF:-1,US: Antena Latina 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43959
+#EXTINF:-1,US: AMC USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43960
+#EXTINF:-1,US: ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43961
+#EXTINF:-1,US: MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43962
+#EXTINF:-1,US: MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43963
+#EXTINF:-1,US: Bein 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43964
+#EXTINF:-1,US: Bein 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43965
+#EXTINF:-1,US: Bein 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43966
+#EXTINF:-1,US: Bein 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43967
+#EXTINF:-1,US: Bein 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43968
+#EXTINF:-1,US:  Star HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43969
+#EXTINF:-1,US: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43970
+#EXTINF:-1,US: ABC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43971
+#EXTINF:-1,US: AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/43972
+#EXTINF:-1,Playboy Latino FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35326
+#EXTINF:-1,Playboy TV Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35328
+#EXTINF:-1,Brazzers TV Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35329
+#EXTINF:-1,Brazzers TV Europe 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35330
+#EXTINF:-1,Erox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35332
+#EXTINF:-1,Fap TV Compilation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35333
+#EXTINF:-1,Fap TV Lesbian HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35334
+#EXTINF:-1,Fap TV Parody HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35335
+#EXTINF:-1,Fap TV Teens HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35336
+#EXTINF:-1,Fap TV XXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35337
+#EXTINF:-1,FapTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35338
+#EXTINF:-1,FapTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35339
+#EXTINF:-1,FapTV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35340
+#EXTINF:-1,CandyTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35341
+#EXTINF:-1,Dorcel TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35342
+#EXTINF:-1,Evil Angel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35343
+#EXTINF:-1,Balkan Erotic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35344
+#EXTINF:-1,Barely
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35345
+#EXTINF:-1,Blue Hustler
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35346
+#EXTINF:-1,Cento X Cento
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35347
+#EXTINF:-1,EgoistTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35348
+#EXTINF:-1,Erotic1 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35349
+#EXTINF:-1,Erotic4 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35350
+#EXTINF:-1,Hustler FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35352
+#EXTINF:-1,Hustler TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35353
+#EXTINF:-1,Jasmin TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35354
+#EXTINF:-1,Nuart TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35356
+#EXTINF:-1,O-la-la
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35357
+#EXTINF:-1,Oh Ah HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35358
+#EXTINF:-1,Passie XXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35359
+#EXTINF:-1,PentHouse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/44268
+#EXTINF:-1,PentHouse 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35361
+#EXTINF:-1,PentHouse 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35362
+#EXTINF:-1,PentHouse Gold FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35363
+#EXTINF:-1,Pinko 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35365
+#EXTINF:-1,Pinko 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35366
+#EXTINF:-1,Pinko 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35367
+#EXTINF:-1,Pinko 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35368
+#EXTINF:-1,Pinko 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35369
+#EXTINF:-1,Pinko 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35370
+#EXTINF:-1,Pinko 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35371
+#EXTINF:-1,Pinko 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35372
+#EXTINF:-1,Private 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35375
+#EXTINF:-1,Private 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35376
+#EXTINF:-1,Private 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35377
+#EXTINF:-1,Private 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35378
+#EXTINF:-1,Private 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35379
+#EXTINF:-1,Private 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35380
+#EXTINF:-1,Private 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35381
+#EXTINF:-1,Private 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35382
+#EXTINF:-1,Private 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35383
+#EXTINF:-1,Private 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35384
+#EXTINF:-1,Private 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35385
+#EXTINF:-1,Private 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35386
+#EXTINF:-1,Private 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35387
+#EXTINF:-1,Private TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35388
+#EXTINF:-1,Reality Kings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35390
+#EXTINF:-1,REDLight FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35392
+#EXTINF:-1,Sextreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35398
+#EXTINF:-1,SexTreme Latino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35400
+#EXTINF:-1,ShalunTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35401
+#EXTINF:-1,Starz FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35402
+#EXTINF:-1,Venus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35404
+#EXTINF:-1,Vivid Red FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35405
+#EXTINF:-1,X 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35407
+#EXTINF:-1,XXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35408
+
+#EXTINF:-1,Telemundo Internacional FHD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35088
+#EXTINF:-1,Telemundo Boston HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35089
+#EXTINF:-1,Telemundo Chicago HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35090
+#EXTINF:-1,Telemundo Dallas HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35091
+#EXTINF:-1,Telemundo Denver HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35092
+#EXTINF:-1,Telemundo Fresno HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35093
+#EXTINF:-1,Telemundo Harlingen HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35094
+#EXTINF:-1,Telemundo Houston HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35095
+#EXTINF:-1,Telemundo Las Vegas HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35096
+#EXTINF:-1,Telemundo Los Angeles HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35097
+#EXTINF:-1,Telemundo Miami HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35098
+#EXTINF:-1,Telemundo New York HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35099
+#EXTINF:-1,Telemundo Philadelphia HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35100
+#EXTINF:-1,Telemundo Phoenix HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35101
+#EXTINF:-1,Telemundo San Francisco HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35103
+#EXTINF:-1,Telemundo Tucson HQ (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35104
+#EXTINF:-1,Unimas Atlanta HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35106
+#EXTINF:-1,Unimas Los Angeles HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35108
+#EXTINF:-1,Unimas Miami HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35109
+#EXTINF:-1,Unimas New York HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35110
+#EXTINF:-1,Unimas Albuquerque Santa Fe HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35111
+#EXTINF:-1,Unimas Austin HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35112
+#EXTINF:-1,Unimas Cleveland HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35113
+#EXTINF:-1,Unimas Dallas HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35114
+#EXTINF:-1,Unimas EAST HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35115
+#EXTINF:-1,Unimas Fresno HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35116
+#EXTINF:-1,Unimas Houston HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35117
+#EXTINF:-1,Unimas Phoenix HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35119
+#EXTINF:-1,Unimas Raleigh HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35120
+#EXTINF:-1,Unimas Sacramento HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35121
+#EXTINF:-1,Unimas San Antonio HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35122
+#EXTINF:-1,Unimas WEST HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35124
+#EXTINF:-1,Galavision Cleveland HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35125
+#EXTINF:-1,Galavision Philadelphia HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35126
+#EXTINF:-1,Galavisión Albuquerque Santa Fe HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35127
+#EXTINF:-1,Galavisión Austin HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35128
+#EXTINF:-1,Galavisión Dallas HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35129
+#EXTINF:-1,Galavisión EAST HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35130
+#EXTINF:-1,Galavisión Fresno HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35131
+#EXTINF:-1,Galavisión Houston HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35132
+#EXTINF:-1,Galavisión Los Angeles HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35133
+#EXTINF:-1,Galavisión Miami HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35134
+#EXTINF:-1,Galavisión New York HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35135
+#EXTINF:-1,Galavisión Phoenix HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35136
+#EXTINF:-1,Galavisión Sacramento HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35137
+#EXTINF:-1,Galavisión Salt Lake HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35138
+#EXTINF:-1,Galavisión San Antonio HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35139
+#EXTINF:-1,Galavisión WEST HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35140
+#EXTINF:-1,Galaxy San Francisco HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35141
+#EXTINF:-1,Univision  Raleigh HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35142
+#EXTINF:-1,Univision Albuquerque Santa Fe HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35143
+#EXTINF:-1,Univision Atlanta HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35144
+#EXTINF:-1,Univision Austin HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35145
+#EXTINF:-1,Univision Chicago HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35146
+#EXTINF:-1,Univision Cleveland HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35147
+#EXTINF:-1,Univision EAST HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35149
+#EXTINF:-1,Univision Fresno HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35150
+#EXTINF:-1,Univision Houston HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35151
+#EXTINF:-1,Univision Los Angeles HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35152
+#EXTINF:-1,Univision Miami HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35153
+#EXTINF:-1,Univision New York HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35154
+#EXTINF:-1,Univision Phoenix HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35155
+#EXTINF:-1,Univision Philadelphia HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35156
+#EXTINF:-1,Univision Puerto Rico HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35157
+#EXTINF:-1,Univision Salt Lake HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35159
+#EXTINF:-1,Univision TLNovelas SD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35161
+#EXTINF:-1,Univision WEST FHD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/35162
+
+#EXTINF:-1,Fight Network HD (CA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34711
+#EXTINF:-1,NBA TV FHD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34712
+#EXTINF:-1,Tennis Channel HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34713
+#EXTINF:-1,UFC Live FHD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34714
+#EXTINF:-1,Univision Deportes Network HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34715
+#EXTINF:-1,WWE Network HD  (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34716
+#EXTINF:-1,NFL Network HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34705
+#EXTINF:-1,ESPN HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34668
+#EXTINF:-1,ESPN 2 HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34669
+#EXTINF:-1,ESPN Deportes HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34670
+#EXTINF:-1,ESPN News HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34671
+#EXTINF:-1,ESPN U HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34672
+
+#EXTINF:-1,Fox Sports 1 HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34649
+#EXTINF:-1,Fox Sports 2 HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34650
+#EXTINF:-1,Fox Deportes HD (US)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34651
+
+#EXTINF:-1,PPV USA: Cinema 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34548
+#EXTINF:-1,PPV USA: Cinema 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34549
+#EXTINF:-1,PPV USA: Cinema 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34550
+#EXTINF:-1,PPV USA: Cinema 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34551
+#EXTINF:-1,PPV USA: Cinema 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34552
+#EXTINF:-1,PPV USA: Cinema 06
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34553
+#EXTINF:-1,PPV USA: Cinema 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34554
+#EXTINF:-1,PPV USA: Cinema 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34555
+#EXTINF:-1,PPV USA: Cinema 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34556
+#EXTINF:-1,PPV USA: Cinema 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34557
+#EXTINF:-1,PPV USA: Cinema 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34558
+#EXTINF:-1,PPV USA: Cinema 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34559
+#EXTINF:-1,PPV USA: Cinema 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34560
+#EXTINF:-1,PPV USA: Cinema 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34561
+#EXTINF:-1,PPV USA: Cinema 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34562
+#EXTINF:-1,PPV USA: Cinema 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34563
+#EXTINF:-1,PPV USA: Cinema 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34564
+#EXTINF:-1,PPV USA: Cinema 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34565
+#EXTINF:-1,PPV USA: Cinema 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34566
+#EXTINF:-1,PPV USA: Cinema 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34567
+#EXTINF:-1,PPV USA: Cinema 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34568
+#EXTINF:-1,PPV USA: Cinema 22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34569
+#EXTINF:-1,PPV USA: Cinema 23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34570
+#EXTINF:-1,PPV USA: Cinema 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34571
+#EXTINF:-1,PPV USA: Cinema 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34572
+#EXTINF:-1,PPV USA: Cinema 26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34573
+#EXTINF:-1,PPV USA: Cinema 27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34574
+#EXTINF:-1,PPV USA: Cinema 28
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34575
+#EXTINF:-1,PPV USA: Cinema 29
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34576
+#EXTINF:-1,PPV USA: Cinema 30
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34577
+#EXTINF:-1,PPV USA: Cinema 31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34578
+#EXTINF:-1,PPV USA: Cinema 32
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34579
+#EXTINF:-1,PPV USA: Cinema 33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34580
+#EXTINF:-1,PPV USA: Cinema 34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34581
+#EXTINF:-1,PPV USA: Cinema 35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34582
+#EXTINF:-1,PPV USA: Cinema 36
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34583
+#EXTINF:-1,PPV USA: Cinema 37
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34584
+#EXTINF:-1,PPV USA: Cinema 38
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34585
+#EXTINF:-1,PPV USA: Cinema 39
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34586
+#EXTINF:-1,PPV USA: Starz Cinema West FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34588
+#EXTINF:-1,PPV USA: Starz Cinema FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34589
+#EXTINF:-1,PPV USA: Starz Kids & Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34591
+#EXTINF:-1,PPV USA: Starz Encore FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34592
+#EXTINF:-1,PPV USA: Starz Encore West FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34593
+#EXTINF:-1,PPV USA: Starz Encore Family FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34594
+#EXTINF:-1,PPV USA: Starz Encore Black FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34595
+#EXTINF:-1,PPV USA: Showtime West FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34596
+#EXTINF:-1,PPV USA: RetroPlex FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34597
+#EXTINF:-1,PPV USA: OuterMax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34598
+#EXTINF:-1,PPV USA: MoviePlex FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34599
+#EXTINF:-1,PPV USA: MovieMax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34600
+#EXTINF:-1,PPV USA: Cinemax East FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34603
+#EXTINF:-1,PPV USA: HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34604
+#EXTINF:-1,PPV USA: HBO 2 West FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34605
+#EXTINF:-1,PPV USA: HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tvla.xyz:80/jose/1234/34606
