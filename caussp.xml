@@ -41,15 +41,15 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein
 plugin://plugin.video.f4mTester/?url=&amp;streamtype=HLSRETRY&amp;name=Link
 EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]BEIN LA LIGA HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]BEIN LA LIGA HD[/B][/COLOR]
-http://31.220.3.199:2103/live/Fabio1/Fabio2/2082.m3u8
+EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a297e6c1098aca63~mv2.png",[COLOR orange][B]BEIN LA LIGA HD[/B][/COLOR]
+
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA
 EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",[COLOR orange][B]LA LIGA SPAIN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA SPAIN
 EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra[/B][/COLOR]
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=&amp;streamtype=HLSRETRY&amp;name=Bein Sport Extrahttps://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_5640800/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sport Extra[/B][/COLOR]
 https://bein-plutolive-vo.akamaized.net/m/hlslive/bein.m3u8?chname=bein&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=bein-plutolive-vo.akamaized.net%2Fm&userParams=ccp%3DeyJkZXZpY2VJZCI6ImI3MDIxODFhLWMxZDYtNGVlMi05NDgxLTc1M2Y0NzFlMmNlNyIsImRldmljZVZlcnNpb24iOiI2Ni4wLjM1MTUuNDQiLCJhcHBWZXJzaW9uIjoiMi45LjMtYjg3OWU0MDBkNWRmN2E5NjlkNGJmZjg4NjNmZTVjYjAyYzcxMjBlNiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiT3BlcmEiLCJhZHZlcnRpc2luZ0lkIjoiIiwiZGV2aWNlTGF0IjoiNDAuODM2NCIsImRldmljZUxvbiI6Ii03NC4xNDAzIiwiZGV2aWNlRE5UIjoiMCIsImRldmljZU1vZGVsIjoiT3BlcmEiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi4zNy4zIiwic3RpdGNoZXJSZXFJZCI6IjdhMTU3MTAzLTFkMmEtNDAxYi04YWU2LTg1NTM3ZTdhYWVkMiIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMjAwMTplNjg6NTQwNDpmMGYxOjQ4OWQ6ZjE4OTo4MjQwOjllYjUiLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFBpeGVsIDIgWEwpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS83NC4wLjM3MjkuMTg2IE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBQaXhlbCAyIFhMKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvNzQuMC4zNzI5LjE4NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjIwMDE6ZTY4OjU0MDQ6ZjBmMTo0ODlkOmYxODk6ODI0MDo5ZWI1IiwiY2hJZCI6IjVkZjk3NWUyYjI3Y2Y1MDAwOTIxYzEwMiIsInRpbWVsaW5lSWQiOiI1ZjA4YzFjNTg5YWY2ZjAwMDdkMTAyMWIiLCJjbGlwSWQiOiI1ZTNlMDYyNjIxMmE4NTAwMDk3M2JhMWQiLCJzZXNzaW9uSWQiOiI4NTVkNjgwMS1jOTEyLTQyOGQtYjYyMC1lZGU0ZGQwYzNiMTUiLCJlcGlzb2RlSWQiOiI1ZjA4YjkzZjkwYWMzMjAwMDc2ZjVmYjciLCJwYXJ0bmVyQ29kZSI6ImJlSU4gU3BvcnRzIiwicGFydG5lcl9pZCI6IjVlNDczMjMwN2NiZjM4MDAwOWNhMDZmNiIsIm9yaWdpbiI6ImFkU3BhcngiLCJmcm9tX3N0aXRjaGVyIjp0cnVlfQ%3D%3D
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -79,7 +79,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://185.180.22
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-https://gma2.blab.email/btn.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://gma2.blab.email/btn.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
@@ -89,7 +89,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://espn-live.stream/stream/45629.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-plugin://plugin.video.live.streamspro/?url=$doregex[get-decode]|Referer=http://yoursports.stream/ing/btn&User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:81.0)+Gecko/20100101+Firefox/81.0&mode=17&regexs={u'source': {'expres': u'src="(http:\\/\\/yrsprts.xyz[^"]*)', 'name': u'source', 'page': u'http://yoursports.stream/'}, u'base64': {'expres': u"mustave = atob.'(.*?)'", 'cookiejar': '', 'name': u'base64', 'page': u'http://yoursports.stream/ing/btn'}, u'get-decode': {'expres': u'$pyFunction:base64.b64decode("$doregex[base64]")', 'name': u'get-decode', 'page': u'None'}}
+plugin://plugin.video.live.streamspro/?url=%24doregex%5Bget-decode%5D%7CReferer%3Dhttp%3A%2F%2Fyoursports.stream%2Fing%2Fbtn%26User-Agent%3DMozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A81.0%29+Gecko%2F20100101+Firefox%2F81.0&mode=17&regexs=%7Bu%27source%27%3A%20%7B%27expres%27%3A%20u%27src%3D%22%28http%3A%5C%5C/%5C%5C/yrsprts.xyz%5B%5E%22%5D%2A%29%27%2C%20%27name%27%3A%20u%27source%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/%27%7D%2C%20u%27base64%27%3A%20%7B%27expres%27%3A%20u%22mustave%20%3D%20atob.%27%28.%2A%3F%29%27%22%2C%20%27cookiejar%27%3A%20%27%27%2C%20%27name%27%3A%20u%27base64%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/ing/btn%27%7D%2C%20u%27get-decode%27%3A%20%7B%27expres%27%3A%20u%27%24pyFunction%3Abase64.b64decode%28%22%24doregex%5Bbase64%5D%22%29%27%2C%20%27name%27%3A%20u%27get-decode%27%2C%20%27page%27%3A%20u%27None%27%7D%7D
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
