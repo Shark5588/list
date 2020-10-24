@@ -88,6 +88,8 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Netwo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://espn-live.stream/stream/45629.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+plugin://plugin.video.live.streamspro/?url=$doregex[get-decode]|Referer=http://yoursports.stream/ing/btn&User-Agent=Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:81.0)+Gecko/20100101+Firefox/56.0&mode=17&regexs={u'source': {'expres': u'src="(http:\\/\\/yrsprts.xyz[^"]*)', 'name': u'source', 'page': u'http://yoursports.stream/'}, u'base64': {'expres': u"mustave = atob.'(.*?)'", 'cookiejar': '', 'name': u'base64', 'page': u'http://yoursports.stream/ing/btn'}, u'get-decode': {'expres': u'$pyFunction:base64.b64decode("$doregex[base64]")', 'name': u'get-decode', 'page': u'None'}}
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -239,8 +241,8 @@ EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/ES
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN plus ESPN plus ESPN plus ESPN plus <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/04/espn-plus-logo.jpg?w=1000&h=563&crop=1",[COLOR orange][B]ESPN plus | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://201.87.232.214:25461/marcondes/101010/16247
+EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2018/04/espn-plus-logo.jpg?w=1000&h=563&crop=1",[COLOR orange][B]ESPN plus | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN LONGHORN ESPN LONGHORN ESPN LONGHORN <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
