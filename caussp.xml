@@ -79,13 +79,12 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://185.180.22
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://gma2.blab.email/btn.m3u8
+https://gma2.blab.email/btn.m3u8
 EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-https://f1.ustvgo.org/BTN/myStream/chunks.m3u8?nimblesessionid=9370097&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMCAyOjAyOjA1IFBNJmhhc2hfdmFsdWU9ZzRXNkZmeUhNUjRhdi8ycloweTRsZz09JnZhbGlkbWludXRlcz0yNDA=
+
 EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://espn-live.stream/stream/45629.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
@@ -130,7 +129,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://sportshq-
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/cbsshq.m3u8|Referer=https://sportsbay.org/stream/53069.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
-https://peer6.ustv24h.live/CBSSN/myStream/chunks.m3u8?nimblesessionid=48928469&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMCAxOjU4OjQ3IFBNJmhhc2hfdmFsdWU9UStMK24vWXQyc1N0cDJSaTAxVkdqUT09JnZhbGlkbWludXRlcz0yNDA=|Referer=https://ustvgo.tv/clappr.php?stream=CBSSN|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+https://e7.habrox.xyz/ingest09/33467.m3u8?sf=NzBwczEwU2JE&token=fj1Srd8s8mRcY0QaqjRZsQ&expires=1604085213&rnd=|Referer=https://telerium.live/embed/33467.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8&amp;streamtype=HLSRETRY&amp;name=CBS SPORTS
 
