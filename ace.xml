@@ -193,8 +193,8 @@ http://127.0.0.1:6878/ace/getstream?id=9<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 2» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
 
-EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 2» HD (Ace stream)[/COLOR][/B]
-http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
+#EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 2» HD (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/getstream?id=4d12b1e9577446678db575e4bc80c1fa2244e47d&.mp4
 
 EXTINF:-1 tvg-logo="https://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg"group-title="",[B][COLORgold]«BT SPORTS 3» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
