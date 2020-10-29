@@ -262,6 +262,8 @@ plugin://program.plexus/?mode=1&url=acestream://1b1b1327f8ec26e299a1b62f31d28844
 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/829_300.png"group-title="",[B][COLORgold]«Fox Sport 2 HD» (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=a25e4b08b4aad2300697ac92780d601a344a4d81&.mp4
 
+#EXTINF:-1 tvg-logo="https://bama-q.tv/wp-content/uploads/2017/10/HuntChannel-copy.png"group-title="",[B][COLORgold]«Hunt Channel» (Ace stream)[/COLOR][/B]
+http://127.0.0.1:6878/ace/manifest.m3u8?id=52be0ae087af06c5f55c4737eda3840b20d7d4d3&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 
 EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OfyLSV1wnwo/maxresdefault.jpg"group-title="",[B][COLORgold]«LALIGATV» (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://4bc59d13698aa53146275b801b9e0e95d55f5e79&name=My+acestream+channel
