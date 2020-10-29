@@ -78,17 +78,17 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://185.180.22
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/753-7530974_big-ten-network-logopedia-fandom-powered-by-wikia.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://gma2.blab.email/btn.m3u8
-EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/753-7530974_big-ten-network-logopedia-fandom-powered-by-wikia.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/753-7530974_big-ten-network-logopedia-fandom-powered-by-wikia.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/753-7530974_big-ten-network-logopedia-fandom-powered-by-wikia.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/753-7530974_big-ten-network-logopedia-fandom-powered-by-wikia.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/btn.m3u8|Referer=https://espn-live.stream/stream/45629.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/753-7530974_big-ten-network-logopedia-fandom-powered-by-wikia.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
 plugin://plugin.video.live.streamspro/?url=%24doregex%5Bget-decode%5D%7CReferer%3Dhttp%3A%2F%2Fyoursports.stream%2Fing%2Fbtn%26User-Agent%3DMozilla%2F5.0+%28Windows+NT+10.0%3B+WOW64%3B+rv%3A81.0%29+Gecko%2F20100101+Firefox%2F81.0&mode=17&regexs=%7Bu%27source%27%3A%20%7B%27expres%27%3A%20u%27src%3D%22%28http%3A%5C%5C/%5C%5C/yrsprts.xyz%5B%5E%22%5D%2A%29%27%2C%20%27name%27%3A%20u%27source%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/%27%7D%2C%20u%27base64%27%3A%20%7B%27expres%27%3A%20u%22mustave%20%3D%20atob.%27%28.%2A%3F%29%27%22%2C%20%27cookiejar%27%3A%20%27%27%2C%20%27name%27%3A%20u%27base64%27%2C%20%27page%27%3A%20u%27http%3A//yoursports.stream/ing/btn%27%7D%2C%20u%27get-decode%27%3A%20%7B%27expres%27%3A%20u%27%24pyFunction%3Abase64.b64decode%28%22%24doregex%5Bbase64%5D%22%29%27%2C%20%27name%27%3A%20u%27get-decode%27%2C%20%27page%27%3A%20u%27None%27%7D%7D
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -130,7 +130,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://sportshq-
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
 https://e7.cdn4.us/ingest666/cbsshq.m3u8|Referer=https://sportsbay.org/stream/53069.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
-https://f1.ustvgo.org/CBSSN/myStream/chunks.m3u8?nimblesessionid=7515202&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMCAyOjA0OjA0IFBNJmhhc2hfdmFsdWU9YVJYeFdGelIrQ1daNnJDaWNmOEl6UT09JnZhbGlkbWludXRlcz0yNDA=|Referer=https://ustvgo.tv/clappr.php?stream=CBSSN|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://peer6.ustv24h.live/CBSSN/myStream/chunks.m3u8?nimblesessionid=48928469&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMCAxOjU4OjQ3IFBNJmhhc2hfdmFsdWU9UStMK24vWXQyc1N0cDJSaTAxVkdqUT09JnZhbGlkbWludXRlcz0yNDA=|Referer=https://ustvgo.tv/clappr.php?stream=CBSSN|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8&amp;streamtype=HLSRETRY&amp;name=CBS SPORTS
 
