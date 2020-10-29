@@ -242,13 +242,13 @@ http://127.0.0.1:6878/ace/getstream?id=4449e0788d65ec051b1113a31b8640ee8acd7170&
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",[B][COLORgold]«Eurosport 1»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png",[B][COLORgold]«Eurosport 2»«HD»  (Ace stream)[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Eurosport_2_Logo.svg/220px-Eurosport_2_Logo.svg.png",[B][COLORgold]«Eurosport 2»«HD»  (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=30a49eef2476820106c8292374838d03a72f2307&.mp4
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/65/f3/7065f3203ee3972aee4e4e175912a0c4.jpg",[B][COLORgold]«Extreme Sports»(Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=3ae4ac520a9a212ea1d9e4abf7a0c6be4fbfda4b&.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/65/f3/7065f3203ee3972aee4e4e175912a0c4.jpg",[B][COLORgold]«Extreme Sports»(Ace stream)[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://3ae4ac520a9a212ea1d9e4abf7a0c6be4fbfda4b&name=Extreme
+EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/70/65/f3/7065f3203ee3972aee4e4e175912a0c4.jpg",[B][COLORgold]«Extreme Sports»(Ace stream)[/COLOR][/B]
+plugin://program.plexus/?mode=1&url=----------------------------------------&name=Extreme
 
 EXTINF:-1 tvg-logo="https://www.tvpolsat.info/images/news/fightbox.gif",[B][COLORgold]«FightBox HD» (Ace stream)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&.mp4
@@ -300,8 +300,8 @@ http://127.0.0.1:6878/ace/getstream?id=<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 EXTINF:-1 tvg-logo="http://www.raisport.rai.it/dl/components/img/svg/RaiSport-logo-sito.png"group-title="",[B][COLORgold]«Rai Sport» Dual Audio (Ita,eng) (Ace stream)[/COLOR][/B]
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
 
-EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg"group-title="",[B][COLORgold]«Real Madrid TV» (Ace stream)[/COLOR][/B] (Spanish)
-plugin://program.plexus/?mode=1&url=acestream://==========================================&name=My+acestream+channel
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg"group-title="",[B][COLORgold]«Real Madrid TV» (Ace stream)[/COLOR][/B] (Spanish)
+plugin://program.plexus/?mode=1&url=acestream://c59f65ad975cf87f6feb2051c4e0ad5cd19734b4&name=My+acestream+channel
 
 EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg"group-title="",[B][COLORgold]«Real Madrid TV» (Ace stream)[/COLOR][/B] (English)
 plugin://program.plexus/?mode=1&url=acestream://==========================================&name=My+acestream+channel
@@ -357,14 +357,14 @@ plugin://program.plexus/?mode=1&url=acestream://a1ca0b823615e3af44a5ae84e12e5b17
 EXTINF:-1,TEST
 plugin://program.plexus/?mode=1&url=acestream://b0ab000e277b6465107f353df09b4ac75af8d38d&name=My+acestream+channel
 
-EXTINF:-1,TEST
-plugin://program.plexus/?mode=1&url=acestream://e4d9f7188e4403523c32717a98093671f8931101&name=My+acestream+channel
+#EXTINF:-1,TEST
+plugin://program.plexus/?mode=1&url=acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63&name=My+acestream+channel
 
 EXTINF:-1,ArenaVision Multi
 http://nhlreplays.com/nhlreplay/St-Louis-Blues-vs-Nashville-Predators-NHL-FEB-10-2019-1330-EST-ol1/
 
-EXTINF:-1,???????????????????????
-http://127.0.0.1:6878/ace/getstream?id=af29f039772e99aac428d9d96d4e65b6284f3ec0&.mp4
+#EXTINF:-1,???????????????????????
+http://127.0.0.1:6878/ace/getstream?id=781f1e0f92475b086b3988bf45da9fbf88de3e63&.mp4
 
 EXTINF:-1, 720p
 http://127.0.0.1:6878/ace/getstream?id=&.mp4
