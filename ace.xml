@@ -301,10 +301,10 @@ EXTINF:-1 tvg-logo="http://www.raisport.rai.it/dl/components/img/svg/RaiSport-lo
 plugin://program.plexus/?mode=1&url=acestream://<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<&name=My+acestream+channel
 
 #EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg"group-title="",[B][COLORgold]«Real Madrid TV» (Ace stream)[/COLOR][/B] (Spanish)
-plugin://program.plexus/?mode=1&url=acestream://c59f65ad975cf87f6feb2051c4e0ad5cd19734b4&name=My+acestream+channel
+http://127.0.0.1:6878/ace/getstream?id=504e3f04506d0703f86fb7239c23efdd00257b6b&.mp4
 
 EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg"group-title="",[B][COLORgold]«Real Madrid TV» (Ace stream)[/COLOR][/B] (English)
-plugin://program.plexus/?mode=1&url=acestream://==========================================&name=My+acestream+channel
+http://127.0.0.1:6878/ace/getstream?id=///////////////////////////////////////&.mp4
 
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQtK_VMTXnx3ylG7eAWEQdubzSPyLCKTlSHb76S_U57yfgddT"group-title="",[B][COLORgold]«Setanta Live» (Spanish)[/COLOR][/B]
 http://127.0.0.1:6878/ace/getstream?id=7054a00576c93804dc07e2e3dc8f429b8f2cc276&.mp4
@@ -357,14 +357,14 @@ plugin://program.plexus/?mode=1&url=acestream://a1ca0b823615e3af44a5ae84e12e5b17
 EXTINF:-1,TEST
 plugin://program.plexus/?mode=1&url=acestream://b0ab000e277b6465107f353df09b4ac75af8d38d&name=My+acestream+channel
 
-#EXTINF:-1,TEST
+EXTINF:-1,TEST
 plugin://program.plexus/?mode=1&url=acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63&name=My+acestream+channel
 
 EXTINF:-1,ArenaVision Multi
 http://nhlreplays.com/nhlreplay/St-Louis-Blues-vs-Nashville-Predators-NHL-FEB-10-2019-1330-EST-ol1/
 
-#EXTINF:-1,???????????????????????
-http://127.0.0.1:6878/ace/getstream?id=781f1e0f92475b086b3988bf45da9fbf88de3e63&.mp4
+EXTINF:-1,???????????????????????
+http://127.0.0.1:6878/ace/getstream?id=---------------------------------&.mp4
 
 EXTINF:-1, 720p
 http://127.0.0.1:6878/ace/getstream?id=&.mp4
