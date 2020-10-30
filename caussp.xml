@@ -176,14 +176,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN  ESPN  ESPN  ESPN  ESPN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://gma2.blab.email/espn.m3u8
+https://gma2.blab.email/espn.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
-#EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 https://e10.habrox.xyz/ingestnb4s/accn/f.m3u8|Referer=https://espn-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -198,7 +198,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
 https://e10.julinewr.xyz/ingestnb4s/espn_usa/master.m3u8|Referer=https://espn-live.stream/stream/43572.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
 http://live.9live.club/ch/msobBUCbstDVwY8Wo8j9sg/1589075530/espn1.m3u8|Referer=http://9live.club/game/Hello-World|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
@@ -211,7 +211,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | U
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 https://e10.julinewr.xyz/ingestnb4s/espn2_usa/master.m3u8|Referer=https://espn-live.stream/stream/45351.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -330,7 +330,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://gma2.blab.email/fs1.m3u8
+https://gma2.blab.email/fs1.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
@@ -344,7 +344,7 @@ Referer=https://espn-live.stream/stream/45459.html|User-Agent=Mozilla/5.0 (Windo
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 https://e10.julinewr.xyz/ingestnb4s/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=https://cvtv.cvalley.net/hls/FS1/FS1.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
+https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://stream.fs1.tv:8080/hls/webstream.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
 
@@ -383,7 +383,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 1
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 1
+http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 2
 EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 3
