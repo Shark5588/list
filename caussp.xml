@@ -330,9 +330,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?urlhttps://gma2.blab.email/fs1.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/live/lega0111/5LWKycVkls/40955.ts
+plugin://plugin.video.f4mTester/?url=https://gma2.blab.email/fs1.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
+EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
@@ -344,7 +344,7 @@ Referer=https://espn-live.stream/stream/45459.html|User-Agent=Mozilla/5.0 (Windo
 EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 https://e10.julinewr.xyz/ingestnb4s/fs1/f.m3u8|Referer=https://espn-live.stream/stream/45459.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
-https://cvtv.cvalley.net/hls/FS1/FS1.m3u8
+plugin://plugin.video.f4mTester/?url=https://cvtv.cvalley.net/hls/FS1/FS1.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=http://stream.fs1.tv:8080/hls/webstream.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
 
