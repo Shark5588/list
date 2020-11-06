@@ -92,13 +92,15 @@ plugin://plugin.video.live.streamspro/?url=%24doregex%5Bget-decode%5D%7CReferer%
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 https://sportsbay.org/watch/67185/1/bt-sport-1-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -382,15 +384,18 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 1
-EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
 https://livecdn.fptplay.net/qnetlive/foxsports3_1000.stream/chunklist.m3u8
-plugin://plugin.video.f4mTester/?url=https://cdn-laos.workpoint.news/sd-foxsports3_480/index.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 3
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox_Sports_3_logo.png" group-title="Sport",[COLOR orange][B]FOX Sports 3[/B][/COLOR]
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -493,7 +498,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/live/lega0111/5LWKycVkls/1165.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA TV | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/live/lega0111/5LWKycVkls/56476.ts
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA TV | USA[/B][/COLOR]
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 EXTINF:-1 tvg-logo="https://i.ibb.co/5GVT87b/85d5f67c.png",[B][COLORorange]NBA TV | USA[/B][/COLOR]
 https://e2.cdn4.us/ingest09/33437.m3u8?sf=NDBwczEwU2JE&token=fM2vSWr0PaDlQV7IYdYYtA&expires=1593797762&rnd=|Referer=https://telerium.tv/embed/33437.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/03/NBA-TNT-2016-e1458452578910.jpg",[B][COLORorange]NBA Live | 24/7[/B][/COLOR]
