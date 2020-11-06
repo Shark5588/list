@@ -170,7 +170,7 @@
 //////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 <channel>
 <name>[B][COLORred]•[/COLOR][COLOR lightslategray]  MotoGP[/COLOR][/B][COLOR red] (Kodi18+ Recommended)[/COLOR]</name>
-<thumbnail>https://www.userlogos.org/files/logos/mafi0z/Motogp.png</thumbnail>
+<thumbnail>https://www.thesportsdb.com/images/media/league/badge/rppvpw1422400797.png</thumbnail>
 <fanart>https://oddslifenetstorage.blob.core.windows.net/esportsinsider/2019/06/MotoGP-eSport-Championship-Season-3.jpg</fanart>
 <items>
 
@@ -188,7 +188,7 @@
 <expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
 <page>https://www.youtube.com/feeds/videos.xml?channel_id=UC8pYaQzbBBXg9GIOHRvTmDQ</page>
 </regex>
-<thumbnail>https://www.userlogos.org/files/logos/mafi0z/Motogp.png</thumbnail>
+<thumbnail>https://www.thesportsdb.com/images/media/league/badge/rppvpw1422400797.png</thumbnail>
 </item>
 
 <item>
@@ -205,7 +205,7 @@
 <expres><![CDATA[(?s)media:title>([^<]+).+?v/(.*?)\?.+?description>(.*?)\n]]></expres>
 <page>https://www.youtube.com/feeds/videos.xml?channel_id=UCcZmjboz9ZLc4-4QIV1VjjA</page>
 </regex>
-<thumbnail>https://www.interdeportes.es/wp-content/uploads/6ec39196-436b-4901-a8d7-26d21e6a36f6_0_crop_square_1509713116.square_3x.jpg</thumbnail>
+<thumbnail>https://www.thesportsdb.com/images/media/league/badge/rppvpw1422400797.png</thumbnail>
 <fanart>https://photos.motogp.com/2018/05/23/motogp_esport_01_0.big.jpg</fanart>
 </item>
    </items>
