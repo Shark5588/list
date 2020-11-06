@@ -7,9 +7,266 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 7/18/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://www.shark55.com/thumbnail/SportsClassicThumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 11/6/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 ################################################################ LIST 12 ###########################################################################################
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ TIVUSAT █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="TIVUSAT",▂ ▃ ▅ ▆ ▇ █ TIVUSAT █ ▇ ▆ ▅ ▃ ▂
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/45930
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",RAI 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10609
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",Rai 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10610
+#EXTINF:-1 tvg-id="Rai 1 HD" tvg-name="RAI 1 4K HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",RAI 1 4K HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39513
+#EXTINF:-1 tvg-id="Rai 1" tvg-name="RAI 1 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",RAI 1 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39514
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10606
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 FULL HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10607
+#EXTINF:-1 tvg-id="Rai 2" tvg-name="RAI 2 4K HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 4K HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39515
+#EXTINF:-1 tvg-id="Rai 2" tvg-name="RAI 2 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39516
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10603
+#EXTINF:-1 tvg-id="Rai 3" tvg-name="RAI 3 FULL HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10604
+#EXTINF:-1 tvg-id="Rai3" tvg-name="RAI 3 4K HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 4K HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39517
+#EXTINF:-1 tvg-id="Rai 3" tvg-name="RAI 3 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39518
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10577
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 FULL HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10578
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 4K HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 4K HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39519
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39520
+#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="CANALI SD",RETE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10576
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10706
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="CANALE 5 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10707
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="CANALE 5 4K HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 4K HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39509
+#EXTINF:-1 tvg-id="Canale 5" tvg-name="CANALE 5 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39510
+#EXTINF:-1 tvg-id="Italia 1" tvg-name="ITALIA 1 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39512
+#EXTINF:-1 tvg-id="Italia 1" tvg-name="ITALIA 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10655
+#EXTINF:-1 tvg-id="Italia 1" tvg-name="ITALIA 1 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10656
+#EXTINF:-1 tvg-id="Italia 1 Full HD" tvg-name="ITALIA 1 4K HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 4K HEVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/39511
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_4.png" group-title="TIVUSAT",RAI 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10600
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_4.png" group-title="TIVUSAT",RAI 4 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10601
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_5.png" group-title="TIVUSAT",RAI 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10598
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_5.png" group-title="TIVUSAT",RAI 5 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10599
+#EXTINF:-1 tvg-id="" tvg-name="LA 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png" group-title="TIVUSAT",LA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10650
+#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7_it.png" group-title="TIVUSAT",LA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10649
+#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7_it.png" group-title="TIVUSAT",LA 7 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10648
+#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7d_it.png" group-title="TIVUSAT",LA 7D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10647
+#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7d FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7d_it.png" group-title="TIVUSAT",LA 7d FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10646
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV 8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_8_it.png" group-title="TIVUSAT",TV 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10361
+#EXTINF:-1 tvg-id="" tvg-name="NOVE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nove_tv_it.png" group-title="TIVUSAT",NOVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10637
+#EXTINF:-1 tvg-id="" tvg-name="NOVE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nove_tv_it.png" group-title="TIVUSAT",NOVE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10636
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia2.png" group-title="TIVUSAT",ITALIA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10653
+#EXTINF:-1 tvg-id="" tvg-name="RAI MOVIE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="TIVUSAT",RAI MOVIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10594
+#EXTINF:-1 tvg-id="" tvg-name="IRIS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_iris.png" group-title="TIVUSAT",IRIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10657
+#EXTINF:-1 tvg-id="" tvg-name="RAI MOVIE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="TIVUSAT",RAI MOVIE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10595
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="TIVUSAT",RAI PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10591
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="TIVUSAT",RAI PREMIUM FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10592
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_extra.png" group-title="TIVUSAT",MEDIASET EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10643
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_extra.png" group-title="TIVUSAT",MEDIASET EXTRA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10642
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1200px-Logo_tv2000_2015.svg.png" group-title="TIVUSAT",TV2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10360
+#EXTINF:-1 tvg-id="" tvg-name="CIELO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cielo.png" group-title="TIVUSAT",CIELO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10701
+#EXTINF:-1 tvg-id="" tvg-name="CIELO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cielo.png" group-title="TIVUSAT",CIELO FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10538
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 20 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/20-it.png" group-title="TIVUSAT",CANALE 20 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10708
+#EXTINF:-1 tvg-id="" tvg-name="CANALE 20 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/20-it.png" group-title="TIVUSAT",CANALE 20 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10709
+#EXTINF:-1 tvg-id="Rai Sport HD" tvg-name="RAI SPORT   HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="TIVUSAT",RAI SPORT   HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10587
+#EXTINF:-1 tvg-id="Rai Sport Full HD" tvg-name="RAI SPORT   FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="TIVUSAT",RAI SPORT   FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10588
+#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1_global.png" group-title="TIVUSAT",VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10358
+#EXTINF:-1 tvg-id="Rai Storia HD" tvg-name="RAI STORIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="TIVUSAT",RAI STORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10585
+#EXTINF:-1 tvg-id="Rai Storia Full HD" tvg-name="RAI STORIA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="TIVUSAT",RAI STORIA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10586
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_news_24.png" group-title="TIVUSAT",RAI NEWS 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10593
+#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="TGCOM24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_tgcom_24.png" group-title="TIVUSAT",TGCOM24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10364
+#EXTINF:-1 tvg-id="Spike.it" tvg-name="SPIKE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png" group-title="TIVUSAT",SPIKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10374
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount-network-us.png" group-title="TIVUSAT",PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10634
+#EXTINF:-1 tvg-id="Dmax HD" tvg-name="DMAX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax_us.png" group-title="TIVUSAT",DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10684
+#EXTINF:-1 tvg-id="Dmax Full HD" tvg-name="DMAX FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax_us.png" group-title="TIVUSAT",DMAX FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10481
+#EXTINF:-1 tvg-id="AutoMotoTV.it" tvg-name="AUTOMOTO TV" tvg-logo="https://www.tvdream.net/immagini/automototv.jpg" group-title="TIVUSAT",AUTOMOTO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10715
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_tennis_it.png" group-title="TIVUSAT",SUPER TENNIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10367
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_tennis_it.png" group-title="TIVUSAT",SUPER TENNIS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10368
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/real_time_it.png" group-title="TIVUSAT",REAL TIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10580
+#EXTINF:-1 tvg-id="Real Time" tvg-name="REAL TIME FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/real_time_it.png" group-title="TIVUSAT",REAL TIME FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10413
+#EXTINF:-1 tvg-id="" tvg-name="QVC FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qvc.png" group-title="TIVUSAT",QVC FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10620
+#EXTINF:-1 tvg-id="Rai Scuola HD" tvg-name="RAI SCUOLA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_scuola.png" group-title="TIVUSAT",RAI SCUOLA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10589
+#EXTINF:-1 tvg-id="Rai Scuola Full HD" tvg-name="RAI SCUOLA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_scuola.png" group-title="TIVUSAT",RAI SCUOLA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10590
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_freccia_it_tv.png" group-title="RADIO",RADIO FRECCIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10618
+#EXTINF:-1 tvg-id="RadioItalia.it" tvg-name="RADIO ITALIA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_italia_tv.png" group-title="RADIO",RADIO ITALIA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10616
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ITALIA RAP TV HD" tvg-logo="https://www.mediakey.tv/fileadmin/news_import/radio-italia-tv-rap.png" group-title="RADIO",RADIO ITALIA RAP TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10617
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL 102.5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rtl_1025_radiovisione.png" group-title="RADIO",RTL 102.5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10575
+#EXTINF:-1 tvg-id="" tvg-name="HSE 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hse_24_italia.png" group-title="TIVUSAT",HSE 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10660
+#EXTINF:-1 tvg-id="" tvg-name="GIALLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/giallo_it.png" group-title="TIVUSAT",GIALLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10666
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TOP CRIME" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/top_crime_it.png" group-title="TIVUSAT",TOP CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10362
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boing_it_africa.png" group-title="TIVUSAT",BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10712
+#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boing-plus-it.png" group-title="TIVUSAT",BOING PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10711
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoonito_us.png" group-title="TIVUSAT",CARTOONITO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10704
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="TIVUSAT",RAI GULP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10596
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="TIVUSAT",RAI GULP FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10597
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="TIVUSAT",RAI YOYO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10583
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="TIVUSAT",RAI YOYO FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10584
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/k2_it.png" group-title="TIVUSAT",K2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10651
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER !" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dea_super.png" group-title="TIVUSAT",SUPER !
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10366
+#EXTINF:-1 tvg-id="" tvg-name="RDS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds-social-tv-it.png" group-title="TIVUSAT",RDS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10582
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ZETA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-zeta-radiovisione-it.png" group-title="RADIO",RADIO ZETA TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10611
+#EXTINF:-1 tvg-id="" tvg-name="MOTOR TREND" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motor-trend-it.png" group-title="TIVUSAT",MOTOR TREND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10641
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/class_horse_tv.png" group-title="TIVUSAT",HORSE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10699
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="TIVUSAT",EURONEWS ITALIAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10679
+#EXTINF:-1 tvg-id="Focus" tvg-name="FOCUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/focus-it.png" group-title="TIVUSAT",FOCUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10673
+#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="VIDEOLINA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/videolina_it.png" group-title="TIVUSAT",VIDEOLINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10357
+#EXTINF:-1 tvg-id="Alice" tvg-name="ALICE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alice_it.png" group-title="DIGITAL TERRESTRE",ALICE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10716
+#EXTINF:-1 tvg-id="" tvg-name="MARCO POLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/marcopolo_tv_it.png" group-title="DIGITAL TERRESTRE",MARCO POLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10644
+#EXTINF:-1 tvg-id="LEI.it" tvg-name="LEI HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lei.png" group-title="DIGITAL TERRESTRE",LEI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10451
+#EXTINF:-1 tvg-id="LEI.it" tvg-name="LEI FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lei.png" group-title="DIGITAL TERRESTRE",LEI FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10452
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/400px-Fight_network_logo.svg.png" group-title="DIGITAL TERRESTRE",FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10675
+#EXTINF:-1 tvg-id="" tvg-name="FNSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/400px-Fight_network_logo.svg.png" group-title="DIGITAL TERRESTRE",FNSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10674
+#EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/italian_fishing_tv.png" group-title="DIGITAL TERRESTRE",ITALIAN FISHING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10652
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA Live 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA Live 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10373
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10372
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA LIVE 24 NUC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA LIVE 24 NUC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10371
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO NUC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA SOLO CALCIO NUC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10370
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO MOTORI NUC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA SOLO MOTORI NUC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10369
+#EXTINF:-1 tvg-id="" tvg-name="UNIRESAT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/unire_sat.png" group-title="DIGITAL TERRESTRE",UNIRESAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10359
+#EXTINF:-1 tvg-id="" tvg-name="DONNA TV SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" group-title="DIGITAL TERRESTRE",DONNA TV SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10682
+#EXTINF:-1 tvg-id="" tvg-name="DONNA TV DIRETTO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" group-title="DIGITAL TERRESTRE",DONNA TV DIRETTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10683
+#EXTINF:-1 tvg-id="" tvg-name="CASE DESIGN" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/d0/Case_Design_Stili_Logo.png" group-title="DIGITAL TERRESTRE",CASE DESIGN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10703
+#EXTINF:-1 tvg-id="" tvg-name="LIFE 120 CHANNEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/life-120-channel-it.png" group-title="DIGITAL TERRESTRE",LIFE 120 CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10645
+#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="CLASS TV MODA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/class_tv_moda.png" group-title="DIGITAL TERRESTRE",CLASS TV MODA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10698
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="DIGITAL TERRESTRE",INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10658
+#EXTINF:-1 tvg-id="myDeejay.it" tvg-name="DEEJAY TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deejay-tv-it.png" group-title="DIGITAL TERRESTRE",DEEJAY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10686
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="VIRGIN RADIO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/virgin_radio_it_tv.png" group-title="DIGITAL TERRESTRE",VIRGIN RADIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10356
+#EXTINF:-1 tvg-id="" tvg-name="RADIO R101" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/r101-tv-it.png" group-title="RADIO",RADIO R101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10613
+#EXTINF:-1 tvg-id="" tvg-name="RADIO RADIO TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_radio_it_tv.png" group-title="RADIO",RADIO RADIO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10612
+#EXTINF:-1 tvg-id="" tvg-name="RADIO NUMBER ONE TV DIRETTO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-number-one-tv-it.png" group-title="RADIO",RADIO NUMBER ONE TV DIRETTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10614
+#EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-name="RADIO NORBA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radionorba-tv-it.png" group-title="RADIO",RADIO NORBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10615
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL TV DIRETTO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_capital_tivu.png" group-title="RADIO",RADIO CAPITAL TV DIRETTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10619
+#EXTINF:-1 tvg-id="Tgnorba24.it" tvg-name="TG NORBA 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tg_norba24.png" group-title="DIGITAL TERRESTRE",TG NORBA 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10365
+#EXTINF:-1 tvg-id="" tvg-name="POP ECONOMY" tvg-logo="https://massimoemanuelli.files.wordpress.com/2019/09/pop-economy.png" group-title="DIGITAL TERRESTRE",POP ECONOMY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10631
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="DIGITAL TERRESTRE",NASA TV UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10640
+#EXTINF:-1 tvg-id="" tvg-name="PADREPIO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_radio_padre_pio_tv.png" group-title="DIGITAL TERRESTRE",PADREPIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10635
+#EXTINF:-1 tvg-id="" tvg-name="WINE TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wine-tv-it.png" group-title="DIGITAL TERRESTRE",WINE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10354
+#EXTINF:-1 tvg-id="ZeligTV.it" tvg-name="ZELIG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zelig-it.png" group-title="DIGITAL TERRESTRE",ZELIG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10351
+#EXTINF:-1 tvg-id="radiozeta.it" tvg-name="ZETA ITALIANA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zelig-it.png" group-title="DIGITAL TERRESTRE",ZETA ITALIANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10350
+#EXTINF:-1 tvg-id="" tvg-name="RETE 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/retesette.png" group-title="DIGITAL TERRESTRE",RETE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/10412
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE 34" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cine-34-it.png" group-title="TIVUSAT",CINE 34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://seeyoutv.net:2300/12/12/37459
