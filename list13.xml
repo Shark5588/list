@@ -7,9 +7,1214 @@ http://0.0.0.0:1234
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 4/26/2020[/B][/COLOR][COLOR red][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 11/6/2020[/B][/COLOR][COLOR red][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 ################################################################ LIST 13 #######################################################################################
 
+#EXTM3U
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: RTK 1 FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTK1.png" group-title="Albania",AL: RTK 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25465
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL : RTK 1 FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTK1.png" group-title="Albania",AL : RTK 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25463
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 1 HD" tvg-logo="http://logo.streamstv.me/picon/ALRTK1HD.png" group-title="Albania",AL: RTK 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25464
+#EXTINF:-1 tvg-id="RTK-AL" tvg-name="VIP AL: RTK 1 FHD" tvg-logo="http://logo.streamstv.me/picon/VIPALRTK1FHD.png" group-title="Albania",VIP AL: RTK 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68645
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: RTK 2 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALRTK2.png" group-title="Albania",VIP AL: RTK 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25462
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 2 HD" tvg-logo="http://logo.streamstv.me/picon/ALRTK2BackUP.png" group-title="Albania",AL: RTK 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25461
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: RTV21 HD" tvg-logo="http://logo.streamstv.me/picon/ALRTV21.png" group-title="Albania",AL: RTV21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25446
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL : RTV21" tvg-logo="http://logo.streamstv.me/picon/ALRTV21.png" group-title="Albania",AL : RTV21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25445
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: KTV" tvg-logo="http://logo.streamstv.me/picon/ALKTV.png" group-title="Albania",AL: KTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/40712
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL : KTV" tvg-logo="http://logo.streamstv.me/picon/ALKTVHD.png" group-title="Albania",AL : KTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25449
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: KTV FHD" tvg-logo="http://logo.streamstv.me/picon/ALKTVHD.png" group-title="Albania",AL: KTV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25450
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Klan Kosova" tvg-logo="http://logo.streamstv.me/picon/ALKlanKosova.png" group-title="Albania",AL: Klan Kosova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25431
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL : Klan Kosova" tvg-logo="http://logo.m3uplus.stream/picon/ALKlanKosova.png" group-title="Albania",AL : Klan Kosova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25428
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Klan Kosova FHD" tvg-logo="http://logo.streamstv.me/picon/ALKlanKosovaFHD.png" group-title="Albania",AL: Klan Kosova FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/61178
+#EXTINF:-1 tvg-id="Top Channel-AL" tvg-name="AL: Top Channel" tvg-logo="http://logo.streamstv.me/picon/ALTopChannel.png" group-title="Albania",AL: Top Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25425
+#EXTINF:-1 tvg-id="Top Channel-AL" tvg-name="VIP AL: Top Channel FHD" tvg-logo="http://logo.streamstv.me/picon/VIPALTopChannelFHD.png" group-title="Albania",VIP AL: Top Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25424
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: Vizion Plus HD" tvg-logo="http://logo.streamstv.me/picon/ALVizionPlusHD.png" group-title="Albania",AL: Vizion Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25205
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: Klan Plus HD" tvg-logo="http://logo.streamstv.me/picon/ALKlanPlusHD.png" group-title="Albania",AL: Klan Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25429
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Klan TV HD" tvg-logo="http://logo.streamstv.me/picon/ALKlanTVHD.png" group-title="Albania",AL: Klan TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25433
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL : Klan TV FHD" tvg-logo="http://logo.m3uplus.stream/picon/ALKlanTVFHD.png" group-title="Albania",AL : Klan TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25432
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: T7" tvg-logo="http://logo.streamstv.me/picon/ALT7.png" group-title="Albania",AL: T7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25422
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: T7 HD" tvg-logo="http://logo.streamstv.me/picon/ALT7HD.png" group-title="Albania",AL: T7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25421
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini HD" tvg-logo="http://logo.streamstv.me/picon/ALTVDukagjiniHD.png" group-title="Albania",AL: TV Dukagjini HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25448
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dukagjini" tvg-logo="http://logo.streamstv.me/picon/ALTVDukagjiniHD.png" group-title="Albania",AL: TV Dukagjini
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/95519
+#EXTINF:-1 tvg-id="Alsat-M-AL" tvg-name="AL: Alsat M" tvg-logo="http://logo.streamstv.me/picon/ALAlsatM.png" group-title="Albania",AL: Alsat M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68804
+#EXTINF:-1 tvg-id="Alsat-M-AL" tvg-name="AL: Alsat M FHD" tvg-logo="http://logo.streamstv.me/picon/ALAlsatMHD.png" group-title="Albania",AL: Alsat M FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25426
+#EXTINF:-1 tvg-id="Alsat-M-AL" tvg-name="AL: Alsat M FHD" tvg-logo="http://logo.streamstv.me/picon/ALAlsatMFHD.png" group-title="Albania",AL: Alsat M FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25255
+#EXTINF:-1 tvg-id="" tvg-name="AL: tdc HD" tvg-logo="http://logo.m3uplus.stream/picon/ALtdcHD.png" group-title="Albania",AL: tdc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/113658
+#EXTINF:-1 tvg-id="KanalD Drama-AL" tvg-name="AL: Kanal D drama HD" tvg-logo="http://logo.m3uplus.stream/picon/ALKanalDdramaHD.png" group-title="Albania",AL: Kanal D drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/113659
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3 HD" tvg-logo="http://logo.streamstv.me/picon/ALRTK3HD.png" group-title="Albania",AL: RTK 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25460
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: RTK 3 FHD" tvg-logo="http://logo.m3uplus.stream/picon/VIPALRTK3FHD.png" group-title="Albania",VIP AL: RTK 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25459
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 3 FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTK3FHD.png" group-title="Albania",AL: RTK 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68646
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: RTK 4 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALRTK4HD.png" group-title="Albania",VIP AL: RTK 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25458
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTK 4 HD" tvg-logo="http://logo.streamstv.me/picon/ALRTK4HDBackUP.png" group-title="Albania",AL: RTK 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25457
+#EXTINF:-1 tvg-id="RTSH1 HD-AL" tvg-name="AL: RTSH 1 FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTSH1FHD.png" group-title="Albania",AL: RTSH 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25455
+#EXTINF:-1 tvg-id="RTSH2 HD-AL" tvg-name="AL: RTSH 2 FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTSH2.png" group-title="Albania",AL: RTSH 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68655
+#EXTINF:-1 tvg-id="RTSH2 HD-AL" tvg-name="AL: RTSH 2 HD" tvg-logo="http://logo.streamstv.me/picon/ALRTSH2HD.png" group-title="Albania",AL: RTSH 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25454
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 3" tvg-logo="http://logo.streamstv.me/picon/ALRTSH3.png" group-title="Albania",AL: RTSH 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25453
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24" tvg-logo="http://logo.streamstv.me/picon/ALRTSH24.png" group-title="Albania",AL: RTSH 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68663
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 24 FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTSH24FHD.png" group-title="Albania",AL: RTSH 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68664
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH PLUS" tvg-logo="http://logo.streamstv.me/picon/ALRTSHPLUS.png" group-title="Albania",AL: RTSH PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68667
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SHQIP" tvg-logo="http://logo.streamstv.me/picon/ALRTSHSHQIP.png" group-title="Albania",AL: RTSH SHQIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68666
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: Kanal 10" tvg-logo="http://logo.streamstv.me/picon/ALTVRrokumHD.png" group-title="Albania",AL: Kanal 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25447
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Mix" tvg-logo="http://logo.streamstv.me/picon/ALRTV21Mix.png" group-title="Albania",AL: RTV21 Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25439
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Maqedonia" tvg-logo="http://logo.m3uplus.stream/picon/ALRTV21Maqedonia.png" group-title="Albania",AL: RTV21 Maqedonia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25440
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV21 Newsbiz" tvg-logo="http://logo.streamstv.me/picon/ALRTV21NewsbizHD.png" group-title="Albania",AL: RTV21 Newsbiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25443
+#EXTINF:-1 tvg-id="RTV 21 PLUS-AL" tvg-name="VIP AL: RTV21 Plus FHD" tvg-logo="http://logo.streamstv.me/picon/VIPALRTV21PlusFHD.png" group-title="Albania",VIP AL: RTV21 Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25442
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: RTV21 Plus FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTV21PlusFHD.png" group-title="Albania",AL: RTV21 Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68673
+#EXTINF:-1 tvg-id="T HD-AL" tvg-name="AL: T FHD" tvg-logo="http://logo.streamstv.me/picon/ALTFHD.png" group-title="Albania",AL: T FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25423
+#EXTINF:-1 tvg-id="Travel Channel-AL" tvg-name="AL: Travel Channel" tvg-logo="http://logo.streamstv.me/picon/ALTravelChannel.png" group-title="Albania",AL: Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25369
+#EXTINF:-1 tvg-id="" tvg-name="AL: Syri Vision" tvg-logo="http://logo.streamstv.me/picon/ALSyriVision.png" group-title="Albania",AL: Syri Vision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25224
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: TV Opinion" tvg-logo="http://logo.streamstv.me/picon/VIPALTVOpinion.png" group-title="Albania",VIP AL: TV Opinion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25210
+#EXTINF:-1 tvg-id="TV Prizren-AL" tvg-name="VIP AL: TV BESA" tvg-logo="http://logo.streamstv.me/picon/VIPALTVBESA.png" group-title="Albania",VIP AL: TV BESA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25361
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: TV Mitrovica" tvg-logo="http://logo.streamstv.me/picon/VIPALTVMitrovica.png" group-title="Albania",VIP AL: TV Mitrovica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25273
+#EXTINF:-1 tvg-id="" tvg-name="AL: In TV" tvg-logo="http://logo.streamstv.me/picon/ALInTV.png" group-title="Albania",AL: In TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25272
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Syri Blue" tvg-logo="http://logo.streamstv.me/picon/ALRTVSyriBlueFHD.png" group-title="Albania",AL: RTV Syri Blue
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25418
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: RTSH Korca" tvg-logo="http://logo.streamstv.me/picon/VIPALRTSHKorca.png" group-title="Albania",VIP AL: RTSH Korca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68669
+#EXTINF:-1 tvg-id="" tvg-name="AL: City TV" tvg-logo="http://logo.streamstv.me/picon/ALCityTV.png" group-title="Albania",AL: City TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25251
+#EXTINF:-1 tvg-id="" tvg-name="AL: Era TV" tvg-logo="http://logo.streamstv.me/picon/ALEraTV.png" group-title="Albania",AL: Era TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25388
+#EXTINF:-1 tvg-id="" tvg-name="AL: MRT 2 " tvg-logo="http://logo.streamstv.me/picon/ALMRT2HD.png" group-title="Albania",AL: MRT 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25346
+#EXTINF:-1 tvg-id="" tvg-name="####### Filma & Dokumentar #######" tvg-logo="" group-title="Albania",####### Filma & Dokumentar #######
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69857
+#EXTINF:-1 tvg-id="Film Aksion-AL" tvg-name="AL: Film AKSION FHD" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmAKSIONFHD.png" group-title="Albania",AL: Film AKSION FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25417
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor" tvg-logo="http://logo.streamstv.me/picon/ALFilmAutor.png" group-title="Albania",AL: Film Autor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25416
+#EXTINF:-1 tvg-id="Film Drame-AL" tvg-name="AL: Film Drame" tvg-logo="http://logo.streamstv.me/picon/ALFilmDrame.png" group-title="Albania",AL: Film Drame
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25415
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Film Dy HD" tvg-logo="http://logo.streamstv.me/picon/ALFilmDyHD.png" group-title="Albania",AL: Film Dy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25414
+#EXTINF:-1 tvg-id="Film Hits-AL" tvg-name="AL: Film Hits HD" tvg-logo="http://logo.streamstv.me/picon/ALFilmHits.png" group-title="Albania",AL: Film Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25413
+#EXTINF:-1 tvg-id="Film Komedi-AL" tvg-name="AL: Film Komedi" tvg-logo="http://logo.streamstv.me/picon/ALFilmKomedi.png" group-title="Albania",AL: Film Komedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25410
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Film Nje HD" tvg-logo="http://logo.streamstv.me/picon/ALFilmNjeHD.png" group-title="Albania",AL: Film Nje HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25409
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet" tvg-logo="http://logo.streamstv.me/picon/ALFilmStinet.png" group-title="Albania",AL: Film Stinet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25408
+#EXTINF:-1 tvg-id="Film Thriller-AL" tvg-name="AL: Film Thriller" tvg-logo="http://logo.streamstv.me/picon/ALFilmThriller.png" group-title="Albania",AL: Film Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25407
+#EXTINF:-1 tvg-id="Film Aksion-AL" tvg-name="AL: Film Aksion (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmAksionB.png" group-title="Albania",AL: Film Aksion (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114765
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Autor  (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmAutorB.png" group-title="Albania",AL: Film Autor  (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114769
+#EXTINF:-1 tvg-id="Film Drame-AL" tvg-name="AL: Film Drame  (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmDrameB.png" group-title="Albania",AL: Film Drame  (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114768
+#EXTINF:-1 tvg-id="Film Dy HD-AL" tvg-name="AL: Film Dy  (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmDyB.png" group-title="Albania",AL: Film Dy  (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114763
+#EXTINF:-1 tvg-id="Film Komedi-AL" tvg-name="AL: Film Komedi (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmKomediB.png" group-title="Albania",AL: Film Komedi (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114766
+#EXTINF:-1 tvg-id="Film Nje HD-AL" tvg-name="AL: Film Nje HD (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmNjeHDB.png" group-title="Albania",AL: Film Nje HD (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114762
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Stinet (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmStinetB.png" group-title="Albania",AL: Film Stinet (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114767
+#EXTINF:-1 tvg-id="Film Thriller-AL" tvg-name="AL: Film Thriller (B)" tvg-logo="http://logo.m3uplus.stream/picon/ALFilmThrillerB.png" group-title="Albania",AL: Film Thriller (B)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114764
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Gold HD" tvg-logo="http://logo.streamstv.me/picon/VIPALDigiGold.png" group-title="Albania",VIP AL: X Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25325
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X GOLD 4 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALDigiGOLD4.png" group-title="Albania",VIP AL: X GOLD 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25270
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X GOLD 1 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALDigiGOLD1.png" group-title="Albania",VIP AL: X GOLD 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25268
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X GOLD 3 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALDigiGOLD3.png" group-title="Albania",VIP AL: X GOLD 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25267
+#EXTINF:-1 tvg-id="Family HD-AL" tvg-name="AL: Family HD" tvg-logo="http://logo.streamstv.me/picon/ALFamilyHD.png" group-title="Albania",AL: Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25406
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Explorer Natyra" tvg-logo="http://logo.streamstv.me/picon/ALExplorerNatyra.png" group-title="Albania",AL: Explorer Natyra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25403
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Explorer Shkence" tvg-logo="http://logo.streamstv.me/picon/ALExplorerShkence.png" group-title="Albania",AL: Explorer Shkence
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25404
+#EXTINF:-1 tvg-id="Jolly HD-AL" tvg-name="AL: JOLLY FHD" tvg-logo="http://logo.streamstv.me/picon/ALJOLLYHD.png" group-title="Albania",AL: JOLLY FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/57797
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: Tring Action" tvg-logo="http://logo.streamstv.me/picon/ALTringAction.png" group-title="Albania",AL: Tring Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25395
+#EXTINF:-1 tvg-id="Tring Comedy-AL" tvg-name="AL: Tring Comedy" tvg-logo="http://logo.streamstv.me/picon/ALTringComedy.png" group-title="Albania",AL: Tring Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25401
+#EXTINF:-1 tvg-id="Tring Fantasy-AL" tvg-name="AL: Tring Fantasy" tvg-logo="http://logo.streamstv.me/picon/ALTringFantasy.png" group-title="Albania",AL: Tring Fantasy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25400
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: Tring History" tvg-logo="http://logo.streamstv.me/picon/ALTringHistory.png" group-title="Albania",AL: Tring History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25399
+#EXTINF:-1 tvg-id="Tring Life-AL" tvg-name="AL: Tring Life" tvg-logo="http://logo.streamstv.me/picon/ALTringLife.png" group-title="Albania",AL: Tring Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25396
+#EXTINF:-1 tvg-id="Tring Planet-AL" tvg-name="VIP AL: Tring Planet" tvg-logo="http://logo.streamstv.me/picon/VIPALTringPlanet.png" group-title="Albania",VIP AL: Tring Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25394
+#EXTINF:-1 tvg-id="Tring Shqip-AL" tvg-name="VIP AL: Tring Shqip" tvg-logo="http://logo.streamstv.me/picon/VIPALTringShqip.png" group-title="Albania",VIP AL: Tring Shqip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25393
+#EXTINF:-1 tvg-id="Smile-AL" tvg-name="AL: Tring Smile" tvg-logo="http://logo.streamstv.me/picon/ALTringSmile.png" group-title="Albania",AL: Tring Smile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25392
+#EXTINF:-1 tvg-id="Tring Super-AL" tvg-name="AL: Tring Super HD" tvg-logo="http://logo.streamstv.me/picon/ALTringSuperHD.png" group-title="Albania",AL: Tring Super HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25391
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Action HD" tvg-logo="http://logo.streamstv.me/picon/ALAlbActionHD.png" group-title="Albania",AL: Alb Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25291
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Western HD" tvg-logo="http://logo.streamstv.me/picon/ALAlbWesternHD.png" group-title="Albania",AL: Alb Western HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25373
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Humor HD" tvg-logo="http://logo.streamstv.me/picon/ALXHumorHD.png" group-title="Albania",AL: X Humor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25287
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb Thriller HD" tvg-logo="http://logo.streamstv.me/picon/ALAlbThrillerHD.png" group-title="Albania",AL: Alb Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25286
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Aksion" tvg-logo="http://logo.streamstv.me/picon/ALSkyAksion.png" group-title="Albania",AL: Sky Aksion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25324
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Histori HD" tvg-logo="http://logo.streamstv.me/picon/VIPALSkyHistori.png" group-title="Albania",VIP AL: X Histori HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25322
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Komedi" tvg-logo="http://logo.streamstv.me/picon/ALSkyKomedi.png" group-title="Albania",AL: Sky Komedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25321
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Sky Max" tvg-logo="http://logo.streamstv.me/picon/VIPALSkyMax.png" group-title="Albania",VIP AL: Sky Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25320
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sky Planet" tvg-logo="http://logo.streamstv.me/picon/ALSkyPlanet.png" group-title="Albania",AL: Sky Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25317
+#EXTINF:-1 tvg-id="" tvg-name="AL: SKY 7 HD" tvg-logo="http://logo.streamstv.me/picon/ALSKY7HD.png" group-title="Albania",AL: SKY 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/40710
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip TV Aksion HD" tvg-logo="http://logo.streamstv.me/picon/ALShqipTVAksionHD.png" group-title="Albania",AL: Shqip TV Aksion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25315
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip TV Cinema HD" tvg-logo="http://logo.streamstv.me/picon/ALShqipTVCinemaHD.png" group-title="Albania",AL: Shqip TV Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25311
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip TV Film HD" tvg-logo="http://logo.streamstv.me/picon/ALShqipTVFilmHD.png" group-title="Albania",AL: Shqip TV Film HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25309
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip TV Mimi HD" tvg-logo="http://logo.streamstv.me/picon/ALShqipTVMimiHD.png" group-title="Albania",AL: Shqip TV Mimi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25302
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Action HD" tvg-logo="http://logo.streamstv.me/picon/ALXActionHD.png" group-title="Albania",AL: X Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25282
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X DARK HD" tvg-logo="http://logo.streamstv.me/picon/VIPALXDARKHD.png" group-title="Albania",VIP AL: X DARK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25281
+#EXTINF:-1 tvg-id="" tvg-name="AL: X Romance HD" tvg-logo="http://logo.streamstv.me/picon/ALXRomanceHD.png" group-title="Albania",AL: X Romance HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25276
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Thriller HD" tvg-logo="http://logo.streamstv.me/picon/VIPALXThrillerHD.png" group-title="Albania",VIP AL: X Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25274
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Kino 1 Premium HD" tvg-logo="http://logo.streamstv.me/picon/VIPALArtKino1PremiumHD.png" group-title="Albania",VIP AL: Art Kino 1 Premium HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25277
+#EXTINF:-1 tvg-id="" tvg-name="AL: FILMBOX EXTRA" tvg-logo="http://logo.streamstv.me/picon/ALFILMBOXEXTRAHD.png" group-title="Albania",AL: FILMBOX EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25241
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film" tvg-logo="http://logo.streamstv.me/picon/ALRTSHFilm.png" group-title="Albania",AL: RTSH Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25451
+#EXTINF:-1 tvg-id="" tvg-name="AL: Filma24 HD" tvg-logo="http://logo.streamstv.me/picon/ALFilma24HD.png" group-title="Albania",AL: Filma24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25294
+#EXTINF:-1 tvg-id="FOX Life-AL" tvg-name="AL: Fox Life" tvg-logo="http://logo.streamstv.me/picon/ALFoxLife.png" group-title="Albania",AL: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25358
+#EXTINF:-1 tvg-id="FOX Crime-AL" tvg-name="AL: Fox Crime" tvg-logo="http://logo.streamstv.me/picon/ALFoxCrime.png" group-title="Albania",AL: Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25330
+#EXTINF:-1 tvg-id="" tvg-name="AL: Club TV" tvg-logo="http://logo.streamstv.me/picon/ALClubTV.png" group-title="Albania",AL: Club TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25250
+#EXTINF:-1 tvg-id="Shenja TV-AL" tvg-name="AL: Shenja TV" tvg-logo="http://logo.streamstv.me/picon/ALShenjaTV.png" group-title="Albania",AL: Shenja TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25360
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: 3 plus" tvg-logo="http://logo.streamstv.me/picon/AL3plus.png" group-title="Albania",AL: 3 plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/57796
+#EXTINF:-1 tvg-id="Tring World-AL" tvg-name="AL: Tring World" tvg-logo="http://logo.streamstv.me/picon/ALTringWorld.png" group-title="Albania",AL: Tring World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25389
+#EXTINF:-1 tvg-id="Living HD-AL" tvg-name="AL: Living FHD" tvg-logo="http://logo.streamstv.me/picon/ALLivingFHD.png" group-title="Albania",AL: Living FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25342
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: National Geographic FHD" tvg-logo="http://logo.streamstv.me/picon/ALNationalGeographic.png" group-title="Albania",AL: National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25331
+#EXTINF:-1 tvg-id="" tvg-name="AL: Animal Planet FHD" tvg-logo="http://logo.streamstv.me/picon/ALAnimalPlanetHD.png" group-title="Albania",AL: Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25258
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: 24 Kitchen" tvg-logo="http://logo.streamstv.me/picon/AL24Kitchen.png" group-title="Albania",AL: 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25236
+#EXTINF:-1 tvg-id="" tvg-name="AL: Drita TV HD" tvg-logo="http://logo.streamstv.me/picon/ALDritaTV.png" group-title="Albania",AL: Drita TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25246
+#EXTINF:-1 tvg-id="" tvg-name="####### KANALET SPORTIVE #######" tvg-logo="" group-title="Albania",####### KANALET SPORTIVE #######
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69858
+#EXTINF:-1 tvg-id="Tring Sport News HD-AL" tvg-name="AL: Tring Sport News" tvg-logo="http://logo.streamstv.me/picon/ALTringSportNews.png" group-title="Albania",AL: Tring Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69213
+#EXTINF:-1 tvg-id="TS1 HD-AL" tvg-name="VIP AL: Tring Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALTringSport1HD.png" group-title="Albania",VIP AL: Tring Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25186
+#EXTINF:-1 tvg-id="TS1 HD-AL" tvg-name="AL: Tring Sport 1 FHD" tvg-logo="http://logo.streamstv.me/picon/ALTringSport1FHD.png" group-title="Albania",AL: Tring Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69214
+#EXTINF:-1 tvg-id="TS2 HD-AL" tvg-name="AL: Tring Sport 2 FHD" tvg-logo="http://logo.streamstv.me/picon/ALTringSport2FHD.png" group-title="Albania",AL: Tring Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25185
+#EXTINF:-1 tvg-id="TS3 HD-AL" tvg-name="AL: Tring Sport 3 FHD" tvg-logo="http://logo.streamstv.me/picon/ALTringSport3FHD.png" group-title="Albania",AL: Tring Sport 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25184
+#EXTINF:-1 tvg-id="TS4 HD-AL" tvg-name="AL: Tring Sport 4 FHD" tvg-logo="http://logo.streamstv.me/picon/ALTringSport4FHD.png" group-title="Albania",AL: Tring Sport 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25183
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport1HD.png" group-title="Albania",AL: Kujtesa Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25201
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport2HD.png" group-title="Albania",AL: Kujtesa Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25200
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport3HD.png" group-title="Albania",AL: Kujtesa Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25199
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport4HD.png" group-title="Albania",AL: Kujtesa Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25198
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 5 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport5HD.png" group-title="Albania",AL: Kujtesa Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69211
+#EXTINF:-1 tvg-id="SuperSport 1-AL" tvg-name="AL: Super Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport1HD.png" group-title="Albania",AL: Super Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25194
+#EXTINF:-1 tvg-id="SuperSport 2-AL" tvg-name="AL: Super Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport2HD.png" group-title="Albania",AL: Super Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25193
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport3HD.png" group-title="Albania",AL: Super Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25192
+#EXTINF:-1 tvg-id="SuperSport 4-AL" tvg-name="AL: Super Sport 4 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport4HD.png" group-title="Albania",AL: Super Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25191
+#EXTINF:-1 tvg-id="SuperSport 5-AL" tvg-name="AL: Super Sport 5 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport5HD.png" group-title="Albania",AL: Super Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25190
+#EXTINF:-1 tvg-id="SuperSport 6-AL" tvg-name="AL: Super Sport 6 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport6HD.png" group-title="Albania",AL: Super Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25189
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Super Sport Kosova 1 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALSuperSportKosova1HD.png" group-title="Albania",VIP AL: Super Sport Kosova 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25188
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Super Sport Kosova 2 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALSuperSportKosova2HD.png" group-title="Albania",VIP AL: Super Sport Kosova 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25187
+#EXTINF:-1 tvg-id="EuroSport-AL" tvg-name="AL: Eurosport 1" tvg-logo="http://logo.streamstv.me/picon/ALEurosport1.png" group-title="Albania",AL: Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69177
+#EXTINF:-1 tvg-id="EuroSport-AL" tvg-name="AL: Eurosport 1 HD" tvg-logo="http://logo.streamstv.me/picon/ALEurosport1HD.png" group-title="Albania",AL: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25203
+#EXTINF:-1 tvg-id="" tvg-name="AL: Eurosport 2" tvg-logo="http://logo.streamstv.me/picon/ALEurosport2.png" group-title="Albania",AL: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25202
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport HD" tvg-logo="http://logo.streamstv.me/picon/ALRTSHSportHD.png" group-title="Albania",AL: RTSH Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25196
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTSHSportFHD.png" group-title="Albania",AL: RTSH Sport FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68662
+#EXTINF:-1 tvg-id="" tvg-name="####### KANALE MUZIKORE #######" tvg-logo="" group-title="Albania",####### KANALE MUZIKORE #######
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69859
+#EXTINF:-1 tvg-id="Elrodi TV-AL" tvg-name="AL: Elrodi TV" tvg-logo="http://logo.streamstv.me/picon/ALElrodiTV.png" group-title="Albania",AL: Elrodi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25387
+#EXTINF:-1 tvg-id="" tvg-name="AL: STV FOLK" tvg-logo="http://logo.streamstv.me/picon/ALSHQIPTVFOLKHD.png" group-title="Albania",AL: STV FOLK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25216
+#EXTINF:-1 tvg-id="Folk Plus-AL" tvg-name="AL: Folk Plus" tvg-logo="http://logo.streamstv.me/picon/ALFolkPlus.png" group-title="Albania",AL: Folk Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25368
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Opoja" tvg-logo="http://logo.streamstv.me/picon/ALTVOpoja.png" group-title="Albania",AL: TV Opoja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25364
+#EXTINF:-1 tvg-id="" tvg-name="AL: ZJARR TV" tvg-logo="http://logo.streamstv.me/picon/ALZJARRTV.png" group-title="Albania",AL: ZJARR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25363
+#EXTINF:-1 tvg-id="MFM-AL" tvg-name="AL: MFM Musik HD" tvg-logo="http://logo.streamstv.me/picon/ALMFMMusik.png" group-title="Albania",AL: MFM Musik HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25233
+#EXTINF:-1 tvg-id="" tvg-name="AL: MTV Kosova" tvg-logo="http://logo.streamstv.me/picon/ALMTVKosova.png" group-title="Albania",AL: MTV Kosova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25292
+#EXTINF:-1 tvg-id="ON TV-AL" tvg-name="AL: on TV" tvg-logo="http://logo.m3uplus.stream/picon/ALonTV.png" group-title="Albania",AL: on TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/112309
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Zeri" tvg-logo="http://logo.m3uplus.stream/picon/ALRTVZeri.png" group-title="Albania",AL: RTV Zeri
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/112310
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: TOP Estrada TV HD" tvg-logo="http://logo.m3uplus.stream/picon/VIPALTOPEstradaTVHD.png" group-title="Albania",VIP AL: TOP Estrada TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25289
+#EXTINF:-1 tvg-id="Click TV-AL" tvg-name="AL: Click TV" tvg-logo="http://logo.streamstv.me/picon/ALClickTV.png" group-title="Albania",AL: Click TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25285
+#EXTINF:-1 tvg-id="" tvg-name="AL: Dasma TV" tvg-logo="http://logo.streamstv.me/picon/ALDasmaTV.png" group-title="Albania",AL: Dasma TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25372
+#EXTINF:-1 tvg-id="" tvg-name="AL:  My Music" tvg-logo="http://logo.streamstv.me/picon/ALMyMusic.png" group-title="Albania",AL:  My Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25327
+#EXTINF:-1 tvg-id="BBF" tvg-name="AL: bbf MUSIC TV" tvg-logo="http://logo.streamstv.me/picon/ALbbfMUSICTV.png" group-title="Albania",AL: bbf MUSIC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25365
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alb UK FHD" tvg-logo="http://logo.streamstv.me/picon/ALAlbUKHD.png" group-title="Albania",AL: Alb UK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25290
+#EXTINF:-1 tvg-id="SuperSonic TV-AL" tvg-name="AL: SuperSonic TV" tvg-logo="http://logo.streamstv.me/picon/ALSuperSonicTV.png" group-title="Albania",AL: SuperSonic TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25371
+#EXTINF:-1 tvg-id="21 Popullore-AL" tvg-name="VIP AL: RTV21 Popullore FHD" tvg-logo="http://logo.streamstv.me/picon/VIPALRTV21PopulloreFHD.png" group-title="Albania",VIP AL: RTV21 Popullore FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25441
+#EXTINF:-1 tvg-id="21 Popullore-AL" tvg-name="AL: RTV21 Popullore FHD" tvg-logo="http://logo.streamstv.me/picon/ALRTV21PopulloreFHD.png" group-title="Albania",AL: RTV21 Popullore FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68674
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: TV Diaspora" tvg-logo="http://logo.streamstv.me/picon/VIPALTVDiaspora.png" group-title="Albania",VIP AL: TV Diaspora
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25249
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Dielli HD" tvg-logo="http://logo.streamstv.me/picon/ALTVDielliHD.png" group-title="Albania",AL: TV Dielli HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25248
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: TV Tirana" tvg-logo="http://logo.streamstv.me/picon/VIPALTVTirana.png" group-title="Albania",VIP AL: TV Tirana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25208
+#EXTINF:-1 tvg-id="" tvg-name="AL: AMOL TV" tvg-logo="http://logo.streamstv.me/picon/ALAMOLTVHD.png" group-title="Albania",AL: AMOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25259
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: TV2" tvg-logo="http://logo.streamstv.me/picon/VIPALTV2.png" group-title="Albania",VIP AL: TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25352
+#EXTINF:-1 tvg-id="Muse-AL" tvg-name="AL: Muse" tvg-logo="http://logo.streamstv.me/picon/ALMuse.png" group-title="Albania",AL: Muse
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25332
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV Sharri HD" tvg-logo="http://logo.streamstv.me/picon/ALRTVSharriHD.png" group-title="Albania",AL: RTV Sharri HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25356
+#EXTINF:-1 tvg-id="TV Tetova-AL" tvg-name="VIP AL: TV Tetova HD" tvg-logo="http://logo.streamstv.me/picon/VIPALTVTetovaHD.png" group-title="Albania",VIP AL: TV Tetova HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/40714
+#EXTINF:-1 tvg-id="" tvg-name="AL: First Channel FHD" tvg-logo="http://logo.streamstv.me/picon/ALFirstChannelHD.png" group-title="Albania",AL: First Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25385
+#EXTINF:-1 tvg-id="" tvg-name="AL: Turbo Channel" tvg-logo="http://logo.streamstv.me/picon/ALTurboChannelTV.png" group-title="Albania",AL: Turbo Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25366
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTV fontana HD" tvg-logo="http://logo.m3uplus.stream/picon/ALRTVfontanaHD.png" group-title="Albania",AL: RTV fontana HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/94463
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH MUZIKE" tvg-logo="http://logo.streamstv.me/picon/ALRTSHMUZIKE.png" group-title="Albania",AL: RTSH MUZIKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68665
+#EXTINF:-1 tvg-id="" tvg-name="####### KANALET PER FEMIJ ######" tvg-logo="" group-title="Albania",####### KANALET PER FEMIJ ######
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69860
+#EXTINF:-1 tvg-id="Bang Bang-AL" tvg-name="AL: Bang Bang" tvg-logo="http://logo.streamstv.me/picon/ALBangBang.png" group-title="Albania",AL: Bang Bang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25386
+#EXTINF:-1 tvg-id="Cufo TV-AL" tvg-name="AL: Cufo TV" tvg-logo="http://logo.streamstv.me/picon/ALCufoTV.png" group-title="Albania",AL: Cufo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25384
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="VIP AL: Sofia HD" tvg-logo="http://logo.streamstv.me/picon/VIPALSofiaHD.png" group-title="Albania",VIP AL: Sofia HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25326
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: RTV21 Junior" tvg-logo="http://logo.streamstv.me/picon/ALRTV21Junior.png" group-title="Albania",AL: RTV21 Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68672
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="VIP AL: RTV21 Junior" tvg-logo="http://logo.streamstv.me/picon/VIPALRTV21Junior.png" group-title="Albania",VIP AL: RTV21 Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25444
+#EXTINF:-1 tvg-id="Junior TV-AL" tvg-name="AL: Junior TV" tvg-logo="http://logo.streamstv.me/picon/ALJuniorTV.png" group-title="Albania",AL: Junior TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/40711
+#EXTINF:-1 tvg-id="Tring Tring-AL" tvg-name="AL: Tring Tring" tvg-logo="http://logo.streamstv.me/picon/ALTringTring.png" group-title="Albania",AL: Tring Tring
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25390
+#EXTINF:-1 tvg-id="Tring Kids-AL" tvg-name="AL: TRING KIDS" tvg-logo="http://logo.streamstv.me/picon/ALTRINGKIDS.png" group-title="Albania",AL: TRING KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25397
+#EXTINF:-1 tvg-id="" tvg-name="AL: Shqip TV Tom & Jerry HD" tvg-logo="http://logo.streamstv.me/picon/ALShqipTVTomJerryHD.png" group-title="Albania",AL: Shqip TV Tom & Jerry HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25300
+#EXTINF:-1 tvg-id="FOX-AL" tvg-name="AL: Fox" tvg-logo="http://logo.streamstv.me/picon/ALFox.png" group-title="Albania",AL: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25359
+#EXTINF:-1 tvg-id="Tip TV-AL" tvg-name="AL: Tip TV" tvg-logo="http://logo.streamstv.me/picon/ALTipTV.png" group-title="Albania",AL: Tip TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25335
+#EXTINF:-1 tvg-id="Baby TV-AL" tvg-name="AL: Baby TV" tvg-logo="http://logo.streamstv.me/picon/ALBabyTV.png" group-title="Albania",AL: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25329
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH FEMIJE" tvg-logo="http://logo.streamstv.me/picon/ALRTSHFEMIJE.png" group-title="Albania",AL: RTSH FEMIJE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/68668
+#EXTINF:-1 tvg-id="" tvg-name="####### LAJME #######" tvg-logo="" group-title="Albania",####### LAJME #######
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69861
+#EXTINF:-1 tvg-id="Top News-AL" tvg-name="VIP AL: Top News" tvg-logo="http://logo.streamstv.me/picon/VIPALTopNews.png" group-title="Albania",VIP AL: Top News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25340
+#EXTINF:-1 tvg-id="ABC News-AL" tvg-name="VIP AL: ABC News" tvg-logo="http://logo.streamstv.me/picon/VIPALABCNews.png" group-title="Albania",VIP AL: ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25339
+#EXTINF:-1 tvg-id="ABC News-AL" tvg-name="AL: ABC News" tvg-logo="http://logo.streamstv.me/picon/ALABCNewsHD.png" group-title="Albania",AL: ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69029
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL: News 24 HD" tvg-logo="http://logo.streamstv.me/picon/ALNews24HD.png" group-title="Albania",AL: News 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25338
+#EXTINF:-1 tvg-id="24 Kitchen-AL" tvg-name="AL : News 24" tvg-logo="http://logo.streamstv.me/picon/ALNews24HD.png" group-title="Albania",AL : News 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25337
+#EXTINF:-1 tvg-id="" tvg-name="AL: Arta News HD" tvg-logo="http://logo.streamstv.me/picon/ALArtaNewsHD.png" group-title="Albania",AL: Arta News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25256
+#EXTINF:-1 tvg-id="Ora News-AL" tvg-name="AL: ORA News " tvg-logo="http://logo.streamstv.me/picon/ALORANewsHD.png" group-title="Albania",AL: ORA News 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/57798
+#EXTINF:-1 tvg-id="EuroNews-AL" tvg-name="AL: Euronews HD" tvg-logo="http://logo.m3uplus.stream/picon/ALEuronewsHD.png" group-title="Albania",AL: Euronews HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/112311
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: TV1 Channel Shkoder FHD" tvg-logo="http://logo.streamstv.me/picon/VIPALTV1ChannelShkoderFHD.png" group-title="Albania",VIP AL: TV1 Channel Shkoder FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25221
+#EXTINF:-1 tvg-id="" tvg-name="AL: Channel One HD" tvg-logo="http://logo.streamstv.me/picon/ALChannelOneHD.png" group-title="Albania",AL: Channel One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25343
+#EXTINF:-1 tvg-id="" tvg-name="AL: Apollon TV FHD" tvg-logo="http://logo.streamstv.me/picon/ALApollonTV.png" group-title="Albania",AL: Apollon TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25341
+#EXTINF:-1 tvg-id="Report TV-AL" tvg-name="AL: Report TV" tvg-logo="http://logo.streamstv.me/picon/ALReportTV.png" group-title="Albania",AL: Report TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25229
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="AL: TV Koha HD" tvg-logo="http://logo.streamstv.me/picon/ALTVKohaHD.png" group-title="Albania",AL: TV Koha HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25213
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Star Plus" tvg-logo="http://logo.streamstv.me/picon/VIPALStarPlus.png" group-title="Albania",VIP AL: Star Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25349
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: A2 CNN" tvg-logo="http://logo.streamstv.me/picon/VIPALA2CNN.png" group-title="Albania",VIP AL: A2 CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/92288
+#EXTINF:-1 tvg-id="" tvg-name="AL: TV Boin HD" tvg-logo="http://logo.m3uplus.stream/picon/ALTVBoinHD.png" group-title="Albania",AL: TV Boin HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/113941
+#EXTINF:-1 tvg-id="" tvg-name="####### KANALE FETARE #######" tvg-logo="" group-title="Albania",####### KANALE FETARE #######
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69862
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: RTV Islam HD" tvg-logo="http://logo.m3uplus.stream/picon/VIPALRTVIslamHD.png" group-title="Albania",VIP AL: RTV Islam HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25437
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: RTV Pendimi HD" tvg-logo="http://logo.streamstv.me/picon/VIPALRTVPendimiHD.png" group-title="Albania",VIP AL: RTV Pendimi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25435
+#EXTINF:-1 tvg-id="" tvg-name="AL: Medina TV HD" tvg-logo="http://logo.streamstv.me/picon/ALMedinaTV.png" group-title="Albania",AL: Medina TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25354
+#EXTINF:-1 tvg-id="" tvg-name="AL: Mekke TV" tvg-logo="http://logo.streamstv.me/picon/ALMekkeTV.png" group-title="Albania",AL: Mekke TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25353
+#EXTINF:-1 tvg-id="Peace TV-AL" tvg-name="AL: Peace TV FHD" tvg-logo="http://logo.streamstv.me/picon/ALPeaceTVHD.png" group-title="Albania",AL: Peace TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25333
+#EXTINF:-1 tvg-id="" tvg-name="AL: Istogu Channel FHD" tvg-logo="http://logo.m3uplus.stream/picon/ALIstoguChannelFHD.png" group-title="Albania",AL: Istogu Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/94464
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Doku 1 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALArtDoku1HD.png" group-title="Albania",VIP AL: Art Doku 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69722
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Kino 1 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALArtKino1HD.png" group-title="Albania",VIP AL: Art Kino 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69720
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Kino 2 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALArtKino2HD.png" group-title="Albania",VIP AL: Art Kino 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69719
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Kino 3 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALArtKino3HD.png" group-title="Albania",VIP AL: Art Kino 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69718
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALArtSport1.png" group-title="Albania",VIP AL: Art Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69725
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALArtSport2.png" group-title="Albania",VIP AL: Art Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69724
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Premium 1 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALXPremium1.png" group-title="Albania",VIP AL: X Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/73928
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Premium 2 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALXPremium2.png" group-title="Albania",VIP AL: X Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/73927
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Premium 3 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALXPremium3HD.png" group-title="Albania",VIP AL: X Premium 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/73926
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Premium 4 HD" tvg-logo="http://logo.streamstv.me/picon/VIPALXPremium4.png" group-title="Albania",VIP AL: X Premium 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/73925
+#EXTINF:-1 tvg-id="" tvg-name="AL: EPISODE HD" tvg-logo="http://logo.streamstv.me/picon/ALEPISODEHD.png" group-title="Albania",AL: EPISODE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/107041
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Doku 2 HD" tvg-logo="http://logo.m3uplus.stream/picon/VIPALArtDoku2HD.png" group-title="Albania",VIP AL: Art Doku 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/111995
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X GOLD 2 HD" tvg-logo="http://logo.streamstv.me/picon/ALDigiGOLD2.png" group-title="Albania",VIP AL: X GOLD 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/25269
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Art Sport 3 HD" tvg-logo="http://logo.m3uplus.stream/picon/VIPALArtSport3HD.png" group-title="Albania",VIP AL: Art Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/112153
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: SUPER SPORT 7 HD [Live Events Only]" tvg-logo="http://logo.streamstv.me/picon/VIPALSUPERSPORT7HD.png" group-title="Albania",VIP AL: SUPER SPORT 7 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/69212
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: Super Sport Kosova 3 HD" tvg-logo="http://logo.m3uplus.stream/picon/VIPALSuperSportKosova3HD.png" group-title="Albania",VIP AL: Super Sport Kosova 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/112154
+#EXTINF:-1 tvg-id="21 Junior-AL" tvg-name="VIP AL: Tring International" tvg-logo="http://logo.m3uplus.stream/picon/VIPALTringInternational.png" group-title="Albania",VIP AL: Tring International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/112308
+#EXTINF:-1 tvg-id="" tvg-name="VIP AL: X Music Hits HD" tvg-logo="" group-title="Albania",VIP AL: X Music Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114885
+#EXTINF:-1 tvg-id="MRT 1-MK" tvg-name="MK: MRT 1 HD" tvg-logo="http://logo.m3uplus.stream/picon/MKMRT1HD.png" group-title="Macedonia",MK: MRT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/62937
+#EXTINF:-1 tvg-id="MRT 1-MK" tvg-name="MK: MRT 1 FHD" tvg-logo="http://logo.m3uplus.stream/picon/MKMRT1FHD.png" group-title="Macedonia",MK: MRT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26656
+#EXTINF:-1 tvg-id="MRT 2-MK" tvg-name="MK: MRT 2 HD" tvg-logo="http://logo.m3uplus.stream/picon/MKMRT2HD.png" group-title="Macedonia",MK: MRT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/62936
+#EXTINF:-1 tvg-id="MRT 2-MK" tvg-name="MK: MRT 2 FHD" tvg-logo="http://logo.m3uplus.stream/picon/MKMRT2FHD.png" group-title="Macedonia",MK: MRT 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/70370
+#EXTINF:-1 tvg-id="MRT 3 sobranisky-MK" tvg-name="MK: MRT Sobraniski" tvg-logo="http://logo.m3uplus.stream/picon/MKMRTSobraniski.png" group-title="Macedonia",MK: MRT Sobraniski
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/62935
+#EXTINF:-1 tvg-id="Kanal 5-MK" tvg-name="MK: Kanal 5" tvg-logo="http://logo.m3uplus.stream/picon/MKKanal5.png" group-title="Macedonia",MK: Kanal 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26658
+#EXTINF:-1 tvg-id="" tvg-name="MK: Kanal 5 Plus" tvg-logo="http://logo.m3uplus.stream/picon/MKKanal5Plus.png" group-title="Macedonia",MK: Kanal 5 Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26657
+#EXTINF:-1 tvg-id="24 vesti-MK" tvg-name="MK: Televizija 24" tvg-logo="http://logo.m3uplus.stream/picon/MKTelevizija24.png" group-title="Macedonia",MK: Televizija 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26664
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel TV" tvg-logo="http://logo.m3uplus.stream/picon/MKSitelTV.png" group-title="Macedonia",MK: Sitel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26647
+#EXTINF:-1 tvg-id="Sitel-MK" tvg-name="MK: Sitel TV (BackUP)" tvg-logo="http://logo.streamstv.me/picon/MKSitelTV.png" group-title="Macedonia",MK: Sitel TV (BackUP)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26646
+#EXTINF:-1 tvg-id="Sitel-MK" tvg-name="MK: Sitel TV HD" tvg-logo="http://logo.m3uplus.stream/picon/MKSitelTVHD.png" group-title="Macedonia",MK: Sitel TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/70392
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sitel 2" tvg-logo="http://logo.m3uplus.stream/picon/MKSitel2.png" group-title="Macedonia",MK: Sitel 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/70393
+#EXTINF:-1 tvg-id="Alfa-MK" tvg-name="MK: Alfa TV" tvg-logo="http://logo.m3uplus.stream/picon/MKAlfaTV.png" group-title="Macedonia",MK: Alfa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26663
+#EXTINF:-1 tvg-id="Alsat M-MK" tvg-name="MK: Alsat M" tvg-logo="http://logo.m3uplus.stream/picon/MKAlsatM.png" group-title="Macedonia",MK: Alsat M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26662
+#EXTINF:-1 tvg-id="" tvg-name="MK: ERA TV" tvg-logo="http://logo.m3uplus.stream/picon/MKERATV.png" group-title="Macedonia",MK: ERA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26661
+#EXTINF:-1 tvg-id="" tvg-name="MK: Hugo 1" tvg-logo="http://logo.m3uplus.stream/picon/MKHugo1.png" group-title="Macedonia",MK: Hugo 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26660
+#EXTINF:-1 tvg-id="" tvg-name="MK: IN TV" tvg-logo="http://logo.m3uplus.stream/picon/MKINTV.png" group-title="Macedonia",MK: IN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26659
+#EXTINF:-1 tvg-id="Tera-MK" tvg-name="MK: Tera Bitola" tvg-logo="http://logo.streamstv.me/picon/MKMegaBitola.png" group-title="Macedonia",MK: Tera Bitola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26652
+#EXTINF:-1 tvg-id="" tvg-name="MK: MTM TV" tvg-logo="http://logo.m3uplus.stream/picon/MKMTMTV.png" group-title="Macedonia",MK: MTM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26655
+#EXTINF:-1 tvg-id="" tvg-name="MK: Makedonska TV" tvg-logo="http://logo.streamstv.me/picon/MKMakedonskaTV.png" group-title="Macedonia",MK: Makedonska TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26653
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV Nova 12" tvg-logo="http://logo.streamstv.me/picon/NovaTVmk.png" group-title="Macedonia",MK: TV Nova 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26651
+#EXTINF:-1 tvg-id="TV21-MK" tvg-name="MK: TV21" tvg-logo="http://logo.streamstv.me/picon/MKTV21.png" group-title="Macedonia",MK: TV21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26650
+#EXTINF:-1 tvg-id="" tvg-name="MK: Shutel TV" tvg-logo="http://logo.streamstv.me/picon/MKShutelTV.png" group-title="Macedonia",MK: Shutel TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26649
+#EXTINF:-1 tvg-id="" tvg-name="MK: Sky Folk HD" tvg-logo="http://logo.streamstv.me/picon/MKSkyFolkHD.png" group-title="Macedonia",MK: Sky Folk HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26645
+#EXTINF:-1 tvg-id="" tvg-name="MK: TV+" tvg-logo="http://logo.streamstv.me/picon/MKTV+.png" group-title="Macedonia",MK: TV+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26644
+#EXTINF:-1 tvg-id="Telma-MK" tvg-name="MK: Telma HD" tvg-logo="http://logo.streamstv.me/picon/MKTelma.png" group-title="Macedonia",MK: Telma HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/26643
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO FHD" tvg-logo="" group-title="Macedonia",MK: HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/58892
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO 2 FHD" tvg-logo="" group-title="Macedonia",MK: HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/58891
+#EXTINF:-1 tvg-id="" tvg-name="MK: HBO 3 HD" tvg-logo="" group-title="Macedonia",MK: HBO 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/58890
+#EXTINF:-1 tvg-id="[HR] Discovery Channel-EXYU" tvg-name="MK: Nasa" tvg-logo="http://logo.streamstv.me/picon/exYuNasa.png" group-title="Macedonia",MK: Nasa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/21499
+#EXTINF:-1 tvg-id="TV Edo-MK" tvg-name="MK: TV Edo" tvg-logo="" group-title="Macedonia",MK: TV Edo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/78382
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Eurosport 1 FHD (NULL)" tvg-logo="" group-title="Sports",Sport-DE: Eurosport 1 FHD (NULL)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48876
+#EXTINF:-1 tvg-id="DE-Eurosport 1" tvg-name="Sport-DE: Eurosport 1 HD" tvg-logo="" group-title="Sports",Sport-DE: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48877
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Eurosport 2" tvg-logo="" group-title="Sports",Sport-DE: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48874
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Eurosport 2 FHD" tvg-logo="" group-title="Sports",Sport-DE: Eurosport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48875
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Eurosport 2 Xtra FHD" tvg-logo="" group-title="Sports",Sport-DE: Eurosport 2 Xtra FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48872
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Eurosport 2 Xtra HD" tvg-logo="" group-title="Sports",Sport-DE: Eurosport 2 Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48873
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: FC Bayern TV" tvg-logo="" group-title="Sports",Sport-DE: FC Bayern TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48865
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: FC Bayern TV FHD" tvg-logo="" group-title="Sports",Sport-DE: FC Bayern TV FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48864
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 1 FHD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48896
+#EXTINF:-1 tvg-id="DE-Sky Sport HD 1" tvg-name="Sport-DE: Sky Sport 1 HD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48897
+#EXTINF:-1 tvg-id="DE-Sky Sport HD 2" tvg-name="Sport-DE: Sky Sport 2 FHD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48894
+#EXTINF:-1 tvg-id="DE-Sky Sport HD 2" tvg-name="Sport-DE: Sky Sport 2 HD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48895
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 3 HD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 3 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48893
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 4 FHD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 4 FHD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48892
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 4 HD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 4 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48891
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 5 FHD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 5 FHD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48889
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 5 HD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 5 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48890
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 6 FHD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 6 FHD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48888
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 6 HD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 6 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48887
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 7 FHD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 7 FHD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48885
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 7 HD [Live Events Only]" tvg-logo="http://logo.streamstv.me/picon/DESkySport7HDOFFLINEWHENNOPLAYFOOTBALLMATCH.png" group-title="Sports",Sport-DE: Sky Sport 7 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48886
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 8 FHD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 8 FHD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48884
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 8 HD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 8 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48883
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 9 FHD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 9 FHD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48881
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport 9 HD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 9 HD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48882
+#EXTINF:-1 tvg-id="Das Erste-DE" tvg-name="Sport-DE: Sky Sport 10 FHD [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport 10 FHD [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48880
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 1 FHD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48912
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 1-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48913
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 2-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 2 FHD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48910
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport Bundesliga 2 HD (Live Event)" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 2 HD (Live Event)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48911
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 3 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 3 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48908
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 3-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 3 HD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 3 HD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48909
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 4 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 4 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48907
+#EXTINF:-1 tvg-id="Sky Bundesliga HD 4-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 4 HD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 4 HD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48906
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 5 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 5 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48904
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 5 HD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 5 HD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48905
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 6 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 6 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48902
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 6 HD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 6 HD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48903
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 7 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 7 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48901
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8-DE" tvg-name="Sport-DE: Sky Sport Bundesliga 8 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 8 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48900
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport Bundesliga 9 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 9 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48899
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport Bundesliga 10 FHD  [Live Events Only]" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport Bundesliga 10 FHD  [Live Events Only]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48898
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sky Sport News HD" tvg-logo="" group-title="Sports",Sport-DE: Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48914
+#EXTINF:-1 tvg-id="Sport1 US HD-DE" tvg-name="Sport-DE: Sport 1 FHD" tvg-logo="" group-title="Sports",Sport-DE: Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48869
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sport 1 US FHD" tvg-logo="" group-title="Sports",Sport-DE: Sport 1 US FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48868
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sport digital FHD" tvg-logo="" group-title="Sports",Sport-DE: Sport digital FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48867
+#EXTINF:-1 tvg-id="" tvg-name="Sport-DE: Sport Digital HD" tvg-logo="" group-title="Sports",Sport-DE: Sport Digital HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48866
+#EXTINF:-1 tvg-id="Sport1 US HD-DE" tvg-name="Sport-DE: Sport1 HD" tvg-logo="" group-title="Sports",Sport-DE: Sport1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48870
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC Sport HD" tvg-logo="" group-title="Sports",AZ: CBC Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/48975
+#EXTINF:-1 tvg-id="DE-DAZN 1 Bar HD" tvg-name="Sport-DE: DAZN Bar 1 HD" tvg-logo="" group-title="Sports",Sport-DE: DAZN Bar 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49104
+#EXTINF:-1 tvg-id="DE-DAZN 2 Bar HD" tvg-name="Sport-DE: DAZN Bar 2 HD" tvg-logo="" group-title="Sports",Sport-DE: DAZN Bar 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49115
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 2" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49284
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 3" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49760
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 5" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49759
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 6" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49758
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 7" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49757
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 8" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49756
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 9" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49755
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 10" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49754
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 11" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49765
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 12" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49764
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: DAZN SPORT 14" tvg-logo="" group-title="Sports",Sport-IT: DAZN SPORT 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/49762
+#EXTINF:-1 tvg-id="TS1 HD-AL" tvg-name="Sport-AL: Tring Sport 1 FHD" tvg-logo="http://logo.streamstv.me/picon/VIPALTringSport1HD.png" group-title="Sports",Sport-AL: Tring Sport 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101961
+#EXTINF:-1 tvg-id="TS2 HD-AL" tvg-name="Sport-AL: Tring Sport 2 FHD" tvg-logo="http://logo.streamstv.me/picon/ALTringSport2FHD.png" group-title="Sports",Sport-AL: Tring Sport 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101962
+#EXTINF:-1 tvg-id="TS3 HD-AL" tvg-name="Sport-AL: Tring Sport 3 FHD" tvg-logo="http://logo.streamstv.me/picon/ALTringSport3FHD.png" group-title="Sports",Sport-AL: Tring Sport 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101963
+#EXTINF:-1 tvg-id="TS4 HD-AL" tvg-name="Sport-AL: Tring Sport 4 FHD" tvg-logo="http://logo.streamstv.me/picon/ALTringSport4FHD.png" group-title="Sports",Sport-AL: Tring Sport 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101964
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Kujtesa Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport1HD.png" group-title="Sports",Sport-AL: Kujtesa Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101965
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Kujtesa Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport2HD.png" group-title="Sports",Sport-AL: Kujtesa Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101966
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Kujtesa Sport 3 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport3HD.png" group-title="Sports",Sport-AL: Kujtesa Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101967
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Kujtesa Sport 4 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport4HD.png" group-title="Sports",Sport-AL: Kujtesa Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101968
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Kujtesa Sport 5 HD" tvg-logo="http://logo.streamstv.me/picon/ALKujtesaSport5HD.png" group-title="Sports",Sport-AL: Kujtesa Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101969
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Super Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport1HD.png" group-title="Sports",Sport-AL: Super Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101974
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Super Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport2HD.png" group-title="Sports",Sport-AL: Super Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101975
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Super Sport 3 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport3HD.png" group-title="Sports",Sport-AL: Super Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101976
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Super Sport 4 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport4HD.png" group-title="Sports",Sport-AL: Super Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101977
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Super Sport 5 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport5HD.png" group-title="Sports",Sport-AL: Super Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101978
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Super Sport 6 HD" tvg-logo="http://logo.streamstv.me/picon/ALSuperSport6HD.png" group-title="Sports",Sport-AL: Super Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101979
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Eurosport 1 HD" tvg-logo="http://logo.streamstv.me/picon/ALEurosport1HD.png" group-title="Sports",Sport-AL: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101984
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: RTSH Sport HD" tvg-logo="http://logo.streamstv.me/picon/ALRTSHSportHD.png" group-title="Sports",Sport-AL: RTSH Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101985
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AL: Eurosport 2" tvg-logo="http://logo.streamstv.me/picon/ALEurosport2.png" group-title="Sports",Sport-AL: Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101991
+#EXTINF:-1 tvg-id="Arena Sport 1-EXYU" tvg-name="Sport-ex-Yu: Arena Sport 1 HR HD" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport1HRHD.png" group-title="Sports",Sport-ex-Yu: Arena Sport 1 HR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101993
+#EXTINF:-1 tvg-id="Arena Sport 2-EXYU" tvg-name="Sport-ex-Yu: Arena Sport 2 HR HD" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport2HRHD.png" group-title="Sports",Sport-ex-Yu: Arena Sport 2 HR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101994
+#EXTINF:-1 tvg-id="Arena Sport 3-EXYU" tvg-name="Sport-ex-Yu: Arena Sport 3 HR HD" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport3HRHD.png" group-title="Sports",Sport-ex-Yu: Arena Sport 3 HR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101995
+#EXTINF:-1 tvg-id="Arena Sport 4-EXYU" tvg-name="Sport-ex-Yu: Arena Sport 4 HR FHD" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport4HRHD.png" group-title="Sports",Sport-ex-Yu: Arena Sport 4 HR FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101992
+#EXTINF:-1 tvg-id="Arena Sport 5-EXYU" tvg-name="Sport-ex-Yu: Arena Sport 5 HR HD" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport5HRHD.png" group-title="Sports",Sport-ex-Yu: Arena Sport 5 HR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101996
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Arena Sport 1 Srb" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport1Srb.png" group-title="Sports",Sport-ex-Yu: Arena Sport 1 Srb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102002
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Arena Sport 2 Srb" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport2Srb.png" group-title="Sports",Sport-ex-Yu: Arena Sport 2 Srb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102001
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Arena Sport 3 Srb" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport3Srb.png" group-title="Sports",Sport-ex-Yu: Arena Sport 3 Srb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102000
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Arena Sport 4 Srb" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport4Srb.png" group-title="Sports",Sport-ex-Yu: Arena Sport 4 Srb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101999
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Arena Sport 5 Srb" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport5Srb.png" group-title="Sports",Sport-ex-Yu: Arena Sport 5 Srb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101998
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Arena Sport 6 HR" tvg-logo="http://logo.streamstv.me/picon/exYuArenaSport6HR.png" group-title="Sports",Sport-ex-Yu: Arena Sport 6 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/101997
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub FHD" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub1FHDVIP.png" group-title="Sports",Sport-ex-Yu: Sport Klub FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102013
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-yu: sport klub 2 fhd SRB/HRV/SLO VIP" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub2FHDSRBHRVSLOVIP.png" group-title="Sports",Sport-ex-yu: sport klub 2 fhd SRB/HRV/SLO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102014
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub 3 FHD SRB/HRV/SLO VIP" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub3FHDSRBHRVSLOVIP.png" group-title="Sports",Sport-ex-Yu: Sport Klub 3 FHD SRB/HRV/SLO VIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102015
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub 1 SRB" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub1SRB.png" group-title="Sports",Sport-ex-Yu: Sport Klub 1 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102016
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub 2 SRB" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub2SRB.png" group-title="Sports",Sport-ex-Yu: Sport Klub 2 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102017
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub 3 SRB" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub3SRB.png" group-title="Sports",Sport-ex-Yu: Sport Klub 3 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102018
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub 4 SRB" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub4SR.png" group-title="Sports",Sport-ex-Yu: Sport Klub 4 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102019
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub 5 SRB" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub5SR.png" group-title="Sports",Sport-ex-Yu: Sport Klub 5 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102020
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ex-Yu: Sport Klub 6 SRB" tvg-logo="http://logo.streamstv.me/picon/exYuSportKlub6SR.png" group-title="Sports",Sport-ex-Yu: Sport Klub 6 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102021
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: beINSport 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport1.png" group-title="Sports",Sport-TR: beINSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102022
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: beINSport 2 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport 2HD.png" group-title="Sports",Sport-TR: beINSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102023
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: beINSport 3 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport3HD.png" group-title="Sports",Sport-TR: beINSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102024
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: beINSport 4 HD" tvg-logo="http://logo.streamstv.me/picon/TRbeINSport4HD.png" group-title="Sports",Sport-TR: beINSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102025
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: beIN Sports Haber FHD" tvg-logo="http://logo.streamstv.me/picon/beINSportsHaber.png" group-title="Sports",Sport-TR: beIN Sports Haber FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102026
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: TiviBu Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/TRTiviBuSport1HD.png" group-title="Sports",Sport-TR: TiviBu Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102029
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: TiviBu Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/TRTiviBuSport2HD.png" group-title="Sports",Sport-TR: TiviBu Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102028
+#EXTINF:-1 tvg-id="" tvg-name="Sport-TR: TiviBu Sport 3 HD" tvg-logo="http://logo.streamstv.me/picon/TRTiviBuSport3HD.png" group-title="Sports",Sport-TR: TiviBu Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102027
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 1" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport1.png" group-title="Sports",Sport-AF: SuperSport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102030
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 2" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport2.png" group-title="Sports",Sport-AF: SuperSport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102031
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 3" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport3.png" group-title="Sports",Sport-AF: SuperSport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102032
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 4" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport4.png" group-title="Sports",Sport-AF: SuperSport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102033
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 5" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport5.png" group-title="Sports",Sport-AF: SuperSport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102034
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 6" tvg-logo="http://logo.m3uplus.stream/picon/SportAFSuperSport6.png" group-title="Sports",Sport-AF: SuperSport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102035
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 7" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport7.png" group-title="Sports",Sport-AF: SuperSport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102036
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 8" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport8.png" group-title="Sports",Sport-AF: SuperSport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102037
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 9" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport9.png" group-title="Sports",Sport-AF: SuperSport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102038
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 10" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport10.png" group-title="Sports",Sport-AF: SuperSport 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102039
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 11" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport11.png" group-title="Sports",Sport-AF: SuperSport 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102040
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 11 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport11HD.png" group-title="Sports",Sport-ARB: Bein Sport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102042
+#EXTINF:-1 tvg-id="" tvg-name="Sport-AF: SuperSport 12" tvg-logo="http://logo.streamstv.me/picon/AFSuperSport12.png" group-title="Sports",Sport-AF: SuperSport 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102041
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: RMC Sport 2" tvg-logo="http://logo.streamstv.me/picon/FRRMCSport2.png" group-title="Sports",Sport-FR: RMC Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102045
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: RMC Sport 3" tvg-logo="http://logo.streamstv.me/picon/FRRMCSport3.png" group-title="Sports",Sport-FR: RMC Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102044
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: RMC Sport 4" tvg-logo="http://logo.streamstv.me/picon/FRRMCSport4.png" group-title="Sports",Sport-FR: RMC Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102043
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS 1 HD" tvg-logo="http://logo.streamstv.me/picon/beinsports1.png" group-title="Sports",Sport-FR: beIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102049
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS 2 HD" tvg-logo="http://logo.streamstv.me/picon/FRbeINSPORTS2HD.png" group-title="Sports",Sport-FR: beIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102048
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS 3 HD" tvg-logo="http://logo.streamstv.me/picon/FRbeINSPORTS3HD.png" group-title="Sports",Sport-FR: beIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102047
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS MAX 4 HD" tvg-logo="http://logo.streamstv.me/picon/FRbeINSPORTSMAX4HD.png" group-title="Sports",Sport-FR: beIN SPORTS MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102055
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS MAX 5 HD" tvg-logo="http://logo.streamstv.me/picon/beinsportsmax5.png" group-title="Sports",Sport-FR: beIN SPORTS MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102054
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS MAX 6 HD" tvg-logo="http://logo.streamstv.me/picon/beinsportsmax6.png" group-title="Sports",Sport-FR: beIN SPORTS MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102053
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS MAX 7 HD" tvg-logo="http://logo.streamstv.me/picon/beinsportsmax7.png" group-title="Sports",Sport-FR: beIN SPORTS MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102052
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS MAX 8 HD" tvg-logo="http://logo.streamstv.me/picon/FRbeINSPORTSMAX8HD.png" group-title="Sports",Sport-FR: beIN SPORTS MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102051
+#EXTINF:-1 tvg-id="" tvg-name="Sport-FR: beIN SPORTS MAX 9 FHD" tvg-logo="http://logo.streamstv.me/picon/beINSportsMAX9.png" group-title="Sports",Sport-FR: beIN SPORTS MAX 9 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102050
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport 24 FHD" tvg-logo="http://logo.streamstv.me/picon/ITSkySport24HD.png" group-title="Sports",Sport-IT: Sky Sport 24 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102056
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport Arena HD" tvg-logo="http://logo.m3uplus.stream/picon/SportITSkySportArenaHD.png" group-title="Sports",Sport-IT: Sky Sport Arena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102058
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport football" tvg-logo="http://logo.streamstv.me/picon/foxsportshd.png" group-title="Sports",Sport-IT: Sky Sport football
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102059
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport F1 FHD" tvg-logo="http://logo.streamstv.me/picon/ITSkySportF1HD.png" group-title="Sports",Sport-IT: Sky Sport F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102060
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport MotoGP FHD" tvg-logo="http://logo.streamstv.me/picon/ITSkyMotoGPHD.png" group-title="Sports",Sport-IT: Sky Sport MotoGP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102061
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: SKY Sport NBA FHD" tvg-logo="http://logo.streamstv.me/picon/ITSkyCalcio1.png" group-title="Sports",Sport-IT: SKY Sport NBA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102062
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport collection FHD" tvg-logo="http://logo.streamstv.me/picon/ITSkyCalcio2.png" group-title="Sports",Sport-IT: Sky Sport collection FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102063
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport uno hd" tvg-logo="http://logo.streamstv.me/picon/ITSkyCalcio4HD.png" group-title="Sports",Sport-IT: Sky Sport uno hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102064
+#EXTINF:-1 tvg-id="" tvg-name="Sport-IT: Sky Sport 6 HD" tvg-logo="http://logo.streamstv.me/picon/ITSkyCalcio5HD.png" group-title="Sports",Sport-IT: Sky Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102065
+#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: Sport TV 1 HD" tvg-logo="http://logo.streamstv.me/picon/SportPTSportTV1HD.png" group-title="Sports",Sport-PT: Sport TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102123
+#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: Sport TV 2 HD" tvg-logo="http://logo.streamstv.me/picon/PTSPORTTV2HD.png" group-title="Sports",Sport-PT: Sport TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102127
+#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: Sport TV 3 HD" tvg-logo="http://logo.streamstv.me/picon/SportPTSportTV3HD.png" group-title="Sports",Sport-PT: Sport TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102126
+#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: Sport TV 4 HD" tvg-logo="http://logo.streamstv.me/picon/PTSPORTTV4HD.png" group-title="Sports",Sport-PT: Sport TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102125
+#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: Sport TV 5 HD" tvg-logo="http://logo.streamstv.me/picon/SportPTSportTV5HD.png" group-title="Sports",Sport-PT: Sport TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102124
+#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: SPORT TV NBA HD" tvg-logo="http://logo.streamstv.me/picon/SportPTSPORTTVNBAHD.png" group-title="Sports",Sport-PT: SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102128
+#EXTINF:-1 tvg-id="" tvg-name="Sport-PT: Sport TV + HD" tvg-logo="http://logo.streamstv.me/picon/ptSPORTVplus.png" group-title="Sports",Sport-PT: Sport TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102129
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ES: beINSPORTS Laliga" tvg-logo="http://logo.streamstv.me/picon/ESbeINSPORTSLaliga.png" group-title="Sports",Sport-ES: beINSPORTS Laliga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102130
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ES: beIN Sports FHD" tvg-logo="http://logo.streamstv.me/picon/ESbeINSportsFHD.png" group-title="Sports",Sport-ES: beIN Sports FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102131
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ES: MoviStar Formula 1 HD" tvg-logo="http://logo.streamstv.me/picon/movistarformula1.png" group-title="Sports",Sport-ES: MoviStar Formula 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102132
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ES: MoviStar Liga de Campeones" tvg-logo="http://logo.streamstv.me/picon/ESMovistarLigadeCampeones.png" group-title="Sports",Sport-ES: MoviStar Liga de Campeones
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102133
+#EXTINF:-1 tvg-id="Liverpool FC TV-UK" tvg-name="Sport-UK: Liverpool tv" tvg-logo="http://logo.streamstv.me/picon/UKLIVERPOOLTV.png" group-title="Sports",Sport-UK: Liverpool tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102134
+#EXTINF:-1 tvg-id="US-NBC Sports Network" tvg-name="Sport-US: NBCSN HD" tvg-logo="http://logo.streamstv.me/picon/USNBCSNFHD.png" group-title="USA GENERAL",Sport-US: NBCSN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102135
+#EXTINF:-1 tvg-id="432 Racing UK-UK" tvg-name="Sport-UK: sky sports racing" tvg-logo="http://logo.streamstv.me/picon/UKskysportsracing.png" group-title="Sports",Sport-UK: sky sports racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102136
+#EXTINF:-1 tvg-id="402 SkySp PL-UK" tvg-name="Sport-UK: Sky Sports Premier League HD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsPremierLeagueHD.png" group-title="Sports",Sport-UK: Sky Sports Premier League HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102137
+#EXTINF:-1 tvg-id="" tvg-name="Sport-UK: Sky Sports News HD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsNewsFHD.png" group-title="Sports",Sport-UK: Sky Sports News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102138
+#EXTINF:-1 tvg-id="121 SkySp Mix-UK" tvg-name="Sport-UK: Sky Sports Mix FHD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsMixFHD.png" group-title="Sports",Sport-UK: Sky Sports Mix FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102139
+#EXTINF:-1 tvg-id="401 SkySpMainEv-UK" tvg-name="Sport-UK: Sky Sports Main Event HD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsMainEventHD.png" group-title="Sports",Sport-UK: Sky Sports Main Event HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102140
+#EXTINF:-1 tvg-id="Sky Sports Football-UK" tvg-name="Sport-UK: Sky Sports Football FHD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsFootballFHD.png" group-title="Sports",Sport-UK: Sky Sports Football FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102141
+#EXTINF:-1 tvg-id="406 SkySp F1-UK" tvg-name="Sport-UK: Sky Sports F1 FHD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsF1FHD.png" group-title="Sports",Sport-UK: Sky Sports F1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102142
+#EXTINF:-1 tvg-id="404 SkySpCricket-UK" tvg-name="Sport-UK: Sky Sports Cricket HD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsCricketHD.png" group-title="Sports",Sport-UK: Sky Sports Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102143
+#EXTINF:-1 tvg-id="408 SkySp Arena-UK" tvg-name="Sport-UK: Sky Sports Arena HD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsArenaHD.png" group-title="Sports",Sport-UK: Sky Sports Arena HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102144
+#EXTINF:-1 tvg-id="407 SkySp Action-UK" tvg-name="Sport-UK: Sky Sports Action HD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsActionHD.png" group-title="Sports",Sport-UK: Sky Sports Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102145
+#EXTINF:-1 tvg-id="405 SkySp Golf-UK" tvg-name="Sport-UK: Sky Sports Golf HD" tvg-logo="http://logo.streamstv.me/picon/UKSkySportsGolfHD.png" group-title="Sports",Sport-UK: Sky Sports Golf HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/102146
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 1 HD" tvg-logo="http://logo.streamstv.me/picon/beinsports1.png" group-title="Sports",Sport-ARB: Bein Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103183
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 2 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport2HD.png" group-title="Sports",Sport-ARB: Bein Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103184
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 3 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport3HD.png" group-title="Sports",Sport-ARB: Bein Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103213
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 4 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport4HD.png" group-title="Sports",Sport-ARB: Bein Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103214
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 5 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport5HD.png" group-title="Sports",Sport-ARB: Bein Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103215
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 6 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport6HD.png" group-title="Sports",Sport-ARB: Bein Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103216
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 7 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport7HD.png" group-title="Sports",Sport-ARB: Bein Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103217
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 8 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport8HD.png" group-title="Sports",Sport-ARB: Bein Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103218
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 9 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport9HD.png" group-title="Sports",Sport-ARB: Bein Sport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103219
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 12 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport12HD.png" group-title="Sports",Sport-ARB: Bein Sport 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103220
+#EXTINF:-1 tvg-id="" tvg-name="Sport-ARB: Bein Sport 10 HD" tvg-logo="http://logo.streamstv.me/picon/ARBBeinSport10HD.png" group-title="Sports",Sport-ARB: Bein Sport 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/103221
+#EXTINF:-1 tvg-id="" tvg-name="RU: MATCH TV" tvg-logo="http://logo.m3uplus.stream/picon/RUMATCHTV.png" group-title="Sports",RU: MATCH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/107971
+#EXTINF:-1 tvg-id="" tvg-name="US: ME TV test" tvg-logo="http://logo.m3uplus.stream/picon/SETEST2.png" group-title="Sports",US: ME TV test
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/107972
+#EXTINF:-1 tvg-id="" tvg-name="RU: Live sport" tvg-logo="http://logo.m3uplus.stream/picon/RULivesport.png" group-title="Sport VIP",RU: Live sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/111380
+#EXTINF:-1 tvg-id="RTCG-EXYU" tvg-name="ex-Yu: RTCG 1" tvg-logo="http://logo.streamstv.me/picon/exYuRTCG1.png" group-title="Crna gora",ex-Yu: RTCG 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/21622
+#EXTINF:-1 tvg-id="RTCG2-EXYU" tvg-name="ex-Yu: RTCG 2" tvg-logo="http://logo.streamstv.me/picon/exYuRTCG2.png" group-title="Crna gora",ex-Yu: RTCG 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/21621
+#EXTINF:-1 tvg-id="RTCG SAT-EXYU" tvg-name="ex-Yu: RTCG Sat" tvg-logo="http://logo.streamstv.me/picon/exYuRTCGSat.png" group-title="Crna gora",ex-Yu: RTCG Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/21620
+#EXTINF:-1 tvg-id="TV Vijesti-EXYU" tvg-name="ex-Yu: TV Vijesti" tvg-logo="http://logo.streamstv.me/picon/exYuTVVijestiCG.png" group-title="Crna gora",ex-Yu: TV Vijesti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/21619
+#EXTINF:-1 tvg-id="[ME] Nova M-EXYU" tvg-name="ex-Yu: Nova M" tvg-logo="http://logo.streamstv.me/picon/exYuPinkM.png" group-title="Crna gora",ex-Yu: Nova M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/21558
+#EXTINF:-1 tvg-id="PINK M-EXYU" tvg-name="EX-YU: PINK M" tvg-logo="http://logo.m3uplus.stream/picon/EXYUPINKM.png" group-title="Crna gora",EX-YU: PINK M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/113728
+#EXTINF:-1 tvg-id="Prva CG-EXYU" tvg-name="EX-YU: prva CG" tvg-logo="http://logo.m3uplus.stream/picon/EXYUprvaCG.png" group-title="Crna gora",EX-YU: prva CG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/113920
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MNE SPORT 1 HD" tvg-logo="http://logo.m3uplus.stream/picon/EXYUMNESPORT1HD.png" group-title="EX-YU Sport",EX-YU: MNE SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114206
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: MNE SPORT 2" tvg-logo="http://logo.m3uplus.stream/picon/EXYUMNESPORT2.png" group-title="EX-YU Sport",EX-YU: MNE SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/114207
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: TV 7" tvg-logo="http://logo.m3uplus.stream/picon/EXYUTV7.png" group-title="Crna gora",EX-YU: TV 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal.silentiptv.com:8080/Farrell/Farrell/115993
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max: Fury Road (2015) Movie ALB" tvg-logo="http://portals.enjoy-iptv.com:8080/more_api/media/movies/515d26c9bf8f3f7b21dab86ef0c538c4.jpg" group-title="ALB: Movies VOD",Mad Max: Fury Road (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/53084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Southpaw (2015) Movie ALB" tvg-logo="http://portals.enjoy-iptv.com:8080/more_api/media/movies/83f2f478c45c96efc2450f5bb3503289.jpg" group-title="ALB: Movies VOD",Southpaw (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/53184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الخلبوص Movie ARB" tvg-logo="http://config.streamstv.me:8080/images/bA74kh4v6NfSCihAMMBpnBT7uQE_small.jpg" group-title="ARB: Movies VOD",الخلبوص Movie ARB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/42104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Invisible Sister (2015) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/k7CFFuQghkh6Iiu1cYsLxLMyeI8_small.jpg" group-title="ALB: Movies VOD",Invisible Sister (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/44662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="That’s Not My Dog! (2018) Movie ARB" tvg-logo="http://config.streamstv.me:8080/images/51TW4SBmlvXRjKOicn90FjyLRtC_small.jpg" group-title="ARB: Movies VOD",That’s Not My Dog! (2018) Movie ARB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/42122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ryde (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/iRiUofTb8i7oka6t3vIXeIyYvcO_small.jpg" group-title="ALB: Movies VOD",Ryde (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/44660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Streets (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/ouOIaLg5AMHw9o9mOhlbCTq1PML_small.jpg" group-title="ALB: Movies VOD",100 Streets (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="14 Blades (2010) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/dAMh7PtMRpjLLiwdWyzOAwZucPI_small.jpg" group-title="ALB: Movies VOD",14 Blades (2010) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="20th Century Women (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/9vavp7kXnLwPGfOfThJwpW0Mk4v_small.jpg" group-title="ALB: Movies VOD",20th Century Women (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24 Weeks (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/nKzmeKmZWIoSPbwxocStemcTgwL_small.jpg" group-title="ALB: Movies VOD",24 Weeks (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Meters Down (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/2IgdRUTdHyoI3nFORcnnYEKOGIH_small.jpg" group-title="ALB: Movies VOD",47 Meters Down (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="47 Ronin (2013) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/pUH46wa0n4zXZytpriSaoNUXai4_small.jpg" group-title="ALB: Movies VOD",47 Ronin (2013) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="48 Hours to Live (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/x44BbwHJmDgeGx2N3E8fsLHdqzs_small.jpg" group-title="ALB: Movies VOD",48 Hours to Live (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Monster Calls (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/oqZ0MBWxNrArZpyVqk3QGAA37QL_small.jpg" group-title="ALB: Movies VOD",A Monster Calls (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Street Cat Named Bob (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/amJU2TxLHytgnd7xyrNZURS6crk_small.jpg" group-title="ALB: Movies VOD",A Street Cat Named Bob (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adventures of Arsene Lupin (2004) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qWx7MN0fvqXPUO2Ebc1r3f0MMc8_small.jpg" group-title="ALB: Movies VOD",Adventures of Arsene Lupin (2004) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aftermath (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/25oWTCGqIik4gUTMidx3L8DI4Bt_small.jpg" group-title="ALB: Movies VOD",Aftermath (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Against the Wild II: Survive the Serengeti (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/kzTSL44iMUBaGtnsGyBV1No4oLz_small.jpg" group-title="ALB: Movies VOD",Against the Wild II: Survive the Serengeti (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Airplane! (1980) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/b4sAWNIbfXw4WTdc1wiVRBk2Vko_small.jpg" group-title="ALB: Movies VOD",Airplane! (1980) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ali and Nino (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/k678ohrP2DcfgElWZl2mxdO3vEd_small.jpg" group-title="ALB: Movies VOD",Ali and Nino (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/zecMELPbU5YMQpC81Z8ImaaXuf9_small.jpg" group-title="ALB: Movies VOD",Alien: Covenant (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All About the Money (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/AoR9XuGB0NROiv7YgtJoBAfm40C_small.jpg" group-title="ALB: Movies VOD",All About the Money (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="All Nighter (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/ciNUrbNv871umQ3IqvIOjet4s4E_small.jpg" group-title="ALB: Movies VOD",All Nighter (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Allied (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/nzXzLFTnd0Zb3ExfhOxlQgizgSu_small.jpg" group-title="ALB: Movies VOD",Allied (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Almost Christmas (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/ztqeL8yiu12NZUfN9RaE60HPUXz_small.jpg" group-title="ALB: Movies VOD",Almost Christmas (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altitude (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/1pSk6DU0oY7BWTK4F9keqjeCxB7_small.jpg" group-title="ALB: Movies VOD",Altitude (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Fable (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/mUDLwUsHaQmPXaYhx0o3psPz9J6_small.jpg" group-title="ALB: Movies VOD",American Fable (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Honey (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qV2t4Eu6nMbhf6frWYnVXPqKJYT_small.jpg" group-title="ALB: Movies VOD",American Honey (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja (1985) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/sGsAbLedjYT3VDaa5UWRPYdbeqh_small.jpg" group-title="ALB: Movies VOD",American Ninja (1985) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja 2: The Confrontation (1987) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qZT15rkBfTz1kSgoesSInVm7TXH_small.jpg" group-title="ALB: Movies VOD",American Ninja 2: The Confrontation (1987) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Ninja 3: Blood Hunt (1989) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/c7oNrk8bRg0BlmtvidhVD8ivPYT_small.jpg" group-title="ALB: Movies VOD",American Ninja 3: Blood Hunt (1989) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Pastoral (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/5RSZR8clQh6170hRODWH5yS9nHS_small.jpg" group-title="ALB: Movies VOD",American Pastoral (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Violence (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/2JM8wiOW0yvOyXY1zZKKiRQ1UPB_small.jpg" group-title="ALB: Movies VOD",American Violence (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Wrestler: The Wizard (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/yxK8NVydY0p4ZymT5HB2JXJ8xPW_small.jpg" group-title="ALB: Movies VOD",American Wrestler: The Wizard (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anonymous The Hacker (2012) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/oDHKq5FFj9bbtvmkNcARrc78UH0_small.jpg" group-title="ALB: Movies VOD",Anonymous The Hacker (2012) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arbor Demon (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/d4aEl7xg9W1ThXa7GH8uAbrGrRE_small.jpg" group-title="ALB: Movies VOD",Arbor Demon (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ares (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/TXUa7CWwRDYLj0xfWrkdc4zmuq_small.jpg" group-title="ALB: Movies VOD",Ares (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Armour of God (1986) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/7H0Qp0EqFdBIChuXrR4kEyKZyzk_small.jpg" group-title="ALB: Movies VOD",Armour of God (1986) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arrival (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/hLudzvGfpi6JlwUnsNhXwKKg4j_small.jpg" group-title="ALB: Movies VOD",Arrival (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/6tkmf3MrA3SKoBnVeBJsqXuLJ9a_small.jpg" group-title="ALB: Movies VOD",Arsenal (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arthur&merlin (2015) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/28HW1Kc4OwQH50M0XmcEuIYrCWk_small.jpg" group-title="ALB: Movies VOD",Arthur&merlin (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassin's Creed (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/tIKFBxBZhSXpIITiiB5Ws8VGXjt_small.jpg" group-title="ALB: Movies VOD",Assassin's Creed (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Asterix At The Olympic Games (2008) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/tKL0RJOeuccc1rrpcDKg8qhedIz_small.jpg" group-title="ALB: Movies VOD",Asterix At The Olympic Games (2008) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="At The End Of The Tunnel (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/fG2TW0wmkKoZ4fPY09P54BTDM4M_small.jpg" group-title="ALB: Movies VOD",At The End Of The Tunnel (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Attraction (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qHditPFIFCbXJKGLTPzvIagg6XD_small.jpg" group-title="ALB: Movies VOD",Attraction (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Grimm (2015) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/egTkpBSKbqBK66nr4G1cORgZT75_small.jpg" group-title="ALB: Movies VOD",Avengers Grimm (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Azem Galica (2011) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qnzr6Xmyy0lgGebIr7X5AJ3E4Hd_small.jpg" group-title="ALB: Movies VOD",Azem Galica (2011) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Kids Of Crestview Academy (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/frVFhblTEDnGSaBp8vg1YurOPmV_small.jpg" group-title="ALB: Movies VOD",Bad Kids Of Crestview Academy (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Santa 2 (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/y3kVZVknjDeLZSanLewaXsuwP12_small.jpg" group-title="ALB: Movies VOD",Bad Santa 2 (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bahubali: The Beginning (2015) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/5uurRfH9KdMiecCNTzO1MSi9Tqw_small.jpg" group-title="ALB: Movies VOD",Bahubali: The Beginning (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baked in Brooklyn (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/49NU41wlplMxk4Txtw7T0aqk8BM_small.jpg" group-title="ALB: Movies VOD",Baked in Brooklyn (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ballerina (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qBxMhcmNnFniuDAZTKEHcSgKtsn_small.jpg" group-title="ALB: Movies VOD",Ballerina (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins (2005) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/dr6x4GyyegBWtinPBzipY02J2lV_small.jpg" group-title="ALB: Movies VOD",Batman Begins (2005) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beauty and the Beast (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/tWqifoYuwLETmmasnGHO7xBjEtt_small.jpg" group-title="ALB: Movies VOD",Beauty and the Beast (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben-Hur (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/c9CoGrBA5yw8A7YBMz0hGzfzpNq_small.jpg" group-title="ALB: Movies VOD",Ben-Hur (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Berlin Syndrome (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qvJeDDYKlfvtYayfOj5sAUXxUju_small.jpg" group-title="ALB: Movies VOD",Berlin Syndrome (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beverly Hills Ninja (1997) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/kHPiEtmMVLyFiYrvrCwRU9wVXBU_small.jpg" group-title="ALB: Movies VOD",Beverly Hills Ninja (1997) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beyond Redemption (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/u9RnEbcIqlALaz2ElVZzmPobZcC_small.jpg" group-title="ALB: Movies VOD",Beyond Redemption (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Billy Lynn's Long Halftime Walk (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/jw60oWt2PWWCvuz8S93i2RH4XJh_small.jpg" group-title="ALB: Movies VOD",Billy Lynn's Long Halftime Walk (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blair Witch (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/kqmGs9q5WZkxKub60K6pU37GdvU_small.jpg" group-title="ALB: Movies VOD",Blair Witch (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blood, Sand & Gold (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/ezNvYf6zCqzR3BipH5iFW5iQdIb_small.jpg" group-title="ALB: Movies VOD",Blood, Sand & Gold (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodrunners (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/proMObvstiaMhhiRGuzzi762ORg_small.jpg" group-title="ALB: Movies VOD",Bloodrunners (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bloodsport II (1996) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/xVfSGAbOK4FucTwkYrXJjeBFqv4_small.jpg" group-title="ALB: Movies VOD",Bloodsport II (1996) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bokeh (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/cedeEgSeKpsFZH9z9LgWbEqILlW_small.jpg" group-title="ALB: Movies VOD",Bokeh (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bone Tomahawk (2015) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/8A51Ur47D0CNJhmvQlbif0vzyqZ_small.jpg" group-title="ALB: Movies VOD",Bone Tomahawk (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boo! A Madea Halloween (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/dpSWKKBtXOu8hDNJRCIAYfcRtdD_small.jpg" group-title="ALB: Movies VOD",Boo! A Madea Halloween (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Born to Fight (2004) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/k4YPOpK9L9jHzKFN5Aa9uJuhvCn_small.jpg" group-title="ALB: Movies VOD",Born to Fight (2004) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bounty Killer (2013) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/tRitIE7zNwoF99j3IA31chp5idI_small.jpg" group-title="ALB: Movies VOD",Bounty Killer (2013) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones's Baby (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/j8di6S3mUuFe5Yz8etRG8yG5EeE_small.jpg" group-title="ALB: Movies VOD",Bridget Jones's Baby (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brimstone (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/h7HckaJ8TOvKIBw2kdFqTk5pAdC_small.jpg" group-title="ALB: Movies VOD",Brimstone (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brotherhood (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/m5OL0b9bfMYlp38qNH0MZolB6Oy_small.jpg" group-title="ALB: Movies VOD",Brotherhood (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bullet to the Head (2013) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/in6KZhkj6UCpXhjVm00VzdisHyf_small.jpg" group-title="ALB: Movies VOD",Bullet to the Head (2013) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Burning Sands (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/nTOithYdgE4jAdSIuH1nAaxkmzY_small.jpg" group-title="ALB: Movies VOD",Burning Sands (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Burnout (2014) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/mTWTuHPM52TO1gyGGfHb3thJeWj_small.jpg" group-title="ALB: Movies VOD",Burnout (2014) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Burnout 2 (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/sO9oY7vu1JaFQPSahxIPkr9OdYP_small.jpg" group-title="ALB: Movies VOD",Burnout 2 (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Call of Heroes (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/frNzgqcLNno44PhcNREjM7AEXWL_small.jpg" group-title="ALB: Movies VOD",Call of Heroes (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Call of the Wolf (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/9bGwlZpboj08nZUbzxj49DMTduC_small.jpg" group-title="ALB: Movies VOD",Call of the Wolf (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain America: Civil War (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/kSBXou5Ac7vEqKd97wotJumyJvU_small.jpg" group-title="ALB: Movies VOD",Captain America: Civil War (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Intelligence (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/9M5ibpQUjoVFjjnP2AdLcof4hAk_small.jpg" group-title="ALB: Movies VOD",Central Intelligence (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Check Point (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/s70fS9pKD9tclDJtP9yPxqgmvnb_small.jpg" group-title="ALB: Movies VOD",Check Point (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clash of the Titans (2010) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/n8W2Y72VzSi8Yz6IvYWwfoiMTS6_small.jpg" group-title="ALB: Movies VOD",Clash of the Titans (2010) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cold War II (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/qDaN3enWBc0tuCFGLjuLB2Gwejv_small.jpg" group-title="ALB: Movies VOD",Cold War II (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Commando 2: The Black Money Trail (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/wOQMMqjPyVfP5pddl14LLdYYTrp_small.jpg" group-title="ALB: Movies VOD",Commando 2: The Black Money Trail (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conquest 1453 (2012) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/jbyf6DbBucwCgHXlAaA7mX4KdSs_small.jpg" group-title="ALB: Movies VOD",Conquest 1453 (2012) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crouching Tiger, Hidden Dragon: Sword of Destiny (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/ofUfaj5e6qZtDqTPS5GkEV0H2zH_small.jpg" group-title="ALB: Movies VOD",Crouching Tiger, Hidden Dragon: Sword of Destiny (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dangal (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/5PDT64gtbmH10gK5AYR7LZh5PQk_small.jpg" group-title="ALB: Movies VOD",Dangal (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dead South (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/tSWIERDkhExNRGhg1rZYm6R8hJX_small.jpg" group-title="ALB: Movies VOD",Dead South (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/inVq3FRqcYIRl2la8iZikYYxFNR_small.jpg" group-title="ALB: Movies VOD",Deadpool (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deepwater Horizon (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/7D6hM7IR0TbQmNvSZVtEiPM3H5h_small.jpg" group-title="ALB: Movies VOD",Deepwater Horizon (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detective Conan: The Darkest Nightmare (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/c4Rn9Tj1GLZt76Eu2xp790iHWj3_small.jpg" group-title="ALB: Movies VOD",Detective Conan: The Darkest Nightmare (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/4PiiNGXj1KENTmCBHeN6Mskj2Fq_small.jpg" group-title="ALB: Movies VOD",Doctor Strange (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Double Impact (1991) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/sRxg7BI6y5dXa5SX0RZS3zlhxwc_small.jpg" group-title="ALB: Movies VOD",Double Impact (1991) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fabricated City (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/8tE4MhhuWHize6pNyxAtakUyNZc_small.jpg" group-title="ALB: Movies VOD",Fabricated City (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Face to Face (1979) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/stGxK11ePqEATOCt6PUwn8fLE8b_small.jpg" group-title="ALB: Movies VOD",Face to Face (1979) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantastic Beasts and Where to Find Them (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/1M91Bt3oGspda75H9eLqYZkJzgO_small.jpg" group-title="ALB: Movies VOD",Fantastic Beasts and Where to Find Them (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades of Grey (2015) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/jV8wnk3Jgz6f7degmT3lHNGI2tK_small.jpg" group-title="ALB: Movies VOD",Fifty Shades of Grey (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fighter In The Wind (2004) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/nQHG3CiqjLsu9JahA66FI6WcUBQ_small.jpg" group-title="ALB: Movies VOD",Fighter In The Wind (2004) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Force (2011) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/wFgaW0qYt8SxHFVrnRjazlKUuyJ_small.jpg" group-title="ALB: Movies VOD",Force (2011) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Force 2 (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/nRVqt6UsH7JwLazGpn2tG2kddDs_small.jpg" group-title="ALB: Movies VOD",Force 2 (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furious 7 (2015) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/dCgm7efXDmiABSdWDHBDBx2jwmn_small.jpg" group-title="ALB: Movies VOD",Furious 7 (2015) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hacksaw Ridge (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/bndiUFfJxNd2fYx8XO610L9a07m_small.jpg" group-title="ALB: Movies VOD",Hacksaw Ridge (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hidden Figures (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/6cbIDZLfwUTmttXTmNi8Mp3Rnmg_small.jpg" group-title="ALB: Movies VOD",Hidden Figures (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3 (2013) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/7XiGqZE8meUv7L4720L0tIDd7gO_small.jpg" group-title="ALB: Movies VOD",Iron Man 3 (2013) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaabil (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/1scmyOBJkEGvb0unRCANHHH3n3S_small.jpg" group-title="ALB: Movies VOD",Kaabil (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kalpana 2 (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/zmmBP9YMiFiQWvCJkhirunxTY8d_small.jpg" group-title="ALB: Movies VOD",Kalpana 2 (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom of Heaven (2005) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/aB4urkgTxBURJMUkd0kceDD7FUM_small.jpg" group-title="ALB: Movies VOD",Kingdom of Heaven (2005) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Time in the West (1968) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/rVAHRtAMhV8QVXQMQ8NxNbZXCDp_small.jpg" group-title="ALB: Movies VOD",Once Upon a Time in the West (1968) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation Condor (1991) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/loOps7gaDy1h6FTxQQdmh1L9TXn_small.jpg" group-title="ALB: Movies VOD",Operation Condor (1991) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Passion (1983) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/uSzqLX3o4Ysa6X5hC5dpX06XdYy_small.jpg" group-title="ALB: Movies VOD",Passion (1983) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silence (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/sHM6i6se7mwKGRDvW4nQC7dkeKI_small.jpg" group-title="ALB: Movies VOD",Silence (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fate of the Furious (2017) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/dImWM7GJqryWJO9LHa3XQ8DD5NH_small.jpg" group-title="ALB: Movies VOD",The Fate of the Furious (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legend of Drunken Master (1994) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/zZODgJHFtzs6wwa4cp6Nezb5AGe_small.jpg" group-title="ALB: Movies VOD",The Legend of Drunken Master (1994) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Master (2012) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/k0r8UEqU6RIBcZMQzZUoG1r81qR_small.jpg" group-title="ALB: Movies VOD",The Master (2012) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Troy (2004) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/edMlij7nw2NMla32xskDnzMCFBM_small.jpg" group-title="ALB: Movies VOD",Troy (2004) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Two Is a Family (2016) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/muwaDIv5cLv2Z07CZFWOsL7lYuO_small.jpg" group-title="ALB: Movies VOD",Two Is a Family (2016) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/68771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner (1982) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/vfzE3pjE5G7G7kcZWrA3fnbZo7V_small.jpg" group-title="ALB: Movies VOD",Blade Runner (1982) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/93730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Dashuruar Cmendurisht (1981) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/vfzE3pjE5G7G7kcZWrA3fnbZo7V_small.jpg" group-title="ALB: Movies VOD",I Dashuruar Cmendurisht (1981) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/93731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Raiders of the Lost Ark (1981) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/44sKJOGP3fTm4QXBcIuqu0RkdP7_small.jpg" group-title="ALB: Movies VOD",Indiana Jones and the Raiders of the Lost Ark (1981) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/93733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Innamorato pazzo (1981) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/keu4j4Y4xZTfXMfsZr8e45ZV9iZ_small.jpg" group-title="ALB: Movies VOD",Innamorato pazzo (1981) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/93734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Law Abiding Citizen (2009) Movie ALB" tvg-logo="http://config.streamstv.me:8080/images/p7zwLp8gCKyrNLCHP3RhmN5izHo_small.jpg" group-title="ALB: Movies VOD",Law Abiding Citizen (2009) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/93735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aftershock (2012) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ip7nEf8I52e47xPLS7BWCZxHC5s.jpg" group-title="ALB: Movies VOD",Aftershock (2012) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aswathama (2020) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrsK8h89TCiLUgESwNI7yp8dMzo.jpg" group-title="ALB: Movies VOD",Aswathama (2020) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extraction (2020) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg" group-title="ALB: Movies VOD",Extraction (2020) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="L.A. Confidential (1997) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6w1tl5bvnMVc8qenSwqUPFF4MKr.jpg" group-title="ALB: Movies VOD",L.A. Confidential (1997) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Long (2017) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xbuK3Y8zonLCuce89gbjXlRcdw.jpg" group-title="ALB: Movies VOD",Mr. Long (2017) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="South Wind (2018) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqeeGR71CEFl4zSWevggk9PPj4g.jpg" group-title="ALB: Movies VOD",South Wind (2018) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sunrise In Heaven (2019) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8cOgXD0v1RHP9g4ODYIHX0slOY.jpg" group-title="ALB: Movies VOD",Sunrise In Heaven (2019) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Assistant (2020) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg" group-title="ALB: Movies VOD",The Assistant (2020) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Motorcycle Diaries (2004) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg" group-title="ALB: Movies VOD",The Motorcycle Diaries (2004) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Painted Bird (2019) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngcBM2mPG1wkhEH1pOK19KzG0zR.jpg" group-title="ALB: Movies VOD",The Painted Bird (2019) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Past (2013) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngcBM2mPG1wkhEH1pOK19KzG0zR.jpg" group-title="ALB: Movies VOD",The Past (2013) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick (2020) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0FHyNF9VvQTXOi4yKnZJ1zql1.jpg" group-title="ALB: Movies VOD",Top Gun: Maverick (2020) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Torpedo: U-235 (2019) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHuhFcsii1GkKPHVC1wpdvJ9Djs.jpg" group-title="ALB: Movies VOD",Torpedo: U-235 (2019) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Two Hearts As One (2014) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nIxyTJztoJUiTh2cretDj0Z9Hg.jpg" group-title="ALB: Movies VOD",Two Hearts As One (2014) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Walkaway Joe (2020) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRbh3zYElDge6UTdobkozAD1gzN.jpg" group-title="ALB: Movies VOD",Walkaway Joe (2020) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WALL·E (2008) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3g8vyePqVatTaUSnrNnrrwguhxM.jpg" group-title="ALB: Movies VOD",WALL·E (2008) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Better Days (2019) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7WZbQOwAOwVohDhIOgcMxz02hA.jpg" group-title="ALB: Movies VOD",Better Days (2019) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kalashnikov (2020) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7WZbQOwAOwVohDhIOgcMxz02hA.jpg" group-title="ALB: Movies VOD",Kalashnikov (2020) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spartacus (1960) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWZ6NcDJOBNJ0YycZ0CLC6TMQcg.jpg" group-title="ALB: Movies VOD",Spartacus (1960) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Whistlers (2020) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9UIjhnD5QNyhXrA0nZMhRpod5b.jpg" group-title="ALB: Movies VOD",The Whistlers (2020) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/112903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1 na 1 (2002) Movie ALB" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9UIjhnD5QNyhXrA0nZMhRpod5b.jpg" group-title="ALB: Movies VOD",1 na 1 (2002) Movie ALB
+http://portal.silentiptv.com:8080/movie/Farrell/Farrell/52761.mp4
