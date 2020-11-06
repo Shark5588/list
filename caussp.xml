@@ -430,7 +430,7 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  MLB  MLB  MLB  MLB  MLB MLB MLB MLB MLB MLB MLB MLB   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbirdswatcher.com%2Ffiles%2F2016%2F05%2Fmlb-winter-meetings.jpg&c=sc&w=850&h=560",[B][COLORorange]MBL | Network[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/30111
 EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbirdswatcher.com%2Ffiles%2F2016%2F05%2Fmlb-winter-meetings.jpg&c=sc&w=850&h=560",[B][COLORorange]MBL | Network[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbirdswatcher.com%2Ffiles%2F2016%2F05%2Fmlb-winter-meetings.jpg&c=sc&w=850&h=560",[B][COLORorange]Major League Baseball Network (HD)[/B][/COLOR]
@@ -500,8 +500,8 @@ https://telerium.tv/ingest09/33437.m3u8?sf=NDBwczEwU2JE&token=pZGuCej574hp0pn9E_
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/live/lega0111/5LWKycVkls/54986.ts
-EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mytv.fun:8080/c6l4bevwp6/avgja60ken/682014
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
@@ -510,8 +510,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://live.highs
 http://127.0.0.1:6878/ace/manifest.m3u8?infohash=85e48a7264d296afa47b54d87ee2611856a791c5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 https://p-cdn1-d-cg14-linear-cbd46b77.movetv.com/15804/live/NBCSNHD/dfd2b8e21f4b11eb90e40025b5471111/audio/stereo/192/00007d3f.m4s|Referer=https://live-golf.stream/stream/69183.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
-EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-https://e2.habrox.xyz/ingest09/33455.m3u8?sf=NThwczEwU2JE&token=dfvFUw_YJ8Ci5Yer_s0IuA&expires=1601143443&rnd=|Referer=https://telerium.tv/embed/33455.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+https://cf-hls-media.sndcdn.com/playlist/Qeh19F60YiuB.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L1FlaDE5RjYwWWl1Qi4xMjgubXAzL3BsYXlsaXN0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDQ2ODE4MTd9fX1dfQ__&Signature=ZIdgU-8knWPwANxsQj4APNDHetL4Tb2rknY~jRNBD4VCaQvaBCOn3R1A4~u7ndV~6eazNNIgYNdSQgyAD9iKsdG57-BfhM98q40Nnn5JBmigwTjUgv7wwacbTUrFASpuKZhpdspIh1KWZPkkEW0sOKA-BOMU1suSmy~3YTF67p6kOmR4MgcbQVzTF4CYJp9Y4mD1CYllB3FtKoREWMv2y9YFW0thsOvApMpWFzfn4fhSas3MJa-64xhLz216gpZK3GDOpEo5VJRoPN5oYrvP-HiNbSvehItcAVVYCzn9bSJIjk60zAWoAv84f6nSv5fOw2LTxG8NFNf2b2kjGZv0JA__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN NBCSN   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -730,8 +730,8 @@ plugin://plugin.video.f4mTester/?url=http://rdshdulive-lh.akamaihd.net/i/rdshdu1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  RDS Channel  RDS Channel  RDS Channel  RDS Channel  RDS Channel <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/2987
 
 EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -739,8 +739,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/30132
 
 EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -984,20 +984,20 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/live/lega0111/5LWKycVkls/16165.ts
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
-EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 1" tvg-link="" tvg-name="TSN 1" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/3004
 
-EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 2" tvg-link="" tvg-name="TSN 2" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 2[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/3003
 
-EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 3" tvg-link="" tvg-name="TSN 3" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 3[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/3002
 
-EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 4" tvg-link="" tvg-name="TSN 4" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 4[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/3001
 
-EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-id="TSN 5" tvg-link="" tvg-name="TSN 5" tvg-logo="https://vignette.wikia.nocookie.net/thenhl/images/1/10/NHL_on_TSN_.png/revision/latest?cb=20170103233254" group-title="USA/CA Channels",[B][COLORorange]TSN 5[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/3000
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
 EXTINF:-1  tvg-logo="https://i.ibb.co/kmQhdbG/3522.png" ,TSN 1 HD
@@ -1047,8 +1047,8 @@ plugin://plugin.video.f4mTester/?url=http://62.112.9.63:88/tsn5/index.m3u8?token
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS TVASPORTS  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="http://212.8.253.112/logo/CANADA/TVASPORTS.png" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://212.8.253.112/logo/CANADA/TVASPORTS.png" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mu01.okcomputer.club:8880/LHLM0141/23433243/2992
 EXTINF:-1 tvg-logo="http://212.8.253.112/logo/CANADA/TVASPORTS.png" ,[B][COLORorange]TVA SPORTS 2| CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="http://212.8.253.112/logo/CANADA/TVASPORTS.png" ,[B][COLORorange]TVA SPORTS | CA[/B][/COLOR]
