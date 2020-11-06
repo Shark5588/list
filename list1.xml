@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 10/21/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 11/6/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,1021 +17,345 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ TIVUSAT █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="TIVUSAT",▂ ▃ ▅ ▆ ▇ █ TIVUSAT █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45930
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",RAI 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10609
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",Rai 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10610
-#EXTINF:-1 tvg-id="Rai 1 HD" tvg-name="RAI 1 4K HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",RAI 1 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39513
-#EXTINF:-1 tvg-id="Rai 1" tvg-name="RAI 1 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="TIVUSAT",RAI 1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39514
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10606
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 FULL HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10607
-#EXTINF:-1 tvg-id="Rai 2" tvg-name="RAI 2 4K HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39515
-#EXTINF:-1 tvg-id="Rai 2" tvg-name="RAI 2 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="TIVUSAT",RAI 2 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39516
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10603
-#EXTINF:-1 tvg-id="Rai 3" tvg-name="RAI 3 FULL HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10604
-#EXTINF:-1 tvg-id="Rai3" tvg-name="RAI 3 4K HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39517
-#EXTINF:-1 tvg-id="Rai 3" tvg-name="RAI 3 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="TIVUSAT",RAI 3 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39518
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10577
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 FULL HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10578
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 4K HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39519
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 HEVC" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="TIVUSAT",RETE 4 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39520
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10706
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="CANALE 5 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10707
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="CANALE 5 4K HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39509
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="CANALE 5 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="TIVUSAT",CANALE 5 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39510
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="ITALIA 1 HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39512
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="ITALIA 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10655
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="ITALIA 1 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10656
-#EXTINF:-1 tvg-id="Italia 1 Full HD" tvg-name="ITALIA 1 4K HEVC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="TIVUSAT",ITALIA 1 4K HEVC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39511
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_4.png" group-title="TIVUSAT",RAI 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10600
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_4.png" group-title="TIVUSAT",RAI 4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10601
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_5.png" group-title="TIVUSAT",RAI 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10598
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_5.png" group-title="TIVUSAT",RAI 5 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10599
-#EXTINF:-1 tvg-id="" tvg-name="LA 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_la_5.png" group-title="TIVUSAT",LA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10650
-#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7_it.png" group-title="TIVUSAT",LA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10649
-#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7_it.png" group-title="TIVUSAT",LA 7 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10648
-#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7D" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7d_it.png" group-title="TIVUSAT",LA 7D
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10647
-#EXTINF:-1 tvg-id="La 7" tvg-name="LA 7d FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la_7d_it.png" group-title="TIVUSAT",LA 7d FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10646
-#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV 8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_8_it.png" group-title="TIVUSAT",TV 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10361
-#EXTINF:-1 tvg-id="" tvg-name="NOVE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nove_tv_it.png" group-title="TIVUSAT",NOVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10637
-#EXTINF:-1 tvg-id="" tvg-name="NOVE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nove_tv_it.png" group-title="TIVUSAT",NOVE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10636
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia2.png" group-title="TIVUSAT",ITALIA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10653
-#EXTINF:-1 tvg-id="" tvg-name="RAI MOVIE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="TIVUSAT",RAI MOVIE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10594
-#EXTINF:-1 tvg-id="" tvg-name="IRIS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_iris.png" group-title="TIVUSAT",IRIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10657
-#EXTINF:-1 tvg-id="" tvg-name="RAI MOVIE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="TIVUSAT",RAI MOVIE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10595
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="TIVUSAT",RAI PREMIUM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10591
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_premium.png" group-title="TIVUSAT",RAI PREMIUM FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10592
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_extra.png" group-title="TIVUSAT",MEDIASET EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10643
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_extra.png" group-title="TIVUSAT",MEDIASET EXTRA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10642
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1200px-Logo_tv2000_2015.svg.png" group-title="TIVUSAT",TV2000
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10360
-#EXTINF:-1 tvg-id="" tvg-name="CIELO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cielo.png" group-title="TIVUSAT",CIELO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10701
-#EXTINF:-1 tvg-id="" tvg-name="CIELO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cielo.png" group-title="TIVUSAT",CIELO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10538
-#EXTINF:-1 tvg-id="" tvg-name="CANALE 20 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/20-it.png" group-title="TIVUSAT",CANALE 20 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10708
-#EXTINF:-1 tvg-id="" tvg-name="CANALE 20 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/20-it.png" group-title="TIVUSAT",CANALE 20 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10709
-#EXTINF:-1 tvg-id="Rai Sport HD" tvg-name="RAI SPORT   HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="TIVUSAT",RAI SPORT   HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10587
-#EXTINF:-1 tvg-id="Rai Sport Full HD" tvg-name="RAI SPORT   FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_sport_plus_hd.png" group-title="TIVUSAT",RAI SPORT   FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10588
-#EXTINF:-1 tvg-id="VH1.it" tvg-name="VH1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vh1_global.png" group-title="TIVUSAT",VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10358
-#EXTINF:-1 tvg-id="Rai Storia HD" tvg-name="RAI STORIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="TIVUSAT",RAI STORIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10585
-#EXTINF:-1 tvg-id="Rai Storia Full HD" tvg-name="RAI STORIA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_storia.png" group-title="TIVUSAT",RAI STORIA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10586
-#EXTINF:-1 tvg-id="Spike.it" tvg-name="SPIKE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png" group-title="TIVUSAT",SPIKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10374
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount-network-us.png" group-title="TIVUSAT",PARAMOUNT CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10634
-#EXTINF:-1 tvg-id="Dmax HD" tvg-name="DMAX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax_us.png" group-title="TIVUSAT",DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10684
-#EXTINF:-1 tvg-id="Dmax Full HD" tvg-name="DMAX FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dmax_us.png" group-title="TIVUSAT",DMAX FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10481
-#EXTINF:-1 tvg-id="AutoMotoTV.it" tvg-name="AUTOMOTO TV" tvg-logo="https://www.tvdream.net/immagini/automototv.jpg" group-title="TIVUSAT",AUTOMOTO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10715
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_tennis_it.png" group-title="TIVUSAT",SUPER TENNIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10367
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_tennis_it.png" group-title="TIVUSAT",SUPER TENNIS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10368
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/real_time_it.png" group-title="TIVUSAT",REAL TIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10580
-#EXTINF:-1 tvg-id="Real Time" tvg-name="REAL TIME FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/real_time_it.png" group-title="TIVUSAT",REAL TIME FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10413
-#EXTINF:-1 tvg-id="Rai Scuola HD" tvg-name="RAI SCUOLA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_scuola.png" group-title="TIVUSAT",RAI SCUOLA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10589
-#EXTINF:-1 tvg-id="Rai Scuola Full HD" tvg-name="RAI SCUOLA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_scuola.png" group-title="TIVUSAT",RAI SCUOLA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10590
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_freccia_it_tv.png" group-title="RADIO",RADIO FRECCIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10618
-#EXTINF:-1 tvg-id="RadioItalia.it" tvg-name="RADIO ITALIA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_italia_tv.png" group-title="RADIO",RADIO ITALIA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10616
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ITALIA RAP TV HD" tvg-logo="https://www.mediakey.tv/fileadmin/news_import/radio-italia-tv-rap.png" group-title="RADIO",RADIO ITALIA RAP TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10617
-#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL 102.5 HD" tvg-logo="https://www.lyngsat-logo.com/logo/radio/rr/rtl_1025_radiovisione.png" group-title="RADIO",RTL 102.5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10575
-#EXTINF:-1 tvg-id="" tvg-name="HSE 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hse_24_italia.png" group-title="TIVUSAT",HSE 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10660
-#EXTINF:-1 tvg-id="" tvg-name="GIALLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/giallo_it.png" group-title="TIVUSAT",GIALLO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10666
-#EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TOP CRIME" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/top_crime_it.png" group-title="TIVUSAT",TOP CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10362
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boing_it_africa.png" group-title="TIVUSAT",BOING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10712
-#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boing-plus-it.png" group-title="TIVUSAT",BOING PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10711
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoonito_us.png" group-title="TIVUSAT",CARTOONITO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10704
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="TIVUSAT",RAI GULP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10596
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_gulp.png" group-title="TIVUSAT",RAI GULP FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10597
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="TIVUSAT",RAI YOYO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10583
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_yoyo.png" group-title="TIVUSAT",RAI YOYO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10584
-#EXTINF:-1 tvg-id="" tvg-name="RDS TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds-social-tv-it.png" group-title="TIVUSAT",RDS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10582
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ZETA TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-zeta-radiovisione-it.png" group-title="RADIO",RADIO ZETA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10611
-#EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/class_horse_tv.png" group-title="TIVUSAT",HORSE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10699
-#EXTINF:-1 tvg-id="20 Mediaset" tvg-name="VIDEOLINA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/videolina_it.png" group-title="TIVUSAT",VIDEOLINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10357
-#EXTINF:-1 tvg-id="Alice" tvg-name="ALICE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alice_it.png" group-title="DIGITAL TERRESTRE",ALICE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10716
-#EXTINF:-1 tvg-id="" tvg-name="MARCO POLO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/marcopolo_tv_it.png" group-title="DIGITAL TERRESTRE",MARCO POLO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10644
-#EXTINF:-1 tvg-id="LEI.it" tvg-name="LEI HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lei.png" group-title="DIGITAL TERRESTRE",LEI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10451
-#EXTINF:-1 tvg-id="LEI.it" tvg-name="LEI FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lei.png" group-title="DIGITAL TERRESTRE",LEI FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10452
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/400px-Fight_network_logo.svg.png" group-title="DIGITAL TERRESTRE",FIGHT NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10675
-#EXTINF:-1 tvg-id="" tvg-name="FNSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/400px-Fight_network_logo.svg.png" group-title="DIGITAL TERRESTRE",FNSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10674
-#EXTINF:-1 tvg-id="ItalianFishingTv.it" tvg-name="ITALIAN FISHING TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/italian_fishing_tv.png" group-title="DIGITAL TERRESTRE",ITALIAN FISHING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10652
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA Live 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA Live 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10373
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10372
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORT ITALIA LIVE 24 NUC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA LIVE 24 NUC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10371
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO NUC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA SOLO CALCIO NUC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10370
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO MOTORI NUC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_italia_it.png" group-title="DIGITAL TERRESTRE",SPORT ITALIA SOLO MOTORI NUC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10369
-#EXTINF:-1 tvg-id="" tvg-name="UNIRESAT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/unire_sat.png" group-title="DIGITAL TERRESTRE",UNIRESAT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10359
-#EXTINF:-1 tvg-id="" tvg-name="DONNA TV SPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" group-title="DIGITAL TERRESTRE",DONNA TV SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10682
-#EXTINF:-1 tvg-id="" tvg-name="DONNA TV DIRETTO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/donna-tv-it.png" group-title="DIGITAL TERRESTRE",DONNA TV DIRETTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10683
-#EXTINF:-1 tvg-id="" tvg-name="CASE DESIGN" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/d0/Case_Design_Stili_Logo.png" group-title="DIGITAL TERRESTRE",CASE DESIGN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10703
-#EXTINF:-1 tvg-id="" tvg-name="LIFE 120 CHANNEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/life-120-channel-it.png" group-title="DIGITAL TERRESTRE",LIFE 120 CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10645
-#EXTINF:-1 tvg-id="ClassTVModa.it" tvg-name="CLASS TV MODA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/class_tv_moda.png" group-title="DIGITAL TERRESTRE",CLASS TV MODA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10698
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/540px-Investigation_Discovery_Logo_2018.svg.png" group-title="DIGITAL TERRESTRE",INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10658
-#EXTINF:-1 tvg-id="myDeejay.it" tvg-name="DEEJAY TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deejay-tv-it.png" group-title="DIGITAL TERRESTRE",DEEJAY TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10686
-#EXTINF:-1 tvg-id="Fox.it" tvg-name="VIRGIN RADIO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/virgin_radio_it_tv.png" group-title="DIGITAL TERRESTRE",VIRGIN RADIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10356
-#EXTINF:-1 tvg-id="" tvg-name="RADIO R101" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/r101-tv-it.png" group-title="RADIO",RADIO R101
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10613
-#EXTINF:-1 tvg-id="" tvg-name="RADIO RADIO TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_radio_it_tv.png" group-title="RADIO",RADIO RADIO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10612
-#EXTINF:-1 tvg-id="" tvg-name="RADIO NUMBER ONE TV DIRETTO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio-number-one-tv-it.png" group-title="RADIO",RADIO NUMBER ONE TV DIRETTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10614
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL TV DIRETTO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radio_capital_tivu.png" group-title="RADIO",RADIO CAPITAL TV DIRETTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10619
-#EXTINF:-1 tvg-id="" tvg-name="POP ECONOMY" tvg-logo="https://massimoemanuelli.files.wordpress.com/2019/09/pop-economy.png" group-title="DIGITAL TERRESTRE",POP ECONOMY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10631
-#EXTINF:-1 tvg-id="" tvg-name="NASA TV UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="DIGITAL TERRESTRE",NASA TV UHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10640
-#EXTINF:-1 tvg-id="" tvg-name="PADREPIO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tele_radio_padre_pio_tv.png" group-title="DIGITAL TERRESTRE",PADREPIO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10635
-#EXTINF:-1 tvg-id="" tvg-name="WINE TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wine-tv-it.png" group-title="DIGITAL TERRESTRE",WINE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10354
-#EXTINF:-1 tvg-id="ZeligTV.it" tvg-name="ZELIG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zelig-it.png" group-title="DIGITAL TERRESTRE",ZELIG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10351
-#EXTINF:-1 tvg-id="radiozeta.it" tvg-name="ZETA ITALIANA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zelig-it.png" group-title="DIGITAL TERRESTRE",ZETA ITALIANA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10350
-#EXTINF:-1 tvg-id="" tvg-name="RETE 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/retesette.png" group-title="DIGITAL TERRESTRE",RETE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10412
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE 34" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cine-34-it.png" group-title="TIVUSAT",CINE 34
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/37459
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY INTRATTENIMENTO █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY INTRATTENIMENTO",▂ ▃ ▅ ▆ ▇ █ SKY INTRATTENIMENTO █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45931
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-uno-it.png" group-title="SKY INTRATTENIMENTO",SKY UNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10376
-#EXTINF:-1 tvg-id="" tvg-name="SKY UNO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-uno-it.png" group-title="SKY INTRATTENIMENTO",SKY UNO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10377
-#EXTINF:-1 tvg-id="Sky Uno +1 HD" tvg-name="SKY UNO +1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-uno-it.png" group-title="SKY INTRATTENIMENTO",SKY UNO +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/41131
-#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-it.png" group-title="SKY INTRATTENIMENTO",SKY ATLANTIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10568
-#EXTINF:-1 tvg-id="Sky Atlantic +1 HD" tvg-name="SKY ATLANTIC +1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-it.png" group-title="SKY INTRATTENIMENTO",SKY ATLANTIC +1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/41130
-#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-it.png" group-title="SKY INTRATTENIMENTO",SKY ATLANTIC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10569
-#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="SKY INTRATTENIMENTO",FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10466
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOX FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="SKY INTRATTENIMENTO",SKY FOX FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10467
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="FOX LIFE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png" group-title="SKY INTRATTENIMENTO",FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10464
-#EXTINF:-1 tvg-id="Fox Life Full HD" tvg-name="FOX LIFE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png" group-title="SKY INTRATTENIMENTO",FOX LIFE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10465
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOX CRIME HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="SKY INTRATTENIMENTO",SKY FOX CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10468
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOX CRIME FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="SKY INTRATTENIMENTO",SKY FOX CRIME FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10469
-#EXTINF:-1 tvg-id="Premium Crime" tvg-name="PREMIUM CRIME HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_crime_hd.png" group-title="SKY INTRATTENIMENTO",PREMIUM CRIME HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10418
-#EXTINF:-1 tvg-id="Premium Crime" tvg-name="PREMIUM CRIME FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_crime_hd.png" group-title="SKY INTRATTENIMENTO",PREMIUM CRIME FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10419
-#EXTINF:-1 tvg-id="" tvg-name="SKY CRIME INVESTIGATION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" group-title="SKY INTRATTENIMENTO",SKY CRIME INVESTIGATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10503
-#EXTINF:-1 tvg-id="" tvg-name="SKY CRIME INVESTIGATION FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" group-title="SKY INTRATTENIMENTO",SKY CRIME INVESTIGATION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10504
-#EXTINF:-1 tvg-id="" tvg-name="SKY ARTE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-arte-it.png" group-title="SKY DOC E LIFESTYLE",SKY ARTE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10571
-#EXTINF:-1 tvg-id="Premium Stories" tvg-name="PREMIUM STORIES HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_stories.png" group-title="SKY INTRATTENIMENTO",PREMIUM STORIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10414
-#EXTINF:-1 tvg-id="Premium Stories" tvg-name="PREMIUM STORIES FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_stories.png" group-title="SKY INTRATTENIMENTO",PREMIUM STORIES FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10415
-#EXTINF:-1 tvg-id="Premium Action" tvg-name="PREMIUM ACTION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_action_hd.png" group-title="SKY INTRATTENIMENTO",PREMIUM ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10430
-#EXTINF:-1 tvg-id="Premium Action Full HD" tvg-name="PREMIUM ACTION FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_action_hd.png" group-title="SKY INTRATTENIMENTO",PREMIUM ACTION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10431
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOX ANTIMATION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Fox_Television_Animation_logo.svg/220px-Fox_Television_Animation_logo.svg.png" group-title="SKY INTRATTENIMENTO",SKY FOX ANTIMATION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10472
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOX ANTIMATION FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Fox_Television_Animation_logo.svg/220px-Fox_Television_Animation_logo.svg.png" group-title="SKY INTRATTENIMENTO",SKY FOX ANTIMATION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10473
-#EXTINF:-1 tvg-id="" tvg-name="SKY COMEDY CENTRAL FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/comedy-central-deutschland-us-de.png" group-title="SKY INTRATTENIMENTO",SKY COMEDY CENTRAL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10505
-#EXTINF:-1 tvg-id="ManGa.it" tvg-name="MAN-GA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/man_ga_it.png" group-title="SKY INTRATTENIMENTO",MAN-GA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10449
-#EXTINF:-1 tvg-id="ManGa.it" tvg-name="MAN-GA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/man_ga_it.png" group-title="SKY INTRATTENIMENTO",MAN-GA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10450
-#EXTINF:-1 tvg-id="" tvg-name="SKY CLASSICA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/classica_it.png" group-title="SKY INTRATTENIMENTO",SKY CLASSICA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10506
-#EXTINF:-1 tvg-id="" tvg-name="Sky FOOD NETWORK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/food_network_us.png" group-title="SKY INTRATTENIMENTO",Sky FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10672
-#EXTINF:-1 tvg-id="" tvg-name="SKY FOOD NETWORK FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/food_network_us.png" group-title="SKY INTRATTENIMENTO",SKY FOOD NETWORK FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10474
-#EXTINF:-1 tvg-id="" tvg-name="REALITY TV" tvg-logo="https://www.pngitem.com/pimgs/m/412-4120060_reality-tv-shows-icon-hd-png-download.png" group-title="SKY INTRATTENIMENTO",REALITY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10581
-#EXTINF:-1 tvg-id="LaEffe.it" tvg-name="LAEFFE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-effe-it.png" group-title="SKY INTRATTENIMENTO",LAEFFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10454
-#EXTINF:-1 tvg-id="LaEffe.it" tvg-name="LAEFFE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/la-effe-it.png" group-title="SKY INTRATTENIMENTO",LAEFFE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10455
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY SPORT █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY SPORT",▂ ▃ ▅ ▆ ▇ █ SKY SPORT █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45932
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-24-it.png" group-title="SKY SPORT",SKY SPORT 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10409
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-24-it.png" group-title="SKY SPORT",SKY SPORT 24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10410
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-uno-it.png" group-title="SKY SPORT",SKY SPORT UNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10384
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-uno-it.png" group-title="SKY SPORT",SKY SPORT UNO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10385
-#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-serie-a-it.png" group-title="SKY SPORT",SKY SPORT SERIE A HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10387
-#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-serie-a-it.png" group-title="SKY SPORT",SKY SPORT SERIE A FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10388
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-football-it.png" group-title="SKY SPORT",SKY SPORT FOOTBALL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10399
-#EXTINF:-1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-football-it.png" group-title="SKY SPORT",SKY SPORT FOOTBALL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10400
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-arena-it.png" group-title="SKY SPORT",SKY SPORT ARENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10406
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-arena-it.png" group-title="SKY SPORT",SKY SPORT ARENA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10407
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-nba-it.png" group-title="SKY SPORT",SKY SPORT NBA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10390
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-nba-it.png" group-title="SKY SPORT",SKY SPORT NBA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10391
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",SKY SPORT F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10402
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",SKY SPORT F1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10403
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-moto-gp-it.png" group-title="SKY SPORT",SKY SPORT MOTOGP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10393
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-moto-gp-it.png" group-title="SKY SPORT",SKY SPORT MOTOGP FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10394
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-golf-it.png" group-title="SKY SPORT",SKY SPORT GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10396
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-golf-it.png" group-title="SKY SPORT",SKY SPORT GOLF FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10397
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT DELAY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-it.png" group-title="SKY SPORT",SKY SPORT DELAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10404
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_1.png" group-title="SKY SPORT",EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10678
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eurosport_fr_2.png" group-title="SKY SPORT",EUROSPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10677
-#EXTINF:-1 tvg-id="RomaChannel.it" tvg-name="ROMA Channel FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/roma_tv_it.png" group-title="SKY SPORT",ROMA Channel FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10411
-#EXTINF:-1 tvg-id="Bike Channel HD" tvg-name="BIKE CHANNEL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bike_channel_it.png" group-title="SKY SPORT",BIKE CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10564
-#EXTINF:-1 tvg-id="Bike Channel Full HD" tvg-name="BIKE CHANNEL FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bike_channel_it.png" group-title="SKY SPORT",BIKE CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10565
-#EXTINF:-1 tvg-id="GinxEsportsTV.it" tvg-name="GINX ESPORT TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/ginx-esports-tv-uk.png" group-title="SKY SPORT",GINX ESPORT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10460
-#EXTINF:-1 tvg-id="" tvg-name="HORSE TV FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/class_horse_tv.png" group-title="SKY SPORT",HORSE TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10457
-#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/milan_tv_it.png" group-title="SKY SPORT",MILAN TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10448
-#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="INTER Channel FULL HD" tvg-logo="https://tvprofil.com/img/kanali-logo/inter_channel_logo.png" group-title="SKY SPORT",INTER Channel FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10456
-#EXTINF:-1 tvg-id="LazioStyleChannel.it" tvg-name="LAZIO Style Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lazio_style_tv.png" group-title="SKY SPORT",LAZIO Style Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10453
-#EXTINF:-1 tvg-id="TorinoChannel.it" tvg-name="TORINO Channel FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/torino_fc_it.png" group-title="SKY SPORT",TORINO Channel FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10378
-#EXTINF:-1 tvg-id="Caccia & Pesca Full HD" tvg-name="CACCIA E PESCA FULL HD" tvg-logo="https://www.rcsmediagroup.it/wp-content/uploads/img/2014-01/Caccia-e-Pesca.png" group-title="SKY SPORT",CACCIA E PESCA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10559
-#EXTINF:-1 tvg-id="Pesca & Caccia HD" tvg-name="PESCA E CACCIA FULL HD" tvg-logo="https://www.rcsmediagroup.it/wp-content/uploads/img/2014-01/Caccia-e-Pesca.png" group-title="SKY SPORT",PESCA E CACCIA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10432
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SKY SPORT",
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39521
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardLive" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardLive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39522
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardPVisualePitStop" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardPVisualePitStop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39523
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardVisualeCircuito" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardVisualeCircuito
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39524
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardTempiGara" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardTempiGara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39525
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardDaniel.Ricciardo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardDaniel.Ricciardo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39526
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardLando.Norris" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardLando.Norris
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39527
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardSebastian.Vettel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardSebastian.Vettel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39528
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardNicholas.Latifi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardNicholas.Latifi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39529
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardKimi.Raikkonen" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardKimi.Raikkonen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39530
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardRomain.Grosjean" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardRomain.Grosjean
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39531
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardPierre.Gasly" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardPierre.Gasly
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39532
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardSergio.Perez" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardSergio.Perez
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39533
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardCharles.Leclerc" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardCharles.Leclerc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39534
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardLance.Stroll" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardLance.Stroll
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39535
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardKevin.Magnussen" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardKevin.Magnussen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39536
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardAlex.Albon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardAlex.Albon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39537
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardDaniil.Kvyat" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardDaniil.Kvyat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39538
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardEsteban.Ocon" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardEsteban.Ocon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39539
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardMax.Verstappen" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardMax.Verstappen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39540
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardLewis.Hamilton" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardLewis.Hamilton
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39541
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardCarlos.Sainz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardCarlos.Sainz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39542
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardGeorge.Russell" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardGeorge.Russell
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39543
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardValtteri.Bottas" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardValtteri.Bottas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39544
-#EXTINF:-1 tvg-id="" tvg-name="F1OnboardAntonio.Giovinazzi" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="SKY SPORT",F1OnboardAntonio.Giovinazzi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/39545
-#EXTINF:-1 tvg-id="" tvg-name="SKY MOTOGP ON BOARD 1" tvg-logo="" group-title="SKY SPORT",SKY MOTOGP ON BOARD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/60260
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY CALCIO █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY CALCIO",▂ ▃ ▅ ▆ ▇ █ SKY CALCIO █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45934
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 1 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_2DBA_1A2C_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10557
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 1 FULL HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_2DBA_1A2C_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10558
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 2 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_F6F_2198_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10554
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 2 FULL HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_F6F_2198_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10555
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 3 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_1089_2008_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10551
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 3 FULL HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_1089_2008_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10552
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 4 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_108A_2008_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10548
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 4 FULL HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_108A_2008_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 4 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10549
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 5 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_F46_2198_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10545
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 5 FULL HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_F46_2198_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 5 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10546
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 6 HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_2BD7_1A90_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10543
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 6 FULL HD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_2BD7_1A90_FBFF_820000_0_0_0.png" group-title="SKY CALCIO",SKY CALCIO 6 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10544
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 7 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/vrprpr1459437022.png" group-title="SKY CALCIO",SKY CALCIO 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10541
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 7 FULL HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/vrprpr1459437022.png" group-title="SKY CALCIO",SKY CALCIO 7 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10542
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY CINEMA █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY CINEMA",▂ ▃ ▅ ▆ ▇ █ SKY CINEMA █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45935
-#EXTINF:-1 tvg-id="Sky Cinema Uno" tvg-name="Sky Cinema 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-uno-it.png" group-title="SKY CINEMA",Sky Cinema 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10508
-#EXTINF:-1 tvg-id="Sky Cinema Uno Full HD" tvg-name="SKY CINEMA UNO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-uno-it.png" group-title="SKY CINEMA",SKY CINEMA UNO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10509
-#EXTINF:-1 tvg-id="Sky Cinema Due HD" tvg-name="SKY CINEMA DUE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-due-it.png" group-title="SKY CINEMA",SKY CINEMA DUE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10522
-#EXTINF:-1 tvg-id="Sky Cinema Due Full HD" tvg-name="SKY CINEMA DUE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-due-it.png" group-title="SKY CINEMA",SKY CINEMA DUE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10523
-#EXTINF:-1 tvg-id="Sky Cinema Family HD" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-family-it.png" group-title="SKY CINEMA",SKY CINEMA FAMILY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10519
-#EXTINF:-1 tvg-id="Sky Cinema Family Full HD" tvg-name="SKY CINEMA FAMILY FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-family-it.png" group-title="SKY CINEMA",SKY CINEMA FAMILY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10520
-#EXTINF:-1 tvg-id="Sky Cinema Action HD" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-action-it.png" group-title="SKY CINEMA",SKY CINEMA ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10536
-#EXTINF:-1 tvg-id="Sky Cinema Action Full HD" tvg-name="SKY CINEMA ACTION FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-action-it.png" group-title="SKY CINEMA",SKY CINEMA ACTION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10537
-#EXTINF:-1 tvg-id="Sky Cinema Suspence HD" tvg-name="SKY CINEMA SUSPENSE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-suspense-it.png" group-title="SKY CINEMA",SKY CINEMA SUSPENSE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10513
-#EXTINF:-1 tvg-id="Sky Cinema Suspence Full HD" tvg-name="SKY CINEMA SUSPENSE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-suspense-it.png" group-title="SKY CINEMA",SKY CINEMA SUSPENSE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10514
-#EXTINF:-1 tvg-id="Sky Cinema Romance HD" tvg-name="SKY CINEMA ROMANCE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-romance-it.png" group-title="SKY CINEMA",SKY CINEMA ROMANCE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10516
-#EXTINF:-1 tvg-id="Sky Cinema Romance Full HD" tvg-name="SKY CINEMA ROMANCE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-romance-it.png" group-title="SKY CINEMA",SKY CINEMA ROMANCE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10517
-#EXTINF:-1 tvg-id="Sky Cinema Drama HD" tvg-name="SKY CINEMA DRAMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-drama-it.png" group-title="SKY CINEMA",SKY CINEMA DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10527
-#EXTINF:-1 tvg-id="Sky Cinema Drama Full HD" tvg-name="SKY CINEMA DRAMA FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-drama-it.png" group-title="SKY CINEMA",SKY CINEMA DRAMA FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10528
-#EXTINF:-1 tvg-id="Sky Cinema Comedy HD" tvg-name="SKY CINEMA COMEDY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-comedy-it.png" group-title="SKY CINEMA",SKY CINEMA COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10530
-#EXTINF:-1 tvg-id="Sky Cinema Comedy Full HD" tvg-name="SKY CINEMA COMEDY FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-comedy-it.png" group-title="SKY CINEMA",SKY CINEMA COMEDY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10531
-#EXTINF:-1 tvg-id="Sky Cinema Uno +24 HD" tvg-name="SKY CINEMA UNO  24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-uno-it.png" group-title="SKY CINEMA",SKY CINEMA UNO  24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10510
-#EXTINF:-1 tvg-id="Sky Cinema Uno +24 Full HD" tvg-name="SKY CINEMA UNO  24 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-uno-it.png" group-title="SKY CINEMA",SKY CINEMA UNO  24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10511
-#EXTINF:-1 tvg-id="Sky Cinema Due +24 HD" tvg-name="SKY CINEMA DUE  24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-due-it.png" group-title="SKY CINEMA",SKY CINEMA DUE  24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10524
-#EXTINF:-1 tvg-id="Sky Cinema Due +24 Full HD" tvg-name="SKY CINEMA DUE  24 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-due-it.png" group-title="SKY CINEMA",SKY CINEMA DUE  24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10525
-#EXTINF:-1 tvg-id="Premium Cinema" tvg-name="PREMIUM CINEMA 1 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_hd.png" group-title="SKY CINEMA",PREMIUM CINEMA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10420
-#EXTINF:-1 tvg-id="Premium Cinema" tvg-name="PREMIUM CINEMA 1 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_hd.png" group-title="SKY CINEMA",PREMIUM CINEMA 1 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10421
-#EXTINF:-1 tvg-id="Premium Cinema +24" tvg-name="PREMIUM CINEMA 1 +24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_plus24.png" group-title="SKY CINEMA",PREMIUM CINEMA 1 +24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10428
-#EXTINF:-1 tvg-id="Premium Cinema +24 FHD" tvg-name="PREMIUM CINEMA 1 +24 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_plus24.png" group-title="SKY CINEMA",PREMIUM CINEMA 1 +24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10429
-#EXTINF:-1 tvg-id="Premium Cinema Energy HD" tvg-name="PREMIUM CINEMA 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_energy.png" group-title="SKY CINEMA",PREMIUM CINEMA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10422
-#EXTINF:-1 tvg-id="Premium Cinema Energy FHD" tvg-name="SKY PREMIUM CINEMA 2 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_energy.png" group-title="SKY CINEMA",SKY PREMIUM CINEMA 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10423
-#EXTINF:-1 tvg-id="Premium Cinema Emotion HD" tvg-name="PREMIUM CINEMA 3 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_emotion.png" group-title="SKY CINEMA",PREMIUM CINEMA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10424
-#EXTINF:-1 tvg-id="Premium Cinema Emotion" tvg-name="PREMIUM CINEMA 3 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_emotion.png" group-title="SKY CINEMA",PREMIUM CINEMA 3 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10425
-#EXTINF:-1 tvg-id="Premium Cinema Comedy" tvg-name="PREMIUM CINEMA COMEDY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_comedy.png" group-title="SKY CINEMA",PREMIUM CINEMA COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10426
-#EXTINF:-1 tvg-id="Premium Cinema Comedy" tvg-name="PREMIUM CINEMA COMEDY FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_premium_cinema_comedy.png" group-title="SKY CINEMA",PREMIUM CINEMA COMEDY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10427
-#EXTINF:-1 tvg-id="Sky Cinema Collection Full HD" tvg-name="SKY CINEMA COLLECTION FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-collection-it.png" group-title="SKY CINEMA",SKY CINEMA COLLECTION FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10534
-#EXTINF:-1 tvg-id="Sky Cinema Collection HD" tvg-name="SKY CINEMA COLLECTION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-collection-it.png" group-title="SKY CINEMA",SKY CINEMA COLLECTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10533
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY PRIMAFILA █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY PRIMAFILA LIVE",▂ ▃ ▅ ▆ ▇ █ SKY PRIMAFILA █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45936
-#EXTINF:-1 tvg-id="" tvg-name="Vetrina Sky Primafial LIVE " tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Vetrina Sky Primafial LIVE 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/40088
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10732
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10737
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10738
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10739
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 5" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10740
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 6" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10741
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10742
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 8" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10743
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 9" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10744
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 10" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10745
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 12" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/40089
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 11" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/41276
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 13" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/41280
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 14" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/41282
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila LIVE 15" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY PRIMAFILA LIVE",Sky Primafila LIVE 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/41283
-#EXTINF:-1 tvg-id="" tvg-name="Vetrina Prima Fila Ondemand" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-primafila-it.png" group-title="SKY ONDEMAND",Vetrina Prima Fila Ondemand
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/10734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 1 - El Chicano (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LSJL2KHUAxSjDTWA5V5Cr7sNNd.jpg" group-title="SKY ONDEMAND",Sky Primafila 1 - El Chicano (2019)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/39992.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 2 - Resistance - La voce del silenzio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq4az2QFrWVTkduvN7dYoQbALDB.jpg" group-title="SKY ONDEMAND",Sky Primafila 2 - Resistance - La voce del silenzio (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/10728.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 3 - Un figlio di nome Erasmus (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shoXcN7QU3uwCe7TbVBNf9uMSB1.jpg" group-title="SKY ONDEMAND",Sky Primafila 3 - Un figlio di nome Erasmus (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/10730.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 4 - Scooby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg8pwUInrOBkl5Zh3APyCeB4Rri.jpg" group-title="SKY ONDEMAND",Sky Primafila 4 - Scooby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/10725.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 5 - Queen & Slim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxO1w4cLUMAM0QyfsA6t7kh2kAw.jpg" group-title="SKY ONDEMAND",Sky Primafila 5 - Queen & Slim (2019)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/37115.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 6 - Si muore solo da vivi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gg8pwUInrOBkl5Zh3APyCeB4Rri.jpg" group-title="SKY ONDEMAND",Sky Primafila 6 - Si muore solo da vivi (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/10726.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 7 - Trolls World Tour (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htJr9aGAzynzq7kzdIl8FwyMBBG.jpg" group-title="SKY ONDEMAND",Sky Primafila 7 - Trolls World Tour (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/10722.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 8 - La mia banda suona il pop (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5KbGBcHMpl76ksOIY8h6uBEKWX.jpg" group-title="SKY ONDEMAND",Sky Primafila 8 - La mia banda suona il pop (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/10721.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 10 - Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cswe9T1geHTdWBCkiZhcRG44Pf9.jpg" group-title="SKY ONDEMAND",Sky Primafila 10 - Bad Boys for Life (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/39995.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 12 - La famiglia Addams (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CZLKV2SgohTBR4VXRW0drZracp.jpg" group-title="SKY ONDEMAND",Sky Primafila 12 - La famiglia Addams (2019)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/39996.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 13 - Odio l'estate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1VwIPYNBq84060v5sEwRT0XMMh.jpg" group-title="SKY ONDEMAND",Sky Primafila 13 - Odio l'estate (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/39993.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 14 - L'assistente della Star (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fP81dgCNJ83thINQXyqw1eHVAl.jpg" group-title="SKY ONDEMAND",Sky Primafila 14 - L'assistente della Star (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/39874.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 15 - Harriet (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg" group-title="SKY ONDEMAND",Sky Primafila 15 - Harriet (2019)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/39994.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 11 - Birds of Prey e la fantasmagorica rinascita di Harley Quinn (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dM1q8znrMKKHIvvDeAZeop9GBpe.jpg" group-title="SKY ONDEMAND",Sky Primafila 11 - Birds of Prey e la fantasmagorica rinascita di Harley Quinn (2020)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/41277.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sky Primafila 9 - Terminator - Destino oscuro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cl0EVRQYMe69T1FVKOKgLweX8V.jpg" group-title="SKY ONDEMAND",Sky Primafila 9 - Terminator - Destino oscuro (2019)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/movie/caserta/caserta/44638.mkv
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA MULTIVISION 1 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA MULTIVISION 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58948
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA MULTIVISION 1 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA MULTIVISION 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58949
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA MULTIVISION 2 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA MULTIVISION 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58950
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA MULTIVISION 2 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA MULTIVISION 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58951
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA WWE HD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58952
-#EXTINF:-1 tvg-id="" tvg-name="[IT] Vetrina Sky Primafila HD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] Vetrina Sky Primafila HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58953
-#EXTINF:-1 tvg-id="" tvg-name="====== PRIMAFILA =======" tvg-logo="" group-title="SKY PRIMAFILA LIVE",====== PRIMAFILA =======
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58954
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 1 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58955
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 1 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58956
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 10 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58957
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 11 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58958
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 12 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 12 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58959
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 13 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 13 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58960
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 14 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 14 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58961
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 15 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 15 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58962
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 16 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 16 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58963
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 17 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 17 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58964
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 2 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58965
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 2 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58966
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 3 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 3 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58967
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 3 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58968
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 3D" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 3D
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58969
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 4 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 4 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58970
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 4 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58971
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 5 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 5 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58972
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 5 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58973
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 6 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 6 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58974
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 6 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58975
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 7 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 7 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58976
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 7 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58977
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 8 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 8 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58978
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 8 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58979
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 9 4K" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 9 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58980
-#EXTINF:-1 tvg-id="" tvg-name="[IT] SKY PRIMAFILA 9 FHD" tvg-logo="" group-title="SKY PRIMAFILA LIVE",[IT] SKY PRIMAFILA 9 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/58981
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY DOC E LIFESTYLE █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY DOC E LIFESTYLE",▂ ▃ ▅ ▆ ▇ █ SKY DOC E LIFESTYLE █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45937
-#EXTINF:-1 tvg-id="" tvg-name="SKY ARTE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-arte-it.png" group-title="SKY DOC E LIFESTYLE",SKY ARTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10570
-#EXTINF:-1 tvg-id="Discovery HD" tvg-name="SKY DISCOVERY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="SKY DOC E LIFESTYLE",SKY DISCOVERY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10492
-#EXTINF:-1 tvg-id="Discovery Full HD" tvg-name="SKY DISCOVERY FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="SKY DOC E LIFESTYLE",SKY DISCOVERY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10493
-#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="SKY NAT GEO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="SKY DOC E LIFESTYLE",SKY NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10442
-#EXTINF:-1 tvg-id="NationalGeo.it" tvg-name="SKY NAT GEO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="SKY DOC E LIFESTYLE",SKY NAT GEO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10443
-#EXTINF:-1 tvg-id="" tvg-name="SKY DISCOVERY SCI HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-science-france-us-fr.png" group-title="SKY DOC E LIFESTYLE",SKY DISCOVERY SCI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10490
-#EXTINF:-1 tvg-id="" tvg-name="SKY DISCOVERY SCI FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-science-france-us-fr.png" group-title="SKY DOC E LIFESTYLE",SKY DISCOVERY SCI FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10491
-#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="SKY DOC E LIFESTYLE",HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10458
-#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png" group-title="SKY DOC E LIFESTYLE",HISTORY FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10459
-#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NAT GEO WILD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" group-title="SKY DOC E LIFESTYLE",NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10438
-#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NAT GEO WILD FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" group-title="SKY DOC E LIFESTYLE",NAT GEO WILD FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10439
-#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="GAMBERO ROSSO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gambero_rosso.png" group-title="SKY DOC E LIFESTYLE",GAMBERO ROSSO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10461
-#EXTINF:-1 tvg-id="GamberoRosso.it" tvg-name="GAMBERO ROSSO FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gambero_rosso.png" group-title="SKY DOC E LIFESTYLE",GAMBERO ROSSO FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10462
-#EXTINF:-1 tvg-id="Dove TV HD" tvg-name="SKY DOVE TV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dove-tv-it.png" group-title="SKY DOC E LIFESTYLE",SKY DOVE TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10479
-#EXTINF:-1 tvg-id="Dove TV Full HD" tvg-name="SKY DOVE TV FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dove-tv-it.png" group-title="SKY DOC E LIFESTYLE",SKY DOVE TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10480
-#EXTINF:-1 tvg-id="Focus" tvg-name="FOCUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/focus-it.png" group-title="TIVUSAT",FOCUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10673
-#EXTINF:-1 tvg-id="" tvg-name="MOTOR TREND" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motor-trend-it.png" group-title="TIVUSAT",MOTOR TREND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10641
-#EXTINF:-1 tvg-id="" tvg-name="QVC FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qvc.png" group-title="TIVUSAT",QVC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10620
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="SKY DOC E LIFESTYLE",BLAZE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10562
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="SKY DOC E LIFESTYLE",BLAZE FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10563
-#EXTINF:-1 tvg-id="" tvg-name="BLAZE SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" group-title="SKY DOC E LIFESTYLE",BLAZE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10713
-#EXTINF:-1 tvg-id="" tvg-name="SKY DISCOVERY TRAVEL FULL HD" tvg-logo="https://www.lyngsat-logo.com/hires/dd/discovery_travel_living_emea.png" group-title="SKY DOC E LIFESTYLE",SKY DISCOVERY TRAVEL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10489
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY NEWS █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="NEWS",▂ ▃ ▅ ▆ ▇ █ SKY NEWS █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45938
-#EXTINF:-1 tvg-id="SkyTG24PrimoPiano.it" tvg-name="SKY TG 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="NEWS",SKY TG 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10380
-#EXTINF:-1 tvg-id="SkyTG24PrimoPiano.it" tvg-name="SKY TG24 FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-tg-24-it.png" group-title="NEWS",SKY TG24 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10379
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_news_24.png" group-title="TIVUSAT",RAI NEWS 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10593
-#EXTINF:-1 tvg-id="Tgnorba24.it" tvg-name="TG NORBA 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tg_norba24.png" group-title="DIGITAL TERRESTRE",TG NORBA 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10365
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="TIVUSAT",EURONEWS ITALIAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10679
-#EXTINF:-1 tvg-id="Tgcom24.it" tvg-name="TGCOM24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_tgcom_24.png" group-title="TIVUSAT",TGCOM24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10364
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY BAMBINI █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY BAMBINI",▂ ▃ ▅ ▆ ▇ █ SKY BAMBINI █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45939
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="SKY BAMBINI",Disney Plus  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/40770
-#EXTINF:-1 tvg-id="" tvg-name="Disney Plus 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1200px-Disney%2B_logo.svg.png" group-title="SKY BAMBINI",Disney Plus 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/40771
-#EXTINF:-1 tvg-id="Dea Kids HD" tvg-name="SKY DEA KIDS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky_it_dea_kids.png" group-title="SKY BAMBINI",SKY DEA KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10494
-#EXTINF:-1 tvg-id="Dea Kids Full HD" tvg-name="SKY DEA KIDS FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky_it_dea_kids.png" group-title="SKY BAMBINI",SKY DEA KIDS FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10495
-#EXTINF:-1 tvg-id="NickJr.it" tvg-name="NICK JR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="SKY BAMBINI",NICK JR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10436
-#EXTINF:-1 tvg-id="NickJr.it" tvg-name="NICK JR FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="SKY BAMBINI",NICK JR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10437
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="SKY BAMBINI",NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10434
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="SKY BAMBINI",NICKELODEON FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10435
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="SKY CARTOON NETWORK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="SKY BAMBINI",SKY CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10539
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="SKY CARTOON NETWORK FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="SKY BAMBINI",SKY CARTOON NETWORK FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10540
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="BOOMERANG HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="SKY BAMBINI",BOOMERANG HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10560
-#EXTINF:-1 tvg-id="Boomerang Full HD" tvg-name="BOOMERANG FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="SKY BAMBINI",BOOMERANG FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10561
-#EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="SKY DISNEY JUNIOR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="SKY BAMBINI",SKY DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10484
-#EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="SKY DISNEY JUNIOR FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="SKY BAMBINI",SKY DISNEY JUNIOR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10485
-#EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="SKY DISNEY CHANNELL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="SKY BAMBINI",SKY DISNEY CHANNELL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10487
-#EXTINF:-1 tvg-id="DisneyChannel.it" tvg-name="SKY DISNEY CHANNELL FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="SKY BAMBINI",SKY DISNEY CHANNELL FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10488
-#EXTINF:-1 tvg-id="" tvg-name="SKY DISNEY IN ENGLISH FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/2c/Disney_in_english_logo.png" group-title="SKY BAMBINI",SKY DISNEY IN ENGLISH FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10486
-#EXTINF:-1 tvg-id="Fox.it" tvg-name="TEEN NICK HD" tvg-logo="https://logodix.com/logo/73545.png" group-title="SKY BAMBINI",TEEN NICK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10381
-#EXTINF:-1 tvg-id="TeenNick.it" tvg-name="TEEN NICK FULL HD" tvg-logo="https://logodix.com/logo/73545.png" group-title="SKY BAMBINI",TEEN NICK FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10382
-#EXTINF:-1 tvg-id="Dea Junior HD" tvg-name="SKY DEA JUNIOR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dea_junior.png" group-title="SKY BAMBINI",SKY DEA JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10496
-#EXTINF:-1 tvg-id="Dea Junior Full HD" tvg-name="SKY DEA JUNIOR FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dea_junior.png" group-title="SKY BAMBINI",SKY DEA JUNIOR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10497
-#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png" group-title="SKY BAMBINI",BABY TV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10566
-#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png" group-title="SKY BAMBINI",BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10714
-#EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER !" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dea_super.png" group-title="TIVUSAT",SUPER !
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10366
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/k2_it.png" group-title="TIVUSAT",K2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10651
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="FRISBEE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/frisbee_it.png" group-title="SKY BAMBINI",FRISBEE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10463
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ SKY MUSICA █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="SKY MUSICA",▂ ▃ ▅ ▆ ▇ █ SKY MUSICA █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45940
-#EXTINF:-1 tvg-id="MTV.it" tvg-name="SKY MTV HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="SKY MUSICA",SKY MTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10446
-#EXTINF:-1 tvg-id="MTV.it" tvg-name="SKY MTV FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="SKY MUSICA",SKY MTV FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10447
-#EXTINF:-1 tvg-id="MTV.it" tvg-name="SKY MTV MUSIC FULL HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="SKY MUSICA",SKY MTV MUSIC FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10445
-#EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-name="RADIO NORBA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/radionorba-tv-it.png" group-title="RADIO",RADIO NORBA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10615
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM SKY SPORT UNO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-uno-it.png" group-title="SKY SPORT",PREMIUM SKY SPORT UNO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10624
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM SKY SPORT 24 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-24-it.png" group-title="SKY SPORT",PREMIUM SKY SPORT 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10625
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM SKY CALCIO SERIE A HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/19/Logo_Serie_A_TIM_%28dal_2016%29.PNG/545px-Logo_Serie_A_TIM_%28dal_2016%29.PNG" group-title="SKY CALCIO",PREMIUM SKY CALCIO SERIE A HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10626
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM SKY ATLANTIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-it.png" group-title="SKY INTRATTENIMENTO",PREMIUM SKY ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10627
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="PREMIUM NATIONAL GEOGRAPHIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="SKY DOC E LIFESTYLE",PREMIUM NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10628
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/150px-FOXPremium2018.png" group-title="SKY INTRATTENIMENTO",PREMIUM FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10629
-#EXTINF:-1 tvg-id="" tvg-name="PREMIUM SKY UNO" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-uno-it.png" group-title="SKY INTRATTENIMENTO",PREMIUM SKY UNO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10623
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ DAZN  █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="DAZN",▂ ▃ ▅ ▆ ▇ █ DAZN  █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45933
-#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN BAR HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",SKY DAZN BAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10499
-#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN BAR FULL HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",SKY DAZN BAR FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10500
-#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN BAR 2 HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",SKY DAZN BAR 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10501
-#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN BAR 2 FULL HD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",SKY DAZN BAR 2 FULL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10502
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 1" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10696
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 2" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10694
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 3" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10693
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 4" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10692
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 5" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10691
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 6" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10690
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 7" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10689
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 8" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10688
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 9" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10687
-#EXTINF:-1 tvg-id="" tvg-name="DAZN WEB 10" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="DAZN",DAZN WEB 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10695
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Alessandria" tvg-logo="" group-title="LEGA PRO",[Serie C] Alessandria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61139
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Arezzo" tvg-logo="" group-title="LEGA PRO",[Serie C] Arezzo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61140
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Livorno" tvg-logo="" group-title="LEGA PRO",[Serie C] Livorno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61141
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Avellino" tvg-logo="" group-title="LEGA PRO",[Serie C] Avellino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61142
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Lucchese" tvg-logo="" group-title="LEGA PRO",[Serie C] Lucchese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61143
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Bari" tvg-logo="" group-title="LEGA PRO",[Serie C] Bari
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61144
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pro Sesto" tvg-logo="" group-title="LEGA PRO",[Serie C] Pro Sesto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61145
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Carpi" tvg-logo="" group-title="LEGA PRO",[Serie C] Carpi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61146
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Carrarese" tvg-logo="" group-title="LEGA PRO",[Serie C] Carrarese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61147
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Casertana" tvg-logo="" group-title="LEGA PRO",[Serie C] Casertana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61148
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Catania" tvg-logo="" group-title="LEGA PRO",[Serie C] Catania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61149
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Catanzaro" tvg-logo="" group-title="LEGA PRO",[Serie C] Catanzaro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61150
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Cavese" tvg-logo="" group-title="LEGA PRO",[Serie C] Cavese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61151
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Cesena" tvg-logo="" group-title="LEGA PRO",[Serie C] Cesena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61152
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Como" tvg-logo="" group-title="LEGA PRO",[Serie C] Como
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61153
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Fano" tvg-logo="" group-title="LEGA PRO",[Serie C] Fano
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61154
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Feralpi Salo" tvg-logo="" group-title="LEGA PRO",[Serie C] Feralpi Salo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61155
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Fermana" tvg-logo="" group-title="LEGA PRO",[Serie C] Fermana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61156
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Giana Erminio" tvg-logo="" group-title="LEGA PRO",[Serie C] Giana Erminio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61157
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Albinoleffe" tvg-logo="" group-title="LEGA PRO",[Serie C] Albinoleffe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61158
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Gubbio" tvg-logo="" group-title="LEGA PRO",[Serie C] Gubbio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61159
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Imolese" tvg-logo="" group-title="LEGA PRO",[Serie C] Imolese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61160
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Juventus U23" tvg-logo="" group-title="LEGA PRO",[Serie C] Juventus U23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61161
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Grosseto" tvg-logo="" group-title="LEGA PRO",[Serie C] Grosseto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61162
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Lecco" tvg-logo="" group-title="LEGA PRO",[Serie C] Lecco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61163
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Modena" tvg-logo="" group-title="LEGA PRO",[Serie C] Modena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61164
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Monopoli" tvg-logo="" group-title="LEGA PRO",[Serie C] Monopoli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61165
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Mantova" tvg-logo="" group-title="LEGA PRO",[Serie C] Mantova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61166
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Novara" tvg-logo="" group-title="LEGA PRO",[Serie C] Novara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61167
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Olbia" tvg-logo="" group-title="LEGA PRO",[Serie C] Olbia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61168
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Padova" tvg-logo="" group-title="LEGA PRO",[Serie C] Padova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61169
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Paganese" tvg-logo="" group-title="LEGA PRO",[Serie C] Paganese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61170
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pergolettese" tvg-logo="" group-title="LEGA PRO",[Serie C] Pergolettese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61171
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Piacenza" tvg-logo="" group-title="LEGA PRO",[Serie C] Piacenza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61172
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Perugia" tvg-logo="" group-title="LEGA PRO",[Serie C] Perugia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61173
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pistoiese" tvg-logo="" group-title="LEGA PRO",[Serie C] Pistoiese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61174
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pontedera" tvg-logo="" group-title="LEGA PRO",[Serie C] Pontedera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61175
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Potenza" tvg-logo="" group-title="LEGA PRO",[Serie C] Potenza
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61176
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pro Patria" tvg-logo="" group-title="LEGA PRO",[Serie C] Pro Patria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61177
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Pro Vercelli" tvg-logo="" group-title="LEGA PRO",[Serie C] Pro Vercelli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61178
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Ravenna" tvg-logo="" group-title="LEGA PRO",[Serie C] Ravenna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61179
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Matelica" tvg-logo="" group-title="LEGA PRO",[Serie C] Matelica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61180
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Renate" tvg-logo="" group-title="LEGA PRO",[Serie C] Renate
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61181
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Legnago Salus" tvg-logo="" group-title="LEGA PRO",[Serie C] Legnago Salus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61182
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Juve Stabia" tvg-logo="" group-title="LEGA PRO",[Serie C] Juve Stabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61183
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Trapani" tvg-logo="" group-title="LEGA PRO",[Serie C] Trapani
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61184
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Sambenedettese" tvg-logo="" group-title="LEGA PRO",[Serie C] Sambenedettese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61185
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Turris" tvg-logo="" group-title="LEGA PRO",[Serie C] Turris
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61186
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Palermo" tvg-logo="" group-title="LEGA PRO",[Serie C] Palermo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61187
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Sudtirol" tvg-logo="" group-title="LEGA PRO",[Serie C] Sudtirol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61188
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Teramo" tvg-logo="" group-title="LEGA PRO",[Serie C] Teramo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61189
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Ternana" tvg-logo="" group-title="LEGA PRO",[Serie C] Ternana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61190
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Triestina" tvg-logo="" group-title="LEGA PRO",[Serie C] Triestina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61191
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Vibonese" tvg-logo="" group-title="LEGA PRO",[Serie C] Vibonese
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61192
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Virtus Francavilla" tvg-logo="" group-title="LEGA PRO",[Serie C] Virtus Francavilla
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61193
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Virtus Verona" tvg-logo="" group-title="LEGA PRO",[Serie C] Virtus Verona
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61194
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Vis Pesaro" tvg-logo="" group-title="LEGA PRO",[Serie C] Vis Pesaro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61195
-#EXTINF:-1 tvg-id="" tvg-name="[Serie C] Viterbese Castrense" tvg-logo="" group-title="LEGA PRO",[Serie C] Viterbese Castrense
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61196
-#EXTINF:-1 tvg-id="" tvg-name="[Serie D] Foggia" tvg-logo="" group-title="LEGA PRO",[Serie D] Foggia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61197
-#EXTINF:-1 tvg-id="" tvg-name="[Serie D] Mantova" tvg-logo="" group-title="LEGA PRO",[Serie D] Mantova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61198
-#EXTINF:-1 tvg-id="" tvg-name="[Serie D] Palermo" tvg-logo="" group-title="LEGA PRO",[Serie D] Palermo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/61199
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▃ ▅ ▆ ▇ █ CANALI SD █ ▇ ▆ ▅ ▃ ▂" tvg-logo="" group-title="CANALI SD",▂ ▃ ▅ ▆ ▇ █ CANALI SD █ ▇ ▆ ▅ ▃ ▂
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/45942
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_1.png" group-title="CANALI SD",RAI 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10608
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_2.png" group-title="CANALI SD",RAI 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10605
-#EXTINF:-1 tvg-id="Rai 3" tvg-name="RAI 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rai_3.png" group-title="CANALI SD",RAI 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10602
-#EXTINF:-1 tvg-id="Rete 4" tvg-name="RETE 4 SD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rete-4-it.png" group-title="CANALI SD",RETE 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10576
-#EXTINF:-1 tvg-id="Canale 5" tvg-name="CANALE 5 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canale-5-it.png" group-title="CANALI SD",CANALE 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10705
-#EXTINF:-1 tvg-id="Italia 1" tvg-name="ITALIA 1 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mediaset_italia1.png" group-title="CANALI SD",ITALIA 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10654
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA UNO SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-uno-it.png" group-title="CANALI SD",SKY CINEMA UNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10507
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DUE SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-due-it.png" group-title="CANALI SD",SKY CINEMA DUE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10521
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA SUSPENSE SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-suspense-it.png" group-title="CANALI SD",SKY CINEMA SUSPENSE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10512
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ROMANCE SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-romance-it.png" group-title="CANALI SD",SKY CINEMA ROMANCE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10515
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA FAMILY SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-family-it.png" group-title="CANALI SD",SKY CINEMA FAMILY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10518
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA DRAMA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-drama-it.png" group-title="CANALI SD",SKY CINEMA DRAMA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10526
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COMEDY SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-comedy-it.png" group-title="CANALI SD",SKY CINEMA COMEDY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10529
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA COLLECTION SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-collection-it.png" group-title="CANALI SD",SKY CINEMA COLLECTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10532
-#EXTINF:-1 tvg-id="" tvg-name="SKY CINEMA ACTION SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-action-it.png" group-title="CANALI SD",SKY CINEMA ACTION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10535
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-uno-it.png" group-title="CANALI SD",SKY UNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10375
-#EXTINF:-1 tvg-id="" tvg-name="SKY ATLANTIC SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-it.png" group-title="CANALI SD",SKY ATLANTIC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10567
-#EXTINF:-1 tvg-id="" tvg-name="FOX SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" group-title="CANALI SD",FOX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10667
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-life-us.png" group-title="CANALI SD",FOX LIFE SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10668
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_crime_global.png" group-title="CANALI SD",FOX CRIME SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10669
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-uno-it.png" group-title="CANALI SD",SKY SPORT UNO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10383
-#EXTINF:-1 tvg-id="SkySportSerieA.it" tvg-name="SKY SPORT SERIE A SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-serie-a-it.png" group-title="CANALI SD",SKY SPORT SERIE A SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10386
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-nba-it.png" group-title="CANALI SD",SKY SPORT NBA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10389
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-moto-gp-it.png" group-title="CANALI SD",SKY SPORT MOTOGP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10392
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT GOLF SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-golf-it.png" group-title="CANALI SD",SKY SPORT GOLF SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10395
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT FOOTBALL SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-football-it.png" group-title="CANALI SD",SKY SPORT FOOTBALL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10398
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png" group-title="CANALI SD",SKY SPORT F1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10401
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-arena-it.png" group-title="CANALI SD",SKY SPORT ARENA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10405
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-24-it.png" group-title="CANALI SD",SKY SPORT 24 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10408
-#EXTINF:-1 tvg-id="MTV.it" tvg-name="SKY MTV SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="CANALI SD",SKY MTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10444
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 1 SD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_1_2DBA_1A2C_FBFF_820000_0_0_0.png" group-title="CANALI SD",SKY CALCIO 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10556
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 2 SD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_F6F_2198_FBFF_820000_0_0_0.png" group-title="CANALI SD",SKY CALCIO 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10553
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 3 SD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_1089_2008_FBFF_820000_0_0_0.png" group-title="CANALI SD",SKY CALCIO 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10550
-#EXTINF:-1 tvg-id="" tvg-name="SKY CALCIO 4 SD" tvg-logo="http://cdn.jamonbonbon.com/picon/1_0_19_108A_2008_FBFF_820000_0_0_0.png" group-title="CANALI SD",SKY CALCIO 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10547
-#EXTINF:-1 tvg-id="" tvg-name="SKY DAZN BAR SD" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/07/dazn-logo-vector.png" group-title="CANALI SD",SKY DAZN BAR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10498
-#EXTINF:-1 tvg-id="NickJr.it" tvg-name="NICK JR SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="CANALI SD",NICK JR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10639
-#EXTINF:-1 tvg-id="DisneyJunior.it" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="CANALI SD",DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10685
-#EXTINF:-1 tvg-id="Crime Investigation SD" tvg-name="CRIME INVESTIGATION SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" group-title="CANALI SD",CRIME INVESTIGATION SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10697
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="CANALI SD",NICKELODEON SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://momotv.eu:2300/caserta/caserta/10638
+#EXTINF:-1,|CA| ICI RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249230
+#EXTINF:-1,|CA| LCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249231
+#EXTINF:-1,|CA| MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249232
+#EXTINF:-1,|CA| VRAK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249233
+#EXTINF:-1,|CA| CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249234
+#EXTINF:-1,|CA| Prise 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249235
+#EXTINF:-1,|CA| Z Tele
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249236
+#EXTINF:-1,|CA| Super Ecran 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249237
+#EXTINF:-1,|CA| Super Ecran 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249238
+#EXTINF:-1,|CA| Super Ecran 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249239
+#EXTINF:-1,|CA| Super Ecran 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249240
+#EXTINF:-1,|CA| TVA Montreal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249241
+#EXTINF:-1,|CA| Tele Quebec
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249242
+#EXTINF:-1,|CA| Tele Francophonie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249243
+#EXTINF:-1,|CA| Cine Pop
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249244
+#EXTINF:-1,|CA| Addik TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249245
+#EXTINF:-1,|CA| Series+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249246
+#EXTINF:-1,|CA| ZESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249247
+#EXTINF:-1,|CA| Evasion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249248
+#EXTINF:-1,|CA| Canal Vie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249249
+#EXTINF:-1,|CA| Moi & Cie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249250
+#EXTINF:-1,|CA| Tele V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249251
+#EXTINF:-1,|CA| Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249252
+#EXTINF:-1,|CA| Canal D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249253
+#EXTINF:-1,|CA| RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249254
+#EXTINF:-1,|CA| RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249255
+#EXTINF:-1,|CA| RDS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249256
+#EXTINF:-1,|CA| TVA Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249257
+#EXTINF:-1,|CA| Cottage Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249258
+#EXTINF:-1,|CA|  BNN BLOOMBERG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249259
+#EXTINF:-1,|CA| ABC Spark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249260
+#EXTINF:-1,|CA| CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249261
+#EXTINF:-1,|CA| CTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249262
+#EXTINF:-1,|CA| CP 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249263
+#EXTINF:-1,|CA| City TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249264
+#EXTINF:-1,|CA| CBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249265
+#EXTINF:-1,|CA| CTV News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249266
+#EXTINF:-1,|CA| Paramount
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249267
+#EXTINF:-1,|CA| CTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249268
+#EXTINF:-1,|CA| Global News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249269
+#EXTINF:-1,|CA| Global Toronto
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249270
+#EXTINF:-1,|CA| TSC Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/249271
+#EXTINF:-1,[CA-FR]  LCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218832
+#EXTINF:-1,[CA-FR] ADDIK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218833
+#EXTINF:-1,[CA-FR] CANAL D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218834
+#EXTINF:-1,[CA-FR] CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218835
+#EXTINF:-1,[CA-FR] CINE POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218836
+#EXTINF:-1,[CA-FR] EVASION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218837
+#EXTINF:-1,[CA-FR] HISTORIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218838
+#EXTINF:-1,[CA-FR] ICI MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218839
+#EXTINF:-1,[CA-FR] ICI VANCOUVER FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218840
+#EXTINF:-1,[CA-FR] MAX (French)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218841
+#EXTINF:-1,[CA-FR] METEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218842
+#EXTINF:-1,[CA-FR] MOI CIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218843
+#EXTINF:-1,[CA-FR] PRISE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218844
+#EXTINF:-1,[CA-FR] RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218845
+#EXTINF:-1,[CA-FR] RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218846
+#EXTINF:-1,[CA-FR] RDS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218847
+#EXTINF:-1,[CA-FR] SERIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218848
+#EXTINF:-1,[CA-FR] SUPER ECRAN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218849
+#EXTINF:-1,[CA-FR] SUPER ECRAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218850
+#EXTINF:-1,[CA-FR] SUPER ECRAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218851
+#EXTINF:-1,[CA-FR] SUPER ECRAN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218852
+#EXTINF:-1,[CA-FR] TELE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218853
+#EXTINF:-1,[CA-FR] TFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218854
+#EXTINF:-1,[CA-FR] TVA MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218855
+#EXTINF:-1,[CA-FR] TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218856
+#EXTINF:-1,[CA-FR] VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218857
+#EXTINF:-1,[CA-FR] VRAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218858
+#EXTINF:-1,[CA-FR] Z TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218859
+#EXTINF:-1,[CA-FR] ZESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218860
+#EXTINF:-1,[CA] A&E | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218861
+#EXTINF:-1,[CA] AMC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218862
+#EXTINF:-1,[CA] ANIMAL PLANET | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218863
+#EXTINF:-1,[CA] BBC CANADA | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218864
+#EXTINF:-1,[CA] BBC EARTH | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218865
+#EXTINF:-1,[CA] BBC NEWS | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218866
+#EXTINF:-1,[CA] BBC WORLD NEWS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218867
+#EXTINF:-1,[CA] BNN BLOOMBERG | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218868
+#EXTINF:-1,[CA] BOOMERANG | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218869
+#EXTINF:-1,[CA] CARTOON NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218870
+#EXTINF:-1,[CA] CBC CALGARY | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218871
+#EXTINF:-1,[CA] CBC CHARLOTTETOWN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218872
+#EXTINF:-1,[CA] CBC EDMONTON | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218873
+#EXTINF:-1,[CA] CBC HALIFAX | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218874
+#EXTINF:-1,[CA] CBC MONTREAL | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218875
+#EXTINF:-1,[CA] CBC NEWS TORONTO | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218876
+#EXTINF:-1,[CA] CBC NEWS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218877
+#EXTINF:-1,[CA] CBC OTTAWA | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218878
+#EXTINF:-1,[CA] CBC REGINA | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218879
+#EXTINF:-1,[CA] CBC VANCOUVER | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218880
+#EXTINF:-1,[CA] CBC WINDSOR | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218881
+#EXTINF:-1,[CA] CBC YELLOWKNIFE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218882
+#EXTINF:-1,[CA] CBC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218883
+#EXTINF:-1,[CA] CBS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218884
+#EXTINF:-1,[CA] CHCH | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218885
+#EXTINF:-1,[CA] CITY TV TORONTO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218886
+#EXTINF:-1,[CA] CITY TV VANCOUVER | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218887
+#EXTINF:-1,[CA] City TV | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218888
+#EXTINF:-1,[CA] CMT | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218889
+#EXTINF:-1,[CA] CNN INTERNATIONAL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218890
+#EXTINF:-1,[CA] CNN | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218891
+#EXTINF:-1,[CA] COMEDY | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218892
+#EXTINF:-1,[CA] COOKING CHANNEL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218893
+#EXTINF:-1,[CA] COTTAGE LIFE | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218894
+#EXTINF:-1,[CA] CP 24 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218895
+#EXTINF:-1,[CA] CP24  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218896
+#EXTINF:-1,[CA] CP24 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218897
+#EXTINF:-1,[CA] CPAC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218898
+#EXTINF:-1,[CA] CRAVE 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218899
+#EXTINF:-1,[CA] CRAVE 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218900
+#EXTINF:-1,[CA] CRAVE 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218901
+#EXTINF:-1,[CA] CRAVE 4 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218902
+#EXTINF:-1,[CA] CTV MONTREAL | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218903
+#EXTINF:-1,[CA] CTV NEWS | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218904
+#EXTINF:-1,[CA] CTV TORONTO | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218905
+#EXTINF:-1,[CA] CTV TWO | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218906
+#EXTINF:-1,[CA] CW | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218907
+#EXTINF:-1,[CA] DEJAVIEW | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218908
+#EXTINF:-1,[CA] DISCOVERY SCIENCE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218909
+#EXTINF:-1,[CA] DISCOVERY | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218910
+#EXTINF:-1,[CA] DISNEY JR | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218911
+#EXTINF:-1,[CA] DISNEY XD | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218912
+#EXTINF:-1,[CA] DIY NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218913
+#EXTINF:-1,[CA] DOCUMENTARY CHANNEL | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218914
+#EXTINF:-1,[CA] E! | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218915
+#EXTINF:-1,[CA] Food Network | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218916
+#EXTINF:-1,[CA] Fox | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218917
+#EXTINF:-1,[CA] GAME SHOW NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218918
+#EXTINF:-1,[CA] GLOBAL TORONTO | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218919
+#EXTINF:-1,[CA] GLOBAL VANCOUVER | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218920
+#EXTINF:-1,[CA] GLOBAL |HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218921
+#EXTINF:-1,[CA] HBO 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218922
+#EXTINF:-1,[CA] HBO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218923
+#EXTINF:-1,[CA] HISTORY | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218924
+#EXTINF:-1,[CA] INVESTIGATION DISCOVERY | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218925
+#EXTINF:-1,[CA] LIFETIME MOVIE NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218926
+#EXTINF:-1,[CA] LIFETIME | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218927
+#EXTINF:-1,[CA] LOVE NATURE | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218928
+#EXTINF:-1,[CA] MOVIETIME | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218929
+#EXTINF:-1,[CA] MTV 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218930
+#EXTINF:-1,[CA] MUCH | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218931
+#EXTINF:-1,[CA] NAT GEO WILD | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218932
+#EXTINF:-1,[CA] NAT GEO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218933
+#EXTINF:-1,[CA] NICKTOONS | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218934
+#EXTINF:-1,[CA] NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218935
+#EXTINF:-1,[CA] OLN | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218936
+#EXTINF:-1,[CA] OMNI 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218937
+#EXTINF:-1,[CA] OMNI 1 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218938
+#EXTINF:-1,[CA] OMNI 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218939
+#EXTINF:-1,[CA] PARAMOUNT NETWORK | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218940
+#EXTINF:-1,[CA] SMITHSONIAN CHANNEL | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218941
+#EXTINF:-1,[CA] SMITHSONIAN CHANNEL | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218942
+#EXTINF:-1,[CA] SPIKE TV / PARAMOUNT CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218943
+#EXTINF:-1,[CA] SPORTSNET 360 | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218944
+#EXTINF:-1,[CA] SPORTSNET ONTARIO | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218945
+#EXTINF:-1,[CA] SPORTSNET WEST | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218946
+#EXTINF:-1,[CA] SPORTSNET WORLD | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218947
+#EXTINF:-1,[CA] SYFY | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218948
+#EXTINF:-1,[CA] TELETOON | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218949
+#EXTINF:-1,[CA] TREEHOUSE | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218950
+#EXTINF:-1,[CA] TSN 1 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218951
+#EXTINF:-1,[CA] TSN 2 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218952
+#EXTINF:-1,[CA] TSN 3 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218953
+#EXTINF:-1,[CA] TSN 4 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218954
+#EXTINF:-1,[CA] TSN 5 | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218955
+#EXTINF:-1,[CA] TVO | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218956
+#EXTINF:-1,[CA] VISION TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218957
+#EXTINF:-1,[CA] WEATHER NETWORK | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218958
+#EXTINF:-1,[CA] YES TV | SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218959
+#EXTINF:-1,[CA]ABC | HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gobest.ddns.net:8080/yE7EG1r5KA/b6yrIbTxDK/218960
