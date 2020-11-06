@@ -353,7 +353,7 @@ plugin://plugin.video.f4mTester/?url=http://stream.fs1.tv:8080/hls/webstream.m3u
 plugin://plugin.video.f4mTester/?url=http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
-EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LrgT2Zm/84162706.png",[B][COLORorange]FS1 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://cf-hls-media.sndcdn.com/playlist/kCREcSx6xCnL.128.mp3/playlist.m3u8&amp;streamtype=HLSRETRY&amp;name=FS1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 FS2 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -382,9 +382,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 1[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8&amp;streamtype=HLSRETRY&amp;name=FOX Sports 1
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
 http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
 https://cdn-laos.workpoint.news/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Sport",[COLOR orange][B]FOX Sports 2[/B][/COLOR]
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
