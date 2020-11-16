@@ -1153,6 +1153,14 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 =====================================================================================================================================
 #####################################################################################################################################
 =====================================================================================================================================
+#EXTINF:-1 tvg-id="HarleyM.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson TV",[B][COLORlightslategray]Harley Davidson TV EN[/B][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+#EXTINF:-1 tvg-id="HarleyR.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Racing TV",[B][COLORlightslategray]Harley Davidson Racing TV EN[/B][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
+#EXTINF:-1 tvg-id="HarleyF.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Factory TV",[B][COLORlightslategray]Harley Davidson Factory TV EN[/B][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
+#EXTINF:-1 tvg-id="HarleyG.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="Harley Davidson Garage TV",[B][COLORlightslategray]Harley Davidson Garage TV EN[/B][/COLOR]
+https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
 EXTINF:-1,ACETest
 plugin://program.plexus/?mode=1&url=acestream://43b513e2cdc2eaa73fc4dc0da15888da9e60a358&name=My+acestream+channel
 EXTINF:-1,ACETest
