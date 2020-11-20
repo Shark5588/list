@@ -94,15 +94,15 @@
     <fanart></fanart>
     <items>
 
-    <item>
-        <title>[B][COLOR aqua]IPTV[/COLOR][COLOR red] CAT[/COLOR][/B]</title>
+    <plugin>
+        <name>[B][COLOR aqua]IPTV[/COLOR][COLOR red] CAT[/COLOR][/B]</name>
         <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/iptvcat.xml</link>
         <thumbnail>https://iptvcat.com/res/images/logo_iptvcat.png</thumbnail>
         <genre></genre>
         <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
         <date>xxxxxx</date>
         <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
-   </items>
+   </plugin>
   </channel>  
 
   <channel>
