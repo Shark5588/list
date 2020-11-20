@@ -90,12 +90,20 @@
 
   <channel>
     <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua] SPORTS CLASSIC TV [COLOR white] IPTVCAT [/COLOR][COLORred]•[/COLOR][COLORaqua]•[/COLOR][/B]</name>
-	<link>http://ignorame</link>
-	<externallink>https://raw.githubusercontent.com/Shark5588/list/master/iptvcat.xml</externallink>
     <thumbnail>https://i.ibb.co/m66k7dp/55.png</thumbnail>
     <fanart></fanart>
-    <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
-  </channel>	
+    <items>
+
+    <item>
+        <title>[B][COLOR aqua]IPTV[/COLOR][COLOR red] CAT[/COLOR][/B]</title>
+        <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/Shark5588/list/master/iptvcat.xml</link>
+        <thumbnail>https://iptvcat.com/res/images/logo_iptvcat.png</thumbnail>
+        <genre></genre>
+        <info>[B][COLORyellow]IPTV Playlist[/COLOR][/B]</info>
+        <date>xxxxxx</date>
+        <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+   </items>
+  </channel>  
 
   <channel>
        <name>[B][COLOR aqua]•[/COLOR][COLORred]•[/COLOR][COLORaqua]SPORTS CLASSIC TV[COLOR white][B] PlAyLiSt 1[/COLOR][/B]</name>
