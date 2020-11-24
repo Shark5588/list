@@ -3,6 +3,35 @@
 <layouttype>-=Gith55list=-</layouttype>
 
 
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE SPORTS [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]|User-Agent=Android</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime][B][makelist.param1][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param2]&amp;url=$doregex[encodedurl]</link>
+  <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+  <fanart>https://www.eazibetnamibia.com/betting/wp-content/uploads/sites/12/2018/08/1063-world-sports-betting-live-bets.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:.*,(.*?)\n.*(http.*m3u8)]]></expres>
+<page>https://treshi.github.io/daily-iptv.al/</page>
+<referer>https://treshi.github.io/daily-iptv.al/</referer>
+<connection>keep-alive</connection>
+<x-forward></x-forward>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+
+
+
 <item><title>[B][COLORsnow]      •   •   •  IPTV CAT  •   •   •[/COLOR][/B]</title><link>http://Ignoreme</link><thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail><fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart></item>
 
 <item>
