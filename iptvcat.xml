@@ -3,28 +3,36 @@
 <layouttype>-=Gith55list=-</layouttype>
 
 
-<item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-<link>$doregex[makelist]|User-Agent=Android</link>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] M3u[/COLOR][COLORsnow] •[/COLOR][COLORblue]IpTv[/COLOR][COLORsnow]•[/COLOR][COLORblue]LiSt [/COLOR][COLORred](1x) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR lime][B][makelist.param1][/B][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param2]&amp;url=$doregex[encodedurl]</link>
-  <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
-  <fanart>https://www.eazibetnamibia.com/betting/wp-content/uploads/sites/12/2018/08/1063-world-sports-betting-live-bets.jpg</fanart>
+<title>[COLOR cyan]Server:[/COLOR] [COLOR gold][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
+<link>$doregex[makelist2]</link>
 ]]></listrepeat>
-<expres><![CDATA[#EXTINF:.*,(.*?)\n.*(http.*m3u8)]]></expres>
-<page>https://treshi.github.io/daily-iptv.al/</page>
+<expres>(http://(.*)/.*)</expres>
+<page>https://leaksat.com/2020/11/iptv-m3u-playlist-23-11-2020.html/2</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
+ 
 <regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
-<page></page>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+    <title>[COLOR red][B]•[/B][/COLOR]  [makelist2.param1]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR snow][makelist2.param1][/COLOR]</title></link>
+]]></listrepeat>
+<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
+<page>[makelist.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
   <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
+
+
+
+
 
 
 
@@ -140,6 +148,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
   return re.findall('(?s)</div>" title.+?>([^<]+).+?data-clipboard-text="([^"]+)',page_data)
 ]]></expres>
 <page>https://iptvcat.com/sport_/[makelist.param1]</page>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]|User-Agent=Android</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[COLOR lime][B][makelist.param1][/B][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param2]&amp;url=$doregex[encodedurl]</link>
+  <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+  <fanart>https://www.eazibetnamibia.com/betting/wp-content/uploads/sites/12/2018/08/1063-world-sports-betting-live-bets.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:.*,(.*?)\n.*(http.*m3u8)]]></expres>
+<page>https://treshi.github.io/daily-iptv.al/</page>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
 </regex>
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
   <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
