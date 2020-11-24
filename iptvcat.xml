@@ -4,6 +4,179 @@
 
 
 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX REGEX <<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<item>
+  <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-1 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+  <link>$doregex[genre]</link>
+  <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart> 
+  <regex>
+    <name>genre</name>
+    <listrepeat><![CDATA[
+    <title>[COLOR lime][genre.param2][/COLOR]</title>
+    <link>$doregex[lists]</link>
+    <thumbnail>[genre.param3]</thumbnail>
+    ]]></listrepeat>
+    <expres><![CDATA[(?s)<article.+?href="([^"]+)"\s*title="([^"]+)?\s(?:download|daily|free|new|m3u).+?src="([^"]+)]]></expres>
+    <page>http://www.dailyiptvlist.com/</page>
+  </regex>
+  <regex>
+    <name>lists</name>
+    <listrepeat><![CDATA[
+    <title>[COLOR gold][lists.param2][/COLOR]</title>
+    <link>ignoreme</link>
+    <externallink>[lists.param1]$$TSDOWNLOADER$$</externallink>
+    <thumbnail>[genre.param3]</thumbnail>
+    ]]></listrepeat>
+    <expres><![CDATA[<a\s*href="([^"]+m3u)">([^<]+)</a><(?:br|/p)]]></expres>
+    <page>[genre.param1]</page>
+    <referer>http://www.dailyiptvlist.com/</referer>
+  </regex>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-2 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart> 
+<link>$doregex[leg2]</link>
+
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title> [COLOR lime] [leg2.param2] [/COLOR]</title>
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title> [COLOR lime] [leg.param2]  [/COLOR]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>  [COLOR lime] [list.param2]  [/COLOR]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex> 
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-3 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist1]</link>
+
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<title>[B][COLORdodgerblue]Daily m3u playlist[/COLOR][/B] [COLOR snow]( [/COLOR][COLOR red][makelist1.param1][/COLOR][COLOR snow] )[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[44336\'>(.*?)<.*?href='(.*?)']]></expres>
+<page>http://iptvhit.com/freeiptv</page>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>$pyFunction:'[COLOR lime][B]Server [/B][/COLOR][COLOR gold][makelist2.param2][makelist2.param3][makelist2.param4][makelist2.param5][makelist2.param6]  [/COLOR]'.replace('Active','[COLOR green][B]Active[/B][COLOR]').replace('Disabled','[COLOR silver]Disabled[COLOR]').replace('Banned ','[COLOR red]Banned [COLOR]')</title>
+<link>NA</link>
+<info>[COLOR yellow][makelist2.param7] [/COLOR] -[COLOR coral] [makelist2.param8][/COLOR]</info>
+<externallink>[makelist2.param2]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[>HIT<.*?href="(.*?)".*?white">(.*?)<.*?\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\n]]></expres>
+<page>http://iptvhit.com/freeiptv[makelist1.param2]</page>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+  </item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-4 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+<link>$doregex[makelist2]</link>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[B][COLORdodgerblue]Daily m3u playlist[/COLOR]  [COLOR snow]( [/COLOR][COLOR red][makelist2.param2][/COLOR][COLOR snow] )[/COLOR][/B]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2020]]></expres>
+<page>https://usalinksiptv.blogspot.com/search?max-results=40</page>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][COLORlime]SERVER [/COLOR][COLORcoral][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-5 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR snow][makelist.param2][/COLOR]</title>
+  <link>$doregex[lists]</link>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re
+    return re.findall('(?s)<header class="entry-header cf">(?:.*?href=)"([^"]*)">([^<]*)(?:.*?src=")([^"]*)',page_data)
+]]></expres>
+<page>https://www.gratisiptv.com/free-playlists/</page>
+</regex>
+<regex>
+<name>lists</name>
+<listrepeat><![CDATA[
+  <title>[COLOR snow][lists.param2][/COLOR]</title>
+  <link>ignoreme</link>
+  <externallink>[lists.param1]</externallink>
+  <thumbnail>[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):#cosmix
+    import re
+    s = page_data.split('<pre>', 1)[-1]
+    return re.findall('(?s)<a href="(.*?m3u[^"]*)">Download\s([^<]*)',s)
+]]></expres>
+<page>[makelist.param1]</page>
+<referer></referer>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+
 <item>
 <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] M3u[/COLOR][COLORsnow] •[/COLOR][COLORblue]IpTv[/COLOR][COLORsnow]•[/COLOR][COLORblue]LiSt [/COLOR][COLORred](1x) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
