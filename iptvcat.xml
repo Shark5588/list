@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE SPORTS [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]|User-Agent=Android</link>
 <regex>
 <name>makelist</name>
@@ -16,9 +16,6 @@
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:.*,(.*?)\n.*(http.*m3u8)]]></expres>
 <page>https://treshi.github.io/daily-iptv.al/</page>
-<referer>https://treshi.github.io/daily-iptv.al/</referer>
-<connection>keep-alive</connection>
-<x-forward></x-forward>
 </regex>
 <regex>
 <name>encodedurl</name>
