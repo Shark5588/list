@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 11/21/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 11/27/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -16,338 +16,1113 @@ http://0.0.0.0:1234
 
 ################################################################ LIST  ###########################################################################################
 
-#EXTINF:-1,Super Tenis HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133237
-#EXTINF:-1,RAI SPORT + HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4951
-#EXTINF:-1,RAI SPORT + FHD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133371
-#EXTINF:-1,EUROSPORT 1 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4913
-#EXTINF:-1,EUROSPORT 2 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133231
-#EXTINF:-1,Sky Sport 24 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133217
-#EXTINF:-1,Sky Sport NBA HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133238
-#EXTINF:-1,Sky Sport Uno FHD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/23703
-#EXTINF:-1,Sky Sport Football FHD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/23704
-#EXTINF:-1,Sky SuperCalcio serie A HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133224
-#EXTINF:-1,TOP CALCIO 24 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133283
-#EXTINF:-1,Sky Calcio 1 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133218
-#EXTINF:-1,Sky Calcio 1 FHD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133269
-#EXTINF:-1,Sky Calcio 2 HD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133219
-#EXTINF:-1,Sky Calcio 2 FHD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133270
-#EXTINF:-1,Sky Calcio 3 HD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133220
-#EXTINF:-1,Sky Calcio 3 FHD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133271
-#EXTINF:-1,Sky Calcio 4 HD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133221
-#EXTINF:-1,Sky Calcio 4 FHD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133272
-#EXTINF:-1,Sky Calcio 5 HD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133222
-#EXTINF:-1,Sky Calcio 5 FHD IT (MatchTime)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133273
-#EXTINF:-1,VETRINA DAZN FHD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133274
-#EXTINF:-1,Sky DAZN SAT HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133276
-#EXTINF:-1,Sky DAZN SAT FHD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133275
-#EXTINF:-1,DAZN 1 SD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133314
-#EXTINF:-1,DAZN 1 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133315
-#EXTINF:-1,DAZN 1 FHD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133316
-#EXTINF:-1,DAZN 2 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133313
-#EXTINF:-1,DAZN 3 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133312
-#EXTINF:-1,DAZN 4 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133311
-#EXTINF:-1,DAZN 5 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133310
-#EXTINF:-1,DAZN 6 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133309
-#EXTINF:-1,DAZN 7 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133308
-#EXTINF:-1,DAZN 8 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133307
-#EXTINF:-1,DAZN 9 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133306
-#EXTINF:-1,DAZN 10 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133305
-#EXTINF:-1,DAZN 11 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133304
-#EXTINF:-1,DAZN 12 HD IT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133303
-#EXTINF:-1,=== LEGA PRO Girone B ===
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/133360
-#EXTINF:-1,***** ENGLAND *****
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/3880
-#EXTINF:-1,UK:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6963
-#EXTINF:-1,BBC 1 HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1495
-#EXTINF:-1,UK:BBC 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1496
-#EXTINF:-1,BBC OXFORD HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1497
-#EXTINF:-1,UK:BBC 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1498
-#EXTINF:-1,UK:BBC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6922
-#EXTINF:-1,UK:ITV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1505
-#EXTINF:-1,UK:ITV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1506
-#EXTINF:-1,UK:ITV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1507
-#EXTINF:-1,UK:ITV BE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1508
-#EXTINF:-1,UK:E4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6928
-#EXTINF:-1,UK:ITV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6923
-#EXTINF:-1,UK:FILM 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6927
-#EXTINF:-1,UK:MORE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6926
-#EXTINF:-1,CHANNEL 4 FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6924
-#EXTINF:-1,UK:CHANNEL 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6925
-#EXTINF:-1,UK:SKY ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/7427
-#EXTINF:-1,UK:E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6948
-#EXTINF:-1,UK | CNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32697
-#EXTINF:-1,ALIBI HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6947
-#EXTINF:-1,UK:DAVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6951
-#EXTINF:-1,UK:QUEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6962
-#EXTINF:-1,UK:UTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6930
-#EXTINF:-1,UK:COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6950
-#EXTINF:-1,UK:CBBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6920
-#EXTINF:-1,Fox News HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6933
-#EXTINF:-1,UK:EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6934
-#EXTINF:-1,UK:TRAVEL CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6958
-#EXTINF:-1,BLOOMBERG FHD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6939
-#EXTINF:-1,UK:DISNEY XD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1504
-#EXTINF:-1,UK:NICKELODEON HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1503
-#EXTINF:-1,UK:CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1502
-#EXTINF:-1,UK:FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6964
-#EXTINF:-1,UK:HISTORY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1513
-#EXTINF:-1,UK:ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6959
-#EXTINF:-1,UK:DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6954
-#EXTINF:-1,UK:DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6952
-#EXTINF:-1,UK:CRIME & INVERSTIGATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6949
-#EXTINF:-1,UK:INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6955
-#EXTINF:-1,UK:NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6961
-#EXTINF:-1,UK:SKY ARTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6945
-#EXTINF:-1,UK:SKY ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/6946
-#EXTINF:-1,Sky News HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1499
-#EXTINF:-1,Sky Cinema Crime Thriller HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1490
-#EXTINF:-1,CBS REALITY HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1509
-#EXTINF:-1,UK:CBS DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1510
-#EXTINF:-1,UK:CBS ACTION JUSTICE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1511
-#EXTINF:-1,UK:MOVIES THRILLER HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1514
-#EXTINF:-1,UK:MOVIES DRAMA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1515
-#EXTINF:-1,UK:MOVIES DISNEY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1516
-#EXTINF:-1,UK:MOVIES COMEDY HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1517
-#EXTINF:-1,UK:MOVIES ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1518
-#EXTINF:-1,UK:BT SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4758
-#EXTINF:-1,UK:BT SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4759
-#EXTINF:-1,BT SPORT 3 HD UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4760
-#EXTINF:-1,UK:SETANTA SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1501
-#EXTINF:-1,UK:BT SPORT ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1512
-#EXTINF:-1,UK | PREMIERE SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32743
-#EXTINF:-1,UK | SETANTA/PREMIERE SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32754
-#EXTINF:-1,UK:SKY SPORTS ARENA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1016
-#EXTINF:-1,UK:SKY SPORT CRICKET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1017
-#EXTINF:-1,UK:SKY SPORTS ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1018
-#EXTINF:-1,UK:SKY SPORTS GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1019
-#EXTINF:-1,UK:SKY SPORTS F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1020
-#EXTINF:-1,UK:Sky Sport Main Event HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22754
-#EXTINF:-1,UK:Sky Sports Premier League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22755
 
-#EXTINF:-1,-- US | USA --
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9562
-#EXTINF:-1,USA | ABC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9511
-#EXTINF:-1,USA | ABC NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9441
-#EXTINF:-1,USA | AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9502
-#EXTINF:-1,USA | BRAVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9500
-#EXTINF:-1,USA | CNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9493
-#EXTINF:-1,USA | COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9492
-#EXTINF:-1,USA | DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9488
-#EXTINF:-1,USA | MLB NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/20401
-#EXTINF:-1,USA | E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9485
-#EXTINF:-1,USA | ESPN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9484
-#EXTINF:-1,USA | ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9483
-#EXTINF:-1,USA | FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9481
-#EXTINF:-1,USA | FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9477
-#EXTINF:-1,USA | FOX SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9476
-#EXTINF:-1,USA | FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9475
-#EXTINF:-1,USA | FX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9473
-#EXTINF:-1,UFC 254 Pass HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/134262
-#EXTINF:-1,US | HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9463
-#EXTINF:-1,USA | HGTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9461
-#EXTINF:-1,USA | HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9460
-#EXTINF:-1,USA | NBC GOLF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9453
-#EXTINF:-1,USA | NHL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9451
-#EXTINF:-1,USA | SHOWTIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9447
-#EXTINF:-1,CA | SPORTSNET WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9442
-#EXTINF:-1,USA | SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9438
-#EXTINF:-1,USA | CINEMAX ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32722
-#EXTINF:-1,USA | ELEVEN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32781
-#EXTINF:-1,USA | NBC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32710
-#EXTINF:-1,USA | NFL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32726
-#EXTINF:-1,USA | TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32712
-#EXTINF:-1,USA | TENNIS CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32725
-#EXTINF:-1,CA | TSN 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32742
-#EXTINF:-1,USA | TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9434
-#EXTINF:-1,USA | A & E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32694
-#EXTINF:-1,USA | ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32693
-#EXTINF:-1,USA | CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32692
-#EXTINF:-1,CA | TSN 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32756
-#EXTINF:-1,USA | CW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32703
-#EXTINF:-1,USA | ESPN U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32690
-#EXTINF:-1,USA | BEIN SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32705
-#EXTINF:-1,USA | DIY NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32704
-#EXTINF:-1,USA | STARZ CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32688
-#EXTINF:-1,USA | DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32701
-#EXTINF:-1,USA | WGN AMERICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32676
-#EXTINF:-1,CA | TSN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/9444
-#EXTINF:-1,USA | BLOOMBERG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22589
-#EXTINF:-1,USA | CBSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22582
-#EXTINF:-1,USA | MSNBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22581
-#EXTINF:-1,US | QVC Beauty IQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22797
-#EXTINF:-1,USA | UFC FIGHT PASS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32776
-#EXTINF:-1,USA | DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22951
-#EXTINF:-1,US | FXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22946
-#EXTINF:-1,USA | FREEFORM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22788
-#EXTINF:-1,USA | IFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22786
-#EXTINF:-1,CA | TSN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22782
-#EXTINF:-1,CA | TSN 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/22783
-#EXTINF:-1,USA | SEC NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32783
-#EXTINF:-1,USA | CBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32803
-#EXTINF:-1,USA | NBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32804
-#EXTINF:-1,MC EU SD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/35371
+
+#EXTINF:-1,------------- |FR| FRANCE HEVC ---------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78815
+#EXTINF:-1,|FR|HVEC| CORONA VIRUS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78814
+#EXTINF:-1,|FR|HEVC| TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78813
+#EXTINF:-1,|FR|HEVC| FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78812
+#EXTINF:-1,|FR|HEVC| FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78811
+#EXTINF:-1,|FR|HEVC| FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78810
+#EXTINF:-1,|FR|HEVC| FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78809
+#EXTINF:-1,|FR|HEVC| FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78808
+#EXTINF:-1,|FR|HEVC| 6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78807
+#EXTINF:-1,|FR|HEVC| M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78806
+#EXTINF:-1,|FR|HEVC| FRANCE 3 NOA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78805
+#EXTINF:-1,|FR|HEVC| TF1 SERIES-FILMS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78804
+#EXTINF:-1,|FR|HEVC| TFX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78803
+#EXTINF:-1,|FR|HEVC| RTL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78802
+#EXTINF:-1,|FR|HEVC| TEVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78801
+#EXTINF:-1,|FR|HEVC| TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78800
+#EXTINF:-1,|FR|HEVC| W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78799
+#EXTINF:-1,|FR|HVEC| C8 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/86843
+#EXTINF:-1,|FR|HEVC| ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78798
+#EXTINF:-1,|FR|HEVC| NAUTICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78797
+#EXTINF:-1,|FR|HEVC| NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78796
+#EXTINF:-1,|FR|HEVC| NOVELAS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78795
+#EXTINF:-1,|FR|HEVC| ONE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78794
+#EXTINF:-1,|FR|HEVC| ROUGE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78793
+#EXTINF:-1,|FR|HEVC| RTS UN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78792
+#EXTINF:-1,|FR|HEVC| RTS DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78791
+#EXTINF:-1,|FR|HEVC| CSTAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78790
+#EXTINF:-1,|FR|HEVC| LA CHAINE METEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78789
+#EXTINF:-1,|FR|HEVC| MEZZO FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78788
+#EXTINF:-1,|FR|HEVC| MUSEUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78787
+#EXTINF:-1,|FR|HEVC| COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78786
+#EXTINF:-1,|FR|HEVC| COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78785
+#EXTINF:-1,|FR|HEVC| VIAGRANDPARIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78784
+#EXTINF:-1,|FR|HEVC| CANAL 31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78783
+#EXTINF:-1,|FR|HEVC| CANAL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78782
+#EXTINF:-1,|FR|HEVC| CLIQUE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78781
+#EXTINF:-1,|FR|HEVC| EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78780
+#EXTINF:-1,|FR|HEVC| IDF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78779
+#EXTINF:-1,|FR|HEVC| OLYMPIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78778
+#EXTINF:-1,|FR|HEVC| THE SWIZZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78777
+#EXTINF:-1,|FR|HEVC| CANAL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78776
+#EXTINF:-1,|FR|HEVC| LEMAN BLEU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78775
+#EXTINF:-1,|FR|HEVC| BOOSTER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78774
+#EXTINF:-1,|FR|HEVC| KTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78773
+#EXTINF:-1,|FR|HEVC| OLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78772
+#EXTINF:-1,------------- |FR| CANAL+  HEVC -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78771
+#EXTINF:-1,|FR|HEVC| CANAL+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78770
+#EXTINF:-1,|FR|HEVC| CANAL+ SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78769
+#EXTINF:-1,|FR|HEVC| CANAL+ SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78768
+#EXTINF:-1,|FR|HEVC| CANAL+ FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78767
+#EXTINF:-1,|FR|HEVC| CANAL+ DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78766
+#EXTINF:-1,|FR|HEVC| CANAL+ CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78765
+#EXTINF:-1,------------ |FR| CINEMA  HEVC -------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78764
+#EXTINF:-1,|FR|HEVC| ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78763
+#EXTINF:-1,|FR|HEVC| OCS MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78762
+#EXTINF:-1,|FR|HEVC| OCS CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78761
+#EXTINF:-1,|FR|HEVC| OCS GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78760
+#EXTINF:-1,|FR|HEVC| OCS CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78759
+#EXTINF:-1,|FR|HEVC| CINE+ PREMIER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78758
+#EXTINF:-1,|FR|HEVC| CINE+ FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78757
+#EXTINF:-1,|FR|HEVC| CINE+ EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78756
+#EXTINF:-1,|FR|HEVC| CINE+ FAMIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78755
+#EXTINF:-1,|FR|HEVC| CINE+ CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78754
+#EXTINF:-1,|FR|HEVC| CINE+ CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78753
+#EXTINF:-1,|FR|HEVC| PARAMOUNT DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78752
+#EXTINF:-1,|FR|HEVC| PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78751
+#EXTINF:-1,--------------- |FR| DIVERTISSEMENT HEVC --------------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78750
+#EXTINF:-1,|FR|HEVC| POLAR+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78749
+#EXTINF:-1,|FR|HEVC| SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78748
+#EXTINF:-1,|FR|HEVC| SERIE CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78747
+#EXTINF:-1,|FR|HEVC| 13EME RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78746
+#EXTINF:-1,|FR|HEVC| ALTICE STUDIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78745
+#EXTINF:-1,|FR|HEVC| WARNER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78744
+#EXTINF:-1,|FR|HEVC| TV BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78743
+#EXTINF:-1,|FR|HEVC| NRJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78742
+#EXTINF:-1,|FR|HEVC| RMC STORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78741
+#EXTINF:-1,|FR|HEVC| CHERIE 25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78740
+#EXTINF:-1,|FR|HEVC| PARIS PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78739
+#EXTINF:-1,|FR|HEVC| VICELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78738
+#EXTINF:-1,|FR|HEVC| E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78737
+#EXTINF:-1,|FR|HEVC| MY CUISINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78736
+#EXTINF:-1,|FR|HEVC| J ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78735
+#EXTINF:-1,|FR|HEVC| GAME ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78734
+#EXTINF:-1,|FR|HEVC| MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78733
+#EXTINF:-1,|FR|HEVC| AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78732
+#EXTINF:-1,|FR|HEVC| AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78731
+#EXTINF:-1,|FR|HEVC| BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78730
+#EXTINF:-1,|FR|HEVC| TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78729
+#EXTINF:-1,|FR|HEVC| TELECLUB ZOOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78728
+#EXTINF:-1,------------- |FR| SPORTS HEVC -----------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78727
+#EXTINF:-1,|FR|HEVC| TELEFOOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78726
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78725
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78724
+#EXTINF:-1,|FR|HEVC| BEIN SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78723
+#EXTINF:-1,|FR|HEVC| EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78722
+#EXTINF:-1,|FR|HEVC| EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78721
+#EXTINF:-1,|FR|HEVC| RMC SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78720
+#EXTINF:-1,|FR|HEVC| RMC SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78719
+#EXTINF:-1,|FR|HEVC| RMC SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78718
+#EXTINF:-1,|FR|HEVC| RMC SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78717
+#EXTINF:-1,|FR|HEVC| RMC SPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78716
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78715
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78714
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78713
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78712
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78711
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78710
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78709
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78708
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78707
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78706
+#EXTINF:-1,|FR|HEVC| RMC SPORT LIVE 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78705
+#EXTINF:-1,|FR|HEVC| MULTI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78704
+#EXTINF:-1,|FR|HEVC| MULTI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78703
+#EXTINF:-1,|FR|HEVC| MULTI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78702
+#EXTINF:-1,|FR|HEVC| MULTIS PORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78701
+#EXTINF:-1,|FR|HEVC| MULTISPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78700
+#EXTINF:-1,|FR|HEVC| MULTISPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78699
+#EXTINF:-1,|FR|HEVC| FOOT+ 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78698
+#EXTINF:-1,|FR|HEVC| INFO SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78697
+#EXTINF:-1,|FR|HEVC| EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78696
+#EXTINF:-1,|FR|HEVC| GOLF+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78695
+#EXTINF:-1,|FR|HEVC| MOTORSPORT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78694
+#EXTINF:-1,|FR|HEVC| AUTO MOTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78693
+#EXTINF:-1,|FR|HEVC| GAME ONE  +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78692
+#EXTINF:-1,------------- |FR| DECOUVERTE HEVC -------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78691
+#EXTINF:-1,|FR|HEVC| TOUTE L'HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78690
+#EXTINF:-1,|FR|HEVC| PLANETE+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78689
+#EXTINF:-1,|FR|HEVC| PLANETE  A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78688
+#EXTINF:-1,|FR|HEVC| PLANETE+ CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78687
+#EXTINF:-1,|FR|HEVC| DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78686
+#EXTINF:-1,|FR|HEVC| DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78685
+#EXTINF:-1,|FR|HEVC| DISCOVERY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78684
+#EXTINF:-1,|FR|HEVC| DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78683
+#EXTINF:-1,|FR|HEVC| DISCOVERY INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78682
+#EXTINF:-1,|FR|HEVC| NGC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78681
+#EXTINF:-1,|FR|HEVC| NGC WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78680
+#EXTINF:-1,|FR|HEVC| VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78679
+#EXTINF:-1,|FR|HEVC| USHUAIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78678
+#EXTINF:-1,|FR|HEVC| HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78677
+#EXTINF:-1,|FR|HEVC| ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78676
+#EXTINF:-1,|FR|HEVC| TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78675
+#EXTINF:-1,|FR|HEVC| CHASSE&PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78674
+#EXTINF:-1,|FR|HEVC| SCIENCE ET VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78673
+#EXTINF:-1,|FR|HEVC| RMC DECOUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78672
+#EXTINF:-1,|FR|HEVC| SEASONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78671
+#EXTINF:-1,|FR|HEVC| GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78670
+#EXTINF:-1,|FR|HEVC| TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78669
+#EXTINF:-1,|FR|HEVC| CRIME DISTRICT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78668
+#EXTINF:-1,---------------- |FR| INFORMATION HEVC -----------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78667
+#EXTINF:-1,|FR|HEVC| C NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78666
+#EXTINF:-1,|FR|HEVC| BFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78665
+#EXTINF:-1,|FR|HEVC| CANAL NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78664
+#EXTINF:-1,|FR|HEVC| LCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78663
+#EXTINF:-1,|FR|HEVC| FRANCE INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78662
+#EXTINF:-1,|FR|HEVC| EURONEWS (FRENCH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78661
+#EXTINF:-1,|FR|HEVC| FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78660
+#EXTINF:-1,|FR|HEVC| LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78659
+#EXTINF:-1,|FR|HEVC| BFM BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78658
+#EXTINF:-1,|FR|HEVC| BFM PARIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78657
+#EXTINF:-1,|FR|HEVC| I 24 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78656
+#EXTINF:-1,--------------- |FR| MUSIQUE HEVC -------------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78655
+#EXTINF:-1,|FR|HEVC| M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78654
+#EXTINF:-1,|FR|HEVC| TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78653
+#EXTINF:-1,|FR|HEVC| MEZZO LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78652
+#EXTINF:-1,|FR|HEVC| MCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78651
+#EXTINF:-1,|FR|HEVC| MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78650
+#EXTINF:-1,|FR|HEVC| LFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78649
+#EXTINF:-1,|FR|HEVC| MELODY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78648
+#EXTINF:-1,|FR|HEVC| NRJ HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78647
+#EXTINF:-1,|FR|HEVC| RFM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78646
+#EXTINF:-1,|FR|HEVC| MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78645
+#EXTINF:-1,|FR|HEVC| MTV LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78644
+#EXTINF:-1,|FR|HEVC| MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78643
+#EXTINF:-1,|FR|HEVC| TVM3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78642
+#EXTINF:-1,|FR|HEVC| C STAR HIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78641
+#EXTINF:-1,|FR|HEVC| C STAR HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78640
+#EXTINF:-1,------------- FRANCE HD --------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78494
+#EXTINF:-1,|FR| CORONA VIRUS INFOVIRUS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78493
+#EXTINF:-1,|FR|SD| CORONA VIRUS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79133
+#EXTINF:-1,|FR| TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78492
+#EXTINF:-1,|FR|SD| TF1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79132
+#EXTINF:-1,|FR| FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78491
+#EXTINF:-1,|FR|SD| FRANCE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79131
+#EXTINF:-1,|FR| FRANCE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78490
+#EXTINF:-1,|FR|SD| FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79130
+#EXTINF:-1,|FR| FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78489
+#EXTINF:-1,|FR|SD| FRANCE 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79129
+#EXTINF:-1,|FR| FRANCE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78488
+#EXTINF:-1,|FR|SD| FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79128
+#EXTINF:-1,|FR| FRANCE O HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78487
+#EXTINF:-1,|FR|SD| FRANCE O 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79127
+#EXTINF:-1,|FR| FRANCE 3 NOA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78486
+#EXTINF:-1,|FR|SD| FRANCE 3 NOA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79124
+#EXTINF:-1,|FR| 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78485
+#EXTINF:-1,|FR|SD| 6TER 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79126
+#EXTINF:-1,|FR| M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78484
+#EXTINF:-1,|FR|SD| M6 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79125
+#EXTINF:-1,|FR| TF1 SERIES FILMS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78483
+#EXTINF:-1,|FR|SD| TF1 SERIES-FILMS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79123
+#EXTINF:-1,|FR| TFX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78482
+#EXTINF:-1,|FR|SD| TFX 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79122
+#EXTINF:-1,|FR| RTL 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78481
+#EXTINF:-1,|FR|SD| RTL 9 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79121
+#EXTINF:-1,|FR| TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78480
+#EXTINF:-1,|FR|SD| TEVA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79120
+#EXTINF:-1,|FR| TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78479
+#EXTINF:-1,|FR|SD| TMC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79119
+#EXTINF:-1,|FR| W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78478
+#EXTINF:-1,|FR|SD| W9 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79118
+#EXTINF:-1,|FR| C8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/86842
+#EXTINF:-1,|FR| ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78477
+#EXTINF:-1,|FR|SD| ARTE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79117
+#EXTINF:-1,|FR| NAUTICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78476
+#EXTINF:-1,|FR|SD| NAUTICAL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79116
+#EXTINF:-1,|FR| NON STOP PEOPLE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78475
+#EXTINF:-1,|FR|SD| NON STOP PEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79115
+#EXTINF:-1,|FR| NOVELAS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78474
+#EXTINF:-1,|FR|SD| NOVELAS TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79114
+#EXTINF:-1,|FR| ONE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78473
+#EXTINF:-1,|FR|SD| ONE TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79113
+#EXTINF:-1,|FR| ROUGE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78472
+#EXTINF:-1,|FR|SD| ROUGE TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79112
+#EXTINF:-1,|FR| RTS UN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78471
+#EXTINF:-1,|FR|SD| RTS UN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79111
+#EXTINF:-1,|FR| RTS DEUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78470
+#EXTINF:-1,|FR|SD| RTS DEUX 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79110
+#EXTINF:-1,|FR| CSTAR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78469
+#EXTINF:-1,|FR|SD| CSTAR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79109
+#EXTINF:-1,|FR| LA CHAINE METEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78468
+#EXTINF:-1,|FR|SD| LA CHAINE METEO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79108
+#EXTINF:-1,|FR| MEZZO FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78467
+#EXTINF:-1,|FR|SD| MEZZO FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79107
+#EXTINF:-1,|FR| MUSEUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78466
+#EXTINF:-1,|FR|SD| MUSEUM 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79106
+#EXTINF:-1,|FR| COMEDIE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78465
+#EXTINF:-1,|FR|SD| COMEDIE  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79105
+#EXTINF:-1,|FR| COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78464
+#EXTINF:-1,|FR|SD| COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79104
+#EXTINF:-1,|FR| VIAGRANDPARIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78463
+#EXTINF:-1,|FR|SD| VIAGRANDPARIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79103
+#EXTINF:-1,|FR| CANAL 31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78462
+#EXTINF:-1,|FR|SD| CANAL 31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79102
+#EXTINF:-1,|FR| CANAL 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78461
+#EXTINF:-1,|FR|SD| CANAL 8 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79101
+#EXTINF:-1,|FR| CLIQUE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78460
+#EXTINF:-1,|FR|SD| CLIQUE TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79100
+#EXTINF:-1,|FR| EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78459
+#EXTINF:-1,|FR|SD| EQUIPE 21 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79099
+#EXTINF:-1,|FR| IDF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78458
+#EXTINF:-1,|FR|SD| IDF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79098
+#EXTINF:-1,|FR| OLYMPIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78457
+#EXTINF:-1,|FR|SD| OLYMPIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79097
+#EXTINF:-1,|FR| LEMAN BLEU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78454
+#EXTINF:-1,|FR|SD| LEMAN BLEU 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79096
+#EXTINF:-1,|FR| KTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78456
+#EXTINF:-1,|FR|SD| KTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79095
+#EXTINF:-1,|FR| BOOSTER TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78455
+#EXTINF:-1,|FR|SD| BOOSTER TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79094
+#EXTINF:-1,|FR| CANAL 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78453
+#EXTINF:-1,|FR|SD| CANAL 9 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79093
+#EXTINF:-1,|FR| THE SWIZZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78452
+#EXTINF:-1,|FR|SD| THE SWIZZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79092
+#EXTINF:-1,|FR| OLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78451
+#EXTINF:-1,|FR|SD| OLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79091
+#EXTINF:-1,------------ |FR| CANAL+ HD ----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78450
+#EXTINF:-1,|FR| CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78449
+#EXTINF:-1,|FR|SD| CANAL+ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79089
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78448
+#EXTINF:-1,|FR| CANAL+ SERIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78447
+#EXTINF:-1,|FR|SD| CANAL+ SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79088
+#EXTINF:-1,|FR|SD| CANAL+ SERIES 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79087
+#EXTINF:-1,|FR| CANAL+ FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78446
+#EXTINF:-1,|FR|SD| CANAL+ FAMILY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79086
+#EXTINF:-1,|FR| CANAL+ DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78445
+#EXTINF:-1,|FR|SD| CANAL+ DECALE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79085
+#EXTINF:-1,|FR| CANAL+ CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78444
+#EXTINF:-1,|FR|SD| CANAL+ CINEMA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79084
+#EXTINF:-1,-------------- |FR| CINEMA HD ------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78443
+#EXTINF:-1,|FR|SD| ACTION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79082
+#EXTINF:-1,|FR| ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78442
+#EXTINF:-1,|FR|SD| OCS MAX 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79081
+#EXTINF:-1,|FR| OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78441
+#EXTINF:-1,|FR|SD| OCS CITY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79080
+#EXTINF:-1,|FR| OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78440
+#EXTINF:-1,|FR|SD| OCS GEANTS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79079
+#EXTINF:-1,|FR| OCS GEANTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78439
+#EXTINF:-1,|FR|SD| OCS CHOC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79078
+#EXTINF:-1,|FR| OCS CHOC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78438
+#EXTINF:-1,|FR|SD| CINE+ PREMIER 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79077
+#EXTINF:-1,|FR| CINE+ PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78436
+#EXTINF:-1,|FR|SD| CINE+ FRISSON 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79076
+#EXTINF:-1,|FR| CINE+ FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78435
+#EXTINF:-1,|FR|SD| CINE+ EMOTION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79075
+#EXTINF:-1,|FR| CINE+ EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78434
+#EXTINF:-1,|FR|SD| CINE+ FAMIZ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79074
+#EXTINF:-1,|FR| CINE+ FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78433
+#EXTINF:-1,|FR|SD| CINE+ CLUB 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79073
+#EXTINF:-1,|FR| CINE+ CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78432
+#EXTINF:-1,|FR|SD| CINE+  CLASSIC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79072
+#EXTINF:-1,|FR| CINE+ CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78431
+#EXTINF:-1,|FR|SD| PARAMOUNT DECALE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79071
+#EXTINF:-1,|FR| PARAMOUNT DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78430
+#EXTINF:-1,|FR|SD| PARAMOUNT CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79070
+#EXTINF:-1,|FR| PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78429
+#EXTINF:-1,------------- |FR| PPV HD -------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78300
+#EXTINF:-1,|FR| CANALPLAY 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78299
+#EXTINF:-1,|FR| CANALPLAY 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78298
+#EXTINF:-1,|FR| CANALPLAY 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78297
+#EXTINF:-1,|FR| CANALPLAY 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78296
+#EXTINF:-1,|FR| CANALPLAY 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78295
+#EXTINF:-1,|FR| ORANGE CINEMA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78294
+#EXTINF:-1,|FR| ORANGE CINEMA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78293
+#EXTINF:-1,|FR| ORANGE CINEMA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78292
+#EXTINF:-1,|FR| ORANGE CINEMA 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78291
+#EXTINF:-1,|FR| ORANGE CINEMA 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78290
+#EXTINF:-1,|FR| ORANGE CINEMA AVENTURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78289
+#EXTINF:-1,|FR| ORANGE CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78288
+#EXTINF:-1,|FR| A LA CARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78287
+#EXTINF:-1,|FR| A LA CARTE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78286
+#EXTINF:-1,|FR| A LA CARTE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78285
+#EXTINF:-1,|FR| A LA CARTE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78284
+#EXTINF:-1,----------------- |FR| DIVERTISSEMENT HD ---------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78428
+#EXTINF:-1,|FR| POLAR+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78427
+#EXTINF:-1,|FR|SD| POLAR+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79068
+#EXTINF:-1,|FR| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78426
+#EXTINF:-1,|FR|SD| SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79067
+#EXTINF:-1,|FR| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78425
+#EXTINF:-1,|FR|SD| SERIE CLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79066
+#EXTINF:-1,|FR| 13 EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78424
+#EXTINF:-1,|FR|SD| 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79065
+#EXTINF:-1,|FR|  ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78423
+#EXTINF:-1,|FR|SD| ALTICE STUDIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79064
+#EXTINF:-1,|FR| WARNER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78422
+#EXTINF:-1,|FR|SD| WARNER TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79063
+#EXTINF:-1,|FR| TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78421
+#EXTINF:-1,|FR|SD| TV BREIZH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79062
+#EXTINF:-1,|FR| NRJ 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78420
+#EXTINF:-1,|FR|SD| NRJ 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79061
+#EXTINF:-1,|FR| RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78419
+#EXTINF:-1,|FR|SD| RMC STORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79060
+#EXTINF:-1,|FR| CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78418
+#EXTINF:-1,|FR|SD| CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79059
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78417
+#EXTINF:-1,|FR|SD| PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79058
+#EXTINF:-1,|FR| VICELAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78416
+#EXTINF:-1,|FR|SD| VICELAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79057
+#EXTINF:-1,|FR| E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78415
+#EXTINF:-1,|FR|SD| E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79056
+#EXTINF:-1,|FR| MY CUISINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78414
+#EXTINF:-1,|FR|SD| MY CUISINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79055
+#EXTINF:-1,|FR|SD| J ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79054
+#EXTINF:-1,|FR| J ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78413
+#EXTINF:-1,|FR| GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78412
+#EXTINF:-1,|FR|SD| GAME ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79053
+#EXTINF:-1,|FR| MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78411
+#EXTINF:-1,|FR|SD| MANGAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79052
+#EXTINF:-1,|FR| AB 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78410
+#EXTINF:-1,|FR|SD| AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79051
+#EXTINF:-1,|FR| AB 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78409
+#EXTINF:-1,|FR|SD| AB3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79050
+#EXTINF:-1,|FR| BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78408
+#EXTINF:-1,|FR|SD| BET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79049
+#EXTINF:-1,|FR| TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78407
+#EXTINF:-1,|FR|SD| TV5 MONDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79048
+#EXTINF:-1,|FR| TELECLUB ZOOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78406
+#EXTINF:-1,|FR|SD| TELECLUB ZOOM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79047
+#EXTINF:-1,|FR| A+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78405
+#EXTINF:-1,|FR| NOLLYWOOD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78404
+#EXTINF:-1,-------------- |FR| SPORT HD --------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78403
+#EXTINF:-1,|FR| BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78393
+#EXTINF:-1,|FR|SD| BEIN SPORT 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79044
+#EXTINF:-1,|FR| BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78392
+#EXTINF:-1,|FR|SD| BEIN SPORT 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79043
+#EXTINF:-1,|FR| BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78391
+#EXTINF:-1,|FR|SD| BEIN SPORT 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79042
+#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78390
+#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78389
+#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78388
+#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78387
+#EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78386
+#EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78385
+#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78384
+#EXTINF:-1,|FR| TELEFOOT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78402
+#EXTINF:-1,|FR|SD| TELEFOOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79045
+#EXTINF:-1,|FR| TELEFOOT STADIUM 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78401
+#EXTINF:-1,|FR| TELEFOOT STADIUM 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78400
+#EXTINF:-1,|FR| TELEFOOT STADIUM 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78399
+#EXTINF:-1,|FR| TELEFOOT STADIUM 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78398
+#EXTINF:-1,|FR| TELEFOOT STADIUM 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78397
+#EXTINF:-1,|FR| TELEFOOT STADIUM 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78396
+#EXTINF:-1,|FR| TELEFOOT STADIUM 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78395
+#EXTINF:-1,|FR| TELEFOOT STADIUM 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78394
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78383
+#EXTINF:-1,|FR|SD| EUROSPORT 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79041
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78382
+#EXTINF:-1,|FR|SD| EUROSPORT 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79040
+#EXTINF:-1,|FR| RMC SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78381
+#EXTINF:-1,|FR|SD| RMC SPORT NEWS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79039
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78380
+#EXTINF:-1,|FR|SD| RMC SPORT 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79038
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78379
+#EXTINF:-1,|FR|SD| RMC SPORT 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79037
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78378
+#EXTINF:-1,|FR|SD| RMC SPORT 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79036
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78377
+#EXTINF:-1,|FR|SD| RMC SPORT 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79035
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78376
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79034
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78375
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79033
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78374
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 7 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79032
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78373
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 8 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79031
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78372
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79030
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78371
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79029
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78370
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 11 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79028
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78369
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 12 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79027
+#EXTINF:-1,|FR| RMC SPORT LIVE 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78368
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 13 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79026
+#EXTINF:-1,|FR| RMC SPORT LIVE 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78367
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 14 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79025
+#EXTINF:-1,|FR| RMC SPORT LIVE 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78366
+#EXTINF:-1,|FR|SD| RMC SPORT LIVE 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79024
+#EXTINF:-1,|FR| MULTI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78365
+#EXTINF:-1,|FR|SD| MULTI SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79023
+#EXTINF:-1,|FR| MULTI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78364
+#EXTINF:-1,|FR|SD| MULTI SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79022
+#EXTINF:-1,|FR| MULTI SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78363
+#EXTINF:-1,|FR|SD| MULTIS PORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79021
+#EXTINF:-1,|FR| MULTI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78362
+#EXTINF:-1,|FR|SD| MULTI SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79020
+#EXTINF:-1,|FR| MULTI SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78361
+#EXTINF:-1,|FR|SD| MULTISPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79019
+#EXTINF:-1,|FR| MULTI SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78360
+#EXTINF:-1,|FR|SD| MULTISPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79018
+#EXTINF:-1,|FR| FOOT+ 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78359
+#EXTINF:-1,|FR|SD| FOOT+ 24 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79016
+#EXTINF:-1,|FR| INFOSPORT+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78358
+#EXTINF:-1,|FR|SD| INFO SPORT  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79015
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78357
+#EXTINF:-1,|FR|SD| EQUIDIA LIVE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79014
+#EXTINF:-1,|FR| GOLF+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78356
+#EXTINF:-1,|FR|SD| GOLF+ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79013
+#EXTINF:-1,|FR| MOTORSPORT TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78355
+#EXTINF:-1,|FR|SD| MOTORSPORT TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79012
+#EXTINF:-1,|FR| AUTO MOTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78354
+#EXTINF:-1,|FR|SD| AUTO MOTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79011
+#EXTINF:-1,|FR|SD| GAME ONE  +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79010
+#EXTINF:-1,--------------- |FR| DECOUVERTE HD ---------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78352
+#EXTINF:-1,|FR| TOUTE L HISTOIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78351
+#EXTINF:-1,|FR|SD| TOUTE L'HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79008
+#EXTINF:-1,|FR| PLANETE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78350
+#EXTINF:-1,|FR|SD| PLANETE+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79007
+#EXTINF:-1,|FR| PLANET A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78349
+#EXTINF:-1,|FR|SD| PLANETE  A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79006
+#EXTINF:-1,|FR| PLANETE+ CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78348
+#EXTINF:-1,|FR|SD| PLANETE+ CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79005
+#EXTINF:-1,|FR| DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78347
+#EXTINF:-1,|FR|SD| DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79004
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78346
+#EXTINF:-1,|FR|SD| DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79003
+#EXTINF:-1,|FR| DISCOVERY FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78345
+#EXTINF:-1,|FR|SD| DISCOVERY FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79002
+#EXTINF:-1,|FR| DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78344
+#EXTINF:-1,|FR|SD| DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79001
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78343
+#EXTINF:-1,|FR|SD| DISCOVERY INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/79000
+#EXTINF:-1,|FR| NGC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78342
+#EXTINF:-1,|FR|SD| NGC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78999
+#EXTINF:-1,|FR| NGC WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78341
+#EXTINF:-1,|FR|SD| NGC WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78998
+#EXTINF:-1,|FR| VOYAGES TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78340
+#EXTINF:-1,|FR|SD| VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78997
+#EXTINF:-1,|FR| USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78339
+#EXTINF:-1,|FR|SD| USHUAIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78996
+#EXTINF:-1,|FR| HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78338
+#EXTINF:-1,|FR|SD| HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78995
+#EXTINF:-1,|FR| ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78337
+#EXTINF:-1,|FR|SD| ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78994
+#EXTINF:-1,|FR| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78336
+#EXTINF:-1,|FR|SD| TREK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78993
+#EXTINF:-1,|FR| CHASSE ET PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78335
+#EXTINF:-1,|FR|SD| CHASSE&PECHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78992
+#EXTINF:-1,|FR| SCIENCE ET VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78334
+#EXTINF:-1,|FR|SD| SCIENCE ET VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78991
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78333
+#EXTINF:-1,|FR|SD| RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78990
+#EXTINF:-1,|FR| SEASONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78332
+#EXTINF:-1,|FR|SD| SEASONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78989
+#EXTINF:-1,|FR| GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78331
+#EXTINF:-1,|FR|SD| GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78988
+#EXTINF:-1,|FR| TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78330
+#EXTINF:-1,|FR|SD| TCM CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78987
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78329
+#EXTINF:-1,|FR|SD| CRIME DISTRICT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78986
+#EXTINF:-1,---------------- |FR| INFORMATION HD -----------------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78328
+#EXTINF:-1,|FR| CANAL NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78325
+#EXTINF:-1,|FR|SD| CANAL NEWS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78984
+#EXTINF:-1,|FR| CNEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78327
+#EXTINF:-1,|FR|SD| C NEWS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78983
+#EXTINF:-1,|FR| LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78324
+#EXTINF:-1,|FR|SD| LCI 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78982
+#EXTINF:-1,|FR| FRANCE INFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78323
+#EXTINF:-1,|FR|SD| FRANCE INFO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78981
+#EXTINF:-1,|FR| FRANCE 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78321
+#EXTINF:-1,|FR|SD| FRANCE 24 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78980
+#EXTINF:-1,|FR| EURONEWS (FRENCH)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78322
+#EXTINF:-1,|FR|SD| EURONEWS FRENCH 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78979
+#EXTINF:-1,|FR| LCP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78320
+#EXTINF:-1,|FR|SD| LCP 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78978
+#EXTINF:-1,|FR| BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78326
+#EXTINF:-1,|FR| BFM BUSINESS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78319
+#EXTINF:-1,|FR|SD| BFM BUSINESS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78977
+#EXTINF:-1,|FR| BFM PARIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78318
+#EXTINF:-1,|FR|SD| BFM PARIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78976
+#EXTINF:-1,|FR| I 24 NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78317
+#EXTINF:-1,|FR|SD| I 24 NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78975
+#EXTINF:-1,------------- |FR| MUSIQUE HD -----------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78316
+#EXTINF:-1,|FR| M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78315
+#EXTINF:-1,|FR|SD| M6 MUSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78973
+#EXTINF:-1,|FR| TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78314
+#EXTINF:-1,|FR|SD| TRACE URBAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78972
+#EXTINF:-1,|FR| MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78313
+#EXTINF:-1,|FR|SD| MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78971
+#EXTINF:-1,|FR| MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78312
+#EXTINF:-1,|FR|SD| MCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78970
+#EXTINF:-1,|FR| MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78311
+#EXTINF:-1,|FR|SD| MCM TOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78969
+#EXTINF:-1,|FR| MELODY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78310
+#EXTINF:-1,|FR|SD| MELODY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78968
+#EXTINF:-1,|FR| LFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78309
+#EXTINF:-1,|FR|SD| LFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78967
+#EXTINF:-1,|FR| NRJ HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78308
+#EXTINF:-1,|FR|SD| NRJ HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78966
+#EXTINF:-1,|FR| RFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78307
+#EXTINF:-1,|FR|SD| RFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78965
+#EXTINF:-1,|FR| MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78306
+#EXTINF:-1,|FR|SD| MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78964
+#EXTINF:-1,|FR| MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78305
+#EXTINF:-1,|FR|SD| MTV LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78963
+#EXTINF:-1,|FR| MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78304
+#EXTINF:-1,|FR|SD| MTV HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78962
+#EXTINF:-1,|FR| TVM 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78303
+#EXTINF:-1,|FR|SD| TVM3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78961
+#EXTINF:-1,|FR| C STAR HIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78302
+#EXTINF:-1,|FR|SD| C STAR HIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78960
+#EXTINF:-1,|FR| C STAR HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78301
+#EXTINF:-1,|FR|SD| C STAR HITS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.64.167:80/7654321/1234567/78959
