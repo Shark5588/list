@@ -59,14 +59,14 @@ https://bein-plutolive-vo.akamaized.net/m/hlslive/bein.m3u8?chname=bein&pub=cd44
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/119.png",[COLOR orange][B]Bein Sports 1 | FR[/B][/COLOR]
 http://dx3.gcdn.co/BEINSPORTS1FR/index.m3u8
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/119.png",[COLOR orange][B]Bein Sports 1 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/38816
+EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/119.png",[COLOR orange][B]Bein Sports 1 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/120.png",[COLOR orange][B]Bein Sports 2 | FR[/B][/COLOR]
 http://dx3.gcdn.co/BEINSPORTS2FR/index.m3u8 
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/120.png",[COLOR orange][B]Bein Sports 2 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/38817
-#EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",[COLOR orange][B]Bein Sports 3 | FR[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/113
+EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/120.png",[COLOR orange][B]Bein Sports 2 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",[COLOR orange][B]Bein Sports 3 | FR[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bek Sports Bek Sports Bek Sports Bek Sports Bek Sports <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -1111,7 +1111,7 @@ EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UF
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass | AO ViVo[/B][/COLOR]
 https://ul.cdn946.net:8443/hls/jg3eg8t.m3u8?s=8YJ8jF-qSkETbhJR3NANaA&e=1606639106|Referer=https://wstream.to/embed/jg3eg8t|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
 
 
