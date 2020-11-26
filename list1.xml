@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
- #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 11/22/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 11/27/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,1280 +17,689 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 #EXTM3U
-#EXTINF:-1,==== FRANCE HD ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1
-#EXTINF:-1,FR:TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/23
-#EXTINF:-1,FR:M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/24
-#EXTINF:-1,FR:France2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/25
-#EXTINF:-1,FR:France3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/26
-#EXTINF:-1,FR:France4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/27
-#EXTINF:-1,FR:France5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/28
-#EXTINF:-1,FR:FranceQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/29
-#EXTINF:-1,FR:TF1.S.F
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/37
-#EXTINF:-1,FR:6Ter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/30
-#EXTINF:-1,FR:TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/31
-#EXTINF:-1,FR:W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/38
-#EXTINF:-1,FR:TFX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/32
-#EXTINF:-1,FR:NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/35
-#EXTINF:-1,FR:C8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/33
-#EXTINF:-1,FR:Cstar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/34
-#EXTINF:-1,FR:Cherie25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/36
-#EXTINF:-1,FR:Rmc.Story
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/95
-#EXTINF:-1,FR:Trek
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/817
-#EXTINF:-1,FR:Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/41
-#EXTINF:-1,FR:AB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/374
-#EXTINF:-1,FR:AB3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/826
-#EXTINF:-1,FR:Paris.Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/375
-#EXTINF:-1,FR:Teva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/42
-#EXTINF:-1,FR:13eme.Rue
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/39
-#EXTINF:-1,FR:Serieclub
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/40
-#EXTINF:-1,FR:TVBreizh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/377
-#EXTINF:-1,FR:Comedie+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/372
-#EXTINF:-1,FR:RTL9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/22
-#EXTINF:-1,FR:Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/21
-#EXTINF:-1,FR:Canal+Decale
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3
-#EXTINF:-1,FR:Canal+Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5
-#EXTINF:-1,FR:Canal+Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4
-#EXTINF:-1,FR:Canal+Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/6
-#EXTINF:-1,FR:Canal+Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/7
-#EXTINF:-1,FR:Cine+Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/8
-#EXTINF:-1,FR:Cine+Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/9
-#EXTINF:-1,FR:Cine+Famiz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/10
-#EXTINF:-1,FR:Cine+Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/12
-#EXTINF:-1,FR:Cine+Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/13
-#EXTINF:-1,FR:OCS.Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/14
-#EXTINF:-1,FR:OCS.Choc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/15
-#EXTINF:-1,FR:OCS.Geants
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/16
-#EXTINF:-1,FR:OCS.City
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/17
-#EXTINF:-1,FR:Paramount.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/376
-#EXTINF:-1,FR:TCM.Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/931
-#EXTINF:-1,FR:BET.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1196
-#EXTINF:-1,FR:!.Entertaiment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1197
-#EXTINF:-1,FR:Ushuaïa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/43
-#EXTINF:-1,FR:Nat.Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/44
-#EXTINF:-1,FR:Nat.Geo.Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/45
-#EXTINF:-1,FR:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/46
-#EXTINF:-1,FR:Discovery.Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/47
-#EXTINF:-1,FR:Planet+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/48
-#EXTINF:-1,FR:Planet.Ci
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/50
-#EXTINF:-1,FR:Planet.A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/49
-#EXTINF:-1,FR:Crime.District
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1193
-#EXTINF:-1,FR:Rmc.Decouverte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/55
-#EXTINF:-1,FR:Animaux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/51
-#EXTINF:-1,FR:Voyage
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/52
-#EXTINF:-1,FR:Science&Vie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/53
-#EXTINF:-1,FR:Chasse.et.Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/54
-#EXTINF:-1,FR:Seasons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/822
-#EXTINF:-1,FR:Histoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1194
-#EXTINF:-1,FR:Toute.L.Histoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/56
-#EXTINF:-1,FR:MB.Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/18
-#EXTINF:-1,FR:J.One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/829
-#EXTINF:-1,FR:Game.One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/832
-#EXTINF:-1,FR:Toonami
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/993
-#EXTINF:-1,FR:Mangas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/73
-#EXTINF:-1,FR:Disney.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/64
-#EXTINF:-1,FR:Disney.Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/67
-#EXTINF:-1,FR:Disney.Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/65
-#EXTINF:-1,FR:Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/825
-#EXTINF:-1,FR:Nickelodeon4Teen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1200
-#EXTINF:-1,FR:Cartoon.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/69
-#EXTINF:-1,FR:Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/72
-#EXTINF:-1,FR:Teletoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/78
-#EXTINF:-1,FR:Gulli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/74
-#EXTINF:-1,FR:Piwi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/75
-#EXTINF:-1,FR:CanalJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/77
-#EXTINF:-1,FR:Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/76
-#EXTINF:-1,FR:VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/827
-#EXTINF:-1,FR:MCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1143
-#EXTINF:-1,FR:MCM.TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3481
-#EXTINF:-1,FR:NRJ.Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1138
-#EXTINF:-1,FR:MTV.Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/830
-#EXTINF:-1,FR:MTV.Dance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/831
-#EXTINF:-1,FR:MTV.Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/828
-#EXTINF:-1,FR:ARTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/57
-#EXTINF:-1,FR:TV5.monde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/58
-#EXTINF:-1,FR:France24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/60
-#EXTINF:-1,FR:Euronews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/61
-#EXTINF:-1,FR:C.News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/59
-#EXTINF:-1,FR:BFM.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/62
-#EXTINF:-1,FR:BFM.Business
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/63
-#EXTINF:-1,FR:Equidia.Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1195
-#EXTINF:-1,FR:L'Equipe21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/94
-#EXTINF:-1,FR:Infosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/92
-#EXTINF:-1,FR:Foot24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/93
-#EXTINF:-1,FR:Eurosport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/90
-#EXTINF:-1,FR:Eurosport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/91
-#EXTINF:-1,FR:RMC.Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/173
-#EXTINF:-1,FR:RMC.Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/171
-#EXTINF:-1,FR:RMC.Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1139
-#EXTINF:-1,FR:RMC.Sport4.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1383
-#EXTINF:-1,FR:beINSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/82
-#EXTINF:-1,FR:beINSport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/83
-#EXTINF:-1,FR:beINSport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/84
-#EXTINF:-1,FR:BeinSport.Max4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/85
-#EXTINF:-1,FR:BeinSport.Max5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/86
-#EXTINF:-1,FR:BeinSport.Max6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/87
-#EXTINF:-1,FR:BeinSport.Max7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/88
-#EXTINF:-1,FR:BeinSport.Max8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/89
-#EXTINF:-1,FR:Canalplay1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/96
-#EXTINF:-1,FR:Canalplay2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/97
-#EXTINF:-1,FR:Canalplay3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/98
-#EXTINF:-1,FR:Canalplay4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/99
-#EXTINF:-1,FR:Canalplay5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/100
-#EXTINF:-1,FR:Canalplay6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/101
-#EXTINF:-1,FR:Canalplay7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/102
-#EXTINF:-1,FR:Canalplay8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/103
-#EXTINF:-1,FR:Canalplay9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/104
-#EXTINF:-1,FR:Canalplay10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/105
-#EXTINF:-1,FR:Box.Office1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/921
-#EXTINF:-1,FR:Box.Office2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/922
-#EXTINF:-1,FR:Box.Office3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/923
-#EXTINF:-1,FR:Box.Office4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/924
-#EXTINF:-1,FR:Box.Office5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/925
-#EXTINF:-1,FR:Box.Office6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/926
-#EXTINF:-1,FR:Box.Office7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/927
-#EXTINF:-1,FR:Box.Office8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/928
-#EXTINF:-1,FR:Box.Office9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/929
-#EXTINF:-1,FR:Box.Office10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/930
-#EXTINF:-1,==== BELGIQUE & SUISSE ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/439
-#EXTINF:-1,SUI:Teleclub.Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1220
-#EXTINF:-1,SUI:Teleclub.Star
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1222
-#EXTINF:-1,SUI:Teleclub.Prime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1221
-#EXTINF:-1,BE:2BE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1204
-#EXTINF:-1,BE:TV.L
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1201
-#EXTINF:-1,BE:Canvas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1206
-#EXTINF:-1,BE:TVO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1217
-#EXTINF:-1,BE:KETNET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1215
-#EXTINF:-1,BE:KADET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1216
-#EXTINF:-1,BE:EEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1203
-#EXTINF:-1,BE:Vier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1202
-#EXTINF:-1,BE:Vijf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1218
-#EXTINF:-1,BE:Vitaya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1219
-#EXTINF:-1,BE:VTM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1205
-#EXTINF:-1,BE:Bx1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1212
-#EXTINF:-1,==== GERMANY ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/501
-#EXTINF:-1,DE:Das.Erste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/775
-#EXTINF:-1,DE:ZDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/768
-#EXTINF:-1,DE:ZDF.Info
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3471
-#EXTINF:-1,DE:ZDF.NEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3470
-#EXTINF:-1,DE:SAT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/769
-#EXTINF:-1,DE:SAT.1.Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3439
-#EXTINF:-1,DE:Pro7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/770
-#EXTINF:-1,DE:Pro7.Maxx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3442
-#EXTINF:-1,DE:VOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3472
-#EXTINF:-1,DE:Kabel1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/773
-#EXTINF:-1,DE:Kabel1.Classics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3457
-#EXTINF:-1,DE:3Sat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3467
-#EXTINF:-1,DE:ORF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/767
-#EXTINF:-1,DE:ORF2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/766
-#EXTINF:-1,DE:Zee.One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3469
-#EXTINF:-1,DE:A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3466
-#EXTINF:-1,DE:Anixe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3465
-#EXTINF:-1,DE:Sixx
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3437
-#EXTINF:-1,DE:Kino.welt.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3450
-#EXTINF:-1,DE:N.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3447
-#EXTINF:-1,DE:N24.Doku
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3446
-#EXTINF:-1,DE:Sport.Digital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3443
-#EXTINF:-1,DE:Tagesschau24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3434
-#EXTINF:-1,DE:Spiegel.Geschichte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3436
-#EXTINF:-1,DE:Euronews.German
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3456
-#EXTINF:-1,DE:WDR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3453
-#EXTINF:-1,DE:PRO7.FUN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3462
-#EXTINF:-1,DE:Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3426
-#EXTINF:-1,DE:KiKA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3425
-#EXTINF:-1,DE:RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/781
-#EXTINF:-1,DE:RTL2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/776
-#EXTINF:-1,DE:RTL.Nitro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/818
-#EXTINF:-1,DE:RTL.Passion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/840
-#EXTINF:-1,DE:RTL.Living
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/838
-#EXTINF:-1,DE:RTL.Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/839
-#EXTINF:-1,DE:SONY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3440
-#EXTINF:-1,DE:Super.RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/771
-#EXTINF:-1,DE:Nitro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3444
-#EXTINF:-1,DE:SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/503
-#EXTINF:-1,DE:AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/513
-#EXTINF:-1,DE:Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/511
-#EXTINF:-1,DE:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3433
-#EXTINF:-1,DE:Classica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3461
-#EXTINF:-1,DE:Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3473
-#EXTINF:-1,DE:Heimatkanal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3464
-#EXTINF:-1,DE:TNT.Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/665
-#EXTINF:-1,DE:TNT.Filme
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/841
-#EXTINF:-1,DE:TNT.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3432
-#EXTINF:-1,DE:13th.Street
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/502
-#EXTINF:-1,DE:Romance.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3441
-#EXTINF:-1,DE:Comedy.Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3460
-#EXTINF:-1,DE:SKY1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3468
-#EXTINF:-1,DE:SKY.Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/518
-#EXTINF:-1,DE:SKY.Cinema.1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3431
-#EXTINF:-1,DE:SKY.Cinema.24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/517
-#EXTINF:-1,DE:Sky.Cinema.Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/516
-#EXTINF:-1,DE:SKY.Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/521
-#EXTINF:-1,DE:SKY.Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/520
-#EXTINF:-1,DE:SKY.Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/523
-#EXTINF:-1,DE:SKY.Nostalgie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/507
-#EXTINF:-1,DE:SKY.Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/512
-#EXTINF:-1,DE:SKY.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/515
-#EXTINF:-1,DE:SKY.Krimi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/510
-#EXTINF:-1,DE:Arts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3452
-#EXTINF:-1,DE:NatGeo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/509
-#EXTINF:-1,DE:NatGeo.Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/514
-#EXTINF:-1,DE:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/508
-#EXTINF:-1,DE:Dmax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/754
-#EXTINF:-1,DE:History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3451
-#EXTINF:-1,DE:Disney.Cinemagic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/837
-#EXTINF:-1,DE:Disney.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3430
-#EXTINF:-1,DE:Disney.Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3428
-#EXTINF:-1,DE:Disney.XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3427
-#EXTINF:-1,DE:Cartoon.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3429
-#EXTINF:-1,DE:Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3463
-#EXTINF:-1,DE:Nicklodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3445
-#EXTINF:-1,DE:TOGGO.plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3438
-#EXTINF:-1,DE:E.Entertainm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3458
-#EXTINF:-1,DE:MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3448
-#EXTINF:-1,DE:Deluxe.Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3459
-#EXTINF:-1,DE:Motorvision.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3449
-#EXTINF:-1,DE:Eurosport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3455
-#EXTINF:-1,DE:Eurosport.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3454
-#EXTINF:-1,DE:SKY.Sport.News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/504
-#EXTINF:-1,DE:SkySport.Austria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/764
-#EXTINF:-1,DE:SkySport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/506
-#EXTINF:-1,DE:SkySport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/505
-#EXTINF:-1,DE:DAZN1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3415
-#EXTINF:-1,DE:DAZN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3406
-#EXTINF:-1,DE:Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/3435
-#EXTINF:-1,DE:Sky.Bundesliga1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/519
-#EXTINF:-1,DE:SkySelect1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/752
-#EXTINF:-1,DE:SkySelect2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/846
-#EXTINF:-1,DE:SkySelect3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/847
-#EXTINF:-1,DE:Sky.Select4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/848
-#EXTINF:-1,DE:Sky.Select5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/849
-#EXTINF:-1,DE:SkySelect6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/850
-#EXTINF:-1,DE:SkySelect7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/851
-#EXTINF:-1,DE:Sky.Select8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/852
-#EXTINF:-1,DE:SkySelect9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/853
-#EXTINF:-1,DE:Sky.Select10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/854
-#EXTINF:-1,==== SPAIN ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/499
-#EXTINF:-1,ES:La1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/483
-#EXTINF:-1,ES:La2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/484
-#EXTINF:-1,ES:Antena3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1062
-#EXTINF:-1,ES:Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/485
-#EXTINF:-1,ES:Tele.Cinco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4585
-#EXTINF:-1,ES:La.Sextra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/486
-#EXTINF:-1,ES:Andalucia.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4617
-#EXTINF:-1,ES:Canal.Sur.Andalucia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5479
-#EXTINF:-1,ES:Clan.TVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4610
-#EXTINF:-1,ES:Aragon.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5478
-#EXTINF:-1,ES:24Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5501
-#EXTINF:-1,ES:Cosmo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4608
-#EXTINF:-1,ES:Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4602
-#EXTINF:-1,ES:FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4601
-#EXTINF:-1,ES:Mega
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4593
-#EXTINF:-1,ES:NEOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4591
-#EXTINF:-1,ES:Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4589
-#EXTINF:-1,ES:TV.Galicia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4584
-#EXTINF:-1,ES:Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4583
-#EXTINF:-1,ES:AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/465
-#EXTINF:-1,ES:AXN.White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4616
-#EXTINF:-1,ES:TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/461
-#EXTINF:-1,ES:Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/468
-#EXTINF:-1,ES:Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/463
-#EXTINF:-1,ES:FOX.Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4600
-#EXTINF:-1,ES:Dkiss
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5481
-#EXTINF:-1,ES:Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5480
-#EXTINF:-1,ES:Calle13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/467
-#EXTINF:-1,ES:AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1066
-#EXTINF:-1,ES:A3Serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5482
-#EXTINF:-1,ES:Comedy.Centra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4609
-#EXTINF:-1,ES:Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/462
-#EXTINF:-1,ES:Paramount.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4587
-#EXTINF:-1,ES:Movistar.Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5487
-#EXTINF:-1,ES:TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1065
-#EXTINF:-1,ES:Sundance.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5489
-#EXTINF:-1,ES:#0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/479
-#EXTINF:-1,ES:M.Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/449
-#EXTINF:-1,ES:M.Series.Mania
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/448
-#EXTINF:-1,ES:M.Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/452
-#EXTINF:-1,ES:M.Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/450
-#EXTINF:-1,ES:M.Comidia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/451
-#EXTINF:-1,ES:M.Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/454
-#EXTINF:-1,ES:M.CineDoc.Roll
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5476
-#EXTINF:-1,ES:M.Cine.N
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/453
-#EXTINF:-1,ES:M.Futbol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/458
-#EXTINF:-1,ES:M.F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4597
-#EXTINF:-1,ES:M.MotoGp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4594
-#EXTINF:-1,ES:M.Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4595
-#EXTINF:-1,ES:M.Deportes1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/457
-#EXTINF:-1,ES:VAMOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1061
-#EXTINF:-1,ES:La.Liga.Bar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4614
-#EXTINF:-1,ES:beIN.La.Liga1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/477
-#EXTINF:-1,ES:LaLiga1.2.3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/456
-#EXTINF:-1,ES:Vamos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5504
-#EXTINF:-1,ES:Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/459
-#EXTINF:-1,ES:Eurosport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5509
-#EXTINF:-1,ES:Eurosport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5508
-#EXTINF:-1,ES:Barca.Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/176
-#EXTINF:-1,ES:Real.Madrid
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/174
-#EXTINF:-1,ES:M.Liga.de.Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4598
-#EXTINF:-1,ES:Tele.Deporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1063
-#EXTINF:-1,ES:Canal.Gol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4612
-#EXTINF:-1,ES:Nat.Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/470
-#EXTINF:-1,ES:Nat.Geo.Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1064
-#EXTINF:-1,ES:Casa.Y.Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/482
-#EXTINF:-1,ES:Crimen.e.Investigacion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4607
-#EXTINF:-1,ES:Discovery.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4606
-#EXTINF:-1,ES:Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4599
-#EXTINF:-1,ES:Blaze
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5496
-#EXTINF:-1,ES:Dmax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4618
-#EXTINF:-1,ES:Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4588
-#EXTINF:-1,ES:Iberalia.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5497
-#EXTINF:-1,ES:Canal.Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4613
-#EXTINF:-1,ES:Canal.Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5499
-#EXTINF:-1,ES:Be.Mad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5500
-#EXTINF:-1,ES:Nick.Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5492
-#EXTINF:-1,ES:Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5493
-#EXTINF:-1,ES:Disney.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4605
-#EXTINF:-1,ES:Disney.JR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4604
-#EXTINF:-1,ES:Disney.XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4603
-#EXTINF:-1,ES:BABY.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4615
-#EXTINF:-1,ES:Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5491
-#EXTINF:-1,ES:Canal.Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4611
-#EXTINF:-1,ES:MTV.Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4592
-#EXTINF:-1,ES:Hit.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5498
-#EXTINF:-1,ES:MC.Play
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5488
-#EXTINF:-1,ES:Alquiler1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/491
-#EXTINF:-1,ES:Alquiler2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/492
-#EXTINF:-1,ES:Alquiler3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/493
-#EXTINF:-1,ES:Alquiler4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/494
-#EXTINF:-1,ES:Alquiler5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/495
-#EXTINF:-1,ES:Alquiler6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/496
-#EXTINF:-1,ES:Alquiler7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/497
-#EXTINF:-1,ES:Alquiler8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/498
-#EXTINF:-1,==== PORTUGAL ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/843
-#EXTINF:-1,PT:TV.Globo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5396
-#EXTINF:-1,PT:TV.Globo.Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5397
-#EXTINF:-1,PT:TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5393
-#EXTINF:-1,PT:TVI.24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5395
-#EXTINF:-1,PT:TVI.Ficcao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5394
-#EXTINF:-1,PT:RTP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/678
-#EXTINF:-1,PT:RTP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/685
-#EXTINF:-1,PT:RTP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/686
-#EXTINF:-1,PT:RTP.Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/688
-#EXTINF:-1,PT:RTP.Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/687
-#EXTINF:-1,PT:SIC.Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/677
-#EXTINF:-1,PT:SIC.Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/676
-#EXTINF:-1,PT:SIC.Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/668
-#EXTINF:-1,PT:SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/666
-#EXTINF:-1,PT:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5378
-#EXTINF:-1,PT:AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/673
-#EXTINF:-1,PT:SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/670
-#EXTINF:-1,PT:AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5377
-#EXTINF:-1,PT:AXN.White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/675
-#EXTINF:-1,PT:AXN.Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/674
-#EXTINF:-1,PT:FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/682
-#EXTINF:-1,PT: FOX.Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/683
-#EXTINF:-1,PT:FOX.Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/684
-#EXTINF:-1,PT:FOX.Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/681
-#EXTINF:-1,PT:FOX.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/680
-#EXTINF:-1,PT:Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/679
-#EXTINF:-1,PT:Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/669
-#EXTINF:-1,PT:TVSeries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/694
-#EXTINF:-1,PT:TVCine.Top
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/695
-#EXTINF:-1,PT:TVCine.Edition 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/696
-#EXTINF:-1,PT:TVCine.Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/697
-#EXTINF:-1,PT:TVCine.Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/698
-#EXTINF:-1,PT:Benfica.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/4855
-#EXTINF:-1,PT:Sporting.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/693
-#EXTINF:-1,PT:Sport.TV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1060
-#EXTINF:-1,PT:Sport.TV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/689
-#EXTINF:-1,PT:Sport.TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/690
-#EXTINF:-1,PT:Sport.TV4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/691
-#EXTINF:-1,PT:Sport.TV5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/692
-#EXTINF:-1,PT:Eleven.Sports1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5374
-#EXTINF:-1,PT:Eleven.Sports2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5375
-#EXTINF:-1,PT:Eleven.Sports3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5376
-#EXTINF:-1,PT:EuroSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5381
-#EXTINF:-1,PT:EuroSport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5382
-#EXTINF:-1,PT:Kombat.Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5392
-#EXTINF:-1,PT:Porto.Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5391
-#EXTINF:-1,PT:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/672
-#EXTINF:-1,PT:Crime.Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/671
-#EXTINF:-1,PT:National.Geogrphic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5383
-#EXTINF:-1,PT:Nat.Geo.Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5385
-#EXTINF:-1,PT:Travel.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5390
-#EXTINF:-1,PT:Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5379
-#EXTINF:-1,PT:24.Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5389
-#EXTINF:-1,PT:Caca.Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5380
-#EXTINF:-1,PT:Cacavision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5384
-#EXTINF:-1,PT:Disney.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5371
-#EXTINF:-1,PT:Disney.Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5372
-#EXTINF:-1,PT:Cartoon.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5370
-#EXTINF:-1,PT:Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5388
-#EXTINF:-1,PT:Canal.Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5369
-#EXTINF:-1,PT: SIC Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5387
-#EXTINF:-1,PT:Jim.Jam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5386
-#EXTINF:-1,PT:BABY.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/5373
-#EXTINF:-1,==== UK  ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/524
-#EXTINF:-1,UK:BBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/550
-#EXTINF:-1,UK:BBC2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/551
-#EXTINF:-1,UK:BBC3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/552
-#EXTINF:-1,UK:BBC4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/481
-#EXTINF:-1,UK: ITV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/382
-#EXTINF:-1,UK: ITV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/366
-#EXTINF:-1,UK: ITV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/364
-#EXTINF:-1,UK: ITV4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/367
-#EXTINF:-1,UK:CBS.justice
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/556
-#EXTINF:-1,UK:CBS.Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/555
-#EXTINF:-1,UK:CBS.Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/554
-#EXTINF:-1,UK:Sky.One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/557
-#EXTINF:-1,UK:Sky.Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/370
-#EXTINF:-1,UK:UK.Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/159
-#EXTINF:-1,UK:True.Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/162
-#EXTINF:-1,UK:True.Movies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/163
-#EXTINF:-1,UK:Movie.4.Men
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/164
-#EXTINF:-1,UK:Horror.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/160
-#EXTINF:-1,UK:Film4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/161
-#EXTINF:-1,UK:5.Star
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1283
-#EXTINF:-1,UK:Channel4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/455
-#EXTINF:-1,UK:Channel5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/158
-#EXTINF:-1,UK:Sky.Cinema.Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/541
-#EXTINF:-1,UK:Sky.Cinema.Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/546
-#EXTINF:-1,UK:Sky.Cinema.Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/537
-#EXTINF:-1,UK:Sky.Cinema.Scifi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/540
-#EXTINF:-1,UK:Sky.Cinema.Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/539
-#EXTINF:-1,UK:Sky.Movies.Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/545
-#EXTINF:-1,UK:Sky.Cinema.Great
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/542
-#EXTINF:-1,UK:Sky.Cinema.Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/538
-#EXTINF:-1,UK:Sky.Cinema.Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/547
-#EXTINF:-1,UK:Sky.Cinema.Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/548
-#EXTINF:-1,UK:Sky.Movies.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/544
-#EXTINF:-1,UK:Sky.Cinema.Disney
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/543
-#EXTINF:-1,UK:National.Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/549
-#EXTINF:-1,UK:Discovery.Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/480
-#EXTINF:-1,UK:Discovery.Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/471
-#EXTINF:-1,UK:Discovery.Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/709
-#EXTINF:-1,UK:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/165
-#EXTINF:-1,UK:Animal.Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/708
-#EXTINF:-1,UK:MTV.Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/705
-#EXTINF:-1,UK:MTV.Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/704
-#EXTINF:-1,UK:MTV.Dance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/703
-#EXTINF:-1,UK:Box.Nation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1324
-#EXTINF:-1,UK:Manutd .TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/707
-#EXTINF:-1,UK:Liverpool.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/706
-#EXTINF:-1,UK:Sky.Sports.News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/534
-#EXTINF:-1,UK:SkySport.Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/525
-#EXTINF:-1,UK:SkySport.Football
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/526
-#EXTINF:-1,UK:SkySport.Premiere.League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/527
-#EXTINF:-1,UK:SkySport.Arena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/528
-#EXTINF:-1,UK:SkySport.Cricket
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/529
-#EXTINF:-1,UK:Sky.Sports.Mix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/532
-#EXTINF:-1,UK:Sky.Sports.F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/533
-#EXTINF:-1,UK:BT.Sports.Espn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/553
-#EXTINF:-1,UK:BT.Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/530
-#EXTINF:-1,UK:BT.Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/531
-#EXTINF:-1,UK:BTSport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1284
-#EXTINF:-1,UK:Eir.Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/535
-#EXTINF:-1,UK:Eir.Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/536
-#EXTINF:-1,==== NETHERLAND ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/588
-#EXTINF:-1,NL:Rtl4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/578
-#EXTINF:-1,NL:Rtl5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/566
-#EXTINF:-1,NL:Rtl7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/577
-#EXTINF:-1,NL:Rtl8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/576
-#EXTINF:-1,NL:Npo1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/581
-#EXTINF:-1,NL:Npo2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/580
-#EXTINF:-1,NL:Npo3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/579
-#EXTINF:-1,NL:Net5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/582
-#EXTINF:-1,NL:Sbs6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/568
-#EXTINF:-1,NL:Sbs9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/567
-#EXTINF:-1,NL:RTL.Z
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/571
-#EXTINF:-1,NL:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/570
-#EXTINF:-1,NL:Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/569
-#EXTINF:-1,NL:Film1.Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/574
-#EXTINF:-1,NL:Film1.Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/575
-#EXTINF:-1,NL:Film1.Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/572
-#EXTINF:-1,NL:Film1.Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/573
-#EXTINF:-1,NL:Cartoon.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1175
-#EXTINF:-1,NL:Comedy.central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1171
-#EXTINF:-1,NL:Comedy.Central.extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1172
-#EXTINF:-1,NL:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1167
-#EXTINF:-1,NL:Discovery.ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1166
-#EXTINF:-1,NL:Disney.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1176
-#EXTINF:-1,NL:24.Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/146
-#EXTINF:-1,NL:FoxSport6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/702
-#EXTINF:-1,NL:History.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1169
-#EXTINF:-1,NL:Crime&Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1168
-#EXTINF:-1,NL:Nat.Geo.Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1170
-#EXTINF:-1,NL:National.Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1165
-#EXTINF:-1,NL:Nickelodeon.toons
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1174
-#EXTINF:-1,NL:Veronica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1173
-#EXTINF:-1,NL:Ziggo Sport.Voetba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/932
-#EXTINF:-1,NL:Ziggo.Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1164
-#EXTINF:-1,NL:Ziggo.Sport.Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/863
-#EXTINF:-1,NL:Ziggo.Sport.Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/864
-#EXTINF:-1,NL:Ziggo.Sport.Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/865
-#EXTINF:-1,NL:FoxSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/587
-#EXTINF:-1,NL:FoxSport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/586
-#EXTINF:-1,NL:FoxSport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/585
-#EXTINF:-1,NL:FoxSport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/584
-#EXTINF:-1,NL:FoxSport5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/583
-
-#EXTINF:-1,==== USA  ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/842
-#EXTINF:-1,USA:BeinSports.usa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/890
-#EXTINF:-1,USA:NBC.Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/872
-#EXTINF:-1,USA:Eleven.Sports-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/873
-#EXTINF:-1,USA:NBC.Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/874
-#EXTINF:-1,USA:Fight.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/875
-#EXTINF:-1,USA:Fox.Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/870
-#EXTINF:-1,USA:Fox.Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/871
-#EXTINF:-1,USA:ESPN1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/868
-#EXTINF:-1,USA:ESPN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/876
-#EXTINF:-1,USA:TSN1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/664
-#EXTINF:-1,USA:TSN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/663
-#EXTINF:-1,USA:TSN3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/662
-#EXTINF:-1,USA:TSN4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/661
-#EXTINF:-1,USA:TSN5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/192
-#EXTINF:-1,USA:WWE.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/882
-#EXTINF:-1,USA:USA.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/883
-#EXTINF:-1,USA:Showtime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/867
-#EXTINF:-1,USA:Showtime2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/866
-#EXTINF:-1,USA:HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/879
-#EXTINF:-1,USA:HBO2.Zone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/880
-#EXTINF:-1,USA:HBO.Sinature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/881
-#EXTINF:-1,USA:HBO.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/885
-#EXTINF:-1,USA:Starz.Encore
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/886
-#EXTINF:-1,USA:Starz.Starz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/887
-#EXTINF:-1,USA:Starz.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/888
-#EXTINF:-1,USA:Starz..Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/889
-#EXTINF:-1,USA:Cinemax.Moremax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/892
-#EXTINF:-1,USA:Cinemax.East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/891
-#EXTINF:-1,USA:Hallmark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/1198
-#EXTINF:-1,USA:AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/869
-#EXTINF:-1,USA:TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/884
-#EXTINF:-1,USA:Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/878
-#EXTINF:-1,USA:Bravo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/877
-#EXTINF:-1,USA:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/895
-#EXTINF:-1,USA:Discovery.Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/894
-#EXTINF:-1,USA:Animal.Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/893
-#EXTINF:-1,IT:Sky.Sport.Serie.A 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/184
-#EXTINF:-1,IT:DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/197
-#EXTINF:-1,IT:Premium.Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/185
-#EXTINF:-1,IT:Mediaset.20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/186
-#EXTINF:-1,IT:IRIS.Mediaset
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/187
-#EXTINF:-1,IT:Premium.Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/188
-#EXTINF:-1,IT:Top.Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/189
-#EXTINF:-1,IT:Premium.Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/190
-#EXTINF:-1,IT:Premium.Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/195
-#EXTINF:-1,IT:Premium.Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/196
-#EXTINF:-1,IT:Premium.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/191
-#EXTINF:-1,IT:Premium.Stories
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/193
-#EXTINF:-1,IT:Cielo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/194
-#EXTINF:-1,IT:Inter.Milan.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/202
-#EXTINF:-1,IT:AC.Milan.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/203
-#EXTINF:-1,IT:Roma.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/204
-#EXTINF:-1,IT:Disney.Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/198
-#EXTINF:-1,IT:Disney.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/199
-#EXTINF:-1,IT:Discovery.Sci
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/200
-#EXTINF:-1,IT:Cartoon.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/201
-#EXTINF:-1,IT:Videolina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/205
-#EXTINF:-1,IT:sardegna.uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/206
-#EXTINF:-1,IT:Mediaset.Italia2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/207
-#EXTINF:-1,==== ITALY ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/106
-#EXTINF:-1,IT:Rai1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/107
-#EXTINF:-1,IT:Rai2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/108
-#EXTINF:-1,IT:Rai3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/109
-#EXTINF:-1,IT:Rai4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/110
-#EXTINF:-1,IT:Rai5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/111
-#EXTINF:-1,IT:Rai.yoyo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/112
-#EXTINF:-1,IT:Rai.Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/115
-#EXTINF:-1,IT:Rai.Movie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/114
-#EXTINF:-1,IT:Rai.Gulp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/113
-#EXTINF:-1,IT:RaiSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/166
-#EXTINF:-1,IT:RSI.La1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/116
-#EXTINF:-1,IT:RSI.La2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/117
-#EXTINF:-1,IT:Mediaset.Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/183
-#EXTINF:-1,IT:Italia1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/118
-#EXTINF:-1,IT:Canale5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/119
-#EXTINF:-1,IT:La5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/120
-#EXTINF:-1,IT:La7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/121
-#EXTINF:-1,IT:Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/139
-#EXTINF:-1,IT:Fox.Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/140
-#EXTINF:-1,IT:Fox.Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/141
-#EXTINF:-1,IT:Comedy.Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/142
-#EXTINF:-1,IT:Sky.Uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/145
-#EXTINF:-1,IT:Sky.Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/144
-#EXTINF:-1,IT:Sky.Cinema.Uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/123
-#EXTINF:-1,IT:Sky.Cinema.Uno24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/125
-#EXTINF:-1,IT:Sky.Cinema.Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/128
-#EXTINF:-1,IT:Sky.Cinema.Collection
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/126
-#EXTINF:-1,IT:Sky.Cinema.Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/133
-#EXTINF:-1,IT:Sky.Cinema.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/131
-#EXTINF:-1,IT:Sky.Cinema.Due
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/127
-#EXTINF:-1,IT:Sky.Cinema.Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/130
-#EXTINF:-1,IT:Sky.Cinema.Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/132
-#EXTINF:-1,IT:Paramount.Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/134
-#EXTINF:-1,IT:National.Geo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/179
-#EXTINF:-1,IT:NatGeo.Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/180
-#EXTINF:-1,IT:NatGeo.People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/181
-#EXTINF:-1,IT:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/177
-#EXTINF:-1,IT:Animal.Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/182
-#EXTINF:-1,IT:History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/178
-#EXTINF:-1,IT:Focus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/167
-#EXTINF:-1,IT:Sky.Sport.NBA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/148
-#EXTINF:-1,IT:SkySport.Uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/149
-#EXTINF:-1,IT:SkySport.Football
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/150
-#EXTINF:-1,IT:SkySport.Arena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/151
-#EXTINF:-1,IT:SkySport.Collection
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/157
-#EXTINF:-1,IT:SkySport24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/152
-#EXTINF:-1,IT:SkySport.F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/153
-#EXTINF:-1,IT:Sky.Moto.Gp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/154
-#EXTINF:-1,IT:Super.Tennis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/155
-#EXTINF:-1,IT:Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/169
-#EXTINF:-1,IT:Eurosport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/170
-#EXTINF:-1,IT:Sport.italia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/168
-#EXTINF:-1,IT:Prima.fila1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/209
-#EXTINF:-1,IT:Prima.fila2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/210
-#EXTINF:-1,IT:Prima.fila3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/211
-#EXTINF:-1,IT:Prima.fila4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/212
-#EXTINF:-1,IT:Prima.fila5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/213
-#EXTINF:-1,IT:Prima.fila6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/214
-#EXTINF:-1,IT:Prima.fila7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/215
-#EXTINF:-1,IT:Prima.fila8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/216
-#EXTINF:-1,IT:Prima.fila9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/217
-#EXTINF:-1,IT:Prima.Fila10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.pro:8080/italians.server/iunixs.skype/218
+#EXTINF:-1,CA|FR| ADDIKTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83376
+#EXTINF:-1,CA|FR| AMI-TELE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83375
+#EXTINF:-1,CA|FR| CABLE PUBLIC AFFAIRS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83374
+#EXTINF:-1,CA|FR| CANAL D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83373
+#EXTINF:-1,CA|FR| CANAL M, IA RADIO DE VUES & VOIX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83372
+#EXTINF:-1,CA|FR| CANAL VIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83371
+#EXTINF:-1,CA|FR| CANAL Z HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83370
+#EXTINF:-1,CA|FR| CASA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83369
+#EXTINF:-1,CA|FR| CGTN FRANCAIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83368
+#EXTINF:-1,CA|FR| CINEPOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83367
+#EXTINF:-1,CA|FR| DISNEY, LA CHAINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83366
+#EXTINF:-1,CA|FR| ELLE FICTIONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83365
+#EXTINF:-1,CA|FR| ES1 CANADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83364
+#EXTINF:-1,CA|FR| EURONEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83363
+#EXTINF:-1,CA|FR| EVASION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83362
+#EXTINF:-1,CA|FR| FEU DE FOYER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83361
+#EXTINF:-1,CA|FR| FRISSONS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83360
+#EXTINF:-1,CA|FR| HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83359
+#EXTINF:-1,CA|FR| ICI ARTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83358
+#EXTINF:-1,CA|FR| ICI EXPLORA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83357
+#EXTINF:-1,CA|FR| ICI RADIO CANADA TELE MONCTON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83356
+#EXTINF:-1,CA|FR| ICI RADIO CANADA TELE VANCOUVER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83355
+#EXTINF:-1,CA|FR| ICI RADIO-CANADA TELE MONTREAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83354
+#EXTINF:-1,CA|FR| ICI RADIO-CANADA TELE OTTAWA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83353
+#EXTINF:-1,CA|FR| ICI RADIO-CANADA TELE QUEBEC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83352
+#EXTINF:-1,CA|FR| ICI RADIO-CANADA TELE TORONTO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83351
+#EXTINF:-1,CA|FR| ICI RDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83350
+#EXTINF:-1,CA|FR| ICI TELE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83349
+#EXTINF:-1,CA|FR| INVESTIGATION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83348
+#EXTINF:-1,CA|FR| LA CHAINE DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83347
+#EXTINF:-1,CA|FR| L ASSEMBLEE NATIONALE DU QUEBEC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83346
+#EXTINF:-1,CA|FR| LCN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83345
+#EXTINF:-1,CA|FR| MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83344
+#EXTINF:-1,CA|FR| METEO MEDIA MONTREAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83343
+#EXTINF:-1,CA|FR| MEZZO LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83342
+#EXTINF:-1,CA|FR| MOI&CIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83341
+#EXTINF:-1,CA|FR| NATYF TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83340
+#EXTINF:-1,CA|FR| PRISE2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83339
+#EXTINF:-1,CA|FR| RDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83338
+#EXTINF:-1,CA|FR| RDS2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83337
+#EXTINF:-1,CA|FR| SAVOIR MEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83336
+#EXTINF:-1,CA|FR| SAVOIR MEDIA (CFTU)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83335
+#EXTINF:-1,CA|FR| SEASONS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83334
+#EXTINF:-1,CA|FR| SERIES+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83333
+#EXTINF:-1,CA|FR| SUPER ECRAN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83331
+#EXTINF:-1,CA|FR| SUPER ECRAN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83330
+#EXTINF:-1,CA|FR| SUPER ECRAN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83329
+#EXTINF:-1,CA|FR| SUPER ECRAN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83328
+#EXTINF:-1,CA|FR| TELEMAG QUEBEC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83327
+#EXTINF:-1,CA|FR| TELEMAGINO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83326
+#EXTINF:-1,CA|FR| TELE-QUEBEC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83325
+#EXTINF:-1,CA|FR| TELETOON FRENCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83324
+#EXTINF:-1,CA|FR| TFO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83323
+#EXTINF:-1,CA|FR| TV 5 QUÃ©BEC CANADA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83322
+#EXTINF:-1,CA|FR| TVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83321
+#EXTINF:-1,CA|FR| TVA MONTREAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83320
+#EXTINF:-1,CA|FR| TVA QUEBEC CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83319
+#EXTINF:-1,CA|FR| TVA RIVIERE-DU-LOUP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83318
+#EXTINF:-1,CA|FR| TVA SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83317
+#EXTINF:-1,CA|FR| TVA SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83316
+#EXTINF:-1,CA|FR| TVA TROIS-RIVIERES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83315
+#EXTINF:-1,CA|FR| UNIS TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83314
+#EXTINF:-1,CA|FR| V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83313
+#EXTINF:-1,CA|FR| V MONTREAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83312
+#EXTINF:-1,CA|FR| V QUEBEC CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83311
+#EXTINF:-1,CA|FR| V SHERBROOKE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83310
+#EXTINF:-1,CA|FR| V TROIS-RIVIERES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83309
+#EXTINF:-1,CA|FR| VRAK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83308
+#EXTINF:-1,CA|FR| YOOPA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83307
+#EXTINF:-1,CA|FR| ZESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83306
+#EXTINF:-1,CA|FR| TVA OUEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83305
+#EXTINF:-1,CA|FR| VU! TELE A LA CARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83304
+#EXTINF:-1,CA|FR| VU! TELE A LA CARTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83303
+#EXTINF:-1,CA|FR| VU! TELE A LA CARTE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83302
+#EXTINF:-1,CA|FR| VU! TELE A LA CARTE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83301
+#EXTINF:-1,CA|FR| VU! TELE A LA CARTE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83300
+#EXTINF:-1,CA|FR| TV5 MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83299
+#EXTINF:-1,CA|FR| TV5 MONDE INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83298
+#EXTINF:-1,CA|FR| TV5 MONDE STYLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83297
+#EXTINF:-1,CA|FR| FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83296
+#EXTINF:-1,CA|FR| TIVI5MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83295
+#EXTINF:-1,CA|FR| BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83294
+#EXTINF:-1,CA|FR| EWTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83293
+#EXTINF:-1,CA|FR| LEGISLATIVE ASSEMBLY OF ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83292
+#EXTINF:-1,CA|FR| LEGISLATIVE ASSEMBLY OF BRITISH COLUMBIA COMMITTEE A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83291
+#EXTINF:-1,CA|FR| LE CANAL DE L ASSEMBLEE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83290
+#EXTINF:-1,CA|FR| ICI TELE ACADIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83289
+#EXTINF:-1,CA|FR| ICI TELE ALBERTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83288
+#EXTINF:-1,CA|FR| ICI TELE CB-YUKON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83287
+#EXTINF:-1,CA|FR| ICI TELE EST-QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83286
+#EXTINF:-1,CA|FR| ICI TELE ESTRIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83285
+#EXTINF:-1,CA|FR| ICI TELE MANITOBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83284
+#EXTINF:-1,CA|FR| ICI TELE MAURICIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83283
+#EXTINF:-1,CA|FR| ICI TELE MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83282
+#EXTINF:-1,CA|FR| ICI TELE ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83281
+#EXTINF:-1,CA|FR| ICI TELE OTTAWA-GATINEAU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83280
+#EXTINF:-1,CA|FR| ICI TELE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83279
+#EXTINF:-1,CA|FR| ICI TELE SAGUENAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83278
+#EXTINF:-1,CA|FR| ICI TELE SASKATCHEWAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83277
+#EXTINF:-1,CA|FR| TRACE AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83276
+#EXTINF:-1,CA|FR| TRACE MZIKI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83275
+#EXTINF:-1,CA|FR| TRACE NAIJA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83274
+#EXTINF:-1,CA|FR| TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83273
+#EXTINF:-1,CA|FR| TRACE TROPICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83272
+#EXTINF:-1,CA|FR| TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83271
+#EXTINF:-1,CA|FR| EMCI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83270
+#EXTINF:-1,CA|FR| ICI TELE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83269
+#EXTINF:-1,CA|FR| DISNEY LA CHAINE  (R)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83268
+#EXTINF:-1,CA|FR| RDS (HQ)  (R)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83267
+#EXTINF:-1,CA|FR| RDS (LQ)  (R)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83266
+#EXTINF:-1,CA|FR| NOOVO V-TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83265
+#EXTINF:-1,CA|FR| SUPER ECRAN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83264
+#EXTINF:-1,CA|FR| SUPER ECRAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83263
+#EXTINF:-1,CA|FR| SUPER ECRAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83262
+#EXTINF:-1,CA|FR| SUPER ECRAN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83261
+#EXTINF:-1,CA|FR| CANAL V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83260
+#EXTINF:-1,CA|FR| TELETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83259
+#EXTINF:-1,CA|FR| MUSIC PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83258
+#EXTINF:-1,CA|FR| TELEMAGINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83257
+#EXTINF:-1,CA|FR| ADDIK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83256
+#EXTINF:-1,CA|FR| AHC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83255
+#EXTINF:-1,CA|FR| APTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83254
+#EXTINF:-1,CA|FR| BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83253
+#EXTINF:-1,CA|FR| CANAL D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83252
+#EXTINF:-1,CA|FR| CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83250
+#EXTINF:-1,CA|FR| CINEPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83249
+#EXTINF:-1,CA|FR| CTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83248
+#EXTINF:-1,CA|FR| DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83247
+#EXTINF:-1,CA|FR| EVASION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83246
+#EXTINF:-1,CA|FR| HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83245
+#EXTINF:-1,CA|FR| ICI ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83244
+#EXTINF:-1,CA|FR| ICI MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83243
+#EXTINF:-1,CA|FR| ICI RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83242
+#EXTINF:-1,CA|FR| ICI VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83241
+#EXTINF:-1,CA|FR| LCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83240
+#EXTINF:-1,CA|FR| MOI ET CIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83239
+#EXTINF:-1,CA|FR| PRISE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83238
+#EXTINF:-1,CA|FR| RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83237
+#EXTINF:-1,CA|FR| RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83236
+#EXTINF:-1,CA|FR| RDS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83235
+#EXTINF:-1,CA|FR| TELE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83234
+#EXTINF:-1,CA|FR| TV5 QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83233
+#EXTINF:-1,CA|FR| VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83232
+#EXTINF:-1,CA|FR| VRAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83231
+#EXTINF:-1,CA|FR| YOOPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83230
+#EXTINF:-1,CA|FR| Z TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83229
+#EXTINF:-1,CA|FR| ZESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83228
+#EXTINF:-1,CA| CORONA VIRUS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81425
+#EXTINF:-1,CA| A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81424
+#EXTINF:-1,CA| ABC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81423
+#EXTINF:-1,CA| ABC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81422
+#EXTINF:-1,CA| ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81421
+#EXTINF:-1,CA| ADDIK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81420
+#EXTINF:-1,CA| AHC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81419
+#EXTINF:-1,CA| AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81418
+#EXTINF:-1,CA| APTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81417
+#EXTINF:-1,CA| ARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81416
+#EXTINF:-1,CA| ASSEMBLEE NATIONALE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81415
+#EXTINF:-1,CA| BBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81414
+#EXTINF:-1,CA| BNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81413
+#EXTINF:-1,CA| BOOK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81412
+#EXTINF:-1,CA| BRAVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81411
+#EXTINF:-1,CA| CANAL D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81410
+#EXTINF:-1,CA| CASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81408
+#EXTINF:-1,CA| CBC MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81407
+#EXTINF:-1,CA| CBC OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81406
+#EXTINF:-1,CA| CBC TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81405
+#EXTINF:-1,CA| CBC VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81404
+#EXTINF:-1,CA| CBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81403
+#EXTINF:-1,CA| CBS WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81402
+#EXTINF:-1,CA| CHCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81401
+#EXTINF:-1,CA| CINEPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81400
+#EXTINF:-1,CA| CITY MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81399
+#EXTINF:-1,CA| CITY TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81398
+#EXTINF:-1,CA| CITY VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81397
+#EXTINF:-1,CA| CMT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81396
+#EXTINF:-1,CA| COTTAGE LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81395
+#EXTINF:-1,CA| CP24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81394
+#EXTINF:-1,CA| CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81393
+#EXTINF:-1,CA| CPAC FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81392
+#EXTINF:-1,CA| CRIME   INVEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81391
+#EXTINF:-1,CA| CW 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81390
+#EXTINF:-1,CA| DAYSTAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81389
+#EXTINF:-1,CA| DEJAVIEW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81388
+#EXTINF:-1,CA| DIY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81387
+#EXTINF:-1,CA| DTOUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81386
+#EXTINF:-1,CA| E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81385
+#EXTINF:-1,CA| ENCORE 1 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81384
+#EXTINF:-1,CA| ENCORE 2 EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81383
+#EXTINF:-1,CA| EVASION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81382
+#EXTINF:-1,CA| FAMILY CHRGD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81381
+#EXTINF:-1,CA| FAMILY EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81380
+#EXTINF:-1,CA| FIGHT NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81379
+#EXTINF:-1,CA| FOX EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81378
+#EXTINF:-1,CA| FOX WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81377
+#EXTINF:-1,CA| FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81376
+#EXTINF:-1,CA| FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81375
+#EXTINF:-1,CA| GAME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81374
+#EXTINF:-1,CA| GLOBAL HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81373
+#EXTINF:-1,CA| GLOBAL TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81372
+#EXTINF:-1,CA| GLOBAL VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81371
+#EXTINF:-1,CA| GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81370
+#EXTINF:-1,CA| GSN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81369
+#EXTINF:-1,CA| GUSTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81368
+#EXTINF:-1,CA| H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81367
+#EXTINF:-1,CA| HBO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81366
+#EXTINF:-1,CA| HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81365
+#EXTINF:-1,CA| HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81364
+#EXTINF:-1,CA| HLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81363
+#EXTINF:-1,CA| HOPE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81362
+#EXTINF:-1,CA| ICI MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81361
+#EXTINF:-1,CA| ICI VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81360
+#EXTINF:-1,CA| DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81359
+#EXTINF:-1,CA| KNOWLEDGE KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81358
+#EXTINF:-1,CA| KTLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81357
+#EXTINF:-1,CA| LCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81356
+#EXTINF:-1,CA| LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81355
+#EXTINF:-1,CA| MAKEFUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81354
+#EXTINF:-1,CA| MAV TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81353
+#EXTINF:-1,CA| MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81352
+#EXTINF:-1,CA| METEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81351
+#EXTINF:-1,CA| MIRACLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81350
+#EXTINF:-1,CA| MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81349
+#EXTINF:-1,CA| MOI CIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81348
+#EXTINF:-1,CA| MTIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81347
+#EXTINF:-1,CA| NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81346
+#EXTINF:-1,CA| NBC EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81345
+#EXTINF:-1,CA| NBC WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81344
+#EXTINF:-1,CA| NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81343
+#EXTINF:-1,CA| NICK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81342
+#EXTINF:-1,CA| NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81341
+#EXTINF:-1,CA| OLN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81340
+#EXTINF:-1,CA| OMNI 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81339
+#EXTINF:-1,CA| OMNI 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81338
+#EXTINF:-1,CA| ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81337
+#EXTINF:-1,CA| OUTTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81336
+#EXTINF:-1,CA| OWN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81335
+#EXTINF:-1,CA| PBS EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81334
+#EXTINF:-1,CA| PEACH TREE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81333
+#EXTINF:-1,CA| PRISE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81332
+#EXTINF:-1,CA| RDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81331
+#EXTINF:-1,CA| RDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81330
+#EXTINF:-1,CA| RDS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81329
+#EXTINF:-1,CA| RDS INFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81328
+#EXTINF:-1,CA| SERIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81327
+#EXTINF:-1,CA| SHOPPING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81326
+#EXTINF:-1,CA| SHOWCASE EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81325
+#EXTINF:-1,CA| SILVER SCREEN CLASSICS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81324
+#EXTINF:-1,CA| SLICE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81323
+#EXTINF:-1,CA| SPACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81322
+#EXTINF:-1,CA| SPIKE TV / PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81321
+#EXTINF:-1,CA| SUPER CHANNEL FUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81320
+#EXTINF:-1,CA| SUPER CHANNEL HEART & HOME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81319
+#EXTINF:-1,CA| SUPER CHANNEL VAULT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81318
+#EXTINF:-1,CA| SUPER ECRAN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81317
+#EXTINF:-1,CA| SUPER ECRAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81316
+#EXTINF:-1,CA| SUPER ECRAN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81315
+#EXTINF:-1,CA| SUPER ECRAN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81314
+#EXTINF:-1,CA| TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81313
+#EXTINF:-1,CA| TELE LATINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81312
+#EXTINF:-1,CA| TELE QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81311
+#EXTINF:-1,CA| TELEMAGINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81310
+#EXTINF:-1,CA| TFO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81309
+#EXTINF:-1,CA| THE WEATHER NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81308
+#EXTINF:-1,CA| TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81307
+#EXTINF:-1,CA| TMN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81306
+#EXTINF:-1,CA| TMN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81305
+#EXTINF:-1,CA| TMN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81304
+#EXTINF:-1,CA| TMN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81303
+#EXTINF:-1,CA| TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81302
+#EXTINF:-1,CA| TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81301
+#EXTINF:-1,CA| TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81300
+#EXTINF:-1,CA| TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81299
+#EXTINF:-1,CA| TSN 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81298
+#EXTINF:-1,CA| TV5 QUEBEC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81297
+#EXTINF:-1,CA| TVA GATINEAU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81296
+#EXTINF:-1,CA| TVA MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81295
+#EXTINF:-1,CA| TVA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81294
+#EXTINF:-1,CA| TVO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81293
+#EXTINF:-1,CA| UNIS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81292
+#EXTINF:-1,CA| VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81291
+#EXTINF:-1,CA| VISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81290
+#EXTINF:-1,CA| VRAK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81289
+#EXTINF:-1,CA| W NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81288
+#EXTINF:-1,CA| WFN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81287
+#EXTINF:-1,CA| WGN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81286
+#EXTINF:-1,CA| WILD TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81285
+#EXTINF:-1,CA| WSBK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81284
+#EXTINF:-1,CA| YES TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81283
+#EXTINF:-1,CA| YOOPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81282
+#EXTINF:-1,CA| Z TELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81281
+#EXTINF:-1,CA| ZESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81280
+#EXTINF:-1,CA| MEDIASET ITALIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81279
+#EXTINF:-1,CA| ABC SPARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81277
+#EXTINF:-1,CA| DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81275
+#EXTINF:-1,CA| DISNEY FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81274
+#EXTINF:-1,CA| DISNEY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81273
+#EXTINF:-1,CA| FAMILY JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81272
+#EXTINF:-1,CA| TELE TOON EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81271
+#EXTINF:-1,CA| TELE TOON FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81270
+#EXTINF:-1,CA| TREEHOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81269
+#EXTINF:-1,CA| YTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81268
+#EXTINF:-1,CA| YTV WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81267
+#EXTINF:-1,CA| TMN1E (CRAVE TV 1)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81265
+#EXTINF:-1,CA| TMN2E (CRAVE TV 2)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81264
+#EXTINF:-1,CA| TMN3E (CRAVE TV 3)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81263
+#EXTINF:-1,CA| TMN4E (CRAVE TV 4)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81262
+#EXTINF:-1,CA| TRAVEL + ESCAPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81260
+#EXTINF:-1,CA| BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81258
+#EXTINF:-1,CA| CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81257
+#EXTINF:-1,CA| CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81256
+#EXTINF:-1,CA| CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81255
+#EXTINF:-1,CA| CBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81254
+#EXTINF:-1,CA| FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81253
+#EXTINF:-1,CA| SPORTSNET 360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81251
+#EXTINF:-1,CA| SPORTSNET EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81250
+#EXTINF:-1,CA| SPORTSNET ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81249
+#EXTINF:-1,CA| SPORTSNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81248
+#EXTINF:-1,CA| SPORTSNET PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81247
+#EXTINF:-1,CA| SPORTSNET WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81246
+#EXTINF:-1,CA| BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81244
+#EXTINF:-1,CA| MUSIQUE PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81243
+#EXTINF:-1,CA| MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81242
+#EXTINF:-1,CA| MTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81241
+#EXTINF:-1,CA| FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81239
+#EXTINF:-1,CA| COOKING CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81238
+#EXTINF:-1,CA| MUCH MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81236
+#EXTINF:-1,CA| ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81235
+#EXTINF:-1,CA| CRIME + INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81234
+#EXTINF:-1,CA| DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81233
+#EXTINF:-1,CA| DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81232
+#EXTINF:-1,CA| DOCUMENTARY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81231
+#EXTINF:-1,CA| HISTORIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81230
+#EXTINF:-1,CA| HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81229
+#EXTINF:-1,CA| NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81228
+#EXTINF:-1,CA| CTV 2 VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81226
+#EXTINF:-1,CA| CTV HALIFAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81225
+#EXTINF:-1,CA| CTV MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81224
+#EXTINF:-1,CA| CTV OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81223
+#EXTINF:-1,CA| CTV TORONTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81222
+#EXTINF:-1,CA| CTV VANCOUVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81221
+#EXTINF:-1,CA| CTV2 OTTAWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81220
+#EXTINF:-1,CA| CTV NEWS NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81219
