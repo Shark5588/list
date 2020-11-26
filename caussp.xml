@@ -109,8 +109,8 @@ https://sportsbay.org/watch/67185/1/bt-sport-1-live.html|Referer=https://sportsb
 #EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | BoX Office 2 Live Event [/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=w0WWBQSGIs5oxv_8IVb4Lg&e=1606639140&amp;streamtype=HLSRETRY&amp;name=Link
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport2hd.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 https://sportsbay.org/watch/67186/1/bt-sport-2-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/btsport3hd.png",[B][COLORorange]BTSport 3 | HD[/B][/COLOR]
