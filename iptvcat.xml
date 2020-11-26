@@ -23,7 +23,7 @@
     <thumbnail>[genre.param3]</thumbnail>
     ]]></listrepeat>
     <expres><![CDATA[(?s)<article.+?href="([^"]+)"\s*title="([^"]+)?\s(?:download|daily|free|new|m3u).+?src="([^"]+)]]></expres>
-    <page>https://leaksat.com/category/</page>
+    <page>https://leaksat.com/</page>
   </regex>
   <regex>
     <name>lists</name>
