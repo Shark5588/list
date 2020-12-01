@@ -31,6 +31,34 @@ Shark55
 <thumbnail>https://alfonsopinel.files.wordpress.com/2013/12/using-a-lead-magnet.jpg</thumbnail>
 <fanart></fanart>
 </channel>
+
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLORlightslategray]YOURBIT TORRENTS[/COLOR][/B][COLOR purple]  Top100  Adults[/COLOR]</name>
+    <thumbnail>https://lh3.googleusercontent.com/proxy/tmbQVnIkCSP6mJIZjIG6UOBB7ej6F_qxL75eLyHNNDXBLs-i3a79LN0CIfmuXO_XEpiUccEKUdF0yBkYe-i8mjn8rjH6LOkbC9e6GEZX77c</thumbnail>
+    <fanart>https://c.wallhere.com/photos/a4/01/sexy_ass_sex_erotic_adult_secondlife_xxx-518858.png!d</fanart>
+    <items>
+
+      <item>
+      <title>[B][COLORlightslategray]YOURBIT TORRENTS[/COLOR][/B][COLOR purple]  Top100  Adults[/COLOR]</title>
+      <link>$doregex[makelist]</link>
+      <thumbnail>https://cdn.shopify.com/s/files/1/1358/9279/products/KGrHqZHJFEFI_5eumEVBSHGrRvuHw_60_1.jpg?v=1568943155</thumbnail>
+
+    <regex>
+    <name>makelist</name>
+    <listrepeat><![CDATA[
+    <title>[makelist.param3]</title>
+    <link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
+    </regex>
+    ]]></listrepeat>
+    <expres><![CDATA[href="\/torrent\/(.*?)\/(.*?)">(.*?)<]]></expres>
+    <page>https://yourbittorrent.com/adult.html</page>
+    <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+    </regex>
+   <thumbnail>https://lh3.googleusercontent.com/proxy/tmbQVnIkCSP6mJIZjIG6UOBB7ej6F_qxL75eLyHNNDXBLs-i3a79LN0CIfmuXO_XEpiUccEKUdF0yBkYe-i8mjn8rjH6LOkbC9e6GEZX77c</thumbnail>
+   <fanart>https://c.wallhere.com/photos/a4/01/sexy_ass_sex_erotic_adult_secondlife_xxx-518858.png!d</fanart>
+ </item>
+  </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
     <name>[B][COLOR silver]KleeneX[/COLOR][COLOR lime] • [/COLOR][COLOR red] //////\\\\\\[/COLOR][/B]</name>
