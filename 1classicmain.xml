@@ -285,6 +285,43 @@ channel>
  <fanart>https://mcdn.wallpapersafari.com/medium/22/76/afcUDb.jpg</fanart>
 </item>
 			
+<item>
+<title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered] Test [/COLOR][/B] Today</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR gold]Page - [makelist.param1][/COLOR][/B]</title>
+  <link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/$doregex[makelist2].torrent</link>
+  <thumbnail>https://www.deviantart.com/thajizzle/art/T-V-Series-Folder-Icon-Colorflow-511799647</thumbnail>
+  <fanart>https://mcdn.wallpapersafari.com/medium/22/76/afcUDb.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  lastpg=re.findall('data-ci-pagination-page="(\d+)"><i\s*class',page_data)[0]
+  return [(str(pages),) for pages in range(1,int(lastpg)+1)]
+]]></expres>
+<page>https://yourbittorrent.com/television/today.html</page>
+</regex>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR gold][makelist2.param1][/COLOR][/B]</title>
+  <link>[makelist2.param2]|user-agent=ipad&referer='+link</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('(?s)</div>" title.+?>([^<]+).+?data-clipboard-text="([^"]+)',page_data)
+]]></expres>
+<page>https://iptvcat.com/sport_/[makelist.param1]</page>
+</regex>
+<thumbnail>https://icon-library.com/images/icon-tv-show/icon-tv-show-4.jpg</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
 			item>
                 <title>[B][COLOR yellowgreen]•[/COLOR][COLOR cyan]/////vikv.xml//////[/COLOR][/B]</title> 
 				<link>http://ignore.me</link>
