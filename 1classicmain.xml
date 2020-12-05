@@ -224,6 +224,67 @@ channel>
 				<fanart>https://wallpapercave.com/wp/wp5223134.jpg</fanart>
             </item>
 			
+			
+<item>
+<title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered] TV Series [/COLOR][/B][COLOR yellowgreen] Today[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://www.deviantart.com/thajizzle/art/T-V-Series-Folder-Icon-Colorflow-511799647</thumbnail>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param3]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[href="\/torrent\/(.*?)\/(.*?)">(.*?)<]]></expres>
+<page>https://yourbittorrent.com/television/today.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+<thumbnail>https://icon-library.com/images/icon-tv-show/icon-tv-show-4.jpg</thumbnail>
+ <fanart>https://mcdn.wallpapersafari.com/medium/22/76/afcUDb.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered] TV Series [/COLOR][/B][COLOR yellowgreen] Yesterday[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://www.deviantart.com/thajizzle/art/T-V-Series-Folder-Icon-Colorflow-511799647</thumbnail>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param3]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[href="\/torrent\/(.*?)\/(.*?)">(.*?)<]]></expres>
+<page>https://yourbittorrent.com/television/yesterday.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+<thumbnail>https://icon-library.com/images/icon-tv-show/icon-tv-show-4.jpg</thumbnail>
+ <fanart>https://mcdn.wallpapersafari.com/medium/22/76/afcUDb.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR yellowgreen]•[/COLOR][COLOR orangered] TV Series [/COLOR][/B][COLOR yellowgreen] Latest[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://www.deviantart.com/thajizzle/art/T-V-Series-Folder-Icon-Colorflow-511799647</thumbnail>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[makelist.param3]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
+</regex>
+]]></listrepeat>
+<expres><![CDATA[href="\/torrent\/(.*?)\/(.*?)">(.*?)<]]></expres>
+<page>https://yourbittorrent.com/television/latest.html</page>
+<agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36</agent>
+</regex>
+<thumbnail>https://icon-library.com/images/icon-tv-show/icon-tv-show-4.jpg</thumbnail>
+ <fanart>https://mcdn.wallpapersafari.com/medium/22/76/afcUDb.jpg</fanart>
+</item>
+			
 			item>
                 <title>[B][COLOR yellowgreen]•[/COLOR][COLOR cyan]/////vikv.xml//////[/COLOR][/B]</title> 
 				<link>http://ignore.me</link>
