@@ -233,7 +233,7 @@ channel>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- <title>[makelist.param3]</title>
+ <title>[B][COLOR gold] [makelist.param3][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
 </regex>
 ]]></listrepeat>
@@ -253,7 +253,7 @@ channel>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- <title>[makelist.param3]</title>
+ <title>[B][COLOR gold] [makelist.param3][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
 </regex>
 ]]></listrepeat>
@@ -273,7 +273,7 @@ channel>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
- <title>[makelist.param3]</title>
+ <title>[B][COLOR gold] [makelist.param3][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=https://yourbittorrent.com/down/[makelist.param1].torrent</link>
 </regex>
 ]]></listrepeat>
