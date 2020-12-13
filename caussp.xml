@@ -22,8 +22,8 @@ http://0.0.0.0:1234
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://greenstreamtv.xyz:25461/17297267/39234816/7919
+EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
@@ -78,7 +78,7 @@ plugin://plugin.video.f4mTester/?url=https://wowzaprod188-i.akamaihd.net/hls/liv
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BoxNation BoxNation BoxNation BoxNation BoxNation <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="http://vod.cctvsecurelive.com:61135/Pic0n/boxnationhd.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180523/yga/kisspng-boxnation-boxing-pay-per-view-united-kingdom-telev-boxnation-5b056d9ac4c539.769525721527082394806.jpg" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://planettvweb.com:8091/German/German/16955
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://185.180.221.206:25461/hls/30:34:D2:59:67:61/12863
@@ -728,8 +728,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://imgur.com/t475XHL.png",[B][COLORorange]Premier Sports | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png",[B][COLORorange]Premier Sports 1[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32743
+EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png",[B][COLORorange]Premier Sports 1[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png",[B][COLORorange]Premier Sports 2[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -756,23 +756,23 @@ plugin://plugin.video.f4mTester/?url=http://rdshdulive-lh.akamaihd.net/i/rdshdu1
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  RDS Channel  RDS Channel  RDS Channel  RDS Channel  RDS Channel <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.7375273!/img/httpImage/image.png",[B][COLORorange]RDS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/16337.ts
-
-#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/16338.ts
+EXTINF:-1 tvg-logo="https://rdsimages.cookieless.ca/polopoly_fs/1.7375273!/img/httpImage/image.png",[B][COLORorange]RDS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/16340.ts
+EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/hilas/rds.jpg",[B][COLORorange]RDS | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
-#EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://beastiptv.tv:25461/live/Reyr07/Glendat11/16339.ts
+EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_rds2-490x490.png",[B][COLORorange]RDS 2 | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+
+EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/rds_info.png" ,[B][COLORorange]RDS INFO | CA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -833,18 +833,6 @@ plugin://plugin.video.f4mTester/?url=http://92.46.127.146:8080/SetantaSportPlus/
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports 1 [/B][/COLOR]
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports 1 | HD[/B][/COLOR]
-http://194.76.186.12:8080/play/a00n/index.m3u8
-EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports 2[/B][/COLOR]
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sports 2 | HD[/B][/COLOR]
-http://194.76.186.12:8080/play/a011/index.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sport Bundesliga 1[/B][/COLOR]
-http://194.76.186.12:8080/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sport Bundesliga 1 | HD[/B][/COLOR]
-http://194.76.186.12:8080/play/a01f/index.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png",[B][COLORorange]Sky Sport News | HD[/B][/COLOR]
-http://194.76.186.12:8080/play/a01h/index.m3u8
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  Sky Sports   Sky Sports  Sky Sports   Sky Sports   Sky Sports  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -1110,7 +1098,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://planettvweb.com:8091/German/German/11979
 EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass | AO ViVo[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/UFC_FIGHTPASS_LOGO-645x370.png/revision/latest?cb=20150714165946",[B][COLORorange]UFC Fight Pass | AO ViVo[/B][/COLOR]
 https://ul.cdn946.net:8443/hls/jg3eg8t.m3u8?s=8YJ8jF-qSkETbhJR3NANaA&e=1606639106|Referer=https://wstream.to/embed/jg3eg8t|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
 
 
