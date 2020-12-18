@@ -218,7 +218,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <link>$doregex[class]</link>
 <thumbnail>https://www.iptvurls.com/iptv-playlist-url-19-dec-2020/</thumbnail>
  ]]></listrepeat>
-<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https\:\/\/www\.iptvurls\.com\/iptv\-playlist\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
+<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https\:\/\/www\.iptvurls\.com\/iptv\-playlist\-url\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
 <page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
 </regex>
 <regex>
