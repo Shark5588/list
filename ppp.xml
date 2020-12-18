@@ -16,6 +16,9 @@ http://127.0.0.1:6878/ace/getstream?id=&.mp4
 #EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg"  group-title="P2P TV1",Playboy TV(Ace stream)
 http://127.0.0.1:6878/ace/getstream?id=793b56ae85af194bd8661f5a17bcfac28eba4453&.mp4&.mp4
 
+#EXTINF:-1 tvg-logo="http://hochu.tv/images/private_tv.png"  group-title="ADULT",Private TV
+http://50.7.220.130:8081/private_hd/index.m3u8?wmsAuthSign=a96a86ec74e462495ea7ef020f8c3fc1-1608521312-61i261i45i74|Referer=http://cdntvnet.com/private-tv.php|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+
 #EXTINF:-1 tvg-logo="http://newsimg.bbc.co.uk/media/images/47487000/jpg/_47487231_-1.jpg"  group-title="P2P TV1",Playboy TV
 http://50.7.220.130:8081/playboy/index.m3u8?wmsAuthSign=4bd8df6dd2e51eaaa8312c9f8efc3d9f-1608515802-61i261i45i74|Referer=http://cdntvnet.com/playboy.php|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 
