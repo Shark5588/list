@@ -207,26 +207,41 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORorangered] TESTING [/COLOR][COLOR yellow]#[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] TESTING [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart> 
+<link>$doregex[leg2]</link>
+
 <regex>
-<name>makelist</name>
+<name>leg2</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[makelist.param3] [COLOR coral]IPTV[/COLOR]&amp;url=[makelist.param2]</link>
-<thumbnail>NA</thumbnail>
+<title> [COLOR lime] [leg2.param2] [/COLOR]</title>
+<link>$doregex[leg]</link>
 ]]></listrepeat>
-<expres><![CDATA[tvg-name="(.*?)".+?"(.*?)".*\n(.*)]]></expres>
-<page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
-</regex>
-<regex>
-<name>encodedurl</name>
-<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
-<page></page>
+<expres><![CDATA[wpfb-file-link-3.+?href="(.+?)">(.+?)<]]></expres>
+<page>https://hdbox.ws/</page>
 </regex>
 
-<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
-<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title> [COLOR lime] [leg.param2]  [/COLOR]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>  [COLOR lime] [list.param2]  [/COLOR]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex> 
 </item>
 
 <item><title>[B][COLORsnow]      •   •   •  IPTV CAT  •   •   •[/COLOR][/B]</title><link>http://Ignoreme</link><thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail><fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart></item>
