@@ -216,7 +216,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
    <link>$doregex[makelist2]</link>
    <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<expres><![CDATA[post-title entry-title[href="([^"]+)">(.*?)</a]]></expres>
 <page>https://hdbox.ws/en/news/43-ip-tv-kanaly.html</page>
 </regex>
 <regex>
