@@ -86,6 +86,7 @@
 <listrepeat><![CDATA[
 <title>[B][COLORdodgerblue]Daily m3u playlist[/COLOR][/B] [COLOR snow]( [/COLOR][COLOR red][makelist1.param1][/COLOR][COLOR snow] )[/COLOR]</title>
 <link>$doregex[makelist2]</link>
+<thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[44336\'>(.*?)<.*?href='(.*?)']]></expres>
 <page>http://iptvhit.com/freeiptv</page>
