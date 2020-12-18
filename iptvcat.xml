@@ -210,16 +210,16 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <item>
 <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-7 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[menu]</link>
-<thumbnail>https://www.iptvurls.com/iptv-playlist-url-19-dec-2020/</thumbnail>
+
 <regex>
 <name>menu</name>
 <listrepeat><![CDATA[
  <title>[COLOR cyan]Server: [/COLOR][COLOR white] [menu.param1][/COLOR]</title>
 <link>$doregex[class]</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.iptvurls.com/iptv-playlist-url-19-dec-2020/</thumbnail>
  ]]></listrepeat>
-<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https\:\/\/www\.iptvurls\.com\/iptv\-m3u\-playlist\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
-<page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
+<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="http\:\/\/www\.iptvurls\.com\/iptv\-m3u\-playlist\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
+<page>http://www.iptvurls.com/category/iptv-m3u-playlist/</page>
 </regex>
 <regex>
 <name>class</name>
