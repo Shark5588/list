@@ -206,7 +206,28 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
   <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
 
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORorangered] TESTING [/COLOR][COLOR yellow]#[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=[makelist.param3] [COLOR coral]IPTV[/COLOR]&amp;url=[makelist.param2]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[tvg-name="(.*?)".+?"(.*?)".*\n(.*)]]></expres>
+<page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
 
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
 
 <item><title>[B][COLORsnow]      •   •   •  IPTV CAT  •   •   •[/COLOR][/B]</title><link>http://Ignoreme</link><thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail><fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart></item>
 
