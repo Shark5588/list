@@ -207,41 +207,35 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] TESTING [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
-<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart> 
-<link>$doregex[leg2]</link>
-
+<title>????????????????</title>
+<link>$doregex[makelist]</link>
 <regex>
-<name>leg2</name>
+<name>makelist</name>
 <listrepeat><![CDATA[
-<title> [COLOR lime] [leg2.param2] [/COLOR]</title>
-<link>$doregex[leg]</link>
+   <title>[COLOR skyblue] [makelist.param2][/COLOR]</title>
+   <link>$doregex[makelist2]</link>
+   <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[wpfb-file-link-3.+?href="(.+?)">(.+?)<]]></expres>
-<page>https://hdbox.ws/</page>
+<expres><![CDATA[href="([^"]+)">(.*?)</a]]></expres>
+<page>https://hdbox.ws/en/news/43-ip-tv-kanaly.html</page>
 </regex>
-
 <regex>
-<name>leg</name>
+<name>makelist2</name>
 <listrepeat><![CDATA[
-<title> [COLOR lime] [leg.param2]  [/COLOR]</title>
-<link>$doregex[list]</link>
+   <title>[COLOR deepskyblue] [makelist2.param1][/COLOR]</title>
+   <link>plugin://plugin.video.f4mTester/?url=$doregex[getUrl]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param1]&amp;maxbitrate=0&amp;Buffer=20971520</link>
+   <thumbnail></thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
-<page>[leg2.param1]</page>
+<expres><![CDATA["\d+.{3}(.*?)\s\[.+?\](http.*?)"]]></expres>
+<page>[makelist.param1]?get=download_m3u8</page>
 </regex>
-
 <regex>
-<name>list</name>
-<listrepeat><![CDATA[
-<title>  [COLOR lime] [list.param2]  [/COLOR]</title>
-<link>NA</link>
-<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
-]]></listrepeat>
-<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
-<page>http[leg.param1]</page>
-</regex> 
+<name>getUrl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist2.param2]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&amp;Icy-MetaData=1')</expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
 </item>
 
 <item><title>[B][COLORsnow]      •   •   •  IPTV CAT  •   •   •[/COLOR][/B]</title><link>http://Ignoreme</link><thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail><fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart></item>
