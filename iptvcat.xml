@@ -153,7 +153,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     import re
     return re.findall('(?s)<header class="entry-header cf">(?:.*?href=)"([^"]*)">([^<]*)(?:.*?src=")([^"]*)',page_data)
 ]]></expres>
-<page>https://www.gratisiptv.com/free-playlists/</page>
+<page>https://www.gratisiptv.com/free-m3u/</page>
 </regex>
 <regex>
 <name>lists</name>
