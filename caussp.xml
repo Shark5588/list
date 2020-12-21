@@ -91,13 +91,12 @@ EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2015/10/btn_logo-750x375.png"group-title="SPORT",[B][COLORorange]BTN SPORTS | USA[/B][/COLOR]
-https://e10.habrox.xyz/ingestnb4s/btn/f.m3u8|Referer=https://live-golf.stream/stream/45629.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+https://e10.stephn.xyz/ingestnb4s/btn/master.m3u8|Referer=https://newdmn.icu/stream/45629.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTSport BTSport BTSport BTSport BTSport BTSport BTSport <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | UK[/B][/COLOR]
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
 
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
@@ -105,8 +104,7 @@ EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Lo
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 1 | HD[/B][/COLOR]
 https://sportsbay.org/watch/67185/1/bt-sport-1-live.html|Referer=https://sportsbay.org/sports/tv-channels|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | HD[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://www.bowgie.com/wp-content/uploads/2015/02/BTSport_Logo_Image_262pxwide.png",[B][COLORorange]BTSport 2 | [/B][/COLOR]
 https://ul.cdn946.net:8443/hls/yu3w26c9imgo814.m3u8?s=w0WWBQSGIs5oxv_8IVb4Lg&e=1606639140|Referer=https://wstream.to/embed/yu3w26c9imgo814|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
@@ -128,8 +126,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< CBS SPORTS NETWORK  CBS SPORTS NETWORK  CBS SPORTS NETWORK  <<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B] CBS SPORTS NETWORK | USA[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png",[COLOR orange][B]CBS SPORTS NETWORK | USA[/B][/COLOR] 
@@ -184,7 +182,7 @@ http://77.54.145.209:81/play/a03d
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN  ESPN  ESPN  ESPN  ESPN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 EXTINF:-1 tvg-logo="https://cagesidepress.com/wp-content/uploads/2019/03/UFC-ESPN-696x418.jpg",[COLOR orange][B]Espn | USA[/B][/COLOR] 
-//////////|Referer=h//////|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
+//////////|Referer=//////|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
