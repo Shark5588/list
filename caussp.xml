@@ -525,17 +525,16 @@ https://telerium.tv/ingest09/33437.m3u8?sf=NDBwczEwU2JE&token=pZGuCej574hp0pn9E_
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+https://p-cdn3-e-cg14-linear-cbd46b77.movetv.com/15804/live/NBCSNHD/9c33143a42a811eb88d20025b547210d/video/vid01/init.mp4|Referer=https://newdmn.icu/stream/69183.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-http://127.0.0.1:6878/ace/manifest.m3u8?infohash=85e48a7264d296afa47b54d87ee2611856a791c5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
+
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 https://p-cdn1-d-cg14-linear-cbd46b77.movetv.com/15804/live/NBCSNHD/dfd2b8e21f4b11eb90e40025b5471111/audio/stereo/192/00007d3f.m4s|Referer=https://live-golf.stream/stream/69183.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=https://cf-hls-media.sndcdn.com/playlist/Qeh19F60YiuB.128.mp3/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLWhscy1tZWRpYS5zbmRjZG4uY29tL3BsYXlsaXN0L1FlaDE5RjYwWWl1Qi4xMjgubXAzL3BsYXlsaXN0Lm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2MDQ2ODE4MTd9fX1dfQ__&Signature=ZIdgU-8knWPwANxsQj4APNDHetL4Tb2rknY~jRNBD4VCaQvaBCOn3R1A4~u7ndV~6eazNNIgYNdSQgyAD9iKsdG57-BfhM98q40Nnn5JBmigwTjUgv7wwacbTUrFASpuKZhpdspIh1KWZPkkEW0sOKA-BOMU1suSmy~3YTF67p6kOmR4MgcbQVzTF4CYJp9Y4mD1CYllB3FtKoREWMv2y9YFW0thsOvApMpWFzfn4fhSas3MJa-64xhLz216gpZK3GDOpEo5VJRoPN5oYrvP-HiNbSvehItcAVVYCzn9bSJIjk60zAWoAv84f6nSv5fOw2LTxG8NFNf2b2kjGZv0JA__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
+EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC6 | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32710
+http://127.0.0.1:6878/ace/manifest.m3u8?infohash=85e48a7264d296afa47b54d87ee2611856a791c5&hlc=1&transcode_audio=0&transcode_mp3=0&transcode_ac3=0&preferred_audio_language=eng
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN  NBCSN NBCSN   <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
