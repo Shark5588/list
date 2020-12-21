@@ -16,14 +16,14 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR red][B]****[/B][/COL
 http://0.0.0.0:1234
 ==================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 12/6/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png" group-title="Canada",[B][COLORsnow]*****[/COLOR][COLOR ff00afaf] Sports Classic 12/22/2020 [/COLOR][COLORsnow]*****[/COLOR][/B]
 http://0.0.0.0:1234
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Bein Sports(USA) Bein Sports(USA) Bein Sports(USA) Bein Sports(USA)) <<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/2YGvdY1/3529.png",[COLOR orange][B]Bein Sports[/B][/COLOR]
@@ -47,8 +47,8 @@ EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/150734_532c77ce9ac149d2a2
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA
 EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/208-laliga-tv-bar.png",[COLOR orange][B]LA LIGA SPAIN[/B][/COLOR]
 plugin://plugin.video.f4mTester/?url=..........................&amp;streamtype=HLSRETRY&amp;name=LA LIGA SPAIN
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra | SD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?url=https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8&amp;streamtype=HLSRETRY&amp;name=Bein Extra
+EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra | SD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?url=\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\&amp;streamtype=HLSRETRY&amp;name=Bein Extra
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra | 720p[/B][/COLOR]
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZLBLTL/85f8ebf2.png",[COLOR orange][B]Bein Sport Extra | 1080p[/B][/COLOR]
@@ -78,10 +78,10 @@ plugin://plugin.video.f4mTester/?url=https://wowzaprod188-i.akamaihd.net/hls/liv
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BoxNation BoxNation BoxNation BoxNation BoxNation <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180523/yga/kisspng-boxnation-boxing-pay-per-view-united-kingdom-telev-boxnation-5b056d9ac4c539.769525721527082394806.jpg" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
+EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180523/yga/kisspng-boxnation-boxing-pay-per-view-united-kingdom-telev-boxnation-5b056d9ac4c539.769525721527082394806.jpg" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://185.180.221.206:25461/hls/30:34:D2:59:67:61/12863
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -181,20 +181,22 @@ http://77.54.145.209:81/play/a03d
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN  ESPN  ESPN  ESPN  ESPN  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 EXTINF:-1 tvg-logo="https://cagesidepress.com/wp-content/uploads/2019/03/UFC-ESPN-696x418.jpg",[COLOR orange][B]Espn | USA[/B][/COLOR] 
 //////////|Referer=//////|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
-https://e10.habrox.xyz/ingestnb4s/espn_usa/master.m3u8|Referer=https://live-golf.stream/stream/43572.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+https://e10.stephn.xyz/ingestnb4s/espn_usa/master.m3u8|Referer=https://newdmn.icu/stream/43572.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
-https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+https://e7.cdn4.us/ingest666/espn_usa.m3u8|Referer=https://box-live.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 #EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
-https://e10.habrox.xyz/ingestnb4s/accn/f.m3u8|Referer=https://live-golf.stream/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+https://e10.stephn.xyz/ingestnb4s/accn/master.m3u8|Referer=https://newdmn.icu/stream/50008.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 #EXTINF:-1 tvg-logo="https://dbukjj6eu5tsf.cloudfront.net/sidearm.sites/acc.sidearmsports.com/images/responsive_2019/logo_accnespn_white.png",[COLOR orange][B]ESPN | ACCN[/B][/COLOR]
 https://gma2.blab.email/acc.m3u8
-EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line[/B][/COLOR] 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1  tvg-logo="https://streaming-engine-assets.rftslb.com/posters/image/image/252548/list_page_main.jpg" group-title="Sports",[COLOR orange][B]ESPN | Goal Line[/B][/COLOR] 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://i.ibb.co/SsPfXxs/3511.png",[COLOR orange][B]Espn Brasil HD[/B][/COLOR]
 
@@ -205,9 +207,9 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]Espn | USA[/B][/COLOR]
 |Referer=|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0
 EXTINF:-1 tvg-logo="https://i.imgur.com/ZJnA3ic.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
-https://e10.julinewr.xyz/ingestnb4s/espn_usa/master.m3u8|Referer=https://espn-live.stream/stream/43572.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+https://e10.julinewr.xyz/ingestnb4s/espn_usa/master.m3u8|Referer=https://espn-live.stream/stream/43572.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/3511.png",[COLOR orange][B]ESPN | USA[/B][/COLOR]
-http://live.9live.club/ch/msobBUCbstDVwY8Wo8j9sg/1589075530/espn1.m3u8|Referer=http://9live.club/game/Hello-World|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+http://live.9live.club/ch/msobBUCbstDVwY8Wo8j9sg/1589075530/espn1.m3u8|Referer=http://9live.club/game/Hello-World|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN 2 ESPN 2 ESPN 2 ESPN 2 ESPN 2 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -217,14 +219,14 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | U
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
-https://e10.julinewr.xyz/ingestnb4s/espn2_usa/master.m3u8|Referer=https://espn-live.stream/stream/45351.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
+https://e10.stephn.xyz/ingestnb4s/espn2_usa/master.m3u8|Referer=https://newdmn.icu/stream/45351.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
 EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
-#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | HD[/B][/COLOR]
-http://wohuogai.com:37000/live/oscar_EUNYCtKPVq/zOLKXzUdic/75346.m3u8
-EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | FHD[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | HD[/B][/COLOR]
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mVYxe6g.png",[COLOR orange][B]ESPN 2 | FHD[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< ESPN 3 ESPN 3 ESPN 3 ESPN 3 ESPN 3 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -251,8 +253,8 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN LONGHORN ESPN LONGHORN ESPN LONGHORN <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
-EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGHORN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGHORN | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/569
 EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGHORN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/dS30kMF.png",[COLOR orange][B]ESPN LONGHORN | USA[/B][/COLOR]
@@ -278,15 +280,15 @@ https://e10.julinewr.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live
 https://gma2.blab.email/espnews.m3u8 
 EXTINF:-1 tvg-logo="https://i.imgur.com/Ulb3R6e.png",[COLOR orange][B]ESPN News | USA[/B][/COLOR]
 https://e10.julinewr.xyz/ingestnb4s/espn_news/master.m3u8|Referer=https://espn-live.stream/stream/45458.html|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
-EXTINF:-1 tvg-logo="https://i.imgur.com/Ulb3R6e.png",[COLOR orange][B]ESPN News | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ulb3R6e.png",[COLOR orange][B]ESPN News | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U ESPN U<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
 https://gma2.blab.email/espnu.m3u8 
-EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
+#EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1190
 EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
 http://hls.123tv.live/ch/tR3TvWIFp-pgbWxc43ZVaQ/1586292265/espnu.m3u8|Referer=http://123tvnow.com/watch/espn-u-espnu/
 EXTINF:-1 tvg-logo="https://imgur.com/gDKdTsV.png",[COLOR orange][B]ESPN U | USA[/B][/COLOR]
