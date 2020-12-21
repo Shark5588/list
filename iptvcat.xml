@@ -88,7 +88,7 @@
 <link>$doregex[makelist2]</link>
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[h4\'>(.*?)<.*?href='(.*?)']]></expres>
+<expres><![CDATA[<h4\'>(.*?)<.*?href='(.*?)']]></expres>
 <page>https://iptvxtreamcodes.com/free-stbemu-portalmac-and-iptv-xtream-codesiptv-m3u-playlists-22-12-2020/</page>
 </regex>
 
