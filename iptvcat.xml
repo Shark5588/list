@@ -23,7 +23,7 @@
     <thumbnail>[genre.param3]</thumbnail>
     ]]></listrepeat>
     <expres><![CDATA[(?s)<article.+?href="([^"]+)"\s*title="([^"]+)?\s(?:download|daily|free|new|m3u).+?src="([^"]+)]]></expres>
-    <page>http://www.dailyiptvlist.com/</page>
+    <page>https://leaksat.com/</page>
   </regex>
   <regex>
     <name>lists</name>
@@ -88,8 +88,8 @@
 <link>$doregex[makelist2]</link>
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[<h4\'>(.*?)<.*?href='(.*?)']]></expres>
-<page>https://iptvxtreamcodes.com/free-stbemu-portalmac-and-iptv-xtream-codesiptv-m3u-playlists-22-12-2020/</page>
+<expres><![CDATA[44336\'>(.*?)<.*?href='(.*?)']]></expres>
+<page>http://iptvhit.com/freeiptv</page>
 </regex>
 
 <regex>
