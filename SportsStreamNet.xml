@@ -25,7 +25,7 @@
 <info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
    <regex>
    <name>get_sxstream</name>     
-   <expres>('(http(?:s|)://.+?\.m3u8(?:.+|))</expres>
+   <expres>source:.*[",']('(http(?:s|)://.+?\.m3u8(?:.+|))</expres>
    <page>http://streaming-sport.tv/chaine/c1/</page>
    </regex>
 
