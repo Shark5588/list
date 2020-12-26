@@ -21,7 +21,7 @@
 
 <item>
 <title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-<inputstream>$doregex[url]|user-agent=ipad&amp;referer=https://stream.andrhino.com/embed/footv01</inputstream>
+<link>$doregex[url]|user-agent=ipad&amp;referer=https://stream.andrhino.com/embed/footv01</link>
 
    <regex>
    <name>url</name>     
