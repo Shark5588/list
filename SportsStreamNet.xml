@@ -21,15 +21,11 @@
 
 <item>
 <title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-<link>$doregex[url]|user-agent=ipad&amp;referer=https://stream.andrhino.com/embed/footv01</link>
+<link>$doregex[play]|user-agent=ipad&amp;referer=https://stream.andrhino.com/embed/footv01</link>
 
    <regex>
-   <name>url</name>     
-   <expres><![CDATA[#$pyFunction
-import re,requests
-def GetLSProData(page_data,Cookie_Jar,m):
-  return re.findall(source:.*[",'](.*m3u8.*?)[",'])',requests.get('http://streaming-sport.tv/chaine/c1/').text)[0]
-]]></expres>
+   <name>play</name>     
+   <expres><![CDATA[sources: \["([^"']+)]]></expres>
    <page>http://streaming-sport.tv/chaine/c1/</page>
    </regex>
 
