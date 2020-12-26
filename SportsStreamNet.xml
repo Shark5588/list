@@ -21,7 +21,7 @@
 
 <item>
 	<title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-	<link>http://streaming-sport.tv/chaine/c1/$doregex[get_sxstream]</link>
+	<link>http://streaming-sport.tv/chaine/$doregex[get_sxstream]</link>
 	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</info>
 	<regex>
 		<name>get_sxstream</name>
