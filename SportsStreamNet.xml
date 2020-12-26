@@ -21,17 +21,15 @@
 
 <item>
 <title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-<link>$doregex[get_sxstream]</link>
+<link>$doregex[get_sxstream]|user-agent=ipad&amp;referer=https://stream.andrhino.com/embed/footv01</link>
 <regex>
 <name>get_sxstream</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
+<page>http://streaming-sport.tv/chaine/c1/</page>
 </regex>
 <regex>
 <name>get_sxstream</name>     
-<expres><![CDATA[(?:source|src|file):\s*[\'"]([^\'"]+)]]></expres>
+<expres>source:.*["\']((?:http)?.*?(.*m3u8.*?)["\']</expres>
 <page>http://streaming-sport.tv/chaine/c1/</page>
-<referer>https://stream.andrhino.com/embed/footv01</referer>
 </regex>
 
 </item>
