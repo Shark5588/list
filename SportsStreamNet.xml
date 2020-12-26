@@ -26,7 +26,7 @@
 	<regex>
 		<name>get_sxstream</name>
 		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
-		<page>http://streaming-sport.tv/</page>
+		<page>http://streaming-sport.tv/chaine/c1/</page>
 		<referer>https://stream.andrhino.com/embed/footv01</referer>
 	</regex>
 </item>
