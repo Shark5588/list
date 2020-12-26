@@ -27,8 +27,8 @@
    <name>get_sxstream</name>     
    <expres><![CDATA[#$pyFunction
 import re
-def GetLSProData(page_data,Cookie_Jar,m):#
-  return  re.findall('src=.*[",'](.*m3u8.*?)[",'])',page_data)[0].+'|user-agent=ipad&referer=https://stream.andrhino.com/embed/footv05'
+def GetLSProData(page_data,Cookie_Jar,m)
+  return  re.findall('src=.*[",'](.*embed.*?)[",'])',page_data)[0].+'|user-agent=ipad&referer=https://stream.andrhino.com/embed/footv05'
 ]]></expres></expres>
    <page>http://streaming-sport.tv/chaine/c4/</page>
    <referer>https://stream.andrhino.com/embed/footv05</referer>
