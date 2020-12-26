@@ -21,10 +21,10 @@
 
 <item>
 	<title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-	<link>$doregex[get-m3u8-referer]</link>
+	<link>$doregex[get_sxstream]</link>
 	
 	<regex>
-		<name>get-m3u8-referer</name>
+		<name>get_sxstream</name>
 		<expres>'file': '(.*?)'</expres>
 		<page>http://streaming-sport.tv/chaine/c1/</page>
 		<referer>https://stream.andrhino.com/embed/footv01</referer>
