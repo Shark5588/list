@@ -28,9 +28,9 @@
    <expres><![CDATA[#$pyFunction
 import re,requests
 def GetLSProData(page_data,Cookie_Jar,m):
-  return re.findall source:.*[",'](.*m3u8.*?)[",']',requests.get('http://streaming-sport.tv/chaine/c1/').text)[0]
+  return re.findall(source:.*[",'](.*m3u8.*?)[",'])',requests.get('http://streaming-sport.tv/chaine/c1/').text)[0]
 ]]></expres>
-   <page></page>
+   <page>http://streaming-sport.tv/chaine/c1/</page>
    </regex>
 
 </item>
