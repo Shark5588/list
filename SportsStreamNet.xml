@@ -29,14 +29,14 @@
 </regex>
 <regex>
 <name>get_sxstream</name>     
-<expres>('src=["\']((?:http)?.*?(.*m3u8.*?)["\']',link)</expres>
+<expres>src=["\']((?:http)?.*?(.*m3u8.*?)["\']</expres>
 <page>http://streaming-sport.tv/chaine/c1/</page>
 <referer>https://stream.andrhino.com/embed/footv01</referer>
 <agent></agent>
 </regex>
 <regex>
 <name>get_sxstream1</name>
-<expres>('src=["\']((?:http)?.*?(.*m3u8.*?)["\']',link)</expres>
+<expres>src=["\']((?:http)?.*?(.*m3u8.*?)["\']</expres>
 <page>http://streaming-sport.tv/chaine/c1/</page>
 <referer>https://stream.andrhino.com/embed/footv01</referer>
 <agent></agent>
