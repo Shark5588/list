@@ -28,7 +28,7 @@
    <expres><![CDATA[#$pyFunction
 import re
 def GetLSProData(page_data,Cookie_Jar,m)
-  return  re.findall('"hls".+?[\'"](h[^\'"]+)',page_data)[0].replace('\\','')+'|user-agent=ipad&referer=http://streaming-sport.tv/chaine/c1/'
+  return  re.findall("""a href=['"](.+?)['"]""",links)',page_data)[0].replace('\\','')+'|user-agent=ipad&referer=http://streaming-sport.tv/chaine/c1/'
 ]]></expres></expres>
    <page>http://streaming-sport.tv/chaine/c1/</page>
    <referer>http://streaming-sport.tv/chaine/c1/</referer>
