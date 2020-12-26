@@ -3,10 +3,10 @@
 
 
 <item>
-<title>[COLORorangered][B]Sports Channels From Sports-Stream Net[/B][/COLOR]</title>
-<sportsdevil>ignoreme</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://img.over-blog-kiwi.com/1/18/59/20/20160411/ob_de3e23_sport-tv.png</thumbnail>
+<title>[COLORorangered][B]Sports Channels STREAMcr7[/B][/COLOR]</title>
+<link>ignoreme</link>
+<referer>http://streamcr7.com/</referer>
+<thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
 <info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
 <fanart></fanart>
 </item>
@@ -14,12 +14,171 @@
 <item>
 <title>[COLORorangered][B]Only Active During Game Time[/B][/COLOR]</title>
 <sportsdevil>ignoreme</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://img.over-blog-kiwi.com/1/18/59/20/20160411/ob_de3e23_sport-tv.png</thumbnail>
+<referer></referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Studio_Wildcard_logo.png</thumbnail>
 <info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
 <fanart></fanart>
 </item>
 
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 1[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/1.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/1.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 2[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/2.php</link>
+	<info></info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/2.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 3[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/3.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/3.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 4[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/4.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/4.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 5[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/5.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/5.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 6[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/6.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/6.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 7[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/7.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/7.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 8[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/8.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/8.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 9[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/9.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/9.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 10[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/10.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/10.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 11[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/11.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/11.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 12[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/12.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/12.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Stream-CR7 Channel 13[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://stream-cr7.net/embed/13.php</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page>http://stream-cr7.net/embed/13.php</page>
+		<referer>https://streamcr7.com/</referer>
+	</regex>
+</item>
+
+
+
+<!--
 <item>
 <title>[COLOR lime]Stream Channel 1[/COLOR]</title>
 <sportsdevil>https://live-sports-stream.net/?channel=1</sportsdevil>
@@ -28,234 +187,3 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR lime]Stream Channel 2[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch2.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 3[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch3.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 4[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch4.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 5[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch5.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 6[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch6.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 7[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch7.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 8[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch8.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 9[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch9.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 10[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch10.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 11[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch11.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 12[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch12.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 13[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch13.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 14[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch/ch14.html</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 15[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=15</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 16[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=16</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 17[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=17</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 18[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=18</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 19[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=19</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 20[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=20</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 21[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=21</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 22[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=22</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 23[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=23</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 24[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=24</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 25[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=25</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 26[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=26</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 27[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=27</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 28[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=28</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 29[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=29</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR lime]Stream Channel 30[/COLOR]</title>
-<sportsdevil>https://www.sports-stream.net/ch.php?id=30</sportsdevil>
-<referer>https://www.sports-stream.net/</referer>
-<thumbnail>https://4.bp.blogspot.com/-9kGKhLrw9Qs/WpOc7OVhXqI/AAAAAAAAAio/57tN4uCq1_ga2A8A1BNb3nocBcmIymhGACLcBGAs/s320/Best-IPTV.png</thumbnail>
-<fanart></fanart>
-</item>
