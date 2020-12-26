@@ -21,14 +21,12 @@
 
 <item>
 	<title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-	<link>$doregex[getM3U8]|Cookie=$get_cookies$&amp;User-Agent=iPad&amp;X-Playback-Session-Id=$GUID$</link>	
+	<link>$doregex[get-link]|User-Agent=iPad</link>	
 	<regex>
-		<name>getM3U8</name>
-		<expres>file: '(.*?)'</expres>
+		<name>get-link</name>
+		<expres>file: "(.*?)"</expres>
 		<page>http://streaming-sport.tv/chaine/c1/</page>
 		<referer>https://stream.andrhino.com/embed/footv01</referer>
-        <agent>iPad</agent>
-      <cookieJar></cookieJar>
      <connection>keep-alive</connection>
 	</regex>
 </item>
