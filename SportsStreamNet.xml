@@ -30,14 +30,14 @@
 <regex>
 <name>get_sxstream</name>     
 <expres>('src=["\']((?:http)?.*?(.*m3u8.*?)["\']',link)</expres>
-<page>http://www.streamendous.com/sportsch.php?bt1</page>
+<page>http://streaming-sport.tv/chaine/c1/</page>
 <referer>https://stream.andrhino.com/embed/footv01</referer>
 <agent></agent>
 </regex>
 <regex>
 <name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.streamendous.com/sportsch.php?bt1</page>
+<expres>('src=["\']((?:http)?.*?(.*m3u8.*?)["\']',link)</expres>
+<page>http://streaming-sport.tv/chaine/c1/</page>
 <referer>https://stream.andrhino.com/embed/footv01</referer>
 <agent></agent>
 </regex>
