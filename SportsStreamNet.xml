@@ -28,15 +28,15 @@
    <expres><![CDATA[#$pyFunction
 import re
 def GetLSProData(page_data,Cookie_Jar,m)
-  return  re.findall(source:.*[",'](.*m3u8.*?)[",'])',page_data)[0].replace('\\','')+'|user-agent=ipad&referer=http://streaming-sport.tv/chaine/c1/'
+  return  re.findall("""a href=['"](.+?)['"]""",links)',page_data)[0].+'|user-agent=ipad&referer=http://streaming-sport.tv/chaine/c1/'
 ]]></expres></expres>
    <page>http://streaming-sport.tv/chaine/c1/</page>
-   <referer>http://streaming-sport.tv/chaine/c1/</referer>
+   <referer>https://stream.andrhino.com/embed/footv01</referer>
    </regex>
 
 </item>
 
-https://stream.andrhino.com/embed/footv01
+
 
 
 
