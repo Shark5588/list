@@ -21,11 +21,15 @@
 
 <item>
 <title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-<link>$doregex[get_sxstream]|user-agent=ipad&amp;referer=https://stream.andrhino.com/embed/footv01</link>
+<link>$doregex[getUrl]|user-agent=ipad</link>
 
    <regex>
-   <name>get_sxstream</name>     
-   <expres>("""a href=['"](.+?)['"]""",links)</expres>
+   <name>getUrl</name>     
+   <expres><![CDATA[#$pyFunction
+import re
+def GetLSProData(page_data,Cookie_Jar,m)
+ ("""a href=['"](.+?)['"]""",links)',page_data)[0].replace('\\','')+'|user-agent=ipad&referer=https://stream.andrhino.com/embed/footv01'
+]]></expres></expres>
    <page>http://streaming-sport.tv/chaine/c1/</page>
    </regex>
 
