@@ -29,7 +29,7 @@
 </regex>
 <regex>
 <name>get_sxstream</name>     
-<expres>source:.*["\']((?:http)?.*?(.*m3u8.*?)["\']</expres>
+<expres><![CDATA[(?:source|src|file):\s*[\'"]([^\'"]+)]]></expres>
 <page>http://streaming-sport.tv/chaine/c1/</page>
 <referer>https://stream.andrhino.com/embed/footv01</referer>
 </regex>
