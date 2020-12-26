@@ -20,15 +20,29 @@
 </item>
 
 <item>
-	<title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-	<link>$doregex[get_sxstream]http://streaming-sport.tv/chaine/c1/|User-Agent=iPad</link>	
-	<regex>
-		<name>get_sxstream</name>
-		<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-		<page>http://streaming-sport.tv/chaine/c1/</page>
-		<referer>https://stream.andrhino.com/embed/footv01</referer>
-     <connection>keep-alive</connection>
-	</regex>
+<title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://streaming-sport.tv/chaine/c1/</page>
+<referer>https://stream.andrhino.com/embed/footv01</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://streaming-sport.tv/chaine/c1/</page>
+<referer>https://stream.andrhino.com/embed/footv01</referer>
+<agent></agent>
+</regex>
+<thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
+<fanart></fanart>
 </item>
 
 
