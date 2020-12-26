@@ -78,7 +78,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?bt1</link>
                 <thumbnail>https://i.imgur.com/ZFWtoa1.png</thumbnail>
                 </item>
             </items>	
@@ -105,7 +105,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?bt2</link>
                 <thumbnail>https://i.imgur.com/RjSq8t2.png</thumbnail>
                 </item>
             </items>	
@@ -132,7 +132,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?bt3</link>
                 <thumbnail>http://mikesandroid.info/UsaLogos/BT%20SPORTS%203.png</thumbnail>
                 </item>
             </items>	
@@ -159,7 +159,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080][COLORff008080]Link 3[/COLOR] (OffLine)</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?btespn</link>
                 <thumbnail>https://i.imgur.com/gbz28mw.png</thumbnail>
                 </item>
             </items>	
@@ -223,7 +223,34 @@
                 <thumbnail>https://i.ibb.co/SsPfXxs/3511.png</thumbnail>
                 </item>
             </items>	
-        </channel>		
+        </channel>	
+
+<channel>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] ESPN U[/COLOR][/B]</name>
+<thumbnail>http://epg.ovh/logo/ESPN+US.png</thumbnail>
+<fanart></fanart>
+    <items>
+        <title>[B][COLOR lightslategray] ESPN 2[/COLOR][/B]</title>
+        <thumbnail>http://epg.ovh/logo/ESPN+US.png</thumbnail>
+        <fanart></fanart>
+            <items>            
+                <item>
+                <title>[COLORff008080]Link 1[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strims.world/tv/espnu.php</link>
+                <thumbnail>http://epg.ovh/logo/ESPN+US.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 2[/COLOR] (OffLine)</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <thumbnail>http://epg.ovh/logo/ESPN+US.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <thumbnail>http://epg.ovh/logo/ESPN+US.png</thumbnail>
+                </item>
+            </items>	
+        </channel>        
 
 <channel>
 <name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] EuroSport 1[/COLOR][/B] (OffLine)</name>
@@ -303,6 +330,11 @@
                 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strims.world/tv/fs1.php</link>
                 <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
                 </item>
+                <item>
+                <title>[COLORff008080]Link 4[/COLOR] (OffLine)</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?foxsports1</link>
+                <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
+                </item>
             </items>	
         </channel>
         
@@ -327,7 +359,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?foxsports2</link>
                 <thumbnail>https://i.ibb.co/JdCC90z/3514.png</thumbnail>
                 </item>
                 <item>
@@ -354,7 +386,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 2[/COLOR]</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?mlb</link>
                 <thumbnail>https://i.imgur.com/03SxlGv.png</thumbnail>
                 </item>
                 <item>
@@ -385,9 +417,106 @@
                 <thumbnail>https://i.ibb.co/m8Pt5d9/3516.png</thumbnail>
                 </item>
                 <item>
-                <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
+                <title>[COLORff008080]Link 3[/COLOR]</title>
                 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strims.world/tv/nbcsn.php</link>
                 <thumbnail>https://i.ibb.co/m8Pt5d9/3516.png</thumbnail>
+                </item>
+            </items>	
+        </channel>
+        
+<channel>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] NBA TV | USA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/G7NmIs7.png</thumbnail>
+<fanart></fanart>
+    <items>
+        <title>[B][COLOR lightslategray] NBA TV | USA[/COLOR][/B]</title>
+        <thumbnail>https://i.imgur.com/G7NmIs7.png</thumbnail>
+        <fanart></fanart>
+            <items>            
+                <item>
+                <title>[COLORff008080]Link 1[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strims.world/tv/nbatv.php</link>
+                <thumbnail>https://i.imgur.com/G7NmIs7.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 2[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.vipleague.lc/1-nba-tv-live-streaming</link>
+                <thumbnail>https://i.imgur.com/G7NmIs7.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 3[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.vipleague.lc/2-nba-tv-live-streaming</link>
+                <thumbnail>https://i.imgur.com/G7NmIs7.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 4[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?nba</link>
+                <thumbnail>https://i.imgur.com/G7NmIs7.png</thumbnail>
+                </item>
+            </items>	
+        </channel>
+        
+<channel>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] NFL TV | USA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/1D21agq.jpeg</thumbnail>
+<fanart></fanart>
+    <items>
+        <title>[B][COLOR lightslategray] NBA TV | USA[/COLOR][/B]</title>
+        <thumbnail>https://i.imgur.com/1D21agq.jpeg</thumbnail>
+        <fanart></fanart>
+            <items>            
+                <item>
+                <title>[COLORff008080]Link 1[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strims.world/tv/nflnetwork.php</link>
+                <thumbnail>https://i.imgur.com/1D21agq.jpeg</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 2[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.vipleague.lc/1-nfl-network-live-streaming</link>
+                <thumbnail>https://i.imgur.com/1D21agq.jpeg</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 3[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.vipleague.lc/2-nfl-network-live-streaming</link>
+                <thumbnail>https://i.imgur.com/1D21agq.jpeg</thumbnail>
+                </item>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 4[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?nfl</link>
+                <thumbnail>https://i.imgur.com/1D21agq.jpeg</thumbnail>
+                </item>
+            </items>	
+        </channel>
+        
+<channel>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] NHL TV | USA[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/U3BgbZH.png</thumbnail>
+<fanart></fanart>
+    <items>
+        <title>[B][COLOR lightslategray] NBA TV | USA[/COLOR][/B]</title>
+        <thumbnail>https://i.imgur.com/U3BgbZH.png</thumbnail>
+        <fanart></fanart>
+            <items>            
+                <item>
+                <title>[COLORff008080]Link 1[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://strims.world/tv/nhlnetwork.php</link>
+                <thumbnail>https://i.imgur.com/U3BgbZH.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 2[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.vipleague.lc/1-nhl-network-live-streaming</link>
+                <thumbnail>https://i.imgur.com/U3BgbZH.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 3[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.vipleague.lc/2-nhl-network-live-streaming</link>
+                <thumbnail>https://i.imgur.com/U3BgbZH.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 4[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://www.streamendous.com/sportsch.php?nhl</link>
+                <thumbnail>https://i.imgur.com/U3BgbZH.png</thumbnail>
                 </item>
             </items>	
         </channel>
@@ -516,7 +645,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 2[/COLOR]</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.vipleague.lc/1-sky-sports-f1-sky-f1-live-streaming</link>
                 <thumbnail>https://i.imgur.com/suOnoEs.png</thumbnail>
                 </item>
                 <item>
