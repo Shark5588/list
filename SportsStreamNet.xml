@@ -21,13 +21,13 @@
 
 <item>
 <title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-<link>$doregex[getUrl]</link>
+<link>$doregex[get_sxstream]</link>
 
    <regex>
-   <name>getUrl</name>     
+   <name>get_sxstream</name>     
    <expres><![CDATA[#$pyFunction
 import re
-def GetLSProData(page_data,Cookie_Jar,m)
+def GetLSProData(page_data,Cookie_Jar,m):#
   return  re.findall(src=.*[",'](.*m3u8.*?)[",'])',page_data)[0].+'|user-agent=ipad&referer=https://stream.andrhino.com/embed/footv05'
 ]]></expres></expres>
    <page>http://streaming-sport.tv/chaine/c4/</page>
