@@ -176,17 +176,17 @@
             <items>            
                 <item>
                 <title>[COLORff008080][COLORff008080]Link 1[/COLOR][/COLOR]</title>
-                <link>plugin://plugin.video.PLsportowo/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-44.php</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://daddylive.live/embed/stream-44.php</link>
                 <thumbnail>https://i.ibb.co/SsPfXxs/3511.png</thumbnail>
                 </item>
                 <item>
                 <title>[COLORff008080][COLORff008080]Link 2[/COLOR][/COLOR]</title>
-                <link>plugin://plugin.video.PLsportowo/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.live/watchfeeds/index/139</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://cricfree.live/watchfeeds/index/139</link>
                 <thumbnail>https://i.ibb.co/SsPfXxs/3511.png</thumbnail>
                 </item>
                 <item>
                 <title>[COLORff008080][COLORff008080]Link 3[/COLOR][/COLOR]</title>
-                <link>plugin://plugin.video.PLsportowo/?mode=1&amp;item=catcher%3dstreams%26url=https://cricfree.sc/espn-usa-live-stream</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://cricfree.sc/espn-usa-live-stream</link>
                 <thumbnail>https://i.ibb.co/SsPfXxs/3511.png</thumbnail>
                 </item>
             </items>	
@@ -424,7 +424,7 @@
                 </item>
                 <item>
                 <title>[COLORff008080]Link 2[/COLOR]</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://sportzonline.to/channels/hd/hd5.php</link>
                 <thumbnail>https://i.imgur.com/aR33kqd.png</thumbnail>
                 </item>
                 <item>
@@ -432,6 +432,22 @@
                 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
                 <thumbnail>https://i.imgur.com/aR33kqd.png</thumbnail>
                 </item>
+                <item>
+                <title>[B][COLOR lightslategray] Sky Sports Main Event[/COLOR][/B]</title>
+                <link>$doregex[geturl]</link>
+                <regex>
+                <name>geturl</name>
+                <expres>Clappr.Player[\w\W]*?(?:source|src):\s*[\'"]([^\'"]+)</expres>
+                <page>$doregex[getunpacked]</page>
+                </regex>
+                <regex>
+                <name>getunpacked</name>
+                <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+                <page>https://sportzonline.to/channels/hd/hd5.php</page>
+               <referer>https://sportzonline.to/channels/hd/hd5.php</referer>
+               </regex>
+               <thumbnail>https://i.imgur.com/aR33kqd.png</thumbnail>
+               </item>
             </items>	
         </channel>
 
