@@ -288,8 +288,8 @@
                 <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
                 </item>
                 <item>
-                <title>[COLORff008080]Link 2[/COLOR] (OffLine)</title>
-                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <title>[COLORff008080]Link 2[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://totalsport.me/foxsports1usa_hd.html</link>
                 <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
                 </item>
                 <item>
@@ -297,6 +297,37 @@
                 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
                 <thumbnail>http://logo.ddnb.tn/logochanel/3513.png</thumbnail>
                 </item>
+            </items>	
+        </channel>
+        
+<channel>
+<name>[B][COLOR yellowgreen]•[/COLOR][COLOR darkorange]•[/COLOR][COLOR lime] Fox Sports 2 USA[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/JdCC90z/3514.png</thumbnail>
+<fanart></fanart>
+    <items>
+        <title>[B][COLOR lightslategray] Fox Sports 2 USA[/COLOR][/B]</title>
+        <thumbnail>https://i.ibb.co/JdCC90z/3514.png</thumbnail>
+        <fanart></fanart>
+            <items>            
+                <item>
+                <title>[COLORff008080]Link 1[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://totalsport.me/foxsports2usa_hd.html</link>
+                <thumbnail>https://i.ibb.co/JdCC90z/3514.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 2[/COLOR]</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <thumbnail>https://i.ibb.co/JdCC90z/3514.png</thumbnail>
+                </item>
+                <item>
+                <title>[COLORff008080]Link 3[/COLOR] (OffLine)</title>
+                <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
+                <thumbnail>https://i.ibb.co/JdCC90z/3514.png</thumbnail>
+                </item>
+                <item>
+               [B][COLOR lightslategray] Fox Sports 2 USA[/COLOR][/B]
+              <inputstream>https://newdmn.icu/stream/45460.html|X-Forwarded-For=37.228.160.35</inputstream>
+            </item>
             </items>	
         </channel>
 
@@ -432,22 +463,6 @@
                 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=</link>
                 <thumbnail>https://i.imgur.com/aR33kqd.png</thumbnail>
                 </item>
-                <item>
-                <title>[B][COLOR lightslategray] Sky Sports Main Event[/COLOR][/B]</title>
-                <link>$doregex[geturl]</link>
-                <regex>
-                <name>geturl</name>
-                <expres>Clappr.Player[\w\W]*?(?:source|src):\s*[\'"]([^\'"]+)</expres>
-                <page>$doregex[getunpacked]</page>
-                </regex>
-                <regex>
-                <name>getunpacked</name>
-                <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
-                <page>https://sportzonline.to/channels/hd/hd5.php</page>
-               <referer>https://sportzonline.to/channels/hd/hd5.php</referer>
-               </regex>
-               <thumbnail>https://i.imgur.com/aR33kqd.png</thumbnail>
-               </item>
             </items>	
         </channel>
 
