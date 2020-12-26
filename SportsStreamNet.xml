@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
+<item>
+<title>[COLORorangered][B]Only Active During Game Time[/B][/COLOR]</title>
+<sportsdevil>ignoreme</sportsdevil>
+<referer></referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Studio_Wildcard_logo.png</thumbnail>
+<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORorangered][B][/B][/COLOR]</title>
+<link>ignoreme</link>
+<referer>http://streaming-sport.tv/</referer>
+<thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
+<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
+<fanart></fanart>
+</item>
+
+<item>
+	<title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
+	<link>$doregex[get_sxstream]|Referer=http://streaming-sport.tv/chaine/c1/</link>
+	<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners</info>
+	<regex>
+		<name>get_sxstream</name>
+		<expres>source:.*[",'](.*m3u8.*?)[",']</expres>
+		<page></page>
+		<referer>https://stream.andrhino.com/embed/footv01</referer>
+	</regex>
+</item>
+
+
+
+
+
 
 <item>
 <title>[COLORorangered][B]Sports Channels STREAMcr7[/B][/COLOR]</title>
@@ -11,14 +45,6 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLORorangered][B]Only Active During Game Time[/B][/COLOR]</title>
-<sportsdevil>ignoreme</sportsdevil>
-<referer></referer>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/8/82/Studio_Wildcard_logo.png</thumbnail>
-<info>I DO NOT OWN OR HOST THESE STREAMING LINKS.THEY ARE FREELY AVAILABLE ON THE INTERNET.Credits to the owners </info>
-<fanart></fanart>
-</item>
 
 <item>
 	<title>[B][COLOR snow]Stream-CR7 Channel 1[/COLOR][/B]</title><thumbnail>http://streamcr7.com/images/logo.png</thumbnail>
