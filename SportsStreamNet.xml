@@ -21,7 +21,7 @@
 
 <item>
 	<title>[B][COLOR snow]Streaming Sports Tv Channels 1 [/COLOR][/B]</title><thumbnail>http://streaming-sport.tv/wp-content/uploads/2019/12/logo-300x56.png</thumbnail>
-	<link>$doregex[get-link]|User-Agent=iPad</link>	
+	<link>$doregex[get-link]http://streaming-sport.tv/chaine/c1/|User-Agent=iPad</link>	
 	<regex>
 		<name>get-link</name>
 		<expres>file: "(.*?)"</expres>
