@@ -377,3 +377,26 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
   <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]|User-Agent=Android</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR red]• [/COLOR][COLOR lime][makelist.param1][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param2]&amp;url=$doregex[encodedurl]</link>
+  <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:.*,(.*?)\n.*(http.*m3u8)]]></expres>
+<page>https://free-sat-iptv.blogspot.com/2020/05/iptv-sport-free-m3u-playlist-16-05-2020.html</page>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
