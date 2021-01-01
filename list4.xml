@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 12/23/2020[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/2/2021[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,409 +17,70 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-
 #EXTM3U
-#EXTINF:-1,ABC NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/1
-#EXTINF:-1,CBS NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/2
-#EXTINF:-1,NBC NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/3
-#EXTINF:-1,WAPA PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/4
-#EXTINF:-1,WAPA2 PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5
-#EXTINF:-1,TELEMUNDO PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/6
-#EXTINF:-1,Punto2 PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/7
-#EXTINF:-1,MEGATV PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/8
-#EXTINF:-1,UNIVISION PR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/9
-#EXTINF:-1,FOX SOCCER PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/10
-#EXTINF:-1,FOX NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/11
-#EXTINF:-1,MLB NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/12
-#EXTINF:-1,WWE NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/13
-#EXTINF:-1,GOLTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/14
-#EXTINF:-1,UFC NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/15
-#EXTINF:-1,(UK) SKY SPORTS F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/16
-#EXTINF:-1,TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/17
-#EXTINF:-1,NHL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/18
-#EXTINF:-1,FISHING NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/19
-#EXTINF:-1,TNT SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/20
-#EXTINF:-1,SKY SPORT MAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/21
-#EXTINF:-1,SKY SPORTS LATINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/22
-#EXTINF:-1,TYC SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/23
-#EXTINF:-1,AyM Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/24
-#EXTINF:-1,BOX NATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/25
-#EXTINF:-1,DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/26
-#EXTINF:-1,DE PELICULA PLUS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/27
-#EXTINF:-1,TLENOVELAS MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/28
-#EXTINF:-1,TLENOVELAS UNIVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/29
-#EXTINF:-1,Nick Music HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/30
-#EXTINF:-1,AZ MUNDO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/31
-#EXTINF:-1,AZTECA CORAZON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/32
-#EXTINF:-1,AZTECA CLICK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/33
-#EXTINF:-1,TRUTV MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/34
-#EXTINF:-1,24/7|| El Chavo del 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/35
-#EXTINF:-1,24/7|| El Chavo Animado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/36
-#EXTINF:-1,24/7|| Play! La casa de Mickey Mouse
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/37
-#EXTINF:-1,24/7 VIP|| Los Simpsons (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/38
-#EXTINF:-1,24/7 VIP|| Moviecenter Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/39
-#EXTINF:-1,24/7 VIP|| Cinema Navidad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/40
-#EXTINF:-1,24/7 VIP|| Cinema Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/41
-#EXTINF:-1,24/7 VIP|| Cinema Classics Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/42
-#EXTINF:-1,24/7 VIP|| Disney Live Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/43
-#EXTINF:-1,24/7 VIP|| Scooby-Doo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/44
-#EXTINF:-1,24/7 VIP|| Cinema Happy Madison
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/45
-#EXTINF:-1,24/7 VIP|| Cinema Ciencia Ficcion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/46
-#EXTINF:-1,24/7 VIP|| Keanu Reeves
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/47
-#EXTINF:-1,24/7 VIP|| Cinema Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/48
-#EXTINF:-1,24/7 VIP|| Cinema Accion Classics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/49
-#EXTINF:-1,24/7 VIP|| Cinema Lego Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/50
-#EXTINF:-1,24/7 VIP|| Cinema Disney Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/51
-#EXTINF:-1,24/7 VIP|| Cinema Disney Pixar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/52
-#EXTINF:-1,24/7 VIP|| Cinema Dreamworks
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/53
-#EXTINF:-1,24/7 VIP|| Cinema Dc Universe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/54
-#EXTINF:-1,24/7 VIP|| Cinema DC Comics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/55
-#EXTINF:-1,24/7 VIP|| Cinema Marvel Studios
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/56
-#EXTINF:-1,24/7 VIP|| Cinema Indiana Jones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/57
-#EXTINF:-1,24/7 VIP|| Moviecenter Premium Este
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/58
-#EXTINF:-1,24/7 VIP|| Moviecenter Premium Oeste
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/59
-#EXTINF:-1,24/7 VIP|| Moviecenter Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/60
-#EXTINF:-1,24/7 VIP|| 24/7|| ARTES MARCIALES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/61
-#EXTINF:-1,24/7 VIP|| 24/7|| Cinema Harry Potter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/62
-#EXTINF:-1,24/7|| POKEMON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/63
-#EXTINF:-1,24/7 VIP|| Familia Peluche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/65
-#EXTINF:-1,24/7 VIP|| Peppa Pig
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/68
-#EXTINF:-1,24/7|| The Looney Tunes Show
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/69
-#EXTINF:-1,24/7|| Super Campeones
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/70
-#EXTINF:-1,24/7 VIP|| Extra normal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/71
-#EXTINF:-1,24/7|| Halcones Galacticos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/72
-#EXTINF:-1,24/7|| Extra Normal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/73
-#EXTINF:-1,24/7 VIP|| Dragon Ball GT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/74
-#EXTINF:-1,24/7 VIP|| Dragon Ball Super
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/75
-#EXTINF:-1,24/7 VIP|| Caballeros del Zodiaco
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/76
-#EXTINF:-1,MX || Distrito Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/77
-#EXTINF:-1,MX | Telehit Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/78
-#EXTINF:-1,MX | Telehit Urbano
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/79
-#EXTINF:-1,MX | Bandamax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/80
-#EXTINF:-1,MX | Dog TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/81
-#EXTINF:-1,CO | CARACOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/82
-#EXTINF:-1,CO | RCN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/83
-#EXTINF:-1,CANAL 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/84
-#EXTINF:-1,Claro | RAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/85
-#EXTINF:-1,USA | Discovery Espanol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/86
-#EXTINF:-1,USA | Destination America
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/87
-#EXTINF:-1,USA | USA ACC Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/89
-#EXTINF:-1,US | MSG NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/90
-#EXTINF:-1,USA | NESN Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/91
-#EXTINF:-1,USA | Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/92
-#EXTINF:-1,USA | TBS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/93
-#EXTINF:-1,USA | LIFETIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/94
-#EXTINF:-1,USA | Telemundo Miami
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/95
-#EXTINF:-1,USA | Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/96
-#EXTINF:-1,USA | CMT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/97
-#EXTINF:-1,USA | FOX NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/98
-#EXTINF:-1,USA | Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/99
-#EXTINF:-1,USA | Espn News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/100
-#EXTINF:-1,(XXX) X
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/101
-#EXTINF:-1,(XXX) Babes TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/102
-#EXTINF:-1,(XXX) VIVINRED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/103
-#EXTINF:-1,(XXX) CANAL GAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/104
-#EXTINF:-1,EL GOURMET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/105
-#EXTINF:-1,SPECTRUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/106
-#EXTINF:-1,ABC LOS ANGELES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/107
-#EXTINF:-1,CBS LOS ANGELES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/108
-#EXTINF:-1,NBC LOS ANGELES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/109
-#EXTINF:-1,FOX LOS ANGELES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/110
-#EXTINF:-1,OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/111
-#EXTINF:-1,NFL NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/112
-#EXTINF:-1,MLB11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5111
-#EXTINF:-1,MLB9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5109
-#EXTINF:-1,MLB8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5108
-#EXTINF:-1,MLB7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5107
-#EXTINF:-1,MLB6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5106
-#EXTINF:-1,MLB5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5105
-#EXTINF:-1,MLB4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5104
-#EXTINF:-1,MLB3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5103
-#EXTINF:-1,MLB2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5102
-#EXTINF:-1,MLB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5101
-#EXTINF:-1,TVG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/113
-#EXTINF:-1,TITANS VS TEXANS SEMANA 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/4102
-#EXTINF:-1,NBC SPORTS CALIFORNIA SACRAMENTO KINGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/4103
-#EXTINF:-1,YES NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/114
-#EXTINF:-1,MLB10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5110
-#EXTINF:-1,MLB12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5112
-#EXTINF:-1,MLB13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5113
-#EXTINF:-1,NBC SPORTS Boston
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/4107
-#EXTINF:-1,NBC SPORTS Washington
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/4108
-#EXTINF:-1,24/7|| El Chapulin Colorado Animado
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/115
-#EXTINF:-1,24/ 7 MICKEY MOUSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/116
-#EXTINF:-1,24/7 || 40 y 20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/117
-#EXTINF:-1,24/7 VIP|| Nosotros los Guapos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/66
-#EXTINF:-1,24/7 VIP|| Rosa de Guadalupe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/67
-#EXTINF:-1,HUSTLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/200
-#EXTINF:-1,XXX BRAZERS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/201
-#EXTINF:-1,MLB ENCODER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5001
-#EXTINF:-1,24/7 VIP|| FUTURAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/64
-#EXTINF:-1,TSN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/88
-#EXTINF:-1,24/7 || Vecinos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/118
-#EXTINF:-1,MTV USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/202
-#EXTINF:-1,ESPN U USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/203
-#EXTINF:-1,TSN 2 CANADA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/205
-#EXTINF:-1,CANAL 5 CDMX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/209
-#EXTINF:-1,AZTECA UNO CDMX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/208
-#EXTINF:-1,HBO Mundi MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/207
-#EXTINF:-1,UNIVISION Network USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/206
-#EXTINF:-1,La Liga Movistar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/210
-#EXTINF:-1,Disney jr MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5120
-#EXTINF:-1,BITME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5122
-#EXTINF:-1,Red Zone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5123
-#EXTINF:-1,HOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5124
-#EXTINF:-1,MTV CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5125
-#EXTINF:-1,MTV LATINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5126
-#EXTINF:-1,AMC USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5127
-#EXTINF:-1,vikingos vs texanos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5005
-#EXTINF:-1,WinSports +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5128
-#EXTINF:-1,WinSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5129
-#EXTINF:-1,AMC LATINO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5130
-#EXTINF:-1,Disney XD MX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5131
-#EXTINF:-1,Golden HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5133
-#EXTINF:-1,Estrellas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5134
-#EXTINF:-1,A3S Latino HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5135
-#EXTINF:-1,HGTV LATINO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5136
-#EXTINF:-1,Sunday ticket 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5137
-#EXTINF:-1,Sunday Ticket 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5138
-#EXTINF:-1,Sunday Ticket 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5139
-#EXTINF:-1,LIGA PACIFICO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5140
-#EXTINF:-1,Hallmark Movies & Mysteries USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5141
-#EXTINF:-1,GSN USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5142
-#EXTINF:-1,Cowboy Ch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5143
-#EXTINF:-1,Sportsman HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5144
-#EXTINF:-1,gol tv usa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5145
-#EXTINF:-1,Toocast
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5146
-#EXTINF:-1,Tijuana televisa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5132
-#EXTINF:-1,ESPN USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5148
-#EXTINF:-1,History HD US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5151
-#EXTINF:-1,CNN USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5152
-#EXTINF:-1,TLC USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5153
-#EXTINF:-1,FX HD DE USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5154
-#EXTINF:-1,ESPN 2 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5155
-#EXTINF:-1,GOLF USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5156
-#EXTINF:-1,Multimedios
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5157
-#EXTINF:-1,Tlevisa Guadalajara
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5158
-#EXTINF:-1,Galavision us
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5159
-#EXTINF:-1,FS1 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5160
-#EXTINF:-1,FS2 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5161
-#EXTINF:-1,ESPN DEPORTES US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5162
-#EXTINF:-1,Animal Planet US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5163
-#EXTINF:-1,Tennis US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5164
-#EXTINF:-1,Juarez
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5165
-#EXTINF:-1,ESPN ARGENTINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5166
-#EXTINF:-1,66 de Mexicali
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5167
-#EXTINF:-1,imagen TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5168
-#EXTINF:-1,Mega Clasicos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5169
-#EXTINF:-1,5 El lider
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5170
-#EXTINF:-1,Telecadena Honduras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5171
-#EXTINF:-1,HBO 2 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5172
-#EXTINF:-1,HBO East USA ESP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5173
-#EXTINF:-1,Starz East US
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5174
-#EXTINF:-1,Starz Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5175
-#EXTINF:-1,VH1 USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5176
-#EXTINF:-1,tijuana TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5177
-#EXTINF:-1,canelo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/5178
+#EXTINF:-1,USA:BeinSports.usa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/890
+#EXTINF:-1,USA:NBC.Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
+#EXTINF:-1,USA:Eleven.Sports-Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873
+#EXTINF:-1,USA:NBC.Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/874
+#EXTINF:-1,USA:Fight.Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/875
+#EXTINF:-1,USA:Fox.Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870
+#EXTINF:-1,USA:Fox.Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871
+#EXTINF:-1,USA:ESPN1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/868
+#EXTINF:-1,USA:ESPN2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/876
+#EXTINF:-1,USA:TSN1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/664
+#EXTINF:-1,USA:TSN2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/663
+#EXTINF:-1,USA:TSN3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/662
+#EXTINF:-1,USA:TSN4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/661
+#EXTINF:-1,USA:TSN5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/192
+#EXTINF:-1,USA:WWE.Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/882
+#EXTINF:-1,USA:USA.Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/883
+#EXTINF:-1,USA:Showtime2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/866
+#EXTINF:-1,USA:HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/879
+#EXTINF:-1,USA:HBO2.Zone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/880
+#EXTINF:-1,USA:HBO.Sinature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/881
+#EXTINF:-1,USA:HBO.Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/885
+#EXTINF:-1,USA:Starz.Encore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/886
+#EXTINF:-1,USA:Starz.Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/888
+#EXTINF:-1,USA:Cinemax.Moremax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/892
+#EXTINF:-1,USA:Cinemax.East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/891
+#EXTINF:-1,USA:Hallmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1198
+#EXTINF:-1,USA:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/869
+#EXTINF:-1,USA:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/884
+#EXTINF:-1,USA:Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/878
+#EXTINF:-1,USA:Bravo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/877
+#EXTINF:-1,USA:Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/895
+#EXTINF:-1,USA:Discovery.Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/894
+#EXTINF:-1,USA:Animal.Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/893
