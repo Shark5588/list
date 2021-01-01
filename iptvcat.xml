@@ -188,7 +188,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
 ]]></listrepeat>
 <expres>(http://(.*)/.*)</expres>
-<page>https://leaksat.com/2020/12/iptv-m3u-playlist-30-12-2020.html/2</page>
+<page>https://leaksat.com/2021/01/iptv-m3u-playlist-01-01-2021.html/2</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
  
@@ -391,6 +391,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:.*,(.*?)\n.*(http.*m3u8)]]></expres>
 <page>https://freenote.biz/raw/W4ZzARXmHT</page>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]')<expres>
+<page></page>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<link>$doregex[makelist]|User-Agent=Android</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR red]• [/COLOR][COLOR lime][makelist.param1][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param2]&amp;url=$doregex[encodedurl]</link>
+  <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
+  <fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:.*,(.*?)\n.*(http.*m3u8)]]></expres>
+<page>https://freenote.biz/raw/DBkPlIW46g</page>
 </regex>
 <regex>
 <name>encodedurl</name>
