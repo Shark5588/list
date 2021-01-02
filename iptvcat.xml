@@ -152,7 +152,7 @@
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
  ]]></listrepeat>                                         
 <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>\n(.*?)\n<]]></expres>
-<page>https://www.iptv-m3u-playlist.com/search?max-results=40</page>
+<page>https://m3u.freeiptv.life/search?max-results=40</page>
 </regex>
 
 <regex>
