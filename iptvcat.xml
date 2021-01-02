@@ -120,7 +120,7 @@
  <link>$doregex[makelist]</link>
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
  ]]></listrepeat>                                         
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)[\w\W\s]{0,7}(.*?)2021]]></expres>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)[\w\W\s]{0,7}(.*?)2021\n]]></expres>
 <page>https://usalinksiptv.blogspot.com/search?max-results=40</page>
 </regex>
 
