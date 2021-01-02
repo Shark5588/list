@@ -151,7 +151,7 @@
  <link>$doregex[makelist]</link>
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
  ]]></listrepeat>                                         
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2021]]></expres>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Free IPTV m3u playlist links (.*?)2021]]></expres>
 <page>https://m3u.freeiptv.life/search?max-results=40</page>
 </regex>
 
