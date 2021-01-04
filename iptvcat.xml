@@ -159,7 +159,7 @@
       <title>[COLOR red]• [/COLOR][COLOR dodgerblue][leg.param2][/COLOR]</title>
       <link>$doregex[list]</link>
     ]]></listrepeat>
-    <expres><![CDATA[(?s)<h2 class="post-title".+?href="https"([^\'"]+)">([^\'"]+)</a>]]></expres>
+    <expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
     <page>[leg2.param1]</page>
     </regex>
     <regex>
@@ -169,7 +169,7 @@
       <link>NA</link>
       <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
-    <expres><![CDATA[(?s)<h2 class="post-title".+?href='(.*?)'>iptv|m3u|playlist  (.*?)2021</a>]]></expres>
+    <expres><![CDATA[(?s)<h2 class="post-title".+?href="([^\'"]+)">iptv|m3u|playlist  (.*?)2021</a]]></expres>
     <page>[leg.param1]</page>
     </regex>
     
