@@ -58,7 +58,7 @@
 <regex>
 <name>leg</name>
 <listrepeat><![CDATA[
-<title>[COLOR red]•[/COLOR] [COLOR lime] [leg.param2]  [/COLOR]</title>
+<title>[COLOR red]•[/COLOR] [COLOR lime][leg.param2][/COLOR]</title>
 <link>$doregex[list]</link>
 ]]></listrepeat>
 <expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
@@ -152,7 +152,7 @@
     <expres><![CDATA[#$pyFunction
 import re
 def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('<ul>(?s)(.*?)</ul>',page_data)[0]
+  list=re.findall('<li><b>(.*)\n\s*<ul>\n(\s*<li>.+\n)+\s*</ul>',page_data)[0]
   trlist=re.findall('<a href="([^\'"]+)".>([^\'"]+)</a>',list)
   return trlist
 ]]></expres>
