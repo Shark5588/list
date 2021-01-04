@@ -165,22 +165,13 @@
     <regex>
     <name>list</name>
     <listrepeat><![CDATA[
-      <title> [B] USER [COLORdodgerblue][list2.param2][/COLOR][/B]</title>
+      <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list.param2][/COLOR][/B]</title>
       <link>$doregex[list]</link>
     ]]></listrepeat>
-    <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>iptv|m3u|playlist  (.*?)2021]]></expres>
+    <expres><![CDATA[(?s)<h2 class="post-title".+?href='(.*?)'>iptv|m3u|playlist  (.*?)2021]]></expres>
     <page>[leg.param1]</page>
     </regex>
-        <regex>
-    <name>list2</name>
-    <listrepeat><![CDATA[
-      <title>[list2.param2]</title>
-      <link>NA</link>
-      <externallink>[list2.param1]$$TSDOWNLOADER$$</externallink>
-    ]]></listrepeat>
-    <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
-    <page>http[leg.param1]</page>
-    </regex>
+    
 </item>
 
 <item>
