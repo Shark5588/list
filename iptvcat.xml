@@ -70,7 +70,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR red]• [/COLOR]  [COLOR lime] [list.param2]  [/COLOR]</title>
 <link>NA</link>
-<externallink>[COLOR red]• [/COLOR][COLOR snow][list.param1]$$TSDOWNLOADER$$[/COLOR]</externallink>
+<externallink>[COLOR red]• [/COLOR][COLOR snow][list.param1][/COLOR]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
 <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
 <page>http[leg.param1]</page>
