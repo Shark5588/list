@@ -176,7 +176,7 @@
     <name>makelist2</name>
     <listrepeat><![CDATA[
     <title>[COLOR white]Channel: [COLOR dodgerblue][makelist2.param1] [/COLOR][/COLOR]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[COLOR gold][B][COLOR white]#EXTINF:[/COLOR][/B] [makelist2.param1]</link>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[B][COLOR white]#EXTINF:[/COLOR][/B] [makelist2.param1]</link>
     ]]></listrepeat>
     <expres>#EXTINF:.*?,(.*?)\n(.*)</expres>
     <page>[list.param1]</page>
