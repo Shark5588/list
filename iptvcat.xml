@@ -169,7 +169,7 @@
        <title>[COLOR lime]• [/COLOR][COLOR dodgerblue][list.param2][/COLOR]</title>
        <link>$doregex[makelist2]</link>
     ]]></listrepeat>
-        <expres><![CDATA[(?s)<h2 class="post-title".+?href="(.*?)">IPTV M3u Playlist (.*?)2021]]></expres>
+        <expres><![CDATA[(?s)<h2 class="post-title".+?href="([^"]*)">IPTV M3u Playlist (.*?)2021]]></expres>
         <page>http[leg.param1]</page>
     </regex>
 <regex>
