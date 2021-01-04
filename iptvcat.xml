@@ -170,7 +170,7 @@
        <link>$doregex[makelist2]</link>
     ]]></listrepeat>
         <expres><![CDATA[(?s)<h2 class="post-title".+?href="(.+?)">(.+?)</a>]]></expres>
-        <page>http[leg.param1]</page>
+        <page>https[leg.param1]</page>
     </regex>
      <regex>
     <name>makelist2</name>
