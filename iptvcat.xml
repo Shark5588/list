@@ -174,7 +174,7 @@
          <regex>
     <name>leg2</name>
     <listrepeat><![CDATA[
-    <title>[B][COLORlime]SERVER [/COLOR][COLORcoral][leg2.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][leg2.param2][/COLOR][/B] </title>
+    <title>[B][COLORlime]SERVER [/COLOR][COLORcoral][list2.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list2.param2][/COLOR][/B] </title>
       <link>NA</link>
       <externallink>http://[leg2.param1]/get.php?username=[leg2.param2]&amp;password=[leg2.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
