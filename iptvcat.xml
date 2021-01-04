@@ -151,7 +151,7 @@
       <link>$doregex[leg]</link>
     ]]></listrepeat>
     <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-    <page>https://leaksat.com/search?max-results=40</page>
+    <page>https://leaksat.com/</page>
     </regex>
     <regex>
     <name>leg</name>
@@ -169,7 +169,7 @@
       <link>NA</link>
       <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
-    <expres><![CDATA[(?s)<h2 class="post-title".+?href='([^\'"]+)'>iptv|m3u|playlist  ([^\'"]).+? 2021]]></expres>
+    <expres><![CDATA[(?s)<h2 class="post-title".+?href="([^"]+\?[^"]+)">iptv|m3u|playlist  (.*?) 2021]]></expres>
     <page>[leg.param1]</page>
     </regex>
     
