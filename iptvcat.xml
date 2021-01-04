@@ -11,7 +11,7 @@
 
 
 <item>
-  <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-1 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+  <title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-1 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
   <link>$doregex[genre]</link>
   <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
   <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart> 
@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-2 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-2 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
 <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart> 
 <link>$doregex[leg2]</link>
@@ -78,7 +78,7 @@
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-3 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-3 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist1]</link>
 
 <regex>
@@ -97,7 +97,7 @@
 <listrepeat><![CDATA[
 <title>$pyFunction:'[COLOR lime][B]Server [/B][/COLOR][COLOR gold][makelist2.param2][makelist2.param3][makelist2.param4][makelist2.param5][makelist2.param6]  [/COLOR]'.replace('Active','[COLOR green][B]Active[/B][COLOR]').replace('Disabled','[COLOR silver]Disabled[COLOR]').replace('Banned ','[COLOR red]Banned [COLOR]')</title>
 <link>NA</link>
-<info>[COLOR yellow][makelist2.param7] [/COLOR] -[COLOR coral] [makelist2.param8][/COLOR]</info>
+<info>[COLOR red][makelist2.param7] [/COLOR] -[COLOR coral] [makelist2.param8][/COLOR]</info>
 <externallink>[makelist2.param2]$$TSDOWNLOADER$$</externallink>
 ]]></listrepeat>
 <expres><![CDATA[>HIT<.*?href="(.*?)".*?white">(.*?)<.*?\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\n]]></expres>
@@ -108,7 +108,7 @@
   </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-4 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-4 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
 <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 <link>$doregex[makelist2]</link>
@@ -139,7 +139,7 @@
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-5 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-5 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
 <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
     <link>$doregex[leg2]</link>
@@ -176,7 +176,7 @@
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-6 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-6 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -215,7 +215,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-7 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-7 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -244,7 +244,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-8 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-8 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
@@ -279,7 +279,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <item><title>[B][COLORsnow]      •   •   •  IPTV CAT  •   •   •[/COLOR][/B]</title><link>http://Ignoreme</link><thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail><fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart></item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] IPTVCAT USA[/COLOR][COLORred] (R) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] IPTVCAT USA[/COLOR][COLORred] (R) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -317,7 +317,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] IPTVCAT CANADA[/COLOR][COLORred] (R)[/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] IPTVCAT CANADA[/COLOR][COLORred] (R)[/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -355,7 +355,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] IPTVCAT WORLD SPORTS[/COLOR][COLORred] (R)[/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] IPTVCAT WORLD SPORTS[/COLOR][COLORred] (R)[/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -393,7 +393,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]|User-Agent=Android</link>
 <regex>
 <name>makelist</name>
@@ -416,7 +416,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]|User-Agent=Android</link>
 <regex>
 <name>makelist</name>
@@ -439,7 +439,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLOR gold] MORE [/COLOR][COLORred] (M3U8 files testing) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist]|User-Agent=Android</link>
 <regex>
 <name>makelist</name>
