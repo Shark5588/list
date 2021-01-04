@@ -163,7 +163,7 @@
     <page>[leg2.param1]</page>
     </regex>
     <regex>
-    <name>leg</name>
+    <name>list</name>
     <listrepeat><![CDATA[
       <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list.param2][/COLOR][/B]</title>
       <link>$doregex[list]</link>
