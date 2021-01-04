@@ -169,7 +169,7 @@
       <link>NA</link>
       <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
-    <expres><![CDATA[<a\s+(?:[^>]*?\s+)?href="([^"]*)"]]></expres>
+    <expres><![CDATA[<a\s+?href="([^"]*)"]]></expres>
     <page>http[leg.param1]</page>
     </regex>
 </item>
