@@ -165,7 +165,7 @@
     <regex>
     <name>list</name>
     <listrepeat><![CDATA[
-      <title>[B][COLOR red]• [/COLOR][COLORdodgerblue][leg.param2][/COLOR][/B]</title>
+      <title>[COLOR red]• [/COLOR][COLORdodgerblue][leg.param2][/COLOR]</title>
       <link>$doregex[leg]</link>
       <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
