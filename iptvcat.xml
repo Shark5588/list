@@ -149,13 +149,7 @@
       <title>[COLOR dodgerblue][makelist.param2][/COLOR]</title>
       <link>$doregex[leg]</link>
     ]]></listrepeat>
-    <expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('<li><b>(.*)\n\s*<ul>\n(\s*<li>.+\n)+\s*</ul>',page_data)[0]
-  trlist=re.findall('<a href="([^\'"]+)".>([^\'"]+)</a>',list)
-  return trlist
-]]></expres>
+    <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
     <page>https://leaksat.com/</page>
     <referer></referer>
     <cookieJar></cookieJar>
