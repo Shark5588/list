@@ -169,7 +169,7 @@
       <link>NA</link>
       <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
-    <expres><![CDATA[<a\s+?href="([^"]*)"]]></expres>
+    <expres><![CDATA[(?s)<h2 class="post-title".+?href="([^"]*)"]]></expres>
     <page>http[leg.param1]</page>
     </regex>
 </item>
@@ -248,7 +248,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
- <title>[COLORdodgerblue]CHANNEL[/COLOR] [makelist2.param2] </title>
+ <title>[COLOR red]•[/COLOR][COLORdodgerblue] [makelist2.param2] [/COLOR]</title>
  <link>$doregex[makelist]</link>
 <thumbnail>[makelist.param1]</thumbnail>
  ]]></listrepeat>
