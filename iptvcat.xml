@@ -167,7 +167,8 @@
         <name>list</name>
         <listrepeat><![CDATA[
        <title>[COLOR dodgerblue][list.param2][/COLOR]</title>
-       <link>$doregex[makelist2]</link>
+       <link>NA</link>
+       <externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
         <expres><![CDATA[<a href="(.*?)">Download (.*?)</a>]]></expres>
         <page>http[leg.param1]</page>
@@ -176,8 +177,7 @@
     <name>makelist2</name>
     <listrepeat><![CDATA[
     <title>[COLOR white]Channel: [COLOR dodgerblue][makelist2.param1] [/COLOR][/COLOR]</title>
-    <link>NA</link>
-    <externallink>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[COLOR gold][B][COLOR white]#EXTINF:[/COLOR][/B] [makelist2.param1]</externallink>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[COLOR gold][B][COLOR white]#EXTINF:[/COLOR][/B] [makelist2.param1]</link>
     ]]></listrepeat>
     <expres>#EXTINF:.*?,(.*?)\n(.*)</expres>
     <page>[list.param1]</page>
