@@ -165,7 +165,7 @@
     <regex>
     <name>list</name>
     <listrepeat><![CDATA[
-      <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list.param2][/COLOR][/B]</title>
+      <title> [B] USER [COLORdodgerblue][list2.param2][/COLOR][/B]</title>
       <link>$doregex[list]</link>
     ]]></listrepeat>
     <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>iptv|m3u|playlist  (.*?)2021]]></expres>
