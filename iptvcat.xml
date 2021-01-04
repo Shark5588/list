@@ -166,8 +166,7 @@
     <name>list</name>
     <listrepeat><![CDATA[
       <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list.param2][/COLOR][/B]</title>
-      <link>NA</link>
-      <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+      <link>$doregex[list]</link>
     ]]></listrepeat>
     <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>iptv|m3u|playlist  (.*?)2021]]></expres>
     <page>[leg.param1]</page>
