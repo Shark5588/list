@@ -160,7 +160,7 @@
        <title>[COLOR dodgerblue][leg.param2][/COLOR]</title>
        <link>$doregex[list]</link>
        ]]></listrepeat>
-        <expres><![CDATA[(?s)<h2 class="post-title".+?href="http(.+?)">.+?\s(\d+[^\'"]+)</a>]]></expres>
+        <expres><![CDATA[(?s)<h2 class="post-title".+?href="http(.+?)">(.+?)\s(\d+[^\'"]+)</a>]]></expres>
         <page>[makelist.param1]</page>
     </regex>
     <regex>
