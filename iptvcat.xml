@@ -165,11 +165,11 @@
     <regex>
     <name>list</name>
     <listrepeat><![CDATA[
-      <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list.param2][/COLOR][/B]</title>
-      <link>NA</link>
+      <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param2][/COLOR][/B]   - [B] USER [COLORdodgerblue][leg.param2][/COLOR][/B]</title>
+      <link>$doregex[leg]</link>
       <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
-    <expres><![CDATA[(?s)<h2 class="post-title".+?href="([^\'"]+)">iptv|m3u|playlist  (.*?)2021</a]]></expres>
+    <expres><![CDATA[(?s)<h2 class="post-title".+?href='([^\'"]+)'>iptv|m3u|playlist  (.*?)2021</a]]></expres>
     <page>[leg.param1]</page>
     </regex>
     
