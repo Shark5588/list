@@ -160,7 +160,7 @@
        <title>[COLOR snow]• [/COLOR][COLOR dodgerblue][leg.param2][/COLOR]</title>
        <link>$doregex[list]</link>
        ]]></listrepeat>
-        <expres><![CDATA[(?s)<h2 class="post-title".+?href="http.+?">(.+?)\s(\d+[^\'"]+)</a>]]></expres>
+        <expres><![CDATA[(?s)<h2 class="post-title".+?href="([^"]*)"]]></expres>
         <page>[makelist.param1]</page>
     </regex>
     <regex>
@@ -178,7 +178,7 @@
     <title>[COLOR white]Channel: [COLOR dodgerblue][makelist2.param1] [/COLOR][/COLOR]</title>
     <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[COLOR gold][B][COLOR white]#EXTINF:[/COLOR][/B] [makelist2.param1]</link>
     ]]></listrepeat>
-    <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+    <expres>#EXTINF:.*?,(.*?)\n(.*)</expres>
     <page>[list.param1]</page>
     </regex>
 <thumbnail></thumbnail>
