@@ -160,16 +160,16 @@
        <title>[COLOR snow]• [/COLOR][COLOR dodgerblue][leg.param2][/COLOR]</title>
        <link>$doregex[list]</link>
        ]]></listrepeat>
-        <expres><![CDATA[(?s)<h2 class="post-title".+?href="http(.+?"> .+?)\s(\d+[^\'"]+)</a>]]></expres>
+        <expres><![CDATA[(?s)<h2 class="post-title".+?href="https.+?">(.+?)\s(\d+[^\'"]+)</a>]]></expres>
         <page>[makelist.param1]</page>
     </regex>
     <regex>
         <name>list</name>
         <listrepeat><![CDATA[
-       <title>[COLOR dodgerblue][list.param2][/COLOR]</title>
+       <title>[COLOR lime]• [/COLOR][COLOR dodgerblue][list.param2][/COLOR]</title>
        <link>$doregex[makelist2]</link>
     ]]></listrepeat>
-        <expres><![CDATA[<a href="(.*?)">Download (.*?)</a>]]></expres>
+        <expres><![CDATA[('(?s)<a href="(.*?m3u[^"]*)">Download\s([^<]*)',s)]]></expres>
         <page>http[leg.param1]</page>
     </regex>
      <regex>
