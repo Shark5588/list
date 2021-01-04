@@ -179,7 +179,7 @@
     <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$
     ]]></listrepeat>
     <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-    <page>[list2.param1]</page>
+    <page>[list.param1]</page>
     </regex>
     
 </item>
