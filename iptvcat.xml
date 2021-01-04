@@ -151,7 +151,7 @@
       <link>$doregex[leg]</link>
     ]]></listrepeat>
     <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-    <page>https://leaksat.com/</page>
+    <page>https://leaksat.com/search?max-results=40</page>
     </regex>
     <regex>
     <name>leg</name>
