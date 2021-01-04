@@ -172,14 +172,14 @@
     <page>[leg.param1]</page>
     </regex>
     <regex>
-    <name>makelist</name>
+    <name>list</name>
     <listrepeat><![CDATA[
-    <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B]</title>
+    <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list.param2][/COLOR][/B]</title>
     <link>NA</link>
-    <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$
+    <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$
     ]]></listrepeat>
     <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-    <page>[makelist.param1]</page>
+    <page>[list2.param1]</page>
     </regex>
     
 </item>
