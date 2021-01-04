@@ -179,7 +179,7 @@
       <externallink>http://[leg2.param1]/get.php?username=[leg2.param2]&amp;password=[leg2.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
     <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-    <page>http[list.param1]</page>
+    <page></page>
     <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
     </regex>
 </item>
