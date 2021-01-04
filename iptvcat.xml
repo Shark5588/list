@@ -148,7 +148,7 @@
     <name>leg3</name>
     <listrepeat><![CDATA[
       <title>[COLOR red]• [/COLOR][COLOR dodgerblue][leg3.param2][/COLOR]</title>
-      <link>$doregex[leg]</link>
+      <link>$doregex[leg2]</link>
     ]]></listrepeat>
     <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
     <page>https://leaksat.com/</page>
