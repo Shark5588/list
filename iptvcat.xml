@@ -142,34 +142,44 @@
 <title>[B][COLOR aqua]•[/COLOR][COLOR yellow]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-5 [/COLOR][COLORlime]) [/COLOR][COLOR yellow]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
 <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
-    <link>$doregex[leg2]</link>
+    <link>$doregex[leg3]</link>
 
     <regex>
-    <name>leg2</name>
+    <name>leg3</name>
     <listrepeat><![CDATA[
-      <title>[COLOR red]• [/COLOR][COLOR dodgerblue][leg2.param2][/COLOR]</title>
+      <title>[COLOR red]• [/COLOR][COLOR dodgerblue][leg3.param2][/COLOR]</title>
       <link>$doregex[leg]</link>
     ]]></listrepeat>
     <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
     <page>https://leaksat.com/</page>
     </regex>
     <regex>
-    <name>leg</name>
+    <name>leg2</name>
     <listrepeat><![CDATA[
-      <title>[COLOR red]• [/COLOR][COLOR dodgerblue][leg.param2][/COLOR]</title>
-      <link>$doregex[list]</link>
+      <title>[COLOR red]• [/COLOR][COLOR dodgerblue][leg2.param2][/COLOR]</title>
+      <link>$doregex[leg]</link>
     ]]></listrepeat>
     <expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
     <page>[leg2.param1]</page>
     </regex>
     <regex>
-    <name>list</name>
+    <name>leg</name>
     <listrepeat><![CDATA[
-      <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][list.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][list.param2][/COLOR][/B]</title>
+      <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][leg.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][leg.param2][/COLOR][/B]</title>
       <link>$doregex[list]</link>
     ]]></listrepeat>
     <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>iptv|m3u|playlist  (.*?)2021]]></expres>
     <page>[leg.param1]</page>
+    </regex>
+        <regex>
+    <name>list</name>
+    <listrepeat><![CDATA[
+      <title>[list.param2]</title>
+      <link>NA</link>
+      <externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+    ]]></listrepeat>
+    <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+    <page>http[leg.param1]</page>
     </regex>
 </item>
 
