@@ -68,9 +68,9 @@
 <regex>
 <name>list</name>
 <listrepeat><![CDATA[
-<title>  [COLOR lime] [list.param2]  [/COLOR]</title>
+<title>[COLOR red]• [/COLOR]  [COLOR lime] [list.param2]  [/COLOR]</title>
 <link>NA</link>
-<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+<externallink>[COLOR red]• [/COLOR][COLOR snow][list.param1]$$TSDOWNLOADER$$[/COLOR]</externallink>
 ]]></listrepeat>
 <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
 <page>http[leg.param1]</page>
@@ -166,7 +166,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
        <title>[COLOR dodgerblue][leg.param2][/COLOR]</title>
        <link>$doregex[list]</link>
        ]]></listrepeat>
-        <expres><![CDATA[(?s)<li class="post-title".+?href="http(.+?)">.+?\s(\d+[^\'"]+)</a>]]></expres>
+        <expres><![CDATA[(?s)<h2 class="post-title".+?href="http(.+?)">.+?\s(\d+[^\'"]+)</a>]]></expres>
         <page>[makelist.param1]</page>
     </regex>
     <regex>
@@ -242,7 +242,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
 ]]></listrepeat>
 <expres>(http://(.*)/.*)</expres>
-<page>https://leaksat.com/2021/01/iptv-m3u-playlist-03-01-2021.html/2</page>
+<page>https://leaksat.com/2021/01/iptv-m3u-playlist-04-01-2021.html/2</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
  
