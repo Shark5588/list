@@ -147,7 +147,7 @@
     <name>makelist</name>
     <listrepeat><![CDATA[
       <title>[COLOR red]• [/COLOR][COLOR dodgerblue][makelist.param2][/COLOR]</title>
-      <link>$doregex[leg]</link>
+      <link>$doregex[list]</link>
     ]]></listrepeat>
     <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
     <page>https://leaksat.com/</page>
@@ -160,7 +160,7 @@
        <title>[COLOR snow]• [/COLOR][COLOR dodgerblue][leg.param2][/COLOR]</title>
        <link>$doregex[list]</link>
        ]]></listrepeat>
-        <expres><![CDATA[(?s)<h2 class="post-title".+?href="(.+?)">(.+?)\s\d+[^\'"]+</a>]]></expres>
+        <expres><![CDATA[(?s)<h2 class="post-title".+?href="(.+?)">(.+?)</a>]]></expres>
         <page>[makelist.param1]</page>
     </regex>
     <regex>
