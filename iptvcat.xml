@@ -223,7 +223,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <link>$doregex[makelist2]</link>
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
 ]]></listrepeat>
-<expres>(http://(.*)/.*)</expres>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
 <page>https://leaksat.com/2021/01/iptv-m3u-playlist-04-01-2021.html/2</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
