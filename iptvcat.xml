@@ -174,8 +174,8 @@
          <regex>
     <name>makelist2</name>
     <listrepeat><![CDATA[
-    <title>[B][COLORlime]SERVER [/COLOR][COLORcoral][makelist2.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist2.param2][/COLOR][/B] </title>
-      <link>$doregex[list]</link>
+    <title>[B][COLORlime]SERVER [/COLOR][COLORcoral][makelist2.param2][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist2.param1][/COLOR][/B] </title>
+      <link>NA</link>
       <externallink>http://[makelist2.param1]/get.php?username=[makelist2.param2]&amp;password=[makelist2.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
     <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
@@ -225,35 +225,6 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 
 <item>
 <title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-7 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR cyan]Server:[/COLOR] [COLOR gold][makelist.param2][/COLOR] ( [makelist.param1] ) </title>
-<link>$doregex[makelist2]</link>
-<thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
-]]></listrepeat>
-<expres>(http://(.*)/.*)</expres>
-<page>https://leaksat.com/2021/01/iptv-m3u-playlist-04-01-2021.html/2</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
- 
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-    <title>[COLOR red][B]•[/B][/COLOR]  [makelist2.param1]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR snow][makelist2.param1][/COLOR]</title></link>
-]]></listrepeat>
-<expres>#EXTINF:-1,(.*?)\n(.*)</expres>
-<page>[makelist.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
-  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-8 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
