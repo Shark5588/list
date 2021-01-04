@@ -169,7 +169,7 @@
       <link>NA</link>
       <externallink>http://[list.param1]/get.php?username=[list.param2]&amp;password=[list.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
-    <expres><![CDATA[(?s)<h2 class="post-title"('(?s)<a href="(.*?m3u[^"]*)">Download\s([^<]*)',s)</a>]]></expres>
+    <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>iptv|m3u|playlist  (.*?)2021]]></expres>
     <page>[leg.param1]</page>
     </regex>
 </item>
