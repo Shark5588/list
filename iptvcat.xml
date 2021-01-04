@@ -176,10 +176,10 @@
     <listrepeat><![CDATA[
     <title>[B][COLORlime]SERVER [/COLOR][COLORcoral][makelist2.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist2.param2][/COLOR][/B] </title>
       <link>NA</link>
-      <externallink>http://[makelist2.param1]/get.php?username=[makelist2.param2]&amp;password=[makelist2.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+      <externallink>http://[list2.param1]/get.php?username=[list2.param2]&amp;password=[list2.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
     <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-    <page>http[makelist2.param1]</page>
+    <page>http[list.param1]</page>
     <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
     </regex>
 </item>
