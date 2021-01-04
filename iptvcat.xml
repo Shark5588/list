@@ -172,11 +172,11 @@
     <page>[leg.param1]</page>
     </regex>
         <regex>
-    <name>list</name>
+    <name>list2</name>
     <listrepeat><![CDATA[
-      <title>[list.param2]</title>
+      <title>[list2.param2]</title>
       <link>NA</link>
-      <externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+      <externallink>[list2.param1]$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
     <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
     <page>http[leg.param1]</page>
