@@ -665,42 +665,6 @@ Shark55
   </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
-    <name>[B][COLOR silver] |  • [/COLOR][COLOR red] \\\\\\[/COLOR][/B]</name>
-    <thumbnail></thumbnail>
-    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
-    <items>
-
-    <item>
-        <title>[B][COLOR silver]//////////////////////////[/COLOR][COLOR red] /////////[/COLOR][/B]</title>
-        <link>plugin://plugin.video.elementum/play?uri=</link>
-        <thumbnail></thumbnail>
-        <genre></genre>
-        <info></info>
-        <date>07.12.2020</date>  <!-- format - dd.mm.yyyy -->
-        <epg></epg>
-        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
-    </item>
-    
-	<item>
-        <title>[B][COLOR silver]/////////////////////////////[/COLOR][COLOR red] ///////[/COLOR][/B]</title>         
-        <link>plugin://plugin.video.elementum/play?uri=</link>
-        <thumbnail></thumbnail>
-    </item>
-	
-	<item>
-        <title>[B][COLOR silver]///////////////////////////[/COLOR][COLOR red] ////////[/COLOR][/B]</title>         
-        <link>plugin://plugin.video.elementum/play?uri=</link>
-        <thumbnail></thumbnail>
-    </item>
-	
-    <item>
-        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
-        <link>plugin://plugin.video.youtube/play/?video_id=</link>
-        <thumbnail></thumbnail>
-   </items>
-  </channel>
-//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-  <channel>
     <name>[B][COLOR silver]Da 5 Bloods | Drama[/COLOR][COLOR red] 2h 34m[/COLOR][/B]</name>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Da_5_Bloods_poster.jpeg/220px-Da_5_Bloods_poster.jpeg</thumbnail>
     <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
