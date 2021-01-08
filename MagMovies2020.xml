@@ -665,6 +665,42 @@ Shark55
   </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
+    <name>[B][COLOR silver] |  • [/COLOR][COLOR red] \\\\\\[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
+
+    <item>
+        <title>[B][COLOR silver]//////////////////////////[/COLOR][COLOR red] /////////[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=</link>
+        <thumbnail></thumbnail>
+        <genre></genre>
+        <info></info>
+        <date>07.12.2020</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]/////////////////////////////[/COLOR][COLOR red] ///////[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=</link>
+        <thumbnail></thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]///////////////////////////[/COLOR][COLOR red] ////////[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=</link>
+        <thumbnail></thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=</link>
+        <thumbnail></thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
     <name>[B][COLOR silver]Da 5 Bloods | Drama[/COLOR][COLOR red] 2h 34m[/COLOR][/B]</name>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Da_5_Bloods_poster.jpeg/220px-Da_5_Bloods_poster.jpeg</thumbnail>
     <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
@@ -1018,6 +1054,42 @@ how they feel about each other.</info>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fantasy_Island_poster.jpg</thumbnail>
    </items>
   </channel> 
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]Fatale |  Mystery•Thriller[/COLOR][COLOR red] 1h 42m[/COLOR][/B]</name>
+    <thumbnail>https://m.media-amazon.com/images/M/MV5BZmI2OThhMmYtZjVjOC00NWE3LWIwOGItMWM1MTEzMGNiOTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
+
+    <item>
+        <title>[B][COLOR silver]1080p.AMZN.WEBRip.DDP5.1.x264[/COLOR][COLOR red] 5.81 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a1e6dfe686414aa1ca1cd60a247e71b6fe4f7ca</link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZmI2OThhMmYtZjVjOC00NWE3LWIwOGItMWM1MTEzMGNiOTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+        <genre>Mystery•Thriller</genre>
+        <info>After a wild one-night stand, a successful sports agent watches his perfect life slowly disappear when he discovers the sexy and mysterious woman he risked everything for is a determined police detective who entangles him in her latest investigation. As he desperately tries to put the pieces together, he falls deeper into her trap, risking his family, his career, and even his life</info>
+        <date>08.01.2021</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.WEBRip.x264[/COLOR][COLOR red] 1.95 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3544698e65c492c719c1aeecccf529bb4e395d2b</link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZmI2OThhMmYtZjVjOC00NWE3LWIwOGItMWM1MTEzMGNiOTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]WEBRip.x264[/COLOR][COLOR red] 999.02 MB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de17443dd65b66ae49d3013d735e24132a7525a2</link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZmI2OThhMmYtZjVjOC00NWE3LWIwOGItMWM1MTEzMGNiOTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=tPWURGgKJ7o</link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZmI2OThhMmYtZjVjOC00NWE3LWIwOGItMWM1MTEzMGNiOTM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+   </items>
+  </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
     <name>[B][COLOR silver]Fatman | Comedy•Dark comedy[/COLOR][COLOR red] 1h 40m[/COLOR][/B]</name>
@@ -1651,6 +1723,42 @@ stumble upon a nexus of terrifying evil.</info>
   </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
   <channel>
+    <name>[B][COLOR silver]Pieces of a Woman | Drama[/COLOR][COLOR red] 2h 8m[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
+
+    <item>
+        <title>[B][COLOR silver]1080p.WEB.H264[/COLOR][COLOR red] 6.38 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a4cfd7347e011efaee73315cfb15bdfe332beac</link>
+        <thumbnail>https://dyncdn.me/mimages/355100/poster_opt.jpg</thumbnail>
+        <genre>Drama</genre>
+        <info>A heartbreaking home birth leaves a woman grappling with the profound emotional fallout, isolated from her partner and family by a chasm of grief.</info>
+        <date>07.01.2021</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.WEBRip.x264[/COLOR][COLOR red] 2.44 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcc621c34ede0870a0d2fa464112691424804a05</link>
+        <thumbnail>https://dyncdn.me/mimages/355100/poster_opt.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]WEBRip.x264[/COLOR][COLOR red] 1.22 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fa9fc3299b53f8a9c66d8a7312518ad2ac84d0f</link>
+        <thumbnail>https://dyncdn.me/mimages/355100/poster_opt.jpg</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=1zLKbMAZNGI</link>
+        <thumbnail>https://dyncdn.me/mimages/355100/poster_opt.jpg</thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
     <name>[B][COLOR silver]Possessor | Sci-fi•Horror[/COLOR][COLOR red] 1h 44m[/COLOR][/B]</name>
     <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/ee/Possessor_%28film%29_poster.jpg</thumbnail>
     <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
@@ -1746,14 +1854,14 @@ stumble upon a nexus of terrifying evil.</info>
     </item>
     
 	<item>
-        <title>[B][COLOR silver]WEBRip.x264[/COLOR][COLOR red] 870.94 MB[/COLOR][/B]</title>         
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e45d72d7a39db23690f694ea3424517981dcb589</link>
+        <title>[B][COLOR silver]1080p.BluRay.H264.AAC[/COLOR][COLOR red] 1.70 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4faff3181995d0c3dccc36a7afc129e47973b34b</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/45/Run_poster.jpeg</thumbnail>
     </item>
 	
 	<item>
-        <title>[B][COLOR silver]1080p.WEBRip.x264[/COLOR][COLOR red] 1.70 GB[/COLOR][/B]</title>         
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cee1f7e39e9af23c1c2f555aaa7d0119ae6f972a</link>
+        <title>[B][COLOR silver]WEBRip.x264[/COLOR][COLOR red] 870.94 MB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e45d72d7a39db23690f694ea3424517981dcb589</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/45/Run_poster.jpeg</thumbnail>
     </item>
 	
@@ -2617,6 +2725,42 @@ stumble upon a nexus of terrifying evil.</info>
         <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
         <link>plugin://plugin.video.youtube/play/?video_id=KmrU6gMc1Lc</link>
         <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/The_Last_Thing_He_Wanted.jpg/220px-The_Last_Thing_He_Wanted.jpg</thumbnail>
+   </items>
+  </channel>
+//////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  <channel>
+    <name>[B][COLOR silver]The Midnight Sky | Sci-fi•Drama[/COLOR][COLOR red]  2h 2m[/COLOR][/B]</name>
+    <thumbnail>https://dyncdn.me/mimages/352676/poster_opt.jpg</thumbnail>
+    <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    <items>
+
+    <item>
+        <title>[B][COLOR silver]1080p.NF.WEBRip.DDP5.1.Atmos.x264[/COLOR][COLOR red] 6.47 GB[/COLOR][/B]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60cda73f6e313e55b55d9e2520f305cc46bc6bf6</link>
+        <thumbnail>https://dyncdn.me/mimages/352676/poster_opt.jpg</thumbnail>
+        <genre>Sci-fi•Drama</genre>
+        <info>A lone scientist in the Arctic races to contact a crew of astronauts returning home to a mysterious global catastrophe.</info>
+        <date>23.12.2020</date>
+        <epg></epg>
+        <fanart>https://i.ibb.co/5crGk7p/meg.png</fanart>
+    </item>
+    
+	<item>
+        <title>[B][COLOR silver]1080p.WEBRip.x264[/COLOR][COLOR red] 2.26 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b82be9832b2465db8b9814acaaaf970c7ff5c2bb</link>
+        <thumbnail>https://dyncdn.me/mimages/352676/poster_opt.jpg</thumbnail>
+    </item>
+	
+	<item>
+        <title>[B][COLOR silver]1080p.WEBRip.x265[/COLOR][COLOR red] 1.85 GB[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d58318a1f305c0e02e04715869dc228f41da6de</link>
+        <thumbnail>https://dyncdn.me/mimages/352676/poster_opt.jpg</thumbnail>
+    </item>
+	
+    <item>
+        <title>[B][COLOR cadetblue]Trailer[/COLOR][/B]</title>         
+        <link>plugin://plugin.video.youtube/play/?video_id=DXUUqr3AFKs</link>
+        <thumbnail>https://dyncdn.me/mimages/352676/poster_opt.jpg</thumbnail>
    </items>
   </channel>
 //////////////////////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
