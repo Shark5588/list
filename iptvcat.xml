@@ -88,7 +88,7 @@
 <link>$doregex[makelist2]</link>
 <thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[44336+?\'>(.*?)<.*?href='(.*?)']]></expres>
+<expres><![CDATA[(?s)44336\'>(.*?)<.*?href='(.*?)']]></expres>
 <page>http://iptvhit.com/freeiptv</page>
 </regex>
 
