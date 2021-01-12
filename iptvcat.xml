@@ -263,7 +263,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <link>$doregex[makelist]</link>
 <thumbnail>https://www.iptvurls.com/wp-content/uploads/2020/02/iptv-M3U-Playlist-250x175.png</thumbnail>
  ]]></listrepeat>
-<expres><![CDATA[(?s)<h2 class="entry-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https(.+?)">(.+?)</a>]]></expres>
 <page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
 </regex>
 <regex>
