@@ -253,7 +253,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 </item>
 
 <item>
-<title>[COLOR lawngreen][B] - [/B][/COLOR][COLOR white][B] Xtream Codes  [/B][/COLOR][COLOR lime][B][I] >>Free Accounts<< [/I][/B][/COLOR]</title>
+<title>[COLOR lawngreen][B] - [/B][/COLOR][COLOR white][B] Test  [/B][/COLOR][COLOR lime][B][I] >><< [/I][/B][/COLOR]</title>
 <link>$doregex[menu]</link>
 <thumbnail></thumbnail>
 <regex>
@@ -263,7 +263,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <link>$doregex[class]</link>
 <thumbnail>https://http2.mlstatic.com/painel-iptv-xtream-codes-licenca-full-instalaco-gratis-D_NQ_NP_886796-MLB27785228154_072018-F.jpg</thumbnail>
  ]]></listrepeat>
-<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<expres><![CDATA[(?s)<h2 class="entry-title".+?href="https(.+?)">(.+?)</a>]]></expres>
 <page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
 </regex>
 <regex>
