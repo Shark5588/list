@@ -275,7 +275,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 	<thumbnail></thumbnail>
  ]]></listrepeat>
 <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-<page>[makelist2.param1]</page>
+<page>[makelist2.param2]</page>
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 </item>
