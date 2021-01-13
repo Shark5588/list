@@ -260,7 +260,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <name>makelist2</name>
 <listrepeat><![CDATA[
  <title>[COLOR red]•[/COLOR] [makelist2.param2] </title>
- <link>$doregex[makelist]</link>
+ <link>$doregex[list]</link>
 <thumbnail>https://1.bp.blogspot.com/-P7GpTSPVWKg/XzcjXDvFR6I/AAAAAAAAAfc/gjO7H69g3gchSrl0bXa9DdTf3MR3uuZXACLcBGAsYHQ/s320/vip%2Biptv%2Bok.jpg</thumbnail>
  ]]></listrepeat>
 <expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.+?)'>free|iptv|m3u|playlist|file (.*?) 2021]]></expres>
