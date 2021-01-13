@@ -259,7 +259,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <regex>
 <name>menu</name>
 <listrepeat><![CDATA[
- <title>[COLOR red]•[/COLOR] [COLOR white] [menu.param1][/COLOR]</title>
+ <title>[COLOR red]•[/COLOR] [COLOR white] [menu.param2][/COLOR]</title>
 <link>$doregex[class]</link>
 <thumbnail>https://http2.mlstatic.com/painel-iptv-xtream-codes-licenca-full-instalaco-gratis-D_NQ_NP_886796-MLB27785228154_072018-F.jpg</thumbnail>
  ]]></listrepeat>
