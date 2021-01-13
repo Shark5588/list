@@ -252,6 +252,57 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR lawngreen][B] - [/B][/COLOR][COLOR white][B] TEST  [/B][/COLOR][COLOR lime][B][I] >><< [/I][/B][/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red]•[/COLOR] [COLOR white] [makelist2.param2][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<thumbnail>https://www.iptvurls.com/wp-content/uploads/2020/02/iptv-M3U-Playlist-250x175.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="entry-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
+</regex>
+<link>$doregex[menu]</link>
+<thumbnail></thumbnail>
+<regex>
+<name>menu</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red]•[/COLOR] [COLOR white] [menu.param1][/COLOR]</title>
+<link>$doregex[class]</link>
+<thumbnail>https://www.iptvurls.com/wp-content/uploads/2020/02/iptv-M3U-Playlist-250x175.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https\:\/\/www\.iptvurls\.com\/iptv\-m3u\-playlist\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
+<page>[makelist2.param2]</page>
+</regex>
+<regex>
+<name>class</name>
+<listrepeat><![CDATA[
+	<title>[COLOR lime][B][class.param2][/B][/COLOR]</title>
+	<link>$doregex[makelist]</link>
+	<thumbnail>https://i.ibb.co/n1dDc0L/iptv.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[(http\:\/\/(.*?)\/get\.php\?username=(.*?)&.*password=(.*?)&.*type=m3u)]]></expres>
+<page>[menu.param2]</page>
+</regex>   
+<regex>
+<name>makelist</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('Xtream Codes', ' - Server: [class.param2] \n\n\n\n - Username: [class.param3] \n\n [class.param4]')
+]]></expres>
+<page></page>
+<NOTPlayable>True</NOTPlayable>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
 
 
 
