@@ -270,22 +270,12 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <name>class</name>
 <listrepeat><![CDATA[
 	<title>[COLOR lime][B][class.param2][/B][/COLOR]</title>
-	<link>$doregex[makelist]</link>
-	<thumbnail>https://http2.mlstatic.com/painel-iptv-xtream-codes-licenca-full-instalaco-gratis-D_NQ_NP_886796-MLB27785228154_072018-F.jpg</thumbnail>
+    <link>NA</link>
+    <externallink>http://[class.param1]/get.php?username=[class.param2]&amp;password=[class.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+	<thumbnail></thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-<page>[menu.param2]</page>
-</regex>   
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B]</title>
- <link>NA</link>
- <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
-<thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-<page>[makelist2.param1]</page>
+<page>[menu.param2]</page>   
 <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
 <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
