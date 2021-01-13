@@ -273,7 +273,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 	<link>$doregex[makelist]</link>
 	<thumbnail>https://http2.mlstatic.com/painel-iptv-xtream-codes-licenca-full-instalaco-gratis-D_NQ_NP_886796-MLB27785228154_072018-F.jpg</thumbnail>
 ]]></listrepeat>
-<expres><![CDATA[(http\:\/\/(.*?)\/get\.php\?username=(.*?)&.*password=(.*?)&.*type=m3u)]]></expres>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
 <page>[menu.param2]</page>
 </regex>   
 <regex>
