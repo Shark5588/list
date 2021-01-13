@@ -253,7 +253,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 </item>
 
 <item>
-<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-8 [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] Testing[/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
  
 <regex>
@@ -287,8 +287,8 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
     <thumbnail></thumbnail>
 </item>
 
-item>
-<title>[COLOR lawngreen][B] - [/B][/COLOR][COLOR white][B] TEST  [/B][/COLOR][COLOR lime][B][I] >><< [/I][/B][/COLOR]</title>
+<item>
+<title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] Testing[/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
 <link>$doregex[menu]</link>
 <thumbnail></thumbnail>
 <regex>
@@ -298,10 +298,10 @@ item>
 <link>$doregex[class]</link>
 <thumbnail>https://www.iptvurls.com/wp-content/uploads/2020/02/iptv-M3U-Playlist-250x175.png</thumbnail>
  ]]></listrepeat>
-<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https\:\/\/www\.iptvurls\.com\/iptv\-m3u\-playlist\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
+<expres><![CDATA[(?s)<h2 class="entry-title".+?href="https(.+?)">(.+?)</a>]]></expres>
 <page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
 </regex>
-                                  #<![CDATA[(?s)<h2 class="entry-title".+?href="https(.+?)">(.+?)</a>]]>
+                                  
 <regex>
 <name>class</name>
 <listrepeat><![CDATA[
