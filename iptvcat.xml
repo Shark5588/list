@@ -261,32 +261,26 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <listrepeat><![CDATA[
  <title>[COLOR red]•[/COLOR] [COLOR white] [menu.param2][/COLOR]</title>
 <link>$doregex[class]</link>
-<thumbnail>https://http2.mlstatic.com/painel-iptv-xtream-codes-licenca-full-instalaco-gratis-D_NQ_NP_886796-MLB27785228154_072018-F.jpg</thumbnail>
+<thumbnail>https://www.iptvurls.com/wp-content/uploads/2020/02/iptv-M3U-Playlist-250x175.png</thumbnail>
  ]]></listrepeat>
 <expres><![CDATA[(?s)<h2 class="entry-title".+?href="https(.+?)">(.+?)</a>]]></expres>
 <page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
 </regex>
-<regex>
-<name>class</name>
-<listrepeat><![CDATA[
-	<title>[COLOR lime][B][class.param2][/B][/COLOR]</title>
-	<link>$doregex[makelist]</link>
-	<thumbnail>https://www.iptvurls.com/wp-content/uploads/2020/02/iptv-M3U-Playlist-250x175.png</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[(http\:\/\/(.*?)\/get\.php\?username=(.*?)&.*password=(.*?)&.*type=m3u)]]></expres>
-<page>[menu.param2]</page>
-</regex>   
+  
 <regex>
 <name>makelist</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import xbmcgui
-    dialog = xbmcgui.Dialog()
-    dialog.textviewer('Xtream Codes', ' - Server: [class.param2] \n\n\n\n - Username: [class.param3] \n\n [class.param4]')
-]]></expres>
-<page></page>
-<NOTPlayable>True</NOTPlayable>
+<listrepeat><![CDATA[
+ <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B]</title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
 </regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
 
 
