@@ -263,7 +263,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <link>$doregex[class]</link>
 <thumbnail>https://http2.mlstatic.com/painel-iptv-xtream-codes-licenca-full-instalaco-gratis-D_NQ_NP_886796-MLB27785228154_072018-F.jpg</thumbnail>
  ]]></listrepeat>
-<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https\:\/\/www\.iptvurls\.com\/iptv\-m3u\-playlist\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
+<expres><![CDATA[at\-above\-post\-cat\-page\s+addthis\_tool"\s+data\-url="https\:\/\/www\.iptvurls\.com\/iptv\-daily\-m3u\-playlist\-(.*?)\/"><\/div>\n<p>(.*?)<a]]></expres>
 <page>https://www.iptvurls.com/category/iptv-m3u-playlist/</page>
 </regex>
 <regex>
