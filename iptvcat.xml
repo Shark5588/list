@@ -259,7 +259,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <regex>
 <name>makelist2</name>
 <listrepeat><![CDATA[
- <title>[COLOR red]•[/COLOR] [makelist2.param1] </title>
+ <title>[COLOR red]•[/COLOR] [makelist2.param2] </title>
  <link>$doregex[makelist]</link>
 <thumbnail>https://1.bp.blogspot.com/-P7GpTSPVWKg/XzcjXDvFR6I/AAAAAAAAAfc/gjO7H69g3gchSrl0bXa9DdTf3MR3uuZXACLcBGAsYHQ/s320/vip%2Biptv%2Bok.jpg</thumbnail>
  ]]></listrepeat>
