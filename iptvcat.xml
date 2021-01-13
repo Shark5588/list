@@ -276,10 +276,10 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
         <page>http[leg.param1]</page>
     </regex>
      <regex>
-    <name>makelist2</name>
+    <name>makelist</name>
     <listrepeat><![CDATA[
-    <title>[COLOR white]Kanal : [COLOR gold][makelist2.param1] [COLOR white]Link : [COLOR gold][makelist2.param2][/COLOR]</title>
-    <link>plugin://plugin.video.f4mTester/?url=[makelist2.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[COLOR gold][B][COLOR white]TVTUBE[/COLOR][/B] [makelist2.param1]</link>
+    <title>[COLOR white]Kanal : [COLOR gold][makelist.param1] [COLOR white]Link : [COLOR gold][makelist.param2][/COLOR]</title>
+    <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[makelist.param1]</link>
     ]]></listrepeat>
     <expres>#EXTINF:.*?,(.*?)\n(.*)</expres>
     <page>[list.param1]</page>
