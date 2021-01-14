@@ -265,7 +265,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 import re
 def GetLSProData(page_data,Cookie_Jar,m):
   list=re.findall('<ul>(?s)(.*?)</ul>',page_data)[0]
-  trlist=re.findall('<a href="([^\'"]+)".>free iptv m3u list([^\'"]+)</a>',list)
+  trlist=re.findall('<a href="([^\'"]+)".>free|iptv|m3u|list([^\'"]+)2021</a>',list)
   return trlist
 ]]></expres>
     <page>https://freeiptvm3u24.blogspot.com/</page>
@@ -278,7 +278,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
        <title>[COLOR red]•[/COLOR][COLOR gold][leg.param2][/COLOR]</title>
        <link>$doregex[list]</link>
        ]]></listrepeat>
-        <expres><![CDATA[(?s)<h2 class="post-title entry-title".+?href="http(.+?)">.+?\s(\d+[^\'"]+)</a>2021]]></expres>
+        <expres><![CDATA[(?s)<h2 class="post-title entry-title".+?href="http(.+?)">.+?\s(\d+[^\'"]+)</a>]]></expres>
         <page>[makelist.param1]</page>
     </regex>
     <regex>
