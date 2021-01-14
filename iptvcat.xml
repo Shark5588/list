@@ -262,11 +262,13 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
       <link>$doregex[leg]</link>
     ]]></listrepeat>
     <expres><![CDATA[#$pyFunction
+import re
 def GetLSProData(page_data,Cookie_Jar,m):
-    import re
-    return re.findall('(?s)<header class="entry-header ul">(?:.*?href=)"([^"]*)">([^<]*)(?:.*?src=")([^"]*)',page_data)
+  list=re.findall('<ul>(?s)(.*?)</ul>',page_data)[0]
+  trlist=re.findall('<a href="([^\'"]+)".>IPTV Links([^\'"]+)</a>',list)
+  return trlist
 ]]></expres>
-    <page>https://freeiptvm3u24.blogspot.com/</page>
+    <page>https://freeiptvm3u24.blogspot.com/search?max-results=40</page>
     <referer>https://freeiptvm3u24.blogspot.com/</referer>
     <cookieJar></cookieJar>
     </regex>
