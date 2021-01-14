@@ -268,7 +268,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   trlist=re.findall('<a .+?href="(.*?)".>(.*?)</a>',list)
   return trlist
 ]]></expres>
-    <page>https://freeiptvm3u24.blogspot.com/search?max-results=40</page>
+    <page>https://freeiptvm3u24.blogspot.com/</page>
     <referer>https://freeiptvm3u24.blogspot.com/</referer>
     <cookieJar></cookieJar>
     </regex>
