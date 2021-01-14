@@ -261,13 +261,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
       <title>[COLOR red]•[/COLOR][COLOR gold][makelist.param2][/COLOR]</title>
       <link>$doregex[leg]</link>
     ]]></listrepeat>
-    <expres><![CDATA[#$pyFunction
-import re
-def GetLSProData(page_data,Cookie_Jar,m):
-  list=re.findall('<ul>(?s)(.*?)</ul>',page_data)[0]
-  trlist=re.findall('<a href="([^\'"]+)".>free-|iptv-|m3u-|list-|.+?src="([^\'"]+)</a>',list)
-  return trlist
-]]></expres>
+    <expres><![CDATA[(?s)<article.+?href="([^"]+)"\s*title="([^"]+)?\s(?:download|daily|free|new|m3u).+?src="([^"]+)]]></expres>
     <page>https://freeiptvm3u24.blogspot.com/</page>
     <referer>https://freeiptvm3u24.blogspot.com/</referer>
     <cookieJar></cookieJar>
