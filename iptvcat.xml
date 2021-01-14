@@ -265,7 +265,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 import re
 def GetLSProData(page_data,Cookie_Jar,m):
   list=re.findall('<ul>(?s)(.*?)</ul>',page_data)[0]
-  trlist=re.findall('<a href="([^\'"]+)".>free-|iptv-|m3u-|list-([^\'"]+)</a>',list)
+  trlist=re.findall('<a href="([^\'"]+)".>free\/iptv\/m3u\/list([^\'"]+)</a>',list)
   return trlist
 ]]></expres>
     <page>https://freeiptvm3u24.blogspot.com/</page>
