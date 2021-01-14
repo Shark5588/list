@@ -264,7 +264,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
     <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
     import re
-    return re.findall('(?s)<header class="entry-header cf">(?:.*?href=)"([^"]*)">([^<]*)(?:.*?src=")([^"]*)',page_data)
+    return re.findall('(?s)<header class="entry-header ul">(?:.*?href=)"([^"]*)">([^<]*)(?:.*?src=")([^"]*)',page_data)
 ]]></expres>
     <page>https://freeiptvm3u24.blogspot.com/</page>
     <referer>https://freeiptvm3u24.blogspot.com/</referer>
