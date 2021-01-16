@@ -52,7 +52,7 @@
 <link>$doregex[leg]</link>
 ]]></listrepeat>
 <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-<page>https://freeiptvliste.com/</page>
+<page>http://www.dailyiptvlist.com/</page>
 </regex>
 
 <regex>
@@ -151,7 +151,7 @@
       <link>$doregex[leg]</link>
     ]]></listrepeat>
     <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-    <page>https://freeiptvliste.com/</page>
+    <page>https://freeiptvliste.com/category/free-iptv-37/</page>
     </regex>
     <regex>
     <name>leg</name>
