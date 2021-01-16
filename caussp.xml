@@ -83,8 +83,8 @@ EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180523/yga/kisspng-boxnation-
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/180px-BoxNation2014Logo.png" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180523/yga/kisspng-boxnation-boxing-pay-per-view-united-kingdom-telev-boxnation-5b056d9ac4c539.769525721527082394806.jpg" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
-http://digitalxpress2.gcdn.co/live1/boxnationuk/index.m3u8
+EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180523/yga/kisspng-boxnation-boxing-pay-per-view-united-kingdom-telev-boxnation-5b056d9ac4c539.769525721527082394806.jpg" group-title="UK Sports",[COLOR orange][B]BoxNation | UK[/B][/COLOR]
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS BTN SPORTS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
@@ -291,7 +291,7 @@ https://e7.cdn4.us/ingest666/espn_u.m3u8|Referer=https://espn-live.stream/stream
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  EUROSPORT EUROSPORT EUROSPORT EUROSPORT EUROSPORT EUROSPORT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png",[COLOR orange][B]EUROSPORT 1 | FR [/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png",[COLOR orange][B]EUROSPORT 2 | FR[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 
@@ -303,12 +303,12 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2 [/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
-#EXTINF:-1 tvg-logo="https://www.hdaustria.at/blog/wp-content/uploads/2019/12/ESP_CLT_4K_NVY_RED_RGB.png",[COLOR orange][B]Eurosport4K HD[/B][/COLOR]
-http://dmitry-tv.my1.ru/his/zabava/01/CH_EUROSPORT4K_HLSHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.hdaustria.at/blog/wp-content/uploads/2019/12/ESP_CLT_4K_NVY_RED_RGB.png",[COLOR orange][B]Eurosport4K QHD[/B][/COLOR]
-http://dmitry-tv.my1.ru/his/zabava/01/CH_EUROSPORT4K_HLSQHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.hdaustria.at/blog/wp-content/uploads/2019/12/ESP_CLT_4K_NVY_RED_RGB.png",[COLOR orange][B]Eurosport4K UHD[/B][/COLOR]
-http://dmitry-tv.my1.ru/his/zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+EXTINF:-1 tvg-logo="https://www.hdaustria.at/blog/wp-content/uploads/2019/12/ESP_CLT_4K_NVY_RED_RGB.png",[COLOR orange][B]Eurosport4K HD[/B][/COLOR]
+
+EXTINF:-1 tvg-logo="https://www.hdaustria.at/blog/wp-content/uploads/2019/12/ESP_CLT_4K_NVY_RED_RGB.png",[COLOR orange][B]Eurosport4K QHD[/B][/COLOR]
+
+EXTINF:-1 tvg-logo="https://www.hdaustria.at/blog/wp-content/uploads/2019/12/ESP_CLT_4K_NVY_RED_RGB.png",[COLOR orange][B]Eurosport4K UHD[/B][/COLOR]
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TcNtBc3.png",[COLOR orange][B]EUROSPORT 1[/B][/COLOR]
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/up2vaXf.png",[COLOR orange][B]EUROSPORT 2[/B][/COLOR]
@@ -533,9 +533,9 @@ https://telerium.tv/ingest09/33437.m3u8?sf=NDBwczEwU2JE&token=pZGuCej574hp0pn9E_
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
 #EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBC Sport | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1363
-#EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1364
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://a1.gokakka.club:8880/testzyx030/123456789/3105
+EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
 https://p-cdn3-e-cg14-linear-cbd46b77.movetv.com/15804/live/NBCSNHD/9c33143a42a811eb88d20025b547210d/video/vid01/init.mp4
 EXTINF:-1 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/nbcsn-logo.png",[B][COLORorange]NBCSN | USA[/B][/COLOR]
@@ -1209,7 +1209,8 @@ plugin://plugin.video.f4mTester/?url=►►►►►►►►◄◄◄◄◄◄�
 
 
 
-EXTINF:-1,Test 
+#EXTINF:-1,Test 
+http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=
 
 
