@@ -180,7 +180,7 @@
     <thumbnail></thumbnail>
     ]]></listrepeat>
     <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-    <page>$doregex[list]</page>
+    <page>[list.param1]</page>
     </regex>
 </item>
 
