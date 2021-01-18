@@ -23,7 +23,7 @@
     <thumbnail>[genre.param3]</thumbnail>
     ]]></listrepeat>
     <expres><![CDATA[(?s)<article.+?href="([^"]+)"\s*title="([^"]+)?\s(?:download|daily|free|new|m3u).+?src="([^"]+)]]></expres>
-    <page>https://iptvbetter.com/</page>
+    <page>https://www.bestfreeiptv.com/</page>
   </regex>
   <regex>
     <name>lists</name>
@@ -52,7 +52,7 @@
 <link>$doregex[leg]</link>
 ]]></listrepeat>
 <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-<page>https://iptvbetter.com/</page>
+<page>https://www.bestfreeiptv.com/</page>
 </regex>
 
 <regex>
@@ -281,6 +281,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
 
+https://iptvbetter.com/
 https://m3u.bestfreeiptv.com/plists/
 https://freeiptvliste.com/
 
