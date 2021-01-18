@@ -8,7 +8,7 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR white][B]****[/B][/COLOR][COLOR ff00afaf][B] Credits to the owners. >>[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
 http://0.0.0.0:1234
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/2/2021[/B][/COLOR][COLORred][B]****[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmHJfmy/Sports-Classic-Thumbnail.png",[COLOR red][B]****[/B][/COLOR][COLOR snow][B] 1/18/2021[/B][/COLOR][COLORred][B]****[/B][/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m66k7dp/55.png",[COLOR white][B]****[/B][/COLOR][COLOR red][B]Requires Good Internet[/B][/COLOR][COLOR white][B]****[/B][/COLOR]
@@ -17,70 +17,399 @@ http://0.0.0.0:1234
 ################################################################ LIST  ###########################################################################################
 
 
-#EXTM3U
-#EXTINF:-1,USA:BeinSports.usa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/890
-#EXTINF:-1,USA:NBC.Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
-#EXTINF:-1,USA:Eleven.Sports-Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873
-#EXTINF:-1,USA:NBC.Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/874
-#EXTINF:-1,USA:Fight.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/875
-#EXTINF:-1,USA:Fox.Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870
-#EXTINF:-1,USA:Fox.Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871
-#EXTINF:-1,USA:ESPN1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/868
-#EXTINF:-1,USA:ESPN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/876
-#EXTINF:-1,USA:TSN1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/664
-#EXTINF:-1,USA:TSN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/663
-#EXTINF:-1,USA:TSN3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/662
-#EXTINF:-1,USA:TSN4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/661
-#EXTINF:-1,USA:TSN5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/192
-#EXTINF:-1,USA:WWE.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/882
-#EXTINF:-1,USA:USA.Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/883
-#EXTINF:-1,USA:Showtime2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/866
-#EXTINF:-1,USA:HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/879
-#EXTINF:-1,USA:HBO2.Zone
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/880
-#EXTINF:-1,USA:HBO.Sinature
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/881
-#EXTINF:-1,USA:HBO.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/885
-#EXTINF:-1,USA:Starz.Encore
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/886
-#EXTINF:-1,USA:Starz.Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/888
-#EXTINF:-1,USA:Cinemax.Moremax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/892
-#EXTINF:-1,USA:Cinemax.East
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/891
-#EXTINF:-1,USA:Hallmark
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1198
-#EXTINF:-1,USA:AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/869
-#EXTINF:-1,USA:TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/884
-#EXTINF:-1,USA:Lifetime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/878
-#EXTINF:-1,USA:Bravo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/877
-#EXTINF:-1,USA:Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/895
-#EXTINF:-1,USA:Discovery.Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/894
-#EXTINF:-1,USA:Animal.Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/893
+#EXTINF:-1,ESPN (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54125
+#EXTINF:-1,ESPN (ꜱᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/55412
+#EXTINF:-1,ESPN 1 SUR (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/610
+#EXTINF:-1,ESPN 1 SUR (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/58049
+#EXTINF:-1,ESPN 1 SUR ⁽ᴹ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/49402
+#EXTINF:-1,ESPN 2 ARGENTINA (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53991
+#EXTINF:-1,ESPN 2 ARGENTINA (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/58092
+#EXTINF:-1,ESPN 2 BRASIL (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57809
+#EXTINF:-1,ESPN 2 BRASIL (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54328
+#EXTINF:-1,ESPN 2 CHILE (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61849
+#EXTINF:-1,ESPN 2 CHILE 1080
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57325
+#EXTINF:-1,ESPN 2 CHILE 720
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/16686
+#EXTINF:-1,ESPN 2 CHILE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/55413
+#EXTINF:-1,ESPN 2 COLOMBIA (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/58089
+#EXTINF:-1,ESPN 2 COLOMBIA (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/58064
+#EXTINF:-1,ESPN 2 MÉXICO (ꜱᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53649
+#EXTINF:-1,ESPN 2 MÉXICO (ꜱᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/27553
+#EXTINF:-1,ESPN 2 NORTE (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61490
+#EXTINF:-1,ESPN 2 NORTE (ꜱᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54306
+#EXTINF:-1,ESPN 2 NORTE (ꜱᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54399
+#EXTINF:-1,ESPN 2 SUR (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/14869
+#EXTINF:-1,ESPN 2 SUR (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/609
+#EXTINF:-1,ESPN 2 USA (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57818
+#EXTINF:-1,ESPN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/55414
+#EXTINF:-1,ESPN 3 (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54124
+#EXTINF:-1,ESPN 3 CHILE (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/62489
+#EXTINF:-1,ESPN 3 MÉXICO (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15766
+#EXTINF:-1,ESPN 3 SUR (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/608
+#EXTINF:-1,ESPN 3 SUR (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/26135
+#EXTINF:-1,ESPN BRASIL (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57807
+#EXTINF:-1,ESPN CHILE (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/62486
+#EXTINF:-1,ESPN DEPORTES (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54126
+#EXTINF:-1,ESPN DEPORTES (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/14050
+#EXTINF:-1,ESPN EXTRA (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41661
+#EXTINF:-1,ESPN EXTRA (ꜰʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/14085
+#EXTINF:-1,ESPN MÉXICO (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/32979
+#EXTINF:-1,ESPN U (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/58061
+#EXTINF:-1,ESPN USA (ʜᴅ)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57822
+#EXTINF:-1,Estacion TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57778
+#EXTINF:-1,EUROPA EUROPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/51475
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/25039
+#EXTINF:-1,EUROSPORT 2 ⁽ᵃ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57584
+
+#EXTINF:-1,MLB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53327
+#EXTINF:-1,MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53561
+
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/1165
+#EXTINF:-1,NBA TV ⁽ᴹ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53346
+#EXTINF:-1,New York Mets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57731
+#EXTINF:-1,NFL Game 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57587
+#EXTINF:-1,NFL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53344
+#EXTINF:-1,NFL NETWORK ⁽ᵃ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57616
+#EXTINF:-1,NFL REDZONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53345
+#EXTINF:-1,NFL REDZONE ⁽ᵃ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57746
+#EXTINF:-1,NFL ⁽ᴴᴰ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57586
+#EXTINF:-1,NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53343
+
+#EXTINF:-1,TSN 1  usa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15582
+#EXTINF:-1,TSN 2 usa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/16162
+#EXTINF:-1,TSN 3 usa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/16163
+#EXTINF:-1,TSN 4 usa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/16164
+#EXTINF:-1,TSN 5 usa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/16165
+
+#EXTINF:-1,UFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/626
+#EXTINF:-1,UFC EVENTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/55271
+#EXTINF:-1,UFC FIGH PASS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/55008
+#EXTINF:-1,UFC FIGHT NIGHT LATINOAMERICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61462
+#EXTINF:-1,UFC FIGHT PASS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15724
+
+#EXTINF:-1,USA: ABC Atlanta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54979
+#EXTINF:-1,USA: ABC Chicago
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61832
+#EXTINF:-1,USA: ABC Houston
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61833
+#EXTINF:-1,USA: ABC Los Angeles
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61834
+#EXTINF:-1,USA: ABC Miami
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61835
+#EXTINF:-1,USA: ABC New York
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61836
+#EXTINF:-1,USA: ABC New York ⁽ᴴᴰ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61837
+#EXTINF:-1,USA: AMC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15572
+#EXTINF:-1,USA: CBN ESPAÑOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40948
+#EXTINF:-1,USA: CBS NEW YORK ⁽ᴴᴰ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61594
+#EXTINF:-1,USA: CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61861
+#EXTINF:-1,USA: CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15576
+#EXTINF:-1,USA: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61593
+#EXTINF:-1,USA: Cooking Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54980
+#EXTINF:-1,USA: Destination America HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54981
+#EXTINF:-1,USA: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41834
+#EXTINF:-1,USA: DISCOVERY LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41835
+#EXTINF:-1,USA: Discovery Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54982
+#EXTINF:-1,USA: DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41836
+#EXTINF:-1,USA: Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54983
+#EXTINF:-1,USA: DISCOVERY VELOCITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41837
+#EXTINF:-1,USA: Discovery Velocity HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54984
+#EXTINF:-1,USA: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41838
+#EXTINF:-1,USA: DIY Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54985
+#EXTINF:-1,USA: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41839
+#EXTINF:-1,USA: ESPN DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40949
+#EXTINF:-1,USA: ESPN U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41840
+#EXTINF:-1,USA: FOX 11 DALLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41841
+#EXTINF:-1,USA: FOX 5 ATLANTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41842
+#EXTINF:-1,USA: FOX BOSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41843
+#EXTINF:-1,USA: Fox Business HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54978
+#EXTINF:-1,USA: FOX CHICAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41844
+#EXTINF:-1,USA: FOX LOS ANGELES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40960
+#EXTINF:-1,USA: FOX LOS ANGELES*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41846
+#EXTINF:-1,USA: FOX MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40959
+#EXTINF:-1,USA: FOX NEW CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40950
+#EXTINF:-1,USA: FOX NEW YORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40958
+#EXTINF:-1,USA: FOX SEATLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40957
+#EXTINF:-1,USA: FOX SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40955
+#EXTINF:-1,USA: FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40956
+#EXTINF:-1,USA: FXX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61959
+#EXTINF:-1,USA: H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61960
+#EXTINF:-1,USA: HALLMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40951
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40952
+#EXTINF:-1,USA: HBO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15574
+#EXTINF:-1,USA: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15575
+#EXTINF:-1,USA: HBO PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40972
+#EXTINF:-1,USA: HBO SIGNATURE 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15579
+#EXTINF:-1,USA: HGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40953
+#EXTINF:-1,USA: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/61961
+#EXTINF:-1,USA: INVESTIGATION DISCOVERY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40973
+#EXTINF:-1,USA: NATIONAL GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41847
+#EXTINF:-1,USA: NBC CALIFORNIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40944
+#EXTINF:-1,USA: NBC CHICAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15569
+#EXTINF:-1,USA: NBC DETROIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40946
+#EXTINF:-1,USA: NBC MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40943
+#EXTINF:-1,USA: NBC NEW YORK 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40945
+#EXTINF:-1,USA: NBC PHILADELPHIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40947
+#EXTINF:-1,USA: NBC UNIVERSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15571
+#EXTINF:-1,USA: NBCSN Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/54986
+#EXTINF:-1,USA: NESN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40970
+#EXTINF:-1,USA: NHL NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40971
+#EXTINF:-1,USA: STARZ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15573
+#EXTINF:-1,USA: TELEMUNDO 20 SAN DIEGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40965
+#EXTINF:-1,USA: TELEMUNDO 39 DALLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40966
+#EXTINF:-1,USA: TELEMUNDO 44 CHICAGO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40967
+#EXTINF:-1,USA: TELEMUNDO 47 HOUSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41826
+#EXTINF:-1,USA: TELEMUNDO 47 NEW YORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/1060
+#EXTINF:-1,USA: TELEMUNDO 48 SAN FRANCISCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40968
+#EXTINF:-1,USA: TELEMUNDO 51 MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40969
+#EXTINF:-1,USA: TELEMUNDO 51 MIAMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/1061
+#EXTINF:-1,USA: TELEMUNDO 52 LOS ANGELES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/14749
+#EXTINF:-1,USA: TELEMUNDO 60 BOSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41831
+#EXTINF:-1,USA: TELEMUNDO DENVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53424
+#EXTINF:-1,USA: TELEMUNDO INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/1059
+#EXTINF:-1,USA: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40964
+#EXTINF:-1,USA: UNIMAS LOS ANGELES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41848
+#EXTINF:-1,USA: UNIMAS NEW YORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/16690
+#EXTINF:-1,USA: UNIVISION 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15578
+#EXTINF:-1,USA: UNIVISION 34 ATLANTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40974
+#EXTINF:-1,USA: UNIVISION 41 NEW YORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/16689
+#EXTINF:-1,USA: UNIVISION 45 HOUSTON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41827
+#EXTINF:-1,USA: UNIVISION CHICAGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41829
+#EXTINF:-1,USA: UNIVISION DENVER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53422
+#EXTINF:-1,USA: UNIVISION LAS VEGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53423
+#EXTINF:-1,USA: UNIVISION TELENOVELAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/41832
+#EXTINF:-1,USA: UNIVISION WEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/53421
+#EXTINF:-1,USA: USA NETWORK 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40954
+#EXTINF:-1,USA: WORLD FISHING NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40962
+#EXTINF:-1,USA: YES NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/40963
+
+#EXTINF:-1,WIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/1035
+#EXTINF:-1,WIN SPORTS  + HD+ 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63063
+#EXTINF:-1,WIN SPORTS +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/18231
+#EXTINF:-1,WIN SPORTS + SD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63064
+#EXTINF:-1,WIN SPORTS ⁽ᴹ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/58098
+#EXTINF:-1,WIN SPORTS+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57459
+#EXTINF:-1,WIN SPORTS+ ⁽ˢᵈ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57312
+#EXTINF:-1,WIN SPORTS+ ⁽ᴴᴰ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57631
+
+#EXTINF:-1,WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/57665
+#EXTINF:-1,WWE NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/15346
+#EXTINF:-1,WWE ⁽ᴴᴰ⁾
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/33364
+
+#EXTINF:-1,NBA - Detroit Pistons
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63400
+#EXTINF:-1,NBA - Golden State Warriors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63401
+#EXTINF:-1,NBA - Houston Rockets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63402
+#EXTINF:-1,NBA  - Indiana Pacers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63403
+#EXTINF:-1,NBA - Los Angeles Clippers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63404
+#EXTINF:-1,NBA  - Los Angeles Lakers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63405
+#EXTINF:-1,NBA  - Memphis Grizzlies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63406
+#EXTINF:-1,NBA - Brooklyn Nets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63407
+#EXTINF:-1,NBA - Charlotte Hornets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63408
+#EXTINF:-1,NBA - Chicago Bulls
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63409
+#EXTINF:-1,NBA - Cleveland Cavaliers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63410
+#EXTINF:-1,NBA - Dallas Mavericks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63411
+#EXTINF:-1,NBA - Denver Nuggets
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63412
+#EXTINF:-1,NBA  - Milwaukee Bucks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63413
+#EXTINF:-1,NBA  - Phoenix Suns
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63414
+#EXTINF:-1,NBA  - Portland Trail Blazers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63415
+#EXTINF:-1,NBA  - Sacramento Kings
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63416
+#EXTINF:-1,NBA  - San Antonio Spurs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63417
+#EXTINF:-1,NBA  - Toronto Raptors
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63418
+#EXTINF:-1,NBA  - Utah Jazz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63419
+#EXTINF:-1,NBA - Philadelphia 76ers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63420
+#EXTINF:-1,NBA - Atlanta Hawks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63421
+#EXTINF:-1,NBA - Boston Celtics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63422
+#EXTINF:-1,NBA - Miami Heat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63423
+#EXTINF:-1,NBA - Minesota Timverwolf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63424
+#EXTINF:-1,NBA - Orlando Magic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63425
+#EXTINF:-1,NBA - New Orleanns Pelicans
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63426
+#EXTINF:-1,NBA - Oklahoma City Thunder
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63427
+#EXTINF:-1,NBA - Whashington Wizards
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptv5latino.cl:8000/AronTVp5px/AronLatino7p/63428
