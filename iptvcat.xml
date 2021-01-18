@@ -176,9 +176,9 @@
     <listrepeat><![CDATA[
       <title>[B][list2.param2] </title>
       <link>ignoreme</link>
-      <externallink>[lists.param1][DE]&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+      <externallink>[list2.param1][DE]&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
-    <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+    <expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
     <page>$doregex[makelist]</page>
     <agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
     </regex>
