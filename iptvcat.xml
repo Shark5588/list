@@ -50,6 +50,7 @@
 <listrepeat><![CDATA[
 <title>[COLOR red]• [/COLOR][COLOR lime] [leg2.param2] [/COLOR]</title>
 <link>$doregex[leg]</link>
+<thumbnail>[genre.param3]</thumbnail>
 ]]></listrepeat>
 <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
 <page>https://www.dailyiptvlist.com/</page>
