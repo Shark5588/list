@@ -241,7 +241,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
     <listrepeat><![CDATA[
     <title>[COLOR red]•[/COLOR] [COLOR gold][lists.param2][/COLOR]</title>
     <link>ignoreme</link>
-    <externallink>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=Playing&amp;url=[lists.param1]</externallink>
+    <externallink>plugin://plugin.video.f4mTester/?url=[lists.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;name=[COLOR lightskyblue][B][COLOR white]#EXTINF:[/COLOR][/B] [lists.param1]</externallink>
     <thumbnail>[genre.param3]</thumbnail>
     ]]></listrepeat>
     <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
