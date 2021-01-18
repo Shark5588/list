@@ -172,11 +172,11 @@
     <page>[leg.param1]</page>
     </regex>
          <regex>
-    <name>makelist2</name>
+    <name>list2</name>
     <listrepeat><![CDATA[
-      <title>[B][makelist2.param2] </title>
+      <title>[B][list2.param2] </title>
       <link>ignoreme</link>
-      <externallink>[lists.param1]$$TSDOWNLOADER$$</externallink>
+      <externallink>[lists.param1][DE]&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
     ]]></listrepeat>
     <expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
     <page>$doregex[makelist]</page>
