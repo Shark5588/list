@@ -244,7 +244,7 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
     <externallink>[lists.param1]$$TSDOWNLOADER$$</externallink>
     <thumbnail>[genre.param3]</thumbnail>
     ]]></listrepeat>
-    <expres><![CDATA[('(?s)<a href="(.*?m3u[^"]*)">Download\s([^<]*)',s)]]></expres>
+    <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
     <page>[genre.param1]</page>
     <referer>https://m3u.bestfreeiptv.com</referer>
   </regex>
