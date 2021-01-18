@@ -23,7 +23,7 @@
     <thumbnail>[genre.param3]</thumbnail>
     ]]></listrepeat>
     <expres><![CDATA[(?s)<article.+?href="([^"]+)"\s*title="([^"]+)?\s(?:download|daily|free|new|m3u).+?src="([^"]+)]]></expres>
-    <page>https://www.bestfreeiptv.com/</page>
+    <page>https://www.bestfreeiptv.com/playlist/</page>
   </regex>
   <regex>
     <name>lists</name>
@@ -35,7 +35,7 @@
     ]]></listrepeat>
     <expres><![CDATA[<a\s*href="([^"]+m3u)">([^<]+)</a><(?:br|/p)]]></expres>
     <page>[genre.param1]</page>
-    <referer>http://www.dailyiptvlist.com/</referer>
+    <referer>https://www.bestfreeiptv.com/playlist/</referer>
   </regex>
 </item>
 
@@ -52,7 +52,7 @@
 <link>$doregex[leg]</link>
 ]]></listrepeat>
 <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-<page>https://www.bestfreeiptv.com/</page>
+<page>https://www.bestfreeiptv.com/playlist/</page>
 </regex>
 
 <regex>
