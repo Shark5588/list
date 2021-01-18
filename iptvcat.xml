@@ -252,32 +252,34 @@ def GetLSProData(page_data,Cookie_Jar,m):#cosmix
 
 <item>
   <title>[B][COLOR aqua]•[/COLOR][COLOR red]•[/COLOR][COLORblue] Daily IPTV List[/COLOR][COLORlime] ([/COLOR][COLORred] opt-TEST [/COLOR][COLORlime]) [/COLOR][COLOR red]•[/COLOR][COLOR aqua]•[/COLOR][/B]</title>
-  <link>$doregex[genre]</link>
-  <thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
-  <fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart> 
-  <regex>
-    <name>genre</name>
-    <listrepeat><![CDATA[
-    <title>[COLOR red]•[/COLOR] [COLOR dodgerblue][genre.param2][/COLOR]</title>
-    <link>$doregex[lists]</link>
-    <thumbnail>[genre.param3]</thumbnail>
-    ]]></listrepeat>                                                                
-    <expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
-    <page>https://iptvbetter.com/IPTV-M3U-8/</page>
-  </regex>
-  <regex>
-    <name>lists</name>
-    <listrepeat><![CDATA[
-    <title>[COLOR red]•[/COLOR] [COLOR gold][lists.param2][/COLOR]</title>
-    <link>ignoreme</link>
-    <externallink>[lists.param1]$$TSDOWNLOADER$$</externallink>
-    <thumbnail>[genre.param3]</thumbnail>
-    ]]></listrepeat>
-    <expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
-    <page>[genre.param1]</page>
-    <referer>https://iptvbetter.com/</referer>
-  </regex>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[COLOR red]•[/COLOR][COLORdodgerblue] [makelist2.param2] [/COLOR]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail>[makelist.param1]</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,10}href='(.*?)'>\n(.*?)\n<]]></expres>
+<page>https://www.pwiptv.net/category/world-iptv-3/search?max-results=40</page>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][COLORcyan]SERVER [/COLOR][COLORcoral][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B]</title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>https://i.ibb.co/TmGdM3s/wtf.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
 </item>
+
 
 
 <item>
